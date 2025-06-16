@@ -1,2 +1,2 @@
 # Complete-C-Language-
-MY First Program Language Journey 
+MY First Programming Language Journey 
