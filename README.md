@@ -1,2 +1,2 @@
-# Complete-C-Language-
+# Complete-C-Language
 MY First Programming Language Journey 
