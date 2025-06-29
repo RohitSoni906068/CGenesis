@@ -1,0 +1,88 @@
+                                            Control Statements
+
+Calculate max of two number
+
+calculate min of two number 
+
+Give a person's age, find if they should get a driving license or not.
+
+Take positive integer input and tell if it is even or odd.
+
+Take positive integer input and tell if it is divisible by 5 or not.
+
+Any year is input through the keyboard. Write
+a program to determine whether the year is a leap year or not.
+(Considering leap year occurs after every 4 years)
+
+Take integer input and print the absolute value of that integer
+
+If cost price and selling price of an item is input through the keyboard,
+write a program to determine whether the seller has made profit or incurred loss.
+Also determine how much profit he made or loss he incurred.
+
+Given the length and breadth of a rectangle, write a program to find whether the area of the
+rectangle is greater than its perimeter.
+
+Take positive integer input and tell if it is a three digit number or not.
+
+Take positive integer input and tell if it is divisible by 5 and 3.
+
+Take positive integer input and tell if it is divisible by 5 or 3.
+
+Take 3 positive integers input and print the greatest of them.
+
+If the ages of Ram, Shyam and Ajay are inputthrough the keyboard,
+write a program to determine the youngest of the three.
+
+Take 3 numbers input and tell if they can be the sides of a triangle.
+
+                                    Nested if
+
+Take positive integer input and tell if it is divisible by 5 or 3 but not divisible by 15.
+
+Take positive integer input and tell if it is divisible by 5 and 3.
+
+Take 3 positive integers input and print the greatest of them.
+
+If the ages of Ram, Shyam and Ajay are input through the keyboard,
+write a program to determine the youngest of the three.
+
+                                    Else if     
+
+Take the input percentage of a student and print the grade according to the marks:
+	1.	90 - 100: Excellent
+	2.	80 - 90: Very Good
+	3.	70 - 80: Good
+	4.	60 - 70: Can Do Better
+	5.	50 - 60: Average
+	6.	40 - 50: Below Average
+	7.	Below 40: Fail
+
+Write a program to check whether a number is divisible by 97 or not.
+
+Write a program to determine whether a student has passed or failed. To pass, a
+student requires a total of 40% and at least 33% in each subject. Assume there
+are three subjects and take the marks as input from the user.
+
+Calculate income tax paid by an employee to the government as per the slabs
+mentioned below:
+                            Income Slab    Tax
+                            2.5 – 5.0L      5%
+                            5.0L - 10.0L    20%
+                            Above 10.0L     30%
+
+Write a program to find whether a year entered by the user is a leap year or not.
+Take year as an input from the user.
+
+Write a program to determine whether a character entered by the user is
+lowercase or not.
+
+Write a program to find greatest of four numbers entered by the user.
+
+Write a program to print the average of 3 numbers.
+
+Write a program to check if given character is digit or not.
+
+Write a program to print the smallest number of two.
+
+Write a program to check if a number is divisible by 2 or not.
