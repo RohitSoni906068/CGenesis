@@ -77,7 +77,7 @@ The course is divided into several chapters, each focusing on different aspects 
 - **Chapter 13: File I/O**
   - Reading from and writing to files.
   - Handling files using pointers.
-- **Chapter 11: Dynamic Memory Allocation**
+- **Chapter 14: Dynamic Memory Allocation**
   - `malloc()`, `calloc()`, `realloc()`, and `free()` functions.
   - Managing dynamically allocated memory.
 
