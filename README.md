@@ -38,6 +38,8 @@ The course is divided into several chapters, each focusing on different aspects 
 - **Chapter 2: Conditional Instructions**
   - Conditional execution of code using if-else statements.
   - Evaluate conditions using relational and logical operators.
+  - Use of Relational and Logical Operators.
+  - Ternary Operator.
 - **Chapter 3: Loop Control Instructions**
   - `while`, `do-while`, and `for` loops.
   - Control statements like `break` and `continue`.
