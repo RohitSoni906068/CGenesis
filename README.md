@@ -22,8 +22,6 @@ As a passionate student exploring the world of computer science, I chose C as my
 
 Through consistent practice and learning, I’ve documented my progress, challenges, and the programs I’ve written along the way. This is not just a collection of code, but a representation of my growth as a future software engineer.
 
-Feel free to explore, learn, and share feedback!
-
 ## Chapters
 
 The course is divided into several chapters, each focusing on different aspects of C programming:
@@ -43,37 +41,40 @@ The course is divided into several chapters, each focusing on different aspects 
 - **Chapter 3: Loop Control Instructions**
   - `while`, `do-while`, and `for` loops.
   - Control statements like `break` and `continue`.
-- **Chapter 3: Pattern Printing**
+- **Chapter 4: Pattern Printing**
   - Getting Understanding of Nested Loops.
   - Printing All Types of Pattern Using `while`, `do-while`, and `for` loops.
-- **Chapter 4: Functions and Pointers**
+- **Chapter 5: Functions**
   - Definition, declaration, and calling of functions.
+  - Scope of Variables.
+  - Return Type, Parameters (Arguments).
+- **Chapter 6: Pointers**
   - Declaration and usage of pointers.
   - Operations involving pointers.
-- **Chapter 6: Recursion**
+- **Chapter 7: Recursion**
   - Concept and usage of recursive functions.
   - Some LeetCode Problems.
   - Optimize Ways to Solve Problems.
-- **Chapter 7: Arrays**
+- **Chapter 8: Arrays**
   - Single-dimensional arrays.
   - Some LeetCode Problems.
   - Accessing array elements using pointers.
-- **Chapter 7: 2DArrays**
+- **Chapter 9: 2DArrays**
   - Getting Understanding of Nested Array.
   - Multi-dimensional arrays.
   - Some LeetCode Problems.
   - Accessing array elements using pointers.
-- **Chapter 8: Strings**
+- **Chapter 10: Strings**
   - Initialization and manipulation of strings.
   - Standard library functions for strings.
-- **Chapter 9: Structures**
+- **Chapter 11: Structures**
   - Definition and usage of structures.
   - Accessing structure members using pointers.
-- **Chapter 11: Sorting| Time and Space Analysis**
+- **Chapter 12: Sorting| Time and Space Analysis**
   - Calculating Time and Space Complexbility of Writtten Program.
   - Better Understanding of Optimize Solutions.
   - Some LeetCode or Amazing Problems like: Bubble Sort,Selection Sort,Insertion Sort.
-- **Chapter 10: File I/O**
+- **Chapter 13: File I/O**
   - Reading from and writing to files.
   - Handling files using pointers.
 - **Chapter 11: Dynamic Memory Allocation**
