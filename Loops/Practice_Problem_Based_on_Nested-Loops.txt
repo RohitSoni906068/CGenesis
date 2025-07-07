@@ -1,4 +1,4 @@
-                                Pattern Printing
+                                Pattern Printing Practice Questions (Nested-Loop)
 
 Print the given pattern
 * * * * *
