@@ -121,7 +121,7 @@ _ _ A B
 _ A B C
 A B C D
 
-prit the given pattern
+print the given pattern
 _ _ _ *
 _ _ * * *
 _ * * * * *
@@ -172,11 +172,20 @@ A B C _ E F G
 A B _ _ _ F G
 A _ _ _ _ _ G
 
-print the given pattern( Completed But First line of pattern missing )
+print the given pattern
 1 2 3 4 3 2 1
 1 2 3 _ 3 2 1
 1 2 _ _ _ 2 1
 1 _ _ _ _ _ 1
+
+Print the given pattern 
+1 1 1 1 1 1 1
+1 2 2 2 2 2 2
+1 2 3 3 3 3 3
+1 2 3 4 4 4 4
+1 2 3 4 5 5 5
+1 2 3 4 5 6 6
+1 2 3 4 5 6 7
 
 print the given pattern
 1 1 1 1 1 1 1
