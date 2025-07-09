@@ -38,46 +38,46 @@ The course is divided into several chapters, each focusing on different aspects 
   - Evaluate conditions using relational and logical operators.
   - Use of Relational and Logical Operators.
   - Ternary Operator.
-- **Chapter 3: Loop Control Instructions**
+- **Chapter 3: Loop Control Instructions and Pattern Printing**
   - `while`, `do-while`, and `for` loops.
   - Control statements like `break` and `continue`.
-- **Chapter 4: Pattern Printing**
   - Getting Understanding of Nested Loops.
-  - Printing All Types of Pattern Using `while`, `do-while`, and `for` loops.
-- **Chapter 5: Functions**
+  - Printing all types of patterns.
+- **Chapter 4: Functions and Recursion**
   - Definition, declaration, and calling of functions.
   - Scope of Variables.
   - Return Type, Parameters (Arguments).
-- **Chapter 6: Pointers**
-  - Declaration and usage of pointers.
-  - Operations involving pointers.
-- **Chapter 7: Recursion**
   - Concept and usage of recursive functions.
   - Some LeetCode Problems.
   - Optimize Ways to Solve Problems.
-- **Chapter 8: Arrays**
+- **Chapter 5: Arrays**
   - Single-dimensional arrays.
   - Some LeetCode Problems.
   - Accessing array elements using pointers.
-- **Chapter 9: 2DArrays**
+- **Chapter 6: Pointers**
+  - Declaration and usage of pointers.
+  - Operations involving pointers.
+  - Pointer to Pointer approach.
+  - Accessing elements of arrays.
+- **Chapter 7: 2DArrays**
   - Getting Understanding of Nested Array.
   - Multi-dimensional arrays.
   - Some LeetCode Problems.
   - Accessing array elements using pointers.
-- **Chapter 10: Strings**
+- **Chapter 8: Strings**
   - Initialization and manipulation of strings.
   - Standard library functions for strings.
 - **Chapter 11: Structures**
   - Definition and usage of structures.
   - Accessing structure members using pointers.
-- **Chapter 12: Sorting| Time and Space Analysis**
+- **Chapter 9: Sorting| Time and Space Analysis**
   - Calculating Time and Space Complexbility of Writtten Program.
   - Better Understanding of Optimize Solutions.
   - Some LeetCode or Amazing Problems like: Bubble Sort,Selection Sort,Insertion Sort.
-- **Chapter 13: File I/O**
+- **Chapter 10: File I/O**
   - Reading from and writing to files.
   - Handling files using pointers.
-- **Chapter 14: Dynamic Memory Allocation**
+- **Chapter 11: Dynamic Memory Allocation**
   - `malloc()`, `calloc()`, `realloc()`, and `free()` functions.
   - Managing dynamically allocated memory.
 
