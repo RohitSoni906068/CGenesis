@@ -1,0 +1,85 @@
+Write a Function to return minimum value from two numbers.
+
+Write a Function to return minimum value from three numbers.
+
+Write a Function to return Sum of three numbers.
+
+Write a Power Function to Calculate a rasied to the power b.
+
+Program to print Pascal's Triangle up to a given number of rows.
+Example-> if number of rows = 5.
+1
+1 1
+1 2 1
+1 3 3 1
+1 4 6 4 1
+1 5 10 10 5 1
+
+Program to print Center-align Pascal's Triangle up to a given number of rows.
+_ _ _ _ _ 1
+_ _ _ _ 1 _ 1
+_ _ _ 1 _ 2 _ 1
+_ _ 1 _ 3 _ 3 _ 1
+_ 1 _ 4 _ 6 _ 4 _ 1
+1 _ 5 _ 10 _ 10 _ 5 _ 1
+
+Print Combination of Given Number
+Hint-: !=factorial of Number
+Hint-: nCr(combination)= n!/r!*(n-r)!
+
+Print Permutation of Given Number
+Hint-: ! =factorial of number
+Hint-: nPr(Permutation)= n!/(n-r)!
+
+Swap 2 numbers, a & b.
+
+Write a function to compute the greatest common divisor of two given numbers
+
+Print the factorials of first 'n' numbers
+
+Print first 'n' fibonacci numbers.
+
+Swap 2 numbers, a & b without using third variable.
+
+Write a program with three functions
+1. Good morning function which prints “good morning”.
+2. Good afternoon function which prints “good afternoon”.
+3. Good night function which prints “good night”.
+
+Write a function to convert Celsius (Centigrade degrees temperature to Fahrenheit).
+
+Write a function to convert Fahrenheit (Fahrenheit temperature to Centigrade degrees).
+
+Write a function to convert Kelvin (Kelvin temperature to Centigrade degrees).
+
+Write a function to convert Celsius (Centigrade degrees to Kelvin).
+
+Write a function to convert Kelvin (Kelvin temperature to Fahrenheit).
+
+Write a function to convert Fahrenheit (Fahrenheit temperature to Kelvin).
+
+Use the library function to calculate the area of a square with side a.
+
+Write a function to convert Celsius temperature into Fahrenheit.
+
+Write a function to calculate force of attraction on a body of mass ‘m’ exerted byearth. 
+Consider g = 9.8m/s2.
+
+Write a function to calculate Percentage of a student from Marks in Science, Math & Sanskrit.
+
+Write a program using function to print the following pattern (first n lines)
+*
+* * *
+* * * * *
+
+Write a function to calculate the sum, product & average of 2 numbers.
+
+Write functions to calculate area of a square, a circle & a rectangle.
+
+Write a function to find square root of a number.
+
+Write a function to find sum of digits of a number.
+
+Write a function to print "Hot" or "Cold" depending on the temperature user enters.
+
+Write a program to print all prime number between 2 to n
