@@ -21,6 +21,5 @@ int main()
     {
         printf("%.3f is the area of the rectangle, which is not greater than its perimeter (%.3f).\n", area, perimeter);
     }
-
     return 0;
 }
