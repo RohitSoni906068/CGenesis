@@ -34,40 +34,35 @@ The course is divided into several chapters, each focusing on different aspects 
   - Arithmetic, relational, and logical operators.
   - Implicit and explicit type conversions.
 - **Chapter 2: Conditional Instructions**
-  - Conditional execution of code using if-else statements.
+  - Conditional execution of code using `if-else`, `else-if` statements.
   - Evaluate conditions using relational and logical operators.
   - Use of Relational and Logical Operators.
   - Ternary Operator.
 - **Chapter 3: Loop Control Instructions and Pattern Printing**
   - `while`, `do-while`, and `for` loops.
   - Control statements like `break` and `continue`.
-  - Getting Understanding of Nested Loops.
+  - Loop inside Loops(Nested Loops).
   - Printing all types of patterns.
 - **Chapter 4: Functions and Recursion**
   - Definition, declaration, and calling of functions.
   - Scope of Variables.
   - Return Type, Parameters (Arguments).
   - Concept and usage of recursive functions.
-  - Some LeetCode Problems.
+  - Some Easy Level LeetCode Problems.
   - Optimize Ways to Solve Problems.
-- **Chapter 5: Arrays**
+- **Chapter 5: Arrays and 2D Arrays**
   - Single-dimensional arrays.
-  - Some LeetCode Problems.
+  - Multi-dimensional arrays.
+  - Some Easy Level LeetCode Problems.
   - Accessing array elements using pointers.
 - **Chapter 6: Pointers**
   - Declaration and usage of pointers.
   - Operations involving pointers.
   - Pointer to Pointer approach.
-  - Accessing elements of arrays.
-- **Chapter 7: 2DArrays**
-  - Getting Understanding of Nested Array.
-  - Multi-dimensional arrays.
-  - Some LeetCode Problems.
-  - Accessing array elements using pointers.
-- **Chapter 8: Strings**
+- **Chapter 7: Strings**
   - Initialization and manipulation of strings.
   - Standard library functions for strings.
-- **Chapter 11: Structures**
+- **Chapter 8: Structures**
   - Definition and usage of structures.
   - Accessing structure members using pointers.
 - **Chapter 9: Sorting| Time and Space Analysis**
