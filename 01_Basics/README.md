@@ -94,7 +94,7 @@ Precedence and associativity of operators in C, and how expressions are evaluate
 
 ## Solved Questions
 
-The [`Solved_Questions/`](./Solved_Questions) folder contains practical problems and their solutions, such as:
+The [`Solved_Questions/`](https://github.com/rohit528590/The-Ultimate-C-Programming-Language/tree/main/02_Basics_Practice_Problems) folder contains practical problems and their solutions, such as:
 
 - 🟠 Area and perimeter calculations (circle, rectangle, square)
 - 🌡️ Temperature conversions (Celsius, Fahrenheit, Kelvin)
