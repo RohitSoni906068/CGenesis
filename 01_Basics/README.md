@@ -1,116 +1,64 @@
-# 🧠 Complete C Programming: Basics
+# C Programming: Fundamentals & Basics
 
-Welcome to the **Complete C Programming: Basics** repository! This resource is designed for anyone starting their journey with the C programming language. It contains well-organized code examples, solved questions, and practice problems to help you master the fundamentals of C.
-
-## 📌 Core Intent
-
-- 🛠️ Hands-on, example-driven introduction to C programming
-- 📚 Clear, beginner-friendly code samples for foundational concepts
-- 🧩 Reference for C syntax, data types, operators, and patterns
-- 📝 Solved questions and practice problems for self-assessment
-
-## 🗂️ Table of Contents
-
-- [✅ What You Will Learn](#✅-what-you-will-learn)
-- [Boilerplate Code](#boilerplate-code)
-- [🔡 Input/Output](#🔡-inputoutput)
-- [💬 Comments](#💬-comments)
-- [🔢 Data Types](#🔢-data-types)
-- [📦 Variable Declaration](#📦-variable-declaration)
-- [🏷️ Variable Naming Rules](#🏷️-variable-naming-rules)
-- [🔄 Type Casting](#🔄-type-casting)
-- [⏎ Escape Sequences](#⏎-escape-sequences)
-- [📏 Size of Data Types](#📏-size-of-data-types)
-- [➕ Operators](#➕-operators)
-  - [➗ Arithmetic (Modulus) Operator](#➗-arithmetic-modulus-operator)
-  - [⚖️ Hierarchy of Operators](#⚖️-hierarchy-of-operators)
-- [Solved Questions](#solved-questions)
-- [📝 Practice Questions](#📝-practice-questions)
+Welcome to the **C Programming: Basics** module! This section is your foundation for mastering C, featuring clear code examples, essential concepts, and hands-on practice files. Whether you're a beginner or refreshing your knowledge, this collection will help you build strong programming fundamentals.
 
 ---
 
-## ✅ What You Will Learn
+## 📚 What You'll Learn
 
-- 📝 **Boilerplate Code**: Structure of a basic C program
-- 🔡 **Input/Output**: Reading from and writing to the console
-- 💬 **Comments**: Documenting your code
-- 🔢 **Data Types**: int, float, char, double, etc.
-- 📦 **Variable Declaration**: Declaring and initializing variables
-- 🏷️ **Variable Naming Rules**: Naming conventions and rules
-- 🔄 **Type Casting**: Converting between data types
-- ⏎ **Escape Sequences**: Special characters in C strings
-- 📏 **Size of Data Types**: Memory size using `sizeof`
-- ➕ **Operators**: Arithmetic, modulus, precedence, associativity
-
----
-
-## Boilerplate Code
-
-Basic structure of a C program, including `main()` function, header files, and syntax essentials.
-
-## 🔡 Input/Output
-
-How to take input from the user and display output using functions like `scanf` and `printf`.
-
-## 💬 Comments
-
-Usage of single-line (`//`) and multi-line (`/* ... */`) comments to document code.
-
-## 🔢 Data Types
-
-Overview of fundamental data types in C (int, float, char, double, etc.) and their usage.
-
-## 📦 Variable Declaration
-
-How to declare and initialize variables in C, including scope and lifetime.
-
-## 🏷️ Variable Naming Rules
-
-Rules and best practices for naming variables (allowed characters, reserved words, case sensitivity, etc.).
-
-## 🔄 Type Casting
-
-Converting one data type to another (implicit and explicit casting) and its importance in C.
-
-## ⏎ Escape Sequences
-
-Special character sequences (like `\n`, `\t`, etc.) used in strings for formatting output.
-
-## 📏 Size of Data Types
-
-Understanding the memory size (in bytes) of different data types using the `sizeof` operator.
-
-## ➕ Operators
-
-### ➗ Arithmetic (Modulus) Operator
-
-Usage of arithmetic operators, especially the modulus operator (`%`) to find remainders.
-
-### ⚖️ Hierarchy of Operators
-
-Precedence and associativity of operators in C, and how expressions are evaluated.
+- The structure of a C program and essential syntax
+- Input and output operations (`scanf`, `printf`)
+- Writing effective comments
+- Core data types (`int`, `float`, `char`, `double`, etc.)
+- Declaring and initializing variables
+- Professional variable naming conventions
+- Type casting (implicit & explicit)
+- Using escape sequences for formatted output
+- Determining data type sizes with `sizeof`
+- Arithmetic and modulus operators
+- Operator precedence and associativity
 
 ---
 
-## Solved Questions
+## 🗂️ File Index
 
-The [`Solved_Questions/`](https://github.com/rohit528590/The-Ultimate-C-Programming-Language/tree/main/02_Basics_Practice_Problems) folder contains practical problems and their solutions, such as:
-
-- 🟠 Area and perimeter calculations (circle, rectangle, square)
-- 🌡️ Temperature conversions (Celsius, Fahrenheit, Kelvin)
-- 💰 Simple interest and percentage calculations
-- 🧪 Volume calculations (cylinder, sphere)
-- ➗ Remainder calculations (with and without modulus)
-- 🔢 Fractional part extraction, cube, half of a number, and more
-
-Each problem is implemented in its own file under the `Solved_Questions/` directory.
-
----
-
-## 📝 Practice Questions
-
-A set of additional C programming questions is provided in [`Practice_Questions.txt`](./Practice_Questions.txt) to test your understanding and help you practice writing C code on your own.
+| File Name                        | Description                                      |
+|----------------------------------|--------------------------------------------------|
+| `Boilerplate_code.c`             | Basic structure of a C program                   |
+| `Input_Output.c`                 | Console input and output examples                |
+| `Comments.c`                     | Single-line and multi-line comments              |
+| `Data_Types.c`                   | Overview of C data types                         |
+| `Variable_Declaration.c`         | Declaring and initializing variables             |
+| `Variable_naming_rules.c`        | Rules and best practices for variable names      |
+| `TypeCasting.c`                  | Type conversion in C                             |
+| `Escape_Sequence.c`              | Using escape sequences in strings                |
+| `Size_of_Data_Types.c`           | Memory size of data types                        |
+| `Airthmetic(Moduls)_Operator.c`  | Arithmetic and modulus operator usage            |
+| `Hierarchy_of_operators.c`       | Operator precedence and associativity            |
+| `First.c`                        | Your first C program                             |
 
 ---
 
-✨ **Feel free to explore the code, try out the examples, and use this repository as a stepping stone to more advanced C programming topics!**
+## 📝 Practice & Self-Assessment
+
+- **Practice_Questions.txt**: Challenge yourself with curated questions to reinforce your understanding of C basics.
+- Each `.c` file is a standalone example—open, run, and experiment to deepen your learning.
+
+---
+
+## 🚀 How to Use
+
+1. **Browse the files:** Each file covers a specific concept. Start with `Boilerplate_code.c` if you're new.
+2. **Run the code:** Compile and execute the examples to see C in action.
+3. **Tackle practice questions:** Try solving them before checking the solutions.
+
+---
+
+## 💡 Next Steps
+
+- Move on to the next modules for practice problems and advanced topics.
+- Contribute improvements or additional examples to help others learn.
+
+---
+
+Feel free to explore, experiment, and make this repository your personal C programming playground!
