@@ -1,4 +1,4 @@
-
+// Write a Recursive Function to print factorial of given number.
 #include <stdio.h>
 int factorial(int x)
 {
