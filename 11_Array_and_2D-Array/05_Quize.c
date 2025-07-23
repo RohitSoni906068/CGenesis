@@ -1,5 +1,5 @@
 // Program: Demonstrates how to declare an array, take input from the user, and display the array elements.
-
+ 
 #include <stdio.h>
 int main()
 {

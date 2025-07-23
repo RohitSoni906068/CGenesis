@@ -1,7 +1,7 @@
 // Optimize way to scaning,printing of elements of an array.
 
 #include <stdio.h>
-
+ 
 int main()
 {
     int marks[5];

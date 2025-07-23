@@ -1,7 +1,7 @@
 // Program to declare and initialize one array,
 // and take user input to fill another array, then print values of both.
 #include <stdio.h>
-
+ 
 int main()
 {
     // Declare and initialize an array with predefined values

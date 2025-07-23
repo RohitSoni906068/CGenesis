@@ -1,5 +1,5 @@
 /* 📘 Array Declarations and Initializations in C
-
+ 
 1. Declaration Only:
    - Syntax: int a[5];
    - Reserves space; values are uninitialized (garbage).
