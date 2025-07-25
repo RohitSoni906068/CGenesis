@@ -66,28 +66,28 @@ printf("You entered: %d\n", n);
 
 | File Name                                 | Description                                         |
 |-------------------------------------------|-----------------------------------------------------|
-| `Area_of_circle.c`                        | Calculate the area of a circle                      |
-| `Area_of_rectangle.c`                     | Calculate the area of a rectangle                   |
-| `Area_of_Square.c`                        | Calculate the area of a square                      |
-| `Calculate_Simple_Interest.c`             | Compute simple interest                             |
-| `Calculating_Percentage.c`                | Find the percentage of marks                        |
-| `Celsius_to_Fahrenheit.c`                 | Convert Celsius to Fahrenheit                       |
-| `Celsius_to_Kelvin.c`                     | Convert Celsius to Kelvin                           |
-| `Circumference_of_circle.c`               | Calculate the circumference of a circle             |
-| `Cube_of_N.c`                             | Find the cube of a number                           |
-| `Fahrenheit_to_Celsius.c`                 | Convert Fahrenheit to Celsius                       |
-| `Fahrenheit_to_Kelvin.c`                  | Convert Fahrenheit to Kelvin                        |
-| `Finding_remainder_using_moduls.c`        | Find remainder using modulus operator               |
-| `Finding_remainder_without_using_moduls.c`| Find remainder without modulus operator             |
-| `Fractional_Part_of_Float_N.c`            | Extract fractional part of a float                  |
-| `Half_of_Number.c`                        | Calculate half of a number                          |
-| `Kelvin_to_Celsius.c`                     | Convert Kelvin to Celsius                           |
-| `Kelvin_to_Fahrenheit.c`                  | Convert Kelvin to Fahrenheit                        |
-| `Perimeter_of_rectangle.c`                | Calculate the perimeter of a rectangle              |
-| `Perimeter_of_Square.c`                   | Calculate the perimeter of a square                 |
-| `Sum_of_2_Given_Number.c`                 | Add two numbers                                     |
-| `Volume_of_cylinder.c`                    | Calculate the volume of a cylinder                  |
-| `Volume_of_Sphere.c`                      | Calculate the volume of a sphere                    |
+| `01_Sum_of_2_Given_Number.c`              | Add two numbers                                     |
+| `02_Cube_of_N.c`                          | Find the cube of a number                           |
+| `03_Perimeter_of_Square.c`                | Calculate the perimeter of a square                 |
+| `04_Perimeter_of_rectangle.c`             | Calculate the perimeter of a rectangle              |
+| `05_Area_of_rectangle.c`                  | Calculate the area of a rectangle                   |
+| `06_Area_of_Square.c`                     | Calculate the area of a square                      |
+| `07_Area_of_circle.c`                     | Calculate the area of a circle                      |
+| `08_Circumference_of_circle.c`            | Calculate the circumference of a circle             |
+| `09_Calculating_Percentage.c`             | Find the percentage of marks                        |
+| `10_Calculate_Simple_Interest.c`          | Compute simple interest                             |
+| `11_Find_Remainder.c`                     | Find remainder of division                          |
+| `12_Finding_remainder_using_moduls.c`     | Find remainder using modulus operator               |
+| `13_Half_of_Number.c`                     | Calculate half of a number                          |
+| `14_Fractional_Part_of_Float_N.c`         | Extract fractional part of a float                  |
+| `15_Volume_of_cylinder.c`                 | Calculate the volume of a cylinder                  |
+| `16_Volume_of_Sphere.c`                   | Calculate the volume of a sphere                    |
+| `17_Celsius_to_Fahrenheit.c`              | Convert Celsius to Fahrenheit                       |
+| `18_Celsius_to_Kelvin.c`                  | Convert Celsius to Kelvin                           |
+| `19_Fahrenheit_to_Celsius.c`              | Convert Fahrenheit to Celsius                       |
+| `20_Fahrenheit_to_Kelvin.c`               | Convert Fahrenheit to Kelvin                        |
+| `21_Kelvin_to_Celsius.c`                  | Convert Kelvin to Celsius                           |
+| `22_Kelvin_to_Fahrenheit.c`               | Convert Kelvin to Fahrenheit                        |
 
 ---
 
