@@ -1,5 +1,4 @@
                                             Control Statements
-
 Calculate max of two number 
 
 calculate min of two number 
