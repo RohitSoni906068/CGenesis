@@ -91,7 +91,7 @@ Each chapter contains problem sets to test your understanding and to practice co
 
 1. **Clone the repository** to your local machine using:
    ```sh
-   git clone https://github.com/rohit528590/The-Ultimate-C-Programming-Language.git
+   git clone https://github.com/rohit528590/CGenesis.git
    ```
 2. **Navigate through the chapters** to find the relevant lessons and code examples.
 3. **Complete the problem sets** provided at the end of each chapter to solidify your understanding.
