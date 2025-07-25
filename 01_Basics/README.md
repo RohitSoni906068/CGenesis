@@ -88,20 +88,20 @@ printf("Hello\nWorld\t2024\n");
 
 ## 🗂️ File Guide
 
-| File Name                        | Description                                      |
-|----------------------------------|--------------------------------------------------|
-| `Boilerplate_code.c`             | Basic structure of a C program                   |
-| `Input_Output.c`                 | Console input and output examples                |
-| `Comments.c`                     | Single-line and multi-line comments              |
-| `Data_Types.c`                   | Overview of C data types                         |
-| `Variable_Declaration.c`         | Declaring and initializing variables             |
-| `Variable_naming_rules.c`        | Rules and best practices for variable names      |
-| `TypeCasting.c`                  | Type conversion in C                             |
-| `Escape_Sequence.c`              | Using escape sequences in strings                |
-| `Size_of_Data_Types.c`           | Memory size of data types                        |
-| `Airthmetic(Moduls)_Operator.c`  | Arithmetic and modulus operator usage            |
-| `Hierarchy_of_operators.c`       | Operator precedence and associativity            |
-| `First.c`                        | Your first C program                             |
+| File Name                         | Description                                         |
+|-----------------------------------|-----------------------------------------------------|
+| `01_First.c`                      | Your first C program                                |
+| `02_Boilerplate_code.c`           | Basic structure of a C program                      |
+| `03_Comments.c`                   | Single-line and multi-line comments                 |
+| `04_Escape_Sequence.c`            | Using escape sequences in strings                   |
+| `05_Variable_Declaration.c`       | Declaring and initializing variables                |
+| `06_Variable_naming_rules.c`      | Rules and best practices for variable names         |
+| `07_Airthmetic(Moduls)_Operator.c`| Arithmetic and modulus operator usage               |
+| `08_Data_Types.c`                 | Overview of C data types                            |
+| `09_Input_Output.c`               | Console input and output examples                   |
+| `10_Hierarchy_of_operators.c`     | Operator precedence and associativity               |
+| `11_TypeCasting.c`                | Type conversion in C                                |
+| `12_Size_of_Data_Types.c`         | Memory size of data types                           |
 
 ---
 
