@@ -104,6 +104,7 @@ if (age > 18 && marks > 75) {
 ```
 
 ### 7. Ternary Operator
+
 ```c
 int num = 10;
 printf("%s\n", (num % 2 == 0) ? "Even" : "Odd");
