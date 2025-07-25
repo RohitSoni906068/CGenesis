@@ -26,6 +26,64 @@ This directory contains a wide variety of loop-based problems designed to:
 
 ---
 
+## 🖥️ Loop Practice Examples
+
+### 1. Print Numbers in a Range
+
+```c
+int r = 1, s = 10;
+for (int i = r; i <= s; i++) {
+    printf("%d ", i);
+}
+```
+
+### 2. Sum in a Range (While Loop)
+
+```c
+int r = 1, s = 5, sum = 0;
+while (r <= s) {
+    sum += r;
+    r++;
+}
+printf("Sum: %d\n", sum);
+```
+
+### 3. Factorial of N
+
+```c
+int n = 5, fact = 1;
+for (int i = 1; i <= n; i++) {
+    fact *= i;
+}
+printf("Factorial: %d\n", fact);
+```
+
+### 4. Prime Check
+
+```c
+int n = 7, isPrime = 1;
+for (int i = 2; i < n; i++) {
+    if (n % i == 0) {
+        isPrime = 0;
+        break;
+    }
+}
+printf(isPrime ? "Prime\n" : "Not Prime\n");
+```
+
+### 5. Input Until Condition (Multiple of 7)
+
+```c
+int num;
+do {
+    printf("Enter a number: ");
+    scanf("%d", &num);
+} while (num % 7 != 0);
+printf("You entered a multiple of 7!\n");
+```
+
+---
+
 ## 📂 File Guide
 
 | File Name                                 | Description                                      |
