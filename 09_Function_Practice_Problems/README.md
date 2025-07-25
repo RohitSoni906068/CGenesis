@@ -1,6 +1,6 @@
 # 🛠️ Function Practice Problems in C
 
-Welcome to the **Function Practice Problems** module! This folder is packed with hands-on coding challenges to help you master writing, using, and applying functions in C. These problems are essential for building modular, reusable, and efficient code.
+Welcome to the **Function Practice Problems** module of _The Ultimate C Programming Language_ course! This folder is packed with hands-on coding challenges to help you master writing, using, and applying functions in C. These problems are essential for building modular, reusable, and efficient code.
 
 ---
 
@@ -12,6 +12,61 @@ Welcome to the **Function Practice Problems** module! This folder is packed with
 - Swapping, logic, and comparison functions
 - Special patterns and output formatting
 - Using library functions and custom logic
+
+---
+
+## 🖥️ Function Examples
+
+### 1. Basic Function (No Return Value)
+
+```c
+void greet() {
+    printf("Hello, World!\n");
+}
+// Usage:
+greet();
+```
+
+### 2. Function with Return Value
+
+```c
+int add(int a, int b) {
+    return a + b;
+}
+// Usage:
+int sum = add(3, 5);
+printf("Sum: %d\n", sum);
+```
+
+### 3. Passing Parameters by Value
+
+```c
+void printSquare(int n) {
+    printf("Square: %d\n", n * n);
+}
+printSquare(4);
+```
+
+### 4. Composite Functions
+
+```c
+int multiply(int a, int b) {
+    return a * b;
+}
+int squareOfSum(int x, int y) {
+    int s = add(x, y);
+    return multiply(s, s);
+}
+printf("%d\n", squareOfSum(2, 3));
+```
+
+### 5. Using a Library Function
+
+```c
+#include <math.h>
+double root = sqrt(25.0);
+printf("Square root: %.2f\n", root);
+```
 
 ---
 
