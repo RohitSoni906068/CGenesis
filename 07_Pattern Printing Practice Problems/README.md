@@ -1,6 +1,6 @@
 # 🎨 Pattern Printing Practice in C
 
-Welcome to the **Pattern Printing Practice Problems** folder! Here you'll find a diverse collection of C programs focused on mastering pattern printing—a key skill for logic building, interviews, and coding competitions.
+Welcome to the **Pattern Printing Practice Problems** module of _The Ultimate C Programming Language_ course! Here you'll find a diverse collection of C programs focused on mastering pattern printing—a key skill for logic building, interviews, and coding competitions.
 
 ---
 
@@ -16,6 +16,68 @@ Pattern printing involves using loops and logic to display visually structured o
 - **Number Patterns:** Pyramids, triangles, squares, mirrored, special number arrangements
 - **Alphabet Patterns:** Pyramids, triangles, squares, mixed with numbers
 - **Special Patterns:** 0 & 1 triangles, Floyd’s triangle, custom creative designs
+
+---
+
+## 🖥️ Pattern Printing Examples
+
+### 1. Solid Star Square
+
+```c
+for (int i = 1; i <= n; i++) {
+    for (int j = 1; j <= n; j++) {
+        printf("* ");
+    }
+    printf("\n");
+}
+```
+
+### 2. Number Triangle
+
+```c
+for (int i = 1; i <= n; i++) {
+    for (int j = 1; j <= i; j++) {
+        printf("%d ", j);
+    }
+    printf("\n");
+}
+```
+
+### 3. Alphabet Pyramid
+
+```c
+for (int i = 1; i <= n; i++) {
+    char ch = 'A';
+    for (int j = 1; j <= i; j++) {
+        printf("%c ", ch++);
+    }
+    printf("\n");
+}
+```
+
+### 4. Hollow Rectangle
+
+```c
+for (int i = 1; i <= rows; i++) {
+    for (int j = 1; j <= cols; j++) {
+        if (i == 1 || i == rows || j == 1 || j == cols)
+            printf("* ");
+        else
+            printf("  ");
+    }
+    printf("\n");
+}
+```
+
+### 5. Mirrored Left Triangle
+
+```c
+for (int i = 1; i <= n; i++) {
+    for (int j = 1; j <= n - i; j++) printf("  ");
+    for (int k = 1; k <= i; k++) printf("* ");
+    printf("\n");
+}
+```
 
 ---
 
