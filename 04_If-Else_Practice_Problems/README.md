@@ -1,6 +1,6 @@
-# 🧩 04_If-Else Practice Problems: Build Your Logic, Step by Step
+# 🧩 If-Else Practice Problems in C
 
-Welcome to your **If-Else Practice Playground**! Here, you'll find a collection of real-world coding challenges designed to help you master conditional logic in C. Each problem is a chance to sharpen your thinking, boost your confidence, and have fun with code.
+Welcome to the **If-Else Practice Problems** module of _The Ultimate C Programming Language_ course! Here, you'll find a collection of real-world coding challenges designed to help you master conditional logic in C. Each problem is a chance to sharpen your thinking, boost your confidence, and have fun with code.
 
 ---
 
@@ -13,6 +13,69 @@ Solving these problems will help you:
 - Get comfortable with `if`, `else if`, `else`, and logical operators
 
 Whether you're a beginner or brushing up your skills, this folder is your launchpad for logical thinking!
+
+---
+
+## 🖥️ Conditional Practice Examples
+
+### 1. Find Minimum of Two Numbers
+
+```c
+int a = 5, b = 8;
+printf("Min: %d\n", (a < b) ? a : b);
+```
+
+### 2. Divisibility by 5 or 3 but Not 15
+
+```c
+int n = 30;
+if (((n % 5 == 0) || (n % 3 == 0)) && (n % 15 != 0)) {
+    printf("Yes\n");
+} else {
+    printf("No\n");
+}
+```
+
+### 3. Pass/Fail Based on Marks
+
+```c
+int marks = 42;
+if (marks >= 33) {
+    printf("Passed\n");
+} else {
+    printf("Failed\n");
+}
+```
+
+### 4. Grading System
+
+```c
+int marks = 85;
+if (marks >= 90) printf("A+\n");
+else if (marks >= 80) printf("A\n");
+else if (marks >= 70) printf("B\n");
+else printf("C or below\n");
+```
+
+### 5. Leap Year Check
+
+```c
+int year = 2024;
+if ((year % 4 == 0 && year % 100 != 0) || (year % 400 == 0)) {
+    printf("Leap Year\n");
+} else {
+    printf("Not Leap Year\n");
+}
+```
+
+### 6. Profit or Loss
+
+```c
+int cp = 100, sp = 120;
+if (sp > cp) printf("Profit: %d\n", sp - cp);
+else if (cp > sp) printf("Loss: %d\n", cp - sp);
+else printf("No profit, no loss\n");
+```
 
 ---
 
@@ -47,30 +110,23 @@ Whether you're a beginner or brushing up your skills, this folder is your launch
 
 ---
 
-## 💡 How to Get the Most Out of This Folder
+## 🏆 Best Practices for Conditional Practice
 
-- **Start simple:** Pick any problem and read the description.
-- **Write your own code:** Try to solve it before peeking at the solution.
-- **Experiment:** Change the numbers, add new conditions, or rewrite the logic.
-- **Comment your code:** Explain your thinking in your own words.
-- **Debug:** If something doesn’t work, use print statements to trace your logic.
-- **Reflect:** After solving, ask yourself: How else could I solve this?
-- **Share:** Discuss your solutions with friends or online communities.
+- **Break Down Problems:** Tackle each problem step by step.
+- **Use Clear Names:** Name your variables and files descriptively.
+- **Comment Your Code:** Explain your logic for future reference.
+- **Test Thoroughly:** Try different values and edge cases.
+- **Review Regularly:** Revisit and optimize your solutions as you learn more.
 
 ---
 
-## 📈 What You'll Learn
+## 💡 Tips for Mastery
 
-- Translating real-world scenarios into logical steps
-- Mastering nested and compound conditionals
-- Using logical operators (`&&`, `||`, `!`) to combine conditions
-- Debugging and testing your logic for edge cases
-- Building confidence in writing clear, correct C code
+- Practice daily to build confidence and speed.
+- Use print statements to debug and understand program flow.
+- Learn from others’ solutions and approaches.
+- Don’t hesitate to ask questions or seek feedback.
 
 ---
 
-## 🚀 Keep Practicing
-
-Every problem you solve is a win for your brain! Don’t stop at the given solutions—tweak, remix, and invent your own. The more you practice, the more natural logical thinking will become.
-
-> **You’re not just learning C—you’re learning how to think like a programmer. Enjoy the journey!**
+Happy Practicing & Keep Leveling Up Your Logic! 🧠
