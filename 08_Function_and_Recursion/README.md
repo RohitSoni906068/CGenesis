@@ -105,20 +105,20 @@ funA(5);
 
 | File Name                              | Description                                      |
 |----------------------------------------|--------------------------------------------------|
-| `Function.c`                          | Basic function definition and usage               |
-| `Function_Prototype.c`                 | Declaring and using function prototypes           |
-| `Function_with_defination.c`           | Defining functions before/after main              |
-| `Void_Function.c`                      | Functions with no return value                    |
-| `Non-Void_Function.c`                  | Functions that return a value                     |
-| `Library_Function.c`                   | Using standard library functions                  |
-| `Scope_Of_Variable.c`                  | Variable scope in functions                       |
-| `C_Limits_File.c`                      | Limits and constants in C                         |
-| `Recursive_Function.c`                 | Writing and understanding recursion               |
-| `Predicated_the_output.c`              | Predicting output of function/recursion code      |
-| `Practice_Questions_Based_On_Functions.txt` | Practice problems on functions               |
-| `Practice_Questions_Based_On_Recursions.txt`| Practice problems on recursion                |
-| `Dircet_Recursion.c`                   | Example of direct recursion                       |
-| `In-direct_Recursion copy.c`           | Example of indirect recursion                     |
+| `01_Function.c`                        | Basic function definition and usage              |
+| `02_Function_Prototype.c`              | Declaring and using function prototypes          |
+| `03_Function_with_defination.c`        | Defining functions before/after main             |
+| `04_Void_Function.c`                   | Functions with no return value                   |
+| `05_Non-Void_Function.c`               | Functions that return a value                    |
+| `06_Library_Function.c`                | Using standard library functions                 |
+| `07_C_Limits_File.c`                   | Limits and constants in C                        |
+| `08_Scope_Of_Variable.c`               | Variable scope in functions                      |
+| `09_Predicated_the_output.c`           | Predicting output of function/recursion code     |
+| `10_Recursive_Function.c`              | Writing and understanding recursion              |
+| `11_Dircet_Recursion.c`                | Example of direct recursion                      |
+| `12_In-direct_Recursion.c`             | Example of indirect recursion                    |
+| `Practice_Questions_Based_On_Functions.txt` | Practice problems on functions              |
+| `Practice_Questions_Based_On_Recursions.txt`| Practice problems on recursion               |
 
 ---
 
