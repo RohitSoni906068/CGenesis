@@ -1,4 +1,4 @@
-// Calculate the sum of the series: 1 - 2 + 3 - 4 + 5 - 6 ... up to 'n'
+// Calculate the sum of the series: -1 + 2 - 3 + 4 - 5 + 6 ... up to 'n'
 #include <stdio.h>
 int main()
 {
