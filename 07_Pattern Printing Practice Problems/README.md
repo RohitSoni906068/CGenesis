@@ -85,38 +85,39 @@ for (int i = 1; i <= n; i++) {
 
 | File Name                        | Pattern Type / Description                       |
 |----------------------------------|-------------------------------------------------|
-| `0_&_1_Triangle.c`               | Alternating 0 & 1 triangle                       |
-| `Star_Cross.c`                   | Star cross pattern                              |
-| `Star_Diamond.c`                 | Star diamond shape                              |
-| `Star_Plus.c`                    | Star plus (+) pattern                           |
-| `Star_Pyramid.c`                 | Centered star pyramid                           |
-| `Star_Triangle.c`                | Simple star triangle                            |
-| `Star_Triangle_Mast.c`           | Star triangle (mast variation)                  |
-| `Star_Triangle_Ulta.c`           | Inverted star triangle                          |
-| `Start_Pyramid_Mast.c`           | Star pyramid (mast variation)                   |
-| `left_triangle_mirror_pattern.c`  | Left triangle mirror pattern                    |
-| `Rhombus.c`                      | Rhombus of stars                                |
-| `Solid_Rectangle.c`              | Solid rectangle of stars                        |
-| `Solid_Square.c`                 | Solid square of stars                           |
-| `Hollow_Rectangle.c`             | Hollow rectangle of stars                       |
-| `Number_Mess.c`                  | Complex number arrangement                      |
-| `Number_Mess_2.c`                | Variation of number mess                        |
-| `Number_Pyramid.c`               | Centered number pyramid                         |
-| `Number_Pyramid_Mast.c`          | Number pyramid (mast variation)                 |
-| `Number_Pyramid_Mast_HW.c`       | Number pyramid (homework/variation)             |
-| `Number_Square.c`                | Square of numbers                               |
-| `Number_Triangle.c`              | Number triangle                                 |
-| `Number_Triangle_Ulta.c`         | Inverted number triangle                        |
-| `Odd_Number_Triangle.c`          | Triangle of odd numbers                         |
-| `Alphabet_&_Number_Triangle.c`   | Mixed alphabet and number triangle              |
-| `Alphabet_Pyramid.c`             | Alphabet pyramid                                |
-| `Alphabet_Pyramid_Mast.c`        | Alphabet pyramid (mast variation)               |
-| `Alphabet_Square.c`              | Square of alphabets                             |
-| `Alphabet_Triangle.c`            | Alphabet triangle                               |
-| `Alphabet_Triangle_Mast.c`       | Alphabet triangle (mast variation)              |
-| `Alphabeti_Pyramid_Mast.c`       | Alphabet pyramid (creative/mast variation)      |
-| `Floyd’s_Triangle.c`             | Floyd’s triangle (number sequence)              |
-| `Floyd's_Triangle2.c`            | Floyd’s triangle (variation)                    |
+| `01_Solid_Rectangle.c`           | Solid rectangle of stars                         |
+| `02_Solid_Square.c`              | Solid square of stars                            |
+| `03_Number_Square.c`             | Square of numbers                                |
+| `04_Star_Triangle.c`             | Simple star triangle                             |
+| `05_Star_Triangle_Ulta.c`        | Inverted star triangle                           |
+| `06_Number_Triangle.c`           | Number triangle                                  |
+| `07_Number_Triangle_Ulta.c`      | Inverted number triangle                         |
+| `08_Odd_Number_Triangle.c`       | Triangle of odd numbers                          |
+| `09_Alphabet_Square.c`           | Square of alphabets                              |
+| `10_Alphabet_Triangle.c`         | Alphabet triangle                                |
+| `11_Alphabet_&_Number_Triangle.c`| Mixed alphabet and number triangle               |
+| `12_Star_Plus.c`                 | Star plus (+) pattern                            |
+| `13_Hollow_Rectangle.c`          | Hollow rectangle of stars                        |
+| `14_Star_Cross.c`                | Star cross pattern                               |
+| `15_Floyd's_Triangle.c`          | Floyd's triangle (number sequence)               |
+| `16_Floyd's_Triangle2.c`         | Floyd's triangle (variation)                     |
+| `17_0_&_1_Triangle.c`            | Alternating 0 & 1 triangle                       |
+| `18_Star_Triangle_Mast.c`        | Star triangle (mast variation)                   |
+| `19_Rhombus.c`                   | Rhombus of stars                                 |
+| `20_Alphabet_Triangle_Mast.c`    | Alphabet triangle (mast variation)               |
+| `21_Star_Pyramid.c`              | Centered star pyramid                            |
+| `22_Number_Pyramid.c`            | Centered number pyramid                          |
+| `23_Alphabet_Pyramid.c`          | Alphabet pyramid                                 |
+| `24_Number_Pyramid_Mast.c`       | Number pyramid (mast variation)                  |
+| `25_Alphabet_Pyramid_Mast.c`     | Alphabet pyramid (mast variation)                |
+| `26_Star_Diamond.c`              | Star diamond shape                               |
+| `27_Start_Pyramid_Mast.c`        | Star pyramid (mast variation)                    |
+| `28_Number's_Pyramid_Mast.c`     | Number pyramid (creative/mast variation)         |
+| `29_Alphabeti_Pyramid_Mast.c`    | Alphabet pyramid (creative/mast variation)       |
+| `30_Number_Pyramid_Mast_HW.c`    | Number pyramid (homework/variation)              |
+| `31_left_triangle_mirror_pattern.c` | Left triangle mirror pattern                 |
+| `32_Number_Mess.c`               | Complex number arrangement                       |
+| `33_Number_Mess_2.c`             | Variation of number mess                         |
 
 ---
 
