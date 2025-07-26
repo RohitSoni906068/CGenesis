@@ -76,29 +76,31 @@ towerOfHanoi(3, 'A', 'C', 'B');
 
 | File Name                        | Description                                      |
 |----------------------------------|--------------------------------------------------|
-| `Factorial.c`                    | Factorial using recursion                        |
-| `Factorial_of_first_n_recersively.c` | Factorials of first n numbers recursively   |
-| `N_term_of_fibonacci.c`          | Nth term of Fibonacci sequence                   |
-| `Fibonacci.c`                    | Fibonacci sequence using recursion               |
-| `Sum_of_first_n_recersively.c`   | Sum of first n natural numbers recursively       |
-| `Sum_from_Start_to_End.c`        | Sum from start to end using recursion            |
-| `Sum_From_Start_to_End-Parameterasied.c` | Parameterized sum from start to end      |
-| `Print_1_to_N_after_call.c`      | Print 1 to N after recursive call                |
-| `Print_1_to_N_Parameteriased.c`  | Print 1 to N with parameterized recursion        |
-| `Print_increasing_number_in_range.c` | Print numbers in increasing order recursively |
-| `Print_decreasing_number_in_range.c` | Print numbers in decreasing order recursively |
-| `Decreasing_order_of_n.c`        | Print numbers in decreasing order                |
-| `Hellow_World_N_Times.c`         | Print "Hello World" N times recursively          |
-| `Raised_to_the_power.c`          | Calculate power using recursion                  |
-| `Optimised_Rasied_Power.c`       | Optimized power calculation (logarithmic)        |
-| `Maze_Path.c`                    | Count paths in a maze (right/down moves)         |
-| `Maze_Path-parameterised.c`      | Parameterized maze path problem                  |
-| `Stair_Path-1.c`                 | Ways to climb stairs (1 or 2 steps)              |
-| `Stair_Path-2.c`                 | Ways to climb stairs (1, 2, or 3 steps)          |
-| `Tower_of_Hanol.c`               | Tower of Hanoi problem                           |
-| `Zig_Zag.c`                      | Print zig-zag pattern recursively                |
-| `Pre_In_Post.c`                  | Pre-In-Post order recursion example              |
-| `Relatioship_of_Increasing_decreasing.c` | Relationship of increasing/decreasing    |
+| `01_Hellow_World_N_Times.c`      | Print "Hello World" N times recursively          |
+| `02_Factorial.c`                 | Factorial using recursion                        |
+| `03_Factorial_of_first_n_recersively.c` | Factorials of first n numbers recursively   |
+| `04_Decreasing_order_of_n.c`     | Print numbers in decreasing order                |
+| `05_Print_decreasing_number_in_range.c` | Print numbers in decreasing order recursively |
+| `06_Print_1_to_N_Parameteriased.c` | Print 1 to N with parameterized recursion        |
+| `07_Print_increasing_number_in_range.c` | Print numbers in increasing order recursively |
+| `08_Print_1_to_N_after_call.c`   | Print 1 to N after recursive call                |
+| `09_Relatioship_of_Increasing_decreasing.c` | Relationship of increasing/decreasing    |
+| `10_Sum_of_first_n_recersively.c` | Sum of first n natural numbers recursively       |
+| `11_Sum_From_Start_to_End-Parameterasied.c` | Parameterized sum from start to end      |
+| `12_Sum_from_Start_to_End.c`     | Sum from start to end using recursion            |
+| `13_Raised_to_the_power.c`       | Calculate power using recursion                  |
+| `14_N_term_of_fibonacci.c`       | Nth term of Fibonacci sequence                   |
+| `15_Sum_of_factorial.c`          | Sum of factorials                                |
+| `16_First_Fibonacci_Sequence.c`  | First N Fibonacci numbers                        |
+| `17_Sum_Of_Fibonacci_Sequence.c` | Sum of Fibonacci sequence                        |
+| `18_Stair_Path-1.c`              | Ways to climb stairs (1 or 2 steps)              |
+| `19_Stair_Path-2.c`              | Ways to climb stairs (1, 2, or 3 steps)          |
+| `20_Optimised_Rasied_Power.c`    | Optimized power calculation (logarithmic)        |
+| `21_Maze_Path-parameterised.c`   | Parameterized maze path problem                  |
+| `22_Maze_Path.c`                 | Count paths in a maze (right/down moves)         |
+| `23_Pre_In_Post.c`               | Pre-In-Post order recursion example              |
+| `24_Zig_Zag.c`                   | Print zig-zag pattern recursively                |
+| `25_Tower_of_Hanol.c`            | Tower of Hanoi problem                           |
 
 ---
 
