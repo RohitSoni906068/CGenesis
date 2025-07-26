@@ -2,7 +2,7 @@
 int main()
 {
     /*
-    Use of "&&"
+    Use of "&&" 
 if (condition1 && condition2) {
     This block executes only if BOTH condition1 and condition2 are true
 }

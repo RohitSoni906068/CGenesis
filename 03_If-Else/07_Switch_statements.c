@@ -10,7 +10,7 @@ switch (expression) {
     case value2:
         // Code block for value2
         break;
-    ...
+    ... 
     default:
         // Code block if no case matches
 }

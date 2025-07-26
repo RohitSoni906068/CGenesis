@@ -6,4 +6,4 @@ int main(){
     int s= 345452;
     r>s?printf(" %d is greater.\n",r):printf(" %d is greater.\n",s);
     return 0;
-}
+} 

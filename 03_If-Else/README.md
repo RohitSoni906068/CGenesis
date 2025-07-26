@@ -117,13 +117,13 @@ printf("%s\n", (num % 2 == 0) ? "Even" : "Odd");
 | File Name                | Description                                         |
 |-------------------------|-----------------------------------------------------|
 | `if_Condition.c`        | Basic `if` statement structure and usage            |
-| `if-else.c`             | Two-way branching with `if-else`                    |
 | `if_else-if_else.c`     | Multi-way decisions using `if-else-if-else` ladder  |
-| `Nested-if.c`           | How to nest `if` statements for layered logic       |
+| `if_with_0_and_1.c`     | Truthiness: 0 as false, non-zero as true in C       |
+| `if-else.c`             | Two-way branching with `if-else`                    |
 | `Logical_operators.c`   | Combining conditions with logical operators         |
+| `Nested-if.c`           | How to nest `if` statements for layered logic       |
 | `Switch_statements.c`   | Using `switch` for multi-branch selection           |
 | `ternary_if.c`          | Writing concise decisions with the ternary operator |
-| `if_with_0_and_1.c`     | Truthiness: 0 as false, non-zero as true in C       |
 | `Practice_Questions.txt`| Practice problems to reinforce and challenge logic  |
 
 ---

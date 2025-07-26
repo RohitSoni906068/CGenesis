@@ -30,7 +30,7 @@ Take positive integer input and tell if it is divisible by 5 or 3.
 
 Take 3 positive integers input and print the greatest of them.
 
-If the ages of Ram, Shyam and Ajay are inputthrough the keyboard,
+If the ages of Ram, Shyam and Ajay are inputthrough the keyboard, 
 write a program to determine the youngest of the three.
 
 Take 3 numbers input and tell if they can be the sides of a triangle.

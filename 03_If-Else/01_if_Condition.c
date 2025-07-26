@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main()
-{
+{ 
     /* Structure of if-:
 
     if (condition) {

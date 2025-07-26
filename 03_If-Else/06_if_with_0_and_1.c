@@ -9,7 +9,7 @@ int main()
 	• if (1) or if (any non-zero) → true → block does run.
 
     */
-    if (s)
+    if (s) 
     {
         printf(" yes, this is correct because %d is non-zero value.\n", s);
     }

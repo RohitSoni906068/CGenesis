@@ -7,7 +7,7 @@ if (condition1) {
     if (condition2) {
         Executes if both condition1 and condition2 are true
     }
-    else {
+    else { 
         Executes if condition1 is true, but condition2 is false
     }
 }
