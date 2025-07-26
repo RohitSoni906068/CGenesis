@@ -119,20 +119,19 @@ See the following files for hands-on practice:
 
 | File Name                                 | Description                                      |
 |-------------------------------------------|--------------------------------------------------|
-| `for_loop.c`                              | Basic `for` loop structure and example            |
-| `While_loop.c`                            | Basic `while` loop structure and example          |
-| `Do_While_loop.c`                         | Basic `do-while` loop structure and example       |
-| `Nested_loops.c`                          | Introduction and example of nested loops          |
-| `Break_Statements.c`                      | Usage of `break` statement in loops               |
-| `Continue_Statements.c`                   | Usage of `continue` statement in loops            |
-| `Increment_operators.c`                   | Using `++` (increment) operator in loops          |
-| `Decrement_operators.c`                   | Using `--` (decrement) operator in loops          |
-| `Infinite_Loops.c`                        | Examples of infinite loops                        |
-| `Practice_Problem_Based_on_Loops.txt`     | Loop-based exercises                              |
+| `01_Increment_operators.c`                | Using `++` (increment) operator in loops         |
+| `02_Decrement_operators.c`                | Using `--` (decrement) operator in loops         |
+| `03_for_loop.c`                           | Basic `for` loop structure and example           |
+| `04_While_loop.c`                         | Basic `while` loop structure and example         |
+| `05_Do_While_loop.c`                      | Basic `do-while` loop structure and example      |
+| `06_Quick_Quize.c`                        | Quiz: Using both `for` and `while` loops         |
+| `07_Break_Statements.c`                   | Usage of `break` statement in loops              |
+| `08_Continue_Statements.c`                | Usage of `continue` statement in loops           |
+| `09_Nested_loops.c`                       | Introduction and example of nested loops         |
+| `10_Quize_based_on_nested_loop.c`         | Quiz: Nested loop applications                   |
+| `11_Infinite_Loops.c`                     | Examples of infinite loops                       |
+| `Practice_Problem_Based_on_Loops.txt`     | Loop-based exercises                             |
 | `Practice_Problem_Based_on_Nested-Loops.txt` | Pattern and nested loop challenges             |
-| `Quick_Quize.c`                           | Quiz: Using both `for` and `while` loops          |
-| `Quize_based_on_nested_loop.c`            | Quiz: Nested loop applications                    |
-| _Other `.c` files_                        | Additional quizzes and loop applications          |
 
 ---
 
