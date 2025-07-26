@@ -83,30 +83,30 @@ else printf("No profit, no loss\n");
 
 | File Name                                 | What You'll Practice                                         |
 |--------------------------------------------|--------------------------------------------------------------|
-| `Area>perimeter_rectangle.c`               | Compare area and perimeter of a rectangle                    |
-| `Min_Max_Algorithem.c`                     | Find the minimum and maximum of numbers                      |
-| `Min_of_two_numbers.c`                     | Identify the smaller of two numbers                          |
-| `Sides_of_triangle_or_not.c`               | Check if numbers can form a triangle                         |
-| `Student_passed_or_falied.c`               | Decide pass/fail based on marks                              |
-| `Three_Digits_or_not.c`                    | Check if a number has three digits                           |
-| `Youngest_form_3_Boys.c`                   | Find the youngest among three                                |
-| `loss_or_profit.c`                         | Calculate profit or loss                                     |
-| `Divisible_by_5_or_3_but_not_15_logical.c` | Use logical operators for divisibility checks                |
-| `Divisible_by_5_or_not.c`                  | Check divisibility by 5                                      |
-| `Even_or_Odd.c`                            | Determine if a number is even or odd                         |
-| `Grade_according_to_marks.c`               | Assign grades using nested if-else                           |
-| `Greatest_from_3_Numbers.c`                | Find the greatest of three numbers                           |
-| `Income_tax_slab.c`                        | Calculate tax based on income slabs                          |
-| `Leap_Year_or_not.c`                       | Check if a year is a leap year                               |
-| `License_or_not.c`                         | Check license eligibility by age                             |
-| `Max_of_two_numbers.c`                     | Find the larger of two numbers                               |
-| `Absoulate_value.c`                        | Get the absolute value of a number                           |
-| `Average_of_three_numbers.c`               | Calculate the average of three numbers                       |
-| `Character_digit_or_not.c`                 | Check if a character is a digit                              |
-| `Character_lowercase_or_not.c`             | Check if a character is lowercase                            |
-| `Dividend_divisible_By_Divisor_or_not.c`   | Test if one number divides another                           |
-| `Divisible_By_5_and_3_or_not.c`            | Check divisibility by both 5 and 3                           |
-| `Divisible_by_5_or_3_but_not_15.c`         | Divisibility by 5 or 3 but not 15 (alternative logic)        |
+| `01_License_or_not.c`                      | Check license eligibility by age                             |
+| `02_Three_Digits_or_not.c`                 | Check if a number has three digits                           |
+| `03_Absoulate_value.c`                     | Get the absolute value of a number                           |
+| `04_Average_of_three_numbers.c`            | Calculate the average of three numbers                       |
+| `05_Area>perimeter_rectangle.c`            | Compare area and perimeter of a rectangle                    |
+| `06_Character_digit_or_not.c`              | Check if a character is a digit                              |
+| `07_Character_lowercase_or_not.c`          | Check if a character is lowercase                            |
+| `08_Even_or_Odd.c`                         | Determine if a number is even or odd                         |
+| `09_Dividend_divisible_By_Divisor_or_not.c`| Test if one number divides another                           |
+| `10_Divisible_by_5_or_not.c`               | Check divisibility by 5                                      |
+| `11_Divisible_By_5_and_3_or_not.c`         | Check divisibility by both 5 and 3                           |
+| `12_Divisible_by_5_or_3_but_not_15.c`      | Divisibility by 5 or 3 but not 15 (alternative logic)        |
+| `13_Divisible_by_5_or_3_but_not_15_logical.c`| Use logical operators for divisibility checks              |
+| `14_loss_or_profit.c`                      | Calculate profit or loss                                     |
+| `15_Sides_of_triangle_or_not.c`            | Check if numbers can form a triangle                         |
+| `16_Leap_Year_or_not.c`                    | Check if a year is a leap year                               |
+| `17_Grade_according_to_marks.c`            | Assign grades using nested if-else                           |
+| `18_Greatest_from_3_Numbers.c`             | Find the greatest of three numbers                           |
+| `19_Income_tax_slab.c`                     | Calculate tax based on income slabs                          |
+| `20_Student_passed_or_falied.c`            | Decide pass/fail based on marks                              |
+| `21_Youngest_form_3_Boys.c`                | Find the youngest among three                                |
+| `22_Min_of_two_numbers.c`                  | Identify the smaller of two numbers                          |
+| `23_Max_of_two_numbers.c`                  | Find the larger of two numbers                               |
+| `24_Min_Max_Algorithem.c`                  | Find the minimum and maximum of numbers                      |
 
 ---
 
