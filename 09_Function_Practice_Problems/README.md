@@ -74,42 +74,42 @@ printf("Square root: %.2f\n", root);
 
 | File Name                        | Description                                      |
 |----------------------------------|--------------------------------------------------|
-| `Area_Of_Circle,Rectangle.c`     | Area of circle and rectangle using functions      |
-| `Area_Of_Square.c`               | Area of a square                                 |
-| `Celsius_to_Fahreheit.c`         | Celsius to Fahrenheit conversion                 |
-| `Celsius_to_Kelvin.c`            | Celsius to Kelvin conversion                     |
-| `Center-align_rows_Pascal_Triangle.c` | Center-aligned Pascal's Triangle           |
-| `Combination.c`                  | Calculate combinations (nCr)                     |
-| `Factorial.c`                    | Factorial of a number                            |
-| `Factorial_of_First_N.c`         | Factorials of first N numbers                    |
-| `Fahrenheit_to_Celsius.c`        | Fahrenheit to Celsius conversion                 |
-| `Fahrenheit_to_Kelvin.c`         | Fahrenheit to Kelvin conversion                  |
-| `Fibonacci.c`                    | Fibonacci sequence using functions               |
-| `Fibonacci_of_First_N.c`         | First N Fibonacci numbers                        |
-| `Force_Of_Attraction.c`          | Calculate force of attraction                    |
-| `Good_Morning,Afternoon.c`       | Greeting functions (morning, afternoon, etc.)    |
-| `Greatest_Common_Divisor.c`      | GCD of two numbers                               |
-| `Hot_Cold.c`                     | Weather categorization by temperature            |
-| `Kelvin_to_Celsius.c`            | Kelvin to Celsius conversion                     |
-| `Kelvin_to_Fahreheit.c`          | Kelvin to Fahrenheit conversion                  |
-| `Min_of_three_numbers.c`         | Minimum of three numbers                         |
-| `Min_of_two_numbers.c`           | Minimum of two numbers                           |
-| `Namaste_and_Bonjour.c.c`        | Greeting in different languages                  |
-| `Permutation.c`                  | Calculate permutations (nPr)                     |
-| `Power_Function.c`               | Power calculation (base^exponent)                |
-| `Power_From_0_to_Exponet.c`      | Power from 0 to exponent                         |
-| `Power_Library_Function.c`       | Power calculation using library function         |
-| `Prime_Factors_Of_N.c`           | Prime factors of a number                        |
-| `Prime_Numbers_In_Range.c`       | Print prime numbers in a range                   |
-| `Print_Swap_Numbers_Using_Temp.c`| Swap numbers using a temporary variable          |
-| `Printing_Swap_Numbers.c`        | Swap numbers without a temporary variable        |
-| `Right_Start_Triangle.c`         | Print a right-aligned triangle                   |
-| `Square_root.c`                  | Calculate square root                            |
-| `Star_Pascal_Triangle.c`         | Pascal's Triangle with stars                     |
-| `Sum,Product,Average.c`          | Sum, product, and average of two numbers         |
-| `Sum_Of_Digit_Of_N.c`            | Sum of digits of a number                        |
-| `Sum_of_three_numbers.c`         | Sum of three numbers                             |
-| `Table_Of_N.c`                   | Print multiplication table of N                  |
+| `01_Good_Morning,Afternoon.c`    | Greeting functions (morning, afternoon, etc.)    |
+| `02_Namaste_and_Bonjour.c.c`     | Greeting in different languages                  |
+| `03_Table_Of_N.c`                | Print multiplication table of N                  |
+| `04_Hot_Cold.c`                  | Weather categorization by temperature            |
+| `05_Sum_of_three_numbers.c`      | Sum of three numbers                             |
+| `06_Sum,Product,Average.c`       | Sum, product, and average of two numbers         |
+| `07_Area_Of_Square.c`            | Area of a square                                 |
+| `08_Celsius_to_Fahreheit.c`      | Celsius to Fahrenheit conversion                 |
+| `09_Celsius_to_Kelvin.c`         | Celsius to Kelvin conversion                     |
+| `10_Fahrenheit_to_Celsius.c`     | Fahrenheit to Celsius conversion                 |
+| `11_Fahrenheit_to_Kelvin.c`      | Fahrenheit to Kelvin conversion                  |
+| `12_Kelvin_to_Celsius.c`         | Kelvin to Celsius conversion                     |
+| `13_Kelvin_to_Fahreheit.c`       | Kelvin to Fahrenheit conversion                  |
+| `14_Min_of_two_numbers.c`        | Minimum of two numbers                           |
+| `15_Min_of_three_numbers.c`      | Minimum of three numbers                         |
+| `16_Area_Of_Circle,Rectangle.c`  | Area of circle and rectangle using functions     |
+| `17_Force_Of_Attraction.c`       | Calculate force of attraction                    |
+| `18_Factorial.c`                 | Factorial of a number                            |
+| `19_Factorial_of_First_N.c`      | Factorials of first N numbers                    |
+| `20_Fibonacci.c`                 | Fibonacci sequence using functions               |
+| `21_Fibonacci_of_First_N.c`      | First N Fibonacci numbers                        |
+| `22_Sum_Of_Digit_Of_N.c`         | Sum of digits of a number                        |
+| `23_Right_Start_Triangle.c`      | Print a right-aligned triangle                   |
+| `24_Combination.c`               | Calculate combinations (nCr)                     |
+| `25_Permutation.c`               | Calculate permutations (nPr)                     |
+| `26_Star_Pascal_Triangle.c`      | Pascal's Triangle with stars                     |
+| `27_Center-align_rows_Pascal_Triangle.c` | Center-aligned Pascal's Triangle           |
+| `28_Print_Swap_Numbers_Using_Temp.c` | Swap numbers using a temporary variable      |
+| `29_Printing_Swap_Numbers.c`     | Swap numbers without a temporary variable        |
+| `30_Power_Library_Function.c`    | Power calculation using library function         |
+| `31_Power_Function.c`            | Power calculation (base^exponent)                |
+| `32_Power_From_0_to_Exponet.c`   | Power from 0 to exponent                         |
+| `33_Greatest_Common_Divisor.c`   | GCD of two numbers                               |
+| `34_Prime_Factors_Of_N.c`        | Prime factors of a number                        |
+| `35_Square_root.c`               | Calculate square root                            |
+| `36_Prime_Numbers_In_Range.c`    | Print prime numbers in a range                   |
 
 ---
 
