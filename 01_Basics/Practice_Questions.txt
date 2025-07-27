@@ -1,42 +1,43 @@
-Calculating percentage of 5 subjects.
-
-Calculating Area of a Circle
-
-Calculating Simple Interest
-
-Taking input // SUM of 2 given numbers
-
-Take two integers input, a and b : a>b, and find the remainder when a is divided by b.
-
-Take integer as input and print half of the number.
-
-Take float input and print the fractional part of the real number.
-
-Write a program to calculate area of a rectangle:
-
-Calculate the area of a circle
-
-calculate the volume of a cylinder given its radius and height.
-
-Write a program to convert Celsius (Centigrade degrees temperature to Fahrenheit).
-
-Write a program to convert Fahrenheit (Fahrenheit temperature to Centigrade degrees).
-
-Write a program to convert Kelvin (Kelvin temperature to Centigrade degrees).
-
-Write a program to convert Celsius (Centigrade degrees to Kelvin).
-
-Write a program to convert Kelvin (Kelvin temperature to Fahrenheit).
-
-Write a program to convert Fahrenheit (Fahrenheit temperature to Kelvin).
-
-Write a program to calculate simple interest for a set of values representing
-principal, number of years and rate of interest.
-
-Write a program to calculate perimeter of rectangle Take sides, a & b, from the user
+Write a program to calculate sum of two given number.
 
 Take a number(n) from user & output its cube(n*n*n).
 
-Write a program to calculate area of a square.(side is given)
+Write a program to calculate Perimeter of a square.(side is given).
 
-Write a program to calculate area of a circle.(side is given)
+Write a program to calculate perimeter of rectangle where, length and breadth was given by user.
+
+Write a program to calculate area of rectangle where, length and breadth was given by user.
+
+Write a program to calculate area of a square.(side is given).
+
+Write a program to print area of circle where, radius is given by user.
+
+Write a program to print circumference of circle where, radius is given by user.
+
+Calculating percentage of 5 subjects considering marks out of 100.
+
+Calculate Simple Interest where, principle,Rate,and time are given by user.
+
+Take two integers input, a and b: a>b, and find the remainder when a is divided by b without using Moduls operator(%).
+
+Take two integers input, a and b: a>b, and find the remainder when a is divided by b using moduls operator(%).
+
+Write a program to print half of given number.
+
+Take float input and print the of the real number.
+
+calculate the volume of a cylinder given its radius and height.
+
+Write a program to claculate the volume of Sphere where,radius is given by user.
+
+Write a program to convert Celsius (Centigrade degrees temperature to Fahrenheit).
+
+Write a program to convert Celsius (Centigrade degrees to Kelvin).
+
+Write a program to convert Fahrenheit (Fahrenheit temperature to Centigrade degrees).
+
+Write a program to convert Fahrenheit (Fahrenheit temperature to Kelvin).
+
+Write a program to convert Kelvin (Kelvin temperature to Centigrade degrees).
+
+Write a program to convert Kelvin (Kelvin temperature to Fahrenheit).
