@@ -1,72 +1,81 @@
- Print hello world ‘n’ times. Take ‘n’ as input from user
+Print hello world ‘n’ times. Take ‘n’ as input from user
 
- Display this AP - 1,3,5,7,9.. upto ‘n’ terms. 
+print all numbers within a given range.
 
- Display this AP - 4,7,10,13,16.. upto ‘n’ terms.
+Program to print natural numbers from R (start) to S (end),
+excluding numbers in the range from i (skip start) to k (skip end).
 
- Write a program to print armstrong number between R(Starting Value) to S(Ending Number) given by user.
+Print all the odd numbers from R(which is given by user) to S(which is given by user).
 
- Write a program to check if the number entered by the user is an Armstrong number.
+Program to print odd numbers from a user-defined range (R to S) using 'continue' statements.
 
- Write a program to print all the ASCII values and their equivalent characters From 'A'(characters small/capital given by user)
- to 'Z'(Character small/capital given by user)using for loop.
+Print the table of N(Given By User).
 
- Write a program to check whether a given number is prime or not using while loops
+Program to print the multiplication table of a user-given number in reverse order.
 
- WAP to count digits of a given number.
+Write a program to print table of n and sum of table of n.
 
- print all Even numbers within a given range:
+Program to calculate the sum from number R to S using a while loop.
 
- print Factorial of number within a given range:
+Program to calculate the sum within a given range using while loop.
 
- Program to calculate the factorial of a given number.
+print all Even numbers within a given range:
 
- Write a program to print from first to nth term of fibonacci series
+Write a program to print all the ASCII values and their equivalent characters From 'A'(characters small/capital given by user)
+to 'Z'(Character small/capital given by user)using for loop.
 
- Display this GP - 1,2,4,8,16,32,.. upto ‘n’ terms.
+Program to calculate the factorial of a given number.
 
- Display this GP - 3,12,48,.. upto ‘n’ terms.
+print Factorial of number within a given range:
 
- Display this GP - 100,50,25,.. upto ‘n’ terms.
+Write a program to print nth term of fibonacci series
 
- Display the arithmetic progression: 100, 97, 94, ... down to the last positive term starting from 'n'.
+Write a program to print from first to nth term of fibonacci series
 
- Write a program to print nth term of fibonacci series
+Display this AP - 1,3,5,7,9.. upto ‘n’ terms.
 
- Print all the odd numbers from R(which is given by user) to S(which is given by user).
+Display this AP - 4,7,10,13,16.. upto ‘n’ terms.
 
- Program to check whether a given number is a palindrome.
+Display this GP - 1,2,4,8,16,32,.. upto ‘n’ terms.
 
- Program to check if a number is prime or composite.
+Display this GP - 3,12,48,.. upto ‘n’ terms.
 
- Write a program to print prime numbers in a range.
+Display this GP - 100,50,25,.. upto ‘n’ terms.
 
- Program to print natural numbers from R (start) to S (end),
- luding numbers in the range from i (skip start) to k (skip end).
+Display the arithmetic progression: 100, 97, 94, ... down to the last positive term starting from 'n'.
 
- Write a program to print all the ASCII values and their equivalent characters From 'A'(characters small/capital given by user)
- to 'Z'(Character small/capital given by user) using while loop.
+Program to calculate the result of raising one number to the power of another.
 
- Program to calculate the result of raising one number to the power of another.
+Program to check if a number is prime or composite.
 
- Program to print the reverse of a given number
+Write a program to check whether a given number is prime or not using while loops
 
- Program to calculate the sum from number R to S using a while loop.
+Write a program to print prime numbers in a range.
 
- WAP to print the sum of Digits of given number to the sum of digits of reverse of given number.
+Calculate the sum of the series: 1 - 2 + 3 - 4 + 5 - 6 ... up to 'n'
 
- Program to calculate the sum of digits of a given number.
+Calculate the sum of the series: -1 + 2 - 3 + 4 - 5 + 6 ... up to 'n'
 
- Program to print the sum of all even digits of a given number.
+WAP to count digits of a given number.
 
- Program to print the sum of all odd digits of a given number.
+Program to print the reverse of a given number
 
- Write a program to print table of n and sum of table of n.
+Program to calculate the sum of digits of a given number.
 
- Print the table of N(Given By User).
+Program to print the sum of all even digits of a given number.
 
- Continuously take input from the user until a number that is a multiple of 7 is entered.
+Program to print the sum of all odd digits of a given number.
 
- Keep taking numbers as input from the user until an odd number is entered.
+WAP to print the sum of Digits of given number to the sum of digits of reverse of given number.
 
- Program to calculate the sum within a given range using while loop.
+Write a program to printing sum of n to its reverse.
+
+Keep taking numbers as input from the user until an odd number is entered.
+
+Continuously take input from the user until a number that is a multiple of 7 is entered.
+
+Program to check whether a given number is a palindrome.
+
+Write a program to check if the number entered by the user is an Armstrong number.
+
+Write a program to print armstrong number between R(Starting Value) to S(Ending Number) given by user.
