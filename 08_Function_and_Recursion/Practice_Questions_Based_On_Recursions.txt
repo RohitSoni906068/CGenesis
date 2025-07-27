@@ -1,50 +1,56 @@
-  Write a recursive function to calculate the sum of first ‘n’ natural numbers.
+Recursively prints "Hello World" a given number of times
 
-  Make a function which calculates the factorial of n using recursive function.
+Write a Recursive Function to print factorial of given number.
 
- Make a recursive function which calculates 'a' raised to the power 'b' using logarithmic method.
+Recursive function to print factorials of all natural numbers from 1 to n
 
- Solve the given questions passing multiple value in function. 
- Count number of paths in a maze (move only right or down).
+Recursively prints numbers in decreasing order from x to 1
 
- Solve the given questions passing two value in function. 
- Count number of paths in a maze (move only right or down).
+Prints numbers from startNum down to stopNum using recursion
 
- Write a function to print n terms of the fibonacci sequence.
+Recursively prints numbers from '1' to 'N' in increasing order
 
- Ques : Print zig-zag
-  Input        Output
-  1            111
-  2            211121112
-  3            321112111232111211123
-  4            432111211123211121112343211121112321112111234
+Recursively prints numbers from 'from' to 'to' in increasing order.
 
- Print 1 to N without using any extra parameter or variable in funcation.
+Prints numbers from 1 to n using recursion
 
- Print 1 to N using one extra parameter or variable in funcation
+Function to print numbers from n to 1, and then from 1 back to n.
 
- Write a program to print N to 1 then, 1 to N. EX= if N=4 then, output will be 4,3,2,1,1,2,3,4
+Recursive function to calculate the sum of the first 'n' natural numbers
 
- Print n to 1
+Function to recursively calculate the sum from 'start' to 'end' parameterised.
 
- Write a program to calculate R to S Number where R and S are the Number Given by user, R refers to
- starting Number to Add and S is Ending Number to Add 
+Function to recursively calculate the sum from 'start' to 'end'.
 
- Make a recursive function which calculates 'a' raised to the power 'b' using recursion.
+Recursive function to calculate 'base' raised to the power 'exponent'.
 
- Write a program to find number of ways to climb Nth Stair. You can move 1 step or 2 stpes
+Recursive function to calculate the nth Fibonacci number
 
- Write a program to find number of ways to climb Nth Stair. You can move 1 step or 2 stpes and also 3 Steps
+Write a program to print sum of factorial of 1 to n numbers.
 
- Write a program to Find Sum from first R to S Natural Number.
+Print Fibonacci Sequence from 0 to n Using Recursion.
 
- Write a recursive function to calculate the sum of first ‘n’ natural numbers.
+Write a program to print sum of fibonacci of 0 to n numbers.
 
- Write a program to find how to arrange disks in A Tower to C(Tower of Hanol).
+Program to find the number of ways to climb 'n' stairs,
+where one can take either 1 or 2 steps at a time.
 
- Ques : Print zig-zag(Print for N )
- Input        Output
- 1            111
- 2            211121112
- 3            321112111232111211123
- 4            432111211123211121112343211121112321112111234
+Program to find the number of ways to climb 'n' stairs,
+where one can take either 1 or 2 or 3 steps at a time.
+
+Recursive function to calculate base^exponent using logarithmic time
+
+Computes the number of distinct paths in a grid from a starting point to an endpoint
+moving only right or down(parameterised).
+
+Computes the total number of unique paths from the top-left corner to the bottom-right corner of a grid
+with given rows and columns. Only right and downward moves are allowed.
+
+Print Zig-Zag Pattern using Recursion
+
+Input               Output
+2                   2 1 1 1 2 1 1 1 2
+
+Print zig-zag(Print for first N Natural Numbers)
+
+Recursive function to solve the Tower of Hanoi puzzle
