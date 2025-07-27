@@ -1,151 +1,157 @@
-                                Pattern Printing Practice Questions (Nested-Loop)
+Program to print a rectangle pattern of asterisks
+* * * * *
+* * * * *
+* * * * *
 
-Print the given pattern
-* * * * * 
-* * * * * 
-* * * * * 
-* * * * * 
-
-Print the given pattern
-* * * * * 
-* * * * * 
-* * * * * 
-
-Print the given pattern
-* * * * 
-* * * * 
+Program to print a Square Star Pattern of asterisks
+* * * *
+* * * *
 * * * *
 * * * *
 
-Print the given pattern
-1 2 3 4 
-1 2 3 4 
+Program to print a Square Number Pattern of asterisks
+1 2 3 4
+1 2 3 4
 1 2 3 4
 
-Print the given pattern
+Program to print a left-aligned triangle pattern of asterisks
 *
-* * 
-* * * 
+* *
+* * *
 * * * *
 
-Print the given pattern
-* * * * 
-* * * 
-* * 
+Program to print a left-aligned inverted triangle pattern of asterisks
+* * * *
+* * *
+* *
 *
 
-Print the given pattern
-1 
-1 2 
-1 2 3 
+Program to print a left-aligned triangle Number pattern of asterisks
+1
+1 2
+1 2 3
 1 2 3 4
 
-Print the given pattern
-1 2 3 4 
-1 2 3 
-1 2 
-1 
+Program to print a left-aligned inverted triangle pattern of Number.
+1 2 3 4
+1 2 3
+1 2
+1
 
-Print the given pattern
-1 
-1 3 
-1 3 5 
-1 3 5 7 
+Program to print a left-aligned triangle pattern of odd numbers
+1
+1 3
+1 3 5
+1 3 5 7
 
-Print the given pattern
-A B C D 
-A B C D 
-A B C D 
-A B C D 
-
-Print the given pattern
-A 
-A B 
-A B C 
-A B C D 
-
-Print the given pattern
-1 
-A B 
-1 2 3 
+Program to print a Square Alphabet.
 A B C D
-1 2 3 4 5 
+A B C D
+A B C D
+A B C D
 
-Print the given pattern
+Program to print a left-aligned triangle pattern of Alphabetic
+A
+A B
+A B C
+A B C D
+
+Program to print a Alternating Numeric-Alphabetic Triangle Pattern
+1
+A B
+1 2 3
+A B C D
+1 2 3 4 5
+
+Program to print a star '+' pattern using asterisks.
+The number of rows must be an odd number provided by the user.
 _ _ * _ _
 _ _ * _ _
-* * * * * 
-_ _ * _ _ 
-_ _ * _ _ 
+* * * * *
+_ _ * _ _
+_ _ * _ _
 
-Print the given pattern
+Print the given hollow rectangle pattern
 * * * * * *
 * _ _ _ _ *
 * _ _ _ _ *
 * * * * * *
 
-Print the given pattern
-* _ _ _ * 
-_ * _ * _ 
-_ _ * _ _ 
-_ * _ * _ 
+Program to print an 'X' pattern of stars based on the number of rows.
+The number of rows must be an odd number provided by the user.
+* _ _ _ *
+_ * _ * _
+_ _ * _ _
+_ * _ * _
 * _ _ _ *
 
-Print the given pattern
-1 
+Program to print a left-aligned floyd's triangle pattern of numbers.
+1
 2 3
 4 5 6
 7 8 9 10
 
-Print the given pattern
+Program to print a left-aligned floyd's triangle pattern of odd numbers.
+1
+3 5
+7 9 11
+13 15 17 19
+
+Program to print the following pattern:
 1
 0 1
 1 0 1
 0 1 0 1
 
-Print the given pattern
+Program to print a right-aligned triangle pattern of asterisks
 _ _ _ *
 _ _ * *
 _ * * *
 * * * *
 
-print the given pattern
+Program to print a left-aligned rhombus pattern of asterisks
 _ _ _ * * * *
 _ _ * * * *
 _ * * * *
 * * * *
 
-print the given pattern
+Program to print a right-aligned triangle pattern of alphabetics
 _ _ _ A
 _ _ A B
 _ A B C
 A B C D
 
-print the given pattern
+Program to print a centered star pyramid pattern
 _ _ _ *
 _ _ * * *
 _ * * * * *
 * * * * * * *
 
-print the given pattern
-- - - 1 
-- - 1 2 3 
-- 1 2 3 4 5 
-1 2 3 4 5 6 7 
+Program to print a centered numerical pyramid pattern
+- - - 1
+- - 1 2 3
+- 1 2 3 4 5
+1 2 3 4 5 6 7
 
-print the given pattern
+Program to print a centered alphbetics pyramid pattern
 _ _ _ A
 _ _ A B C
 _ A B C D E
 A B C D E f G
 
-print the given pattern
+Program to print a centered numeric pyramid pattern
 _ _ _ 1
 _ _ 1 2 1
 _ 1 2 3 2 1
 1 2 3 4 3 2 1
 
-print the given pattern
+Program to print a centered alphabetical pyramid pattern
+_ _ _ A
+_ _ A B A
+_ A B C B A
+A B C D C B A
+
+Program to print a symmetric diamond star pattern
 _ _ _ *
 _ _ * * *
 _ * * * * *
@@ -154,13 +160,13 @@ _ * * * * *
 _ _ * * *
 _ _ _ *
 
-print the given pattern
+Program to print the following pattern:
 * * * * * * *
 * * * _ * * *
 * * _ _ _ * *
 * _ _ _ _ _ *
 
-print the given pattern
+Print numbers on the left side of the current row
 1 2 3 4 5 6 7
 1 2 3 _ 5 6 7
 1 2 _ _ _ 6 7
@@ -172,13 +178,13 @@ A B C _ E F G
 A B _ _ _ F G
 A _ _ _ _ _ G
 
-print the given pattern
+Program to print the Symmetric Hollow Pyramid.
 1 2 3 4 3 2 1
 1 2 3 _ 3 2 1
 1 2 _ _ _ 2 1
 1 _ _ _ _ _ 1
 
-Print the given pattern 
+Program to print Left-Triangle Increasing Mirror Pattern for a given size:
 1 1 1 1 1 1 1
 1 2 2 2 2 2 2
 1 2 3 3 3 3 3
@@ -204,4 +210,3 @@ print the given pattern
 4 3 2 2 2 3 4
 4 3 3 3 3 3 4
 4 4 4 4 4 4 4
-
