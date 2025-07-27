@@ -131,7 +131,7 @@ See the following files for hands-on practice:
 | `10_Quize_based_on_nested_loop.c`         | Quiz: Nested loop applications                   |
 | `11_Infinite_Loops.c`                     | Examples of infinite loops                       |
 | `Practice_Problem_Based_on_Loops.txt`     | Loop-based exercises                             |
-| `Practice_Problem_Based_on_Nested-Loops.txt` | Pattern and nested loop challenges             |
+| `Practice_Problem_Based_on_Pattern_Printing.txt` | Pattern and nested loop challenges             |
 
 ---
 
