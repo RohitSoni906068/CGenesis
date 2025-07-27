@@ -1,10 +1,55 @@
-Write a Function to return minimum value from two numbers.
+Function to print greeting based on time of day(“good morning”, “good afternoon”,“good night”).
 
-Write a Function to return minimum value from three numbers.
+Write a Function that prints 'Namaste' if the user is Indian or 'Bonjour' if the user is French.
 
-Write a Function to return Sum of three numbers.
+Function to print the multiplication table of a given number
 
-Write a Power Function to Calculate a rasied to the power b.
+Function to categorize and print the weather condition based on temperature input.(Hot,Cold, Moderate).
+
+Write a Program to find sum of three numbers
+
+Write a function to calculate the sum, product & average of 2 numbers.
+
+Use the library function to calculate the area of a square with side a.
+
+Converts a temperature from Celsius to Fahrenheit using the formula:
+
+Converts temperature from Celsius to Kelvin.
+
+Converts a temperature from Fahrenheit to Celsius.
+
+Converts Fahrenheit temperature to Kelvin
+
+Function to convert temperature from Kelvin to Celsius
+
+Converts temperature from Kelvin to Fahrenheit.
+
+Write a Program to Finding Minimum Numbers from two Numbers
+
+Function to find and check the smallest number or equal numbers from the given three numbers
+
+Write functions to calculate area of a circle & a rectangle.
+
+Write a function to calculate force of attraction on a body of mass ‘m’ exerted by earth.
+
+Function to calculate factorial of a number
+
+Write a Function to display factorials of numbers from 1 to 'limit'
+
+Write a Function to print 'nth' fibonacci number.
+
+Write a Function to display fibonacci of numbers from 0 to 'limit' term.
+
+Function to compute the sum of digits of a number
+
+Program to print a star pattern using a function (prints first n lines)
+*
+* * *
+* * * * *
+
+Program to compute combinations (nCr) using the formula:
+
+Program to compute permutations (nPr)
 
 Program to print Pascal's Triangle up to a given number of rows.
 Example-> if number of rows = 5.
@@ -16,70 +61,27 @@ Example-> if number of rows = 5.
 1 5 10 10 5 1
 
 Program to print Center-align Pascal's Triangle up to a given number of rows.
-_ _ _ _ _ 1
-_ _ _ _ 1 _ 1
-_ _ _ 1 _ 2 _ 1
-_ _ 1 _ 3 _ 3 _ 1
-_ 1 _ 4 _ 6 _ 4 _ 1
-1 _ 5 _ 10 _ 10 _ 5 _ 1
+  _ _ _ _ _ 1
+  _ _ _ _ 1 _ 1
+  _ _ _ 1 _ 2 _ 1
+  _ _ 1 _ 3 _ 3 _ 1
+  _ 1 _ 4 _ 6 _ 4 _ 1
+  1 _ 5 _ 10 _ 10 _ 5 _ 1
 
-Print Combination of Given Number
-Hint-: !=factorial of Number
-Hint-: nCr(combination)= n!/r!*(n-r)!
+Write a Function to swap values and print them.
 
-Print Permutation of Given Number
-Hint-: ! =factorial of number
-Hint-: nPr(Permutation)= n!/(n-r)!
+Write a Function to swap values and print them without using a temporary variable
 
-Swap 2 numbers, a & b.
+Power Calculator using Math Library Function
 
-Write a function to compute the greatest common divisor of two given numbers
+Function to calculate the result of base raised to the power of exponent
 
-Print the factorials of first 'n' numbers
+Function to calculate the result of base raised to the power from 0 to exponent
 
-Print first 'n' fibonacci numbers.
+Write a Function to compute the greatest common divisor of two given numbers.
 
-Swap 2 numbers, a & b without using third variable.
+Write a Function to obtain the prime factors of given number.
 
-Write a program with three functions
-1. Good morning function which prints “good morning”.
-2. Good afternoon function which prints “good afternoon”.
-3. Good night function which prints “good night”.
+Function to calculate square root using Newton-Raphson Method
 
-Write a function to convert Celsius (Centigrade degrees temperature to Fahrenheit).
-
-Write a function to convert Fahrenheit (Fahrenheit temperature to Centigrade degrees).
-
-Write a function to convert Kelvin (Kelvin temperature to Centigrade degrees).
-
-Write a function to convert Celsius (Centigrade degrees to Kelvin).
-
-Write a function to convert Kelvin (Kelvin temperature to Fahrenheit).
-
-Write a function to convert Fahrenheit (Fahrenheit temperature to Kelvin).
-
-Use the library function to calculate the area of a square with side a.
-
-Write a function to convert Celsius temperature into Fahrenheit.
-
-Write a function to calculate force of attraction on a body of mass ‘m’ exerted byearth. 
-Consider g = 9.8m/s2.
-
-Write a function to calculate Percentage of a student from Marks in Science, Math & Sanskrit.
-
-Write a program using function to print the following pattern (first n lines)
-*
-* * *
-* * * * *
-
-Write a function to calculate the sum, product & average of 2 numbers.
-
-Write functions to calculate area of a square, a circle & a rectangle.
-
-Write a function to find square root of a number.
-
-Write a function to find sum of digits of a number.
-
-Write a function to print "Hot" or "Cold" depending on the temperature user enters.
-
-Write a program to print all prime number between 2 to n
+Write a program to print n times prime number
