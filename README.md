@@ -20,6 +20,7 @@
 
 ## 📖 Table of Contents
 
+- [👨‍💻 About Me](#-about-me)
 - [🎯 About This Repository](#-about-this-repository)
 - [📚 Learning Path](#-learning-path)
 - [🛠️ Chapters Overview](#️-chapters-overview)
@@ -29,6 +30,20 @@
 - [📊 Progress Tracking](#-progress-tracking)
 - [🤝 Contributing](#-contributing)
 - [📄 License](#-license)
+
+---
+
+## 👨‍💻 About Me
+
+### Welcome to my C programming repository 🚀
+
+This repository marks the beginning of my programming journey, with C as my first language. Here, I explore core concepts such as data types, control structures, functions, arrays, pointers, and more. From writing basic programs to developing logic-driven solutions, this project documents my progress from a beginner to an aspiring advanced C programmer.
+
+As a passionate student entering the world of computer science, I chose C to build a strong foundation in problem-solving, memory management, and algorithmic thinking.
+
+This repository showcases not only the code I've written—from the classic "Hello, World!" to advanced topics like structures, file handling, and pointer manipulation—but also highlights my learning journey, challenges, and growth.
+
+More than just a collection of source files, this is a reflection of my commitment to mastering the fundamentals of programming.
 
 ---
 
