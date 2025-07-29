@@ -1,4 +1,5 @@
 # 🚀 CGenesis: Complete C Programming Guide
+<!-- markdownlint-disable MD041 -->
 
 <div align="center">
 
