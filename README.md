@@ -35,7 +35,7 @@
 
 ## 👨‍💻 About Me
 
-### Welcome to my C programming repository 🚀
+### Welcome to My C Programming Repository 🚀
 
 This repository marks the beginning of my programming journey, with C as my first language. Here, I explore core concepts such as data types, control structures, functions, arrays, pointers, and more. From writing basic programs to developing logic-driven solutions, this project documents my progress from a beginner to an aspiring advanced C programmer.
 
@@ -49,7 +49,7 @@ More than just a collection of source files, this is a reflection of my commitme
 
 ## 🎯 About This Repository
 
-Welcome to **CGenesis** - your comprehensive guide to mastering one of the most fundamental programming languages! 🎓
+Welcome to **CGenesis**—your comprehensive guide to mastering one of the most fundamental programming languages! 🎓
 
 This repository documents a comprehensive learning journey from foundational concepts to advanced C programming techniques. It's designed to be your companion as you build a solid foundation in:
 
@@ -76,7 +76,7 @@ Each chapter builds upon the previous one, ensuring a solid understanding before
 
 ## 🛠️ Chapters Overview
 
-### 📘 Chapter 1: Basics
+### 📘 Chapter 1: [Basics](https://github.com/rohit528590/CGenesis/tree/main/01_Basics)
 
 **Master the fundamentals of C programming**  
 
@@ -89,7 +89,7 @@ Each chapter builds upon the previous one, ensuring a solid understanding before
 
 **📁 Folder:** `01_Basics/`
 
-**📝 Practice Problems: Basics of C** (22 problems)
+**📝 Practice Problems: [Basics of C](https://github.com/rohit528590/CGenesis/tree/main/02_Basics_Practice_Problems)** (22 problems)
 
 - Sum of two given numbers
 - Cube of N
@@ -100,7 +100,7 @@ Each chapter builds upon the previous one, ensuring a solid understanding before
 
 **📁 Folder:** `02_Basics_Practice_Problems/`
 
-### 🔀 Chapter 2: Conditional Instructions
+### 🔀 Chapter 2: [Conditional Instructions](https://github.com/rohit528590/CGenesis/tree/main/03_If-Else)
 
 **Learn to make decisions in your programs**  
 
@@ -112,7 +112,7 @@ Each chapter builds upon the previous one, ensuring a solid understanding before
 
 **📁 Folder:** `03_If-Else/`
 
-**🔀 Practice Problems: Conditional Statements** (24 problems)
+**🔀 Practice Problems: [Conditional Statements](https://github.com/rohit528590/CGenesis/tree/main/04_If-Else_Practice_Problems)** (24 problems)
 
 - License eligibility check
 - Three digits validation
@@ -127,7 +127,7 @@ Each chapter builds upon the previous one, ensuring a solid understanding before
 
 **📁 Folder:** `04_If-Else_Practice_Problems/`
 
-### 🔄 Chapter 3: Loop Control Instructions
+### 🔄 Chapter 3: [Loop Control Instructions](https://github.com/rohit528590/CGenesis/tree/main/05_Loops)
 
 **Master iterative control structures and visual pattern generation**  
 
@@ -139,7 +139,7 @@ Each chapter builds upon the previous one, ensuring a solid understanding before
 
 **📁 Folder:** `05_Loops/`
 
-**🔄 Practice Problems: Iterative Statements** (41 problems)
+**🔄 Practice Problems: [Iterative Statements](https://github.com/rohit528590/CGenesis/tree/main/06_Loops_Practice_Problems)** (41 problems)
 
 - Number printing in ranges
 - Table generation
@@ -150,9 +150,9 @@ Each chapter builds upon the previous one, ensuring a solid understanding before
 - Palindrome and Armstrong numbers
 - Series calculations (AP, GP)
 
-**📁 Folder:** `06_Loops_Practice Problems/`
+**📁 Folder:** `06_Loops_Practice_Problems/`
 
-**🎨 Pattern Printing Problems** (33 patterns)
+**🎨 Practice Problems: [Pattern Printing](https://github.com/rohit528590/CGenesis/tree/main/07_Pattern_Printing_Practice_Problems)** (33 patterns)
 
 - Solid rectangles and squares
 - Star and number triangles
@@ -162,9 +162,9 @@ Each chapter builds upon the previous one, ensuring a solid understanding before
 - Pyramids and diamonds
 - Mirror patterns
 
-**📁 Folder:** `07_Pattern Printing Practice Problems/`
+**📁 Folder:** `07_Pattern_Printing_Practice_Problems/`
 
-### ⚙️ Chapter 4: Functions and Recursion
+### ⚙️ Chapter 4: [Functions and Recursion](https://github.com/rohit528590/CGenesis/tree/main/08_Function_and_Recursion)
 
 **Build modular and reusable code**  
 
@@ -177,7 +177,7 @@ Each chapter builds upon the previous one, ensuring a solid understanding before
 
 **📁 Folder:** `08_Function_and_Recursion/`
 
-**⚙️ Function Practice Problems** (36 problems)
+**⚙️ [Function Practice Problems](https://github.com/rohit528590/CGenesis/tree/main/09_Function_Practice_Problems)** (36 problems)
 
 - Greeting functions
 - Mathematical calculations
@@ -191,7 +191,7 @@ Each chapter builds upon the previous one, ensuring a solid understanding before
 
 **📁 Folder:** `09_Function_Practice_Problems/`
 
-**🔄 Recursion Practice Problems** (25 problems)
+**🔄 [Recursion Practice Problems](https://github.com/rohit528590/CGenesis/tree/main/10_Recursion_Practice_Problems)** (25 problems)
 
 - Basic recursion patterns
 - Factorial and Fibonacci recursion
@@ -204,7 +204,7 @@ Each chapter builds upon the previous one, ensuring a solid understanding before
 
 **📁 Folder:** `10_Recursion_Practice_Problems/`
 
-### 📊 Chapter 5: Arrays and 2D Arrays
+### 📊 Chapter 5: [Arrays and 2D Arrays](https://github.com/rohit528590/CGenesis/tree/main/11_Array_and_2D-Array)
 
 **Work with collections of data**  
 
