@@ -27,7 +27,6 @@ int main()
 
     int array[array_size];
 
-    // Input array elements
     printf(" Enter all elements of the array :\n");
     for (int i = 0; i < array_size; i++)
     {
