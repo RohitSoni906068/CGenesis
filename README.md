@@ -98,7 +98,7 @@ Each chapter builds upon the previous one, ensuring a solid understanding before
 - Volume calculations
 - Percentage and interest calculations
 
-**📁 Folder:** `02_Basics_Practice_Problems/`
+**📁 Folder:** `02_Basics Practice Problems/`
 
 ### 🔀 Chapter 2: [Conditional Instructions](https://github.com/rohit528590/CGenesis/tree/main/03_If-Else)
 
@@ -125,7 +125,7 @@ Each chapter builds upon the previous one, ensuring a solid understanding before
 - Income tax calculation
 - Student pass/fail determination
 
-**📁 Folder:** `04_If-Else_Practice_Problems/`
+**📁 Folder:** `04_If-Else Practice Problems/`
 
 ### 🔄 Chapter 3: [Loop Control Instructions](https://github.com/rohit528590/CGenesis/tree/main/05_Loops)
 
@@ -150,7 +150,7 @@ Each chapter builds upon the previous one, ensuring a solid understanding before
 - Palindrome and Armstrong numbers
 - Series calculations (AP, GP)
 
-**📁 Folder:** `06_Loops_Practice_Problems/`
+**📁 Folder:** `06_Loops Practice Problems/`
 
 **🎨 Practice Problems: [Pattern Printing](https://github.com/rohit528590/CGenesis/tree/main/07_Pattern_Printing_Practice_Problems)** (33 patterns)
 
@@ -162,7 +162,7 @@ Each chapter builds upon the previous one, ensuring a solid understanding before
 - Pyramids and diamonds
 - Mirror patterns
 
-**📁 Folder:** `07_Pattern_Printing_Practice_Problems/`
+**📁 Folder:** `07_Pattern Printing Practice Problems/`
 
 ### ⚙️ Chapter 4: [Functions and Recursion](https://github.com/rohit528590/CGenesis/tree/main/08_Function_and_Recursion)
 
@@ -175,7 +175,7 @@ Each chapter builds upon the previous one, ensuring a solid understanding before
 - ✅ Library functions
 - ✅ Optimization techniques
 
-**📁 Folder:** `08_Function_and_Recursion/`
+**📁 Folder:** `08_Function and Recursion/`
 
 **⚙️ [Function Practice Problems](https://github.com/rohit528590/CGenesis/tree/main/09_Function_Practice_Problems)** (36 problems)
 
@@ -189,7 +189,7 @@ Each chapter builds upon the previous one, ensuring a solid understanding before
 - Power and GCD functions
 - Prime number functions
 
-**📁 Folder:** `09_Function_Practice_Problems/`
+**📁 Folder:** `09_Function Practice Problems/`
 
 **🔄 [Recursion Practice Problems](https://github.com/rohit528590/CGenesis/tree/main/10_Recursion_Practice_Problems)** (25 problems)
 
@@ -202,7 +202,7 @@ Each chapter builds upon the previous one, ensuring a solid understanding before
 - Tower of Hanoi
 - Tree traversal patterns
 
-**📁 Folder:** `10_Recursion_Practice_Problems/`
+**📁 Folder:** `10_Recursion Practice Problems/`
 
 ### 📊 Chapter 5: [Arrays and 2D Arrays](https://github.com/rohit528590/CGenesis/tree/main/11_Array_and_2D-Array)
 
@@ -214,7 +214,7 @@ Each chapter builds upon the previous one, ensuring a solid understanding before
 - ✅ Pointer-array relationships
 - ✅ Practical applications
 
-**📁 Folder:** `11_Array_and_2D-Array/`
+**📁 Folder:** `11_Array and 2D-Array/`
 
 ### 🎯 Chapter 6: Pointers (Coming Soon)
 
