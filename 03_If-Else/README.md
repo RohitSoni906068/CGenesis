@@ -130,15 +130,15 @@ printf("%s\n", (num % 2 == 0) ? "Even" : "Odd");
 
 | File Link                                         | Description                                         |
 |---------------------------------------------------|-----------------------------------------------------|
-| [`if_Condition.c`](if_Condition.c)                | Basic `if` statement structure and usage            |
-| [`if_else-if_else.c`](if_else-if_else.c)          | Multi-way decisions using `if-else-if-else` ladder  |
-| [`if_with_0_and_1.c`](if_with_0_and_1.c)          | Truthiness: 0 as false, non-zero as true in C       |
-| [`if-else.c`](if-else.c)                          | Two-way branching with `if-else`                    |
-| [`Logical_operators.c`](Logical_operators.c)      | Combining conditions with logical operators         |
-| [`Nested-if.c`](Nested-if.c)                      | How to nest `if` statements for layered logic       |
-| [`Switch_statements.c`](Switch_statements.c)      | Using `switch` for multi-branch selection           |
-| [`ternary_if.c`](ternary_if.c)                    | Writing concise decisions with the ternary operator |
-| [`Practice_Questions.txt`](Practice_Questions.txt) | Practice problems to reinforce and challenge logic  |
+| [`01_if_Condition.c`](01_if_Condition.c)                | Basic `if` statement structure and usage            |
+| [`02_if-else.c`](02_if-else.c)                          | Two-way branching with `if-else`                    |
+| [`03_if_else-else-if.c`](03_if_else-else-if.c)          | Multi-way decisions using `if-else-if-else` ladder  |
+| [`04_Logical_operators.c`](04_Logical_operators.c)      | Combining conditions with logical operators         |
+| [`05_Nested-if.c`](05_Nested-if.c)                      | How to nest `if` statements for layered logic       |
+| [`06_if_with_0_and_1.c`](06_if_with_0_and_1.c)          | Truthiness: 0 as false, non-zero as true in C       |
+| [`07_Switch_statements.c`](07_Switch_statements.c)      | Using `switch` for multi-branch selection           |
+| [`08_ternary_if.c`](08_ternary_if.c)                    | Writing concise decisions with the ternary operator |
+| [`Practice_Questions.txt`](Practice_Questions.txt)      | Practice problems to reinforce and challenge logic  |
 
 ---
 
