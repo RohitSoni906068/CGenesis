@@ -1,12 +1,14 @@
-# Conditionals & Decision Making in C
+# 🚦 Conditionals & Decision Making in C
 
-Welcome to the **If-Else & Conditionals** module of _The Ultimate C Programming Language_ course! This folder contains essential resources, code examples, and practice problems to help you master decision-making in C.
+Welcome to the **If-Else & Conditionals** module of _The Ultimate C Programming Language_ course!  
+This folder contains essential resources, code examples, and practice problems to help you master decision-making in C.
 
 ---
 
 ## 📚 What Are Conditionals?
 
-Conditionals allow your program to make decisions and execute different code paths based on logic and user input. Mastering these constructs is crucial for writing flexible, robust, and intelligent programs.
+Conditionals allow your program to make decisions and execute different code paths based on logic and user input.  
+Mastering these constructs is crucial for writing flexible, robust, and intelligent programs.
 
 ---
 
@@ -23,9 +25,9 @@ Conditionals allow your program to make decisions and execute different code pat
 
 ---
 
-## 🖥️ Examples
+## 💻 Example Snippets
 
-### 1. Simple `if` Statement
+### 1️⃣ Simple `if` Statement
 
 ```c
 int number = 5;
@@ -34,7 +36,9 @@ if (number > 0) {
 }
 ```
 
-### 2. `if-else` Statement
+---
+
+### 2️⃣ `if-else` Statement
 
 ```c
 int number = -3;
@@ -45,7 +49,9 @@ if (number >= 0) {
 }
 ```
 
-### 3. `if-else-if-else` Ladder
+---
+
+### 3️⃣ `if-else-if-else` Ladder
 
 ```c
 int marks = 85;
@@ -60,7 +66,9 @@ if (marks >= 90) {
 }
 ```
 
-### 4. Nested `if` Statements
+---
+
+### 4️⃣ Nested `if` Statements
 
 ```c
 int age = 20, hasLicense = 1;
@@ -75,7 +83,9 @@ if (age >= 18) {
 }
 ```
 
-### 5. `switch` Statement
+---
+
+### 5️⃣ `switch` Statement
 
 ```c
 char grade = 'B';
@@ -94,7 +104,9 @@ switch (grade) {
 }
 ```
 
-### 6. Logical Operators
+---
+
+### 6️⃣ Logical Operators
 
 ```c
 int age = 22, marks = 80;
@@ -103,7 +115,9 @@ if (age > 18 && marks > 75) {
 }
 ```
 
-### 7. Ternary Operator
+---
+
+### 7️⃣ Ternary Operator
 
 ```c
 int num = 10;
@@ -114,17 +128,17 @@ printf("%s\n", (num % 2 == 0) ? "Even" : "Odd");
 
 ## 🗂️ File Guide
 
-| File Name                | Description                                         |
-|-------------------------|-----------------------------------------------------|
-| `if_Condition.c`        | Basic `if` statement structure and usage            |
-| `if_else-if_else.c`     | Multi-way decisions using `if-else-if-else` ladder  |
-| `if_with_0_and_1.c`     | Truthiness: 0 as false, non-zero as true in C       |
-| `if-else.c`             | Two-way branching with `if-else`                    |
-| `Logical_operators.c`   | Combining conditions with logical operators         |
-| `Nested-if.c`           | How to nest `if` statements for layered logic       |
-| `Switch_statements.c`   | Using `switch` for multi-branch selection           |
-| `ternary_if.c`          | Writing concise decisions with the ternary operator |
-| `Practice_Questions.txt`| Practice problems to reinforce and challenge logic  |
+| File Link                                         | Description                                         |
+|---------------------------------------------------|-----------------------------------------------------|
+| [`if_Condition.c`](if_Condition.c)                | Basic `if` statement structure and usage            |
+| [`if_else-if_else.c`](if_else-if_else.c)          | Multi-way decisions using `if-else-if-else` ladder  |
+| [`if_with_0_and_1.c`](if_with_0_and_1.c)          | Truthiness: 0 as false, non-zero as true in C       |
+| [`if-else.c`](if-else.c)                          | Two-way branching with `if-else`                    |
+| [`Logical_operators.c`](Logical_operators.c)      | Combining conditions with logical operators         |
+| [`Nested-if.c`](Nested-if.c)                      | How to nest `if` statements for layered logic       |
+| [`Switch_statements.c`](Switch_statements.c)      | Using `switch` for multi-branch selection           |
+| [`ternary_if.c`](ternary_if.c)                    | Writing concise decisions with the ternary operator |
+| [`Practice_Questions.txt`](Practice_Questions.txt) | Practice problems to reinforce and challenge logic  |
 
 ---
 
@@ -150,4 +164,4 @@ printf("%s\n", (num % 2 == 0) ? "Even" : "Odd");
 
 ---
 
-Happy Coding & Smart Decision Making! 🚦
+> **Happy Coding & Smart Decision Making! 🚦**
