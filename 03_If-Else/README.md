@@ -126,19 +126,19 @@ printf("%s\n", (num % 2 == 0) ? "Even" : "Odd");
 
 ---
 
-## 🗂️ File Guide
+## 🗂️ File Reference Guide
 
-| File Link                                         | Description                                         |
-|---------------------------------------------------|-----------------------------------------------------|
-| [`01_if_Condition.c`](01_if_Condition.c)                | Basic `if` statement structure and usage            |
-| [`02_if-else.c`](02_if-else.c)                          | Two-way branching with `if-else`                    |
-| [`03_if_else-else-if.c`](03_if_else-else-if.c)          | Multi-way decisions using `if-else-if-else` ladder  |
-| [`04_Logical_operators.c`](04_Logical_operators.c)      | Combining conditions with logical operators         |
-| [`05_Nested-if.c`](05_Nested-if.c)                      | How to nest `if` statements for layered logic       |
-| [`06_if_with_0_and_1.c`](06_if_with_0_and_1.c)          | Truthiness: 0 as false, non-zero as true in C       |
-| [`07_Switch_statements.c`](07_Switch_statements.c)      | Using `switch` for multi-branch selection           |
-| [`08_ternary_if.c`](08_ternary_if.c)                    | Writing concise decisions with the ternary operator |
-| [`Practice_Questions.txt`](Practice_Questions.txt)      | Practice problems to reinforce and challenge logic  |
+| #  | File Name                                         | Description                                         |
+|----|---------------------------------------------------|-----------------------------------------------------|
+| 1  | [`01_if_Condition.c`](01_if_Condition.c)                | Basic `if` statement structure and usage            |
+| 2  | [`02_if-else.c`](02_if-else.c)                          | Two-way branching with `if-else`                    |
+| 3  | [`03_if_else-else-if.c`](03_if_else-else-if.c)          | Multi-way decisions using `if-else-if-else` ladder  |
+| 4  | [`04_Logical_operators.c`](04_Logical_operators.c)      | Combining conditions with logical operators         |
+| 5  | [`05_Nested-if.c`](05_Nested-if.c)                      | How to nest `if` statements for layered logic       |
+| 6  | [`06_if_with_0_and_1.c`](06_if_with_0_and_1.c)          | Truthiness: 0 as false, non-zero as true in C       |
+| 7  | [`07_Switch_statements.c`](07_Switch_statements.c)      | Using `switch` for multi-branch selection           |
+| 8  | [`08_ternary_if.c`](08_ternary_if.c)                    | Writing concise decisions with the ternary operator |
+| 9  | [`Practice_Questions.txt`](Practice_Questions.txt)      | Practice problems to reinforce and challenge logic  |
 
 ---
 
