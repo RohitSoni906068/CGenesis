@@ -115,23 +115,23 @@ See the following files for hands-on practice:
 
 ---
 
-## 📂 File Guide
+## 📂 File Reference Guide
 
-| File Name                                 | Description                                      |
-|-------------------------------------------|--------------------------------------------------|
-| `01_Increment_operators.c`                | Using `++` (increment) operator in loops         |
-| `02_Decrement_operators.c`                | Using `--` (decrement) operator in loops         |
-| `03_for_loop.c`                           | Basic `for` loop structure and example           |
-| `04_While_loop.c`                         | Basic `while` loop structure and example         |
-| `05_Do_While_loop.c`                      | Basic `do-while` loop structure and example      |
-| `06_Quick_Quize.c`                        | Quiz: Using both `for` and `while` loops         |
-| `07_Break_Statements.c`                   | Usage of `break` statement in loops              |
-| `08_Continue_Statements.c`                | Usage of `continue` statement in loops           |
-| `09_Nested_loops.c`                       | Introduction and example of nested loops         |
-| `10_Quize_based_on_nested_loop.c`         | Quiz: Nested loop applications                   |
-| `11_Infinite_Loops.c`                     | Examples of infinite loops                       |
-| `Practice_Problem_Based_on_Loops.txt`     | Loop-based exercises                             |
-| `Practice_Problem_Based_on_Pattern_Printing.txt` | Pattern and nested loop challenges             |
+| #  | File Name                                              | Description                                      |
+|----|--------------------------------------------------------|--------------------------------------------------|
+| 1  | [`01_Increment_operators.c`](01_Increment_operators.c) | Using `++` (increment) operator in loops         |
+| 2  | [`02_Decrement_operators.c`](02_Decrement_operators.c) | Using `--` (decrement) operator in loops         |
+| 3  | [`03_for_loop.c`](03_for_loop.c)                       | Basic `for` loop structure and example           |
+| 4  | [`04_While_loop.c`](04_While_loop.c)                   | Basic `while` loop structure and example         |
+| 5  | [`05_Do_While_loop.c`](05_Do_While_loop.c)             | Basic `do-while` loop structure and example      |
+| 6  | [`06_Quick_Quize.c`](06_Quick_Quize.c)                 | Quiz: Using both `for` and `while` loops         |
+| 7  | [`07_Break_Statements.c`](07_Break_Statements.c)       | Usage of `break` statement in loops              |
+| 8  | [`08_Continue_Statements.c`](08_Continue_Statements.c) | Usage of `continue` statement in loops           |
+| 9  | [`09_Nested_loops.c`](09_Nested_loops.c)               | Introduction and example of nested loops         |
+| 10 | [`10_Quize_based_on_nested_loop.c`](10_Quize_based_on_nested_loop.c) | Quiz: Nested loop applications                   |
+| 11 | [`11_Infinite_Loops.c`](11_Infinite_Loops.c)           | Examples of infinite loops                       |
+| 12 | [`Practice_Problem_Based_on_Loops.txt`](Practice_Problem_Based_on_Loops.txt) | Loop-based exercises                             |
+| 13 | [`Practice_Problem_Based_on_Pattern_Printing.txt`](Practice_Problem_Based_on_Pattern_Printing.txt) | Pattern and nested loop challenges             |
 
 ---
 
