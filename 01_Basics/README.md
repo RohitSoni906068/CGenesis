@@ -102,20 +102,20 @@ printf("Hello\nWorld\t2024\n");
 
 ## 🗂️ File Reference Guide
 
-| File Link                                              | Description                                   |
-|--------------------------------------------------------|-----------------------------------------------|
-| [`01_First.c`](01_First.c)                             | Your first C program                          |
-| [`02_Boilerplate_code.c`](02_Boilerplate_code.c)       | Basic structure of a C program                |
-| [`03_Comments.c`](03_Comments.c)                       | Single-line and multi-line comments           |
-| [`04_Escape_Sequence.c`](04_Escape_Sequence.c)         | Using escape sequences in strings             |
-| [`05_Variable_Declaration.c`](05_Variable_Declaration.c)| Declaring and initializing variables          |
-| [`06_Variable_naming_rules.c`](06_Variable_naming_rules.c) | Rules and best practices for variable names   |
-| [`07_Airthmetic(Moduls)_Operator.c`](07_Airthmetic(Moduls)_Operator.c) | Arithmetic and modulus operator usage         |
-| [`08_Data_Types.c`](08_Data_Types.c)                   | Overview of C data types                      |
-| [`09_Input_Output.c`](09_Input_Output.c)               | Console input and output examples             |
-| [`10_Hierarchy_of_operators.c`](10_Hierarchy_of_operators.c) | Operator precedence and associativity         |
-| [`11_TypeCasting.c`](11_TypeCasting.c)                 | Type conversion in C                          |
-| [`12_Size_of_Data_Types.c`](12_Size_of_Data_Types.c)   | Memory size of data types                     |
+| #  | File Name                                              | Description                                   |
+|----|--------------------------------------------------------|-----------------------------------------------|
+| 1  | [`01_First.c`](01_First.c)                             | Your first C program                          |
+| 2  | [`02_Boilerplate_code.c`](02_Boilerplate_code.c)       | Basic structure of a C program                |
+| 3  | [`03_Comments.c`](03_Comments.c)                       | Single-line and multi-line comments           |
+| 4  | [`04_Escape_Sequence.c`](04_Escape_Sequence.c)         | Using escape sequences in strings             |
+| 5  | [`05_Variable_Declaration.c`](05_Variable_Declaration.c)| Declaring and initializing variables          |
+| 6  | [`06_Variable_naming_rules.c`](06_Variable_naming_rules.c) | Rules and best practices for variable names   |
+| 7  | [`07_Airthmetic(Moduls)_Operator.c`](07_Airthmetic(Moduls)_Operator.c) | Arithmetic and modulus operator usage         |
+| 8  | [`08_Data_Types.c`](08_Data_Types.c)                   | Overview of C data types                      |
+| 9  | [`09_Input_Output.c`](09_Input_Output.c)               | Console input and output examples             |
+| 10 | [`10_Hierarchy_of_operators.c`](10_Hierarchy_of_operators.c) | Operator precedence and associativity         |
+| 11 | [`11_TypeCasting.c`](11_TypeCasting.c)                 | Type conversion in C                          |
+| 12 | [`12_Size_of_Data_Types.c`](12_Size_of_Data_Types.c)   | Memory size of data types                     |
 
 ---
 
