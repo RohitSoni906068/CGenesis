@@ -72,35 +72,51 @@ towerOfHanoi(3, 'A', 'C', 'B');
 
 ---
 
-## 🗂️ File Guide
+## 🗂️ File Reference Guide
 
-| File Name                        | Description                                      |
-|----------------------------------|--------------------------------------------------|
-| `01_Hellow_World_N_Times.c`      | Print "Hello World" N times recursively          |
-| `02_Factorial.c`                 | Factorial using recursion                        |
-| `03_Factorial_of_first_n_recersively.c` | Factorials of first n numbers recursively   |
-| `04_Decreasing_order_of_n.c`     | Print numbers in decreasing order                |
-| `05_Print_decreasing_number_in_range.c` | Print numbers in decreasing order recursively |
-| `06_Print_1_to_N_Parameteriased.c` | Print 1 to N with parameterized recursion        |
-| `07_Print_increasing_number_in_range.c` | Print numbers in increasing order recursively |
-| `08_Print_1_to_N_after_call.c`   | Print 1 to N after recursive call                |
-| `09_Relatioship_of_Increasing_decreasing.c` | Relationship of increasing/decreasing    |
-| `10_Sum_of_first_n_recersively.c` | Sum of first n natural numbers recursively       |
-| `11_Sum_From_Start_to_End-Parameterasied.c` | Parameterized sum from start to end      |
-| `12_Sum_from_Start_to_End.c`     | Sum from start to end using recursion            |
-| `13_Raised_to_the_power.c`       | Calculate power using recursion                  |
-| `14_N_term_of_fibonacci.c`       | Nth term of Fibonacci sequence                   |
-| `15_Sum_of_factorial.c`          | Sum of factorials                                |
-| `16_First_Fibonacci_Sequence.c`  | First N Fibonacci numbers                        |
-| `17_Sum_Of_Fibonacci_Sequence.c` | Sum of Fibonacci sequence                        |
-| `18_Stair_Path-1.c`              | Ways to climb stairs (1 or 2 steps)              |
-| `19_Stair_Path-2.c`              | Ways to climb stairs (1, 2, or 3 steps)          |
-| `20_Optimised_Rasied_Power.c`    | Optimized power calculation (logarithmic)        |
-| `21_Maze_Path-parameterised.c`   | Parameterized maze path problem                  |
-| `22_Maze_Path.c`                 | Count paths in a maze (right/down moves)         |
-| `23_Pre_In_Post.c`               | Pre-In-Post order recursion example              |
-| `24_Zig_Zag.c`                   | Print zig-zag pattern recursively                |
-| `25_Tower_of_Hanol.c`            | Tower of Hanoi problem                           |
+### 🟢 Easy Recursion Problems
+
+| #  | File Name                                         | Description                                      |
+|----|---------------------------------------------------|--------------------------------------------------|
+| 1  | [`01_Hellow_World_N_Times.c`](01_Hellow_World_N_Times.c)      | Print "Hello World" N times recursively          |
+| 2  | [`02_Factorial.c`](02_Factorial.c)                 | Factorial using recursion                        |
+| 3  | [`03_Factorial_of_first_n_recersively.c`](03_Factorial_of_first_n_recersively.c) | Factorials of first n numbers recursively   |
+| 4  | [`04_Decreasing_order_of_n.c`](04_Decreasing_order_of_n.c)     | Print numbers in decreasing order                |
+| 5  | [`05_Print_decreasing_number_in_range.c`](05_Print_decreasing_number_in_range.c) | Print numbers in decreasing order recursively |
+| 6  | [`06_Print_1_to_N_Parameteriased.c`](06_Print_1_to_N_Parameteriased.c) | Print 1 to N with parameterized recursion        |
+| 7  | [`07_Print_increasing_number_in_range.c`](07_Print_increasing_number_in_range.c) | Print numbers in increasing order recursively |
+| 8  | [`08_Print_1_to_N_after_call.c`](08_Print_1_to_N_after_call.c)   | Print 1 to N after recursive call                |
+| 9  | [`09_Relatioship_of_Increasing_decreasing.c`](09_Relatioship_of_Increasing_decreasing.c) | Relationship of increasing/decreasing    |
+| 10 | [`10_Sum_of_first_n_recersively.c`](10_Sum_of_first_n_recersively.c) | Sum of first n natural numbers recursively       |
+| 11 | [`11_Sum_From_Start_to_End-Parameterasied.c`](11_Sum_From_Start_to_End-Parameterasied.c) | Parameterized sum from start to end      |
+| 12 | [`12_Sum_from_Start_to_End.c`](12_Sum_from_Start_to_End.c)     | Sum from start to end using recursion            |
+
+---
+
+### 🟡 Medium Recursion Problems
+
+| #  | File Name                                         | Description                                      |
+|----|---------------------------------------------------|--------------------------------------------------|
+| 13 | [`13_Raised_to_the_power.c`](13_Raised_to_the_power.c)       | Calculate power using recursion                  |
+| 14 | [`14_N_term_of_fibonacci.c`](14_N_term_of_fibonacci.c)       | Nth term of Fibonacci sequence                   |
+| 15 | [`15_Sum_of_factorial.c`](15_Sum_of_factorial.c)          | Sum of factorials                                |
+| 16 | [`16_First_Fibonacci_Sequence.c`](16_First_Fibonacci_Sequence.c)  | First N Fibonacci numbers                        |
+| 17 | [`17_Sum_Of_Fibonacci_Sequence.c`](17_Sum_Of_Fibonacci_Sequence.c) | Sum of Fibonacci sequence                        |
+| 18 | [`18_Stair_Path-1.c`](18_Stair_Path-1.c)              | Ways to climb stairs (1 or 2 steps)              |
+| 19 | [`19_Stair_Path-2.c`](19_Stair_Path-2.c)              | Ways to climb stairs (1, 2, or 3 steps)          |
+| 20 | [`20_Optimised_Rasied_Power.c`](20_Optimised_Rasied_Power.c)    | Optimized power calculation (logarithmic)        |
+| 21 | [`21_Maze_Path-parameterised.c`](21_Maze_Path-parameterised.c)   | Parameterized maze path problem                  |
+| 22 | [`22_Maze_Path.c`](22_Maze_Path.c)                 | Count paths in a maze (right/down moves)         |
+
+---
+
+### 🔴 Hard Recursion Problems
+
+| #  | File Name                                         | Description                                      |
+|----|---------------------------------------------------|--------------------------------------------------|
+| 23 | [`23_Pre_In_Post.c`](23_Pre_In_Post.c)               | Pre-In-Post order recursion example              |
+| 24 | [`24_Zig_Zag.c`](24_Zig_Zag.c)                   | Print zig-zag pattern recursively                |
+| 25 | [`25_Tower_of_Hanol.c`](25_Tower_of_Hanol.c)            | Tower of Hanoi problem                           |
 
 ---
 
