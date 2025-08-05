@@ -1,0 +1,22 @@
+Write a program to store N at every index of a 2D matrix with rows and columns which is also given by user.
+
+Find the sum of a given matrix of n x m.
+
+Program to add two matrices and print the resulting matrix.
+
+Program: Find the maximum element in a 2D array
+
+Find the minimum element and its position in a 2D array
+
+Program to calculate the sum of elements in a selected submatrix from a 2D array.
+The user inputs the matrix dimensions, the elements, and the submatrix range.
+
+Write a program to print the row number having the maximum sum in a given matrix.
+
+Program to find the row with the maximum number of 1s in a binary matrix
+
+Write a program to Print the transpose of the matrix(LeetCode-867).
+
+Write a program to Store the transpose of the matrix in another matrix(LeetCode-867).
+
+Program to transpose a square matrix (n x n) in-place
