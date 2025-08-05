@@ -25,7 +25,6 @@
 - [🛠️ Best Practices](#️-best-practices)
 - [📖 Additional Learning Resources](#-additional-learning-resources)
 - [🤝 Contributing](#-contributing)
-- [📄 License](#-license)
 
 ---
 
@@ -262,12 +261,6 @@ We welcome contributions to improve this learning resource!
 - Test all solutions thoroughly with various inputs
 - Update documentation for any new features or changes
 - Maintain the educational focus of the repository
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
