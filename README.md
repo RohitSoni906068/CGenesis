@@ -220,6 +220,16 @@ Each module builds upon previous knowledge while introducing new concepts at an 
 - ✅ Memory layout understanding
 - ✅ Efficient data processing techniques
 
+**📊 Practice Set:** [`12_Array_Practice_Problems`](12_Array_Practice_Problems) **(27 Problems)**
+
+- Statistical analysis and data processing
+- Array manipulation and transformation
+- Search algorithms and element detection
+- Mathematical sequence generation
+- Optimization techniques and performance analysis
+- Palindrome and pattern recognition
+- Subarray operations and rotations
+
 ---
 
 ### 🎯 Module 6: Memory Management & Pointers
@@ -578,3 +588,4 @@ This repository has been enriched by insights from:
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
+
