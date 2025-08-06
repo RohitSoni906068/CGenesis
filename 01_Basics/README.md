@@ -21,7 +21,7 @@ Welcome to your **C Programming Fundamentals** course! This comprehensive guide 
 ## 📚 Table of Contents
 
 1. [Learning Path Overview](#-learning-path-overview)
-2. [Course Structure & Phases](#-course-structure--phases)
+2. [Course Structure & Phases](#️-course-structure--phases)
 3. [Fundamentals Module](#-phase-1-fundamentals)
 4. [Core Concepts Module](#-phase-2-core-concepts)
 5. [Practice Challenges](#-practice-challenges)
