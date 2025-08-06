@@ -3,9 +3,8 @@
 <div align="center">
 
 [![C Programming](https://img.shields.io/badge/Language-C-blue.svg)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![Conditionals](https://img.shields.io/badge/Topic-Decision%20Logic-orange.svg)](https://github.com)
-[![Learning Level](https://img.shields.io/badge/Level-Beginner%20to%20Advanced-brightgreen.svg)](https://github.com)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Conditionals](https://img.shields.io/badge/Topic-Decision%20Logic-orange.svg)](https://github.com/rohit528590/CGenesis/03_If-Else)
+[![Learning Level](https://img.shields.io/badge/Level-Beginner%20to%20Advanced-brightgreen.svg)](https://github.com/rohit528590/CGenesis/03_If-Else)
 
 **Master the art of decision-making in C programming through hands-on examples and progressive challenges**  
 
@@ -428,7 +427,9 @@ int main() {
 
 ---
 
-## 🏆 Practice Challenges
+## 🏆 [Practice Challenges](Practice_Questions.txt)
+
+Folder: 📂 [Practice_Questions.txt](Practice_Questions.txt) 🎯
 
 > **📈 Progress Tracking:** Complete challenges in order to build skills systematically.
 
@@ -467,6 +468,8 @@ int main() {
 | 13 | Smart Home System | IoT device control with priority logic | Switch statements, priority handling |
 | 14 | Game Character Stats | RPG character validation and leveling | Complex validation, gaming logic |
 | 15 | E-commerce Discount | Dynamic pricing with multiple discount tiers | Business logic, optimization |
+
+Folder: 📂 [Practice_Questions.txt](Practice_Questions.txt) 🎯
 
 ---
 
