@@ -1,173 +1,329 @@
-# Loop Practice Problems in C
+# 🔥 Loop Mastery: Complete C Programming Challenge
 
-Welcome to the **Loops Practice Problems** module of _The Ultimate C Programming Language_ course! This folder is packed with hands-on coding challenges to help you master loops, logic, and mathematical operations in C.
+> **Master Loops Through 41 Progressive Programming Problems**
 
----
+<div align="center">
 
-## 🎯 Purpose
+![Loops](https://img.shields.io/badge/Focus-Loops-ff6b6b?style=for-the-badge&logo=c&logoColor=white)
+![Problems](https://img.shields.io/badge/Problems-41-4ecdc4?style=for-the-badge)
+![Difficulty](https://img.shields.io/badge/Difficulty-Beginner_to_Advanced-45b7d1?style=for-the-badge)
+![Language](https://img.shields.io/badge/Language-C-f39c12?style=for-the-badge&logo=c&logoColor=white)
 
-This directory contains a wide variety of loop-based problems designed to:
+**Transform from beginner to loop expert with structured, hands-on practice**  
 
-- Strengthen your understanding of `for`, `while`, and `do-while` loops
-- Practice mathematical and logical operations
-- Build problem-solving skills for interviews and exams
+[![Start Learning](https://img.shields.io/badge/Start%20Learning-Problem%201-brightgreen?style=for-the-badge)](#-quick-start)
+[![View Problems](https://img.shields.io/badge/View-All_Problems-blue?style=for-the-badge)](#-problem-categories)
 
----
-
-## 📝 Problem Categories
-
-- **Number Series:** Arithmetic and geometric progressions, Fibonacci, custom series
-- **Digit Operations:** Sum, count, even/odd digits, reverse, palindrome
-- **Prime & Composite:** Prime checks, printing primes, composite detection
-- **Special Numbers:** Armstrong, factorial, raised to power
-- **Range-Based Problems:** Print or sum numbers in a range, skip/exclude values
-- **Input-Based Loops:** Continue until a condition is met (e.g., input is odd or multiple of 7)
-- **ASCII Operations:** Print ASCII values for characters
+</div>
 
 ---
 
-## 🖥️ Loop Practice Examples
+## 📋 Table of Contents
 
-### 1. Print Numbers in a Range
+- [📖 Overview](#-overview)
+- [📚 Problem Categories](#-problem-categories)
+- [🚀 Quick Start](#-quick-start)
+- [🏆 Progress Tracking](#-progress-tracking)
+- [💡 Study Strategies](#-study-strategies)
+- [🛠️ Best Practices](#️-best-practices)
+- [📖 Additional Learning Resources](#-additional-learning-resources)
+- [🤝 Contributing](#-contributing)
 
-```c
-int r = 1, s = 10;
-for (int i = r; i <= s; i++) {
-    printf("%d ", i);
-}
+---
+
+## 📖 Overview
+
+This repository contains **41 carefully crafted C programming problems** focused exclusively on loops and iteration. Each problem is designed to build upon previous concepts while introducing new challenges, making it perfect for students learning control structures and algorithmic thinking.
+
+### 🎯 Learning Objectives
+
+- **Master Loop Fundamentals**: Understand for, while, and do-while loop structures
+- **Develop Algorithmic Thinking**: Learn to break down complex problems using iteration
+- **Practice Mathematical Programming**: From basic arithmetic to advanced number theory
+- **Build Interview Readiness**: Tackle problems commonly asked in technical interviews
+- **Strengthen Problem-Solving**: Improve logical reasoning and debugging skills
+
+### 🌟 Why This Collection?
+
+- **Progressive Difficulty**: Start with basics and gradually advance to complex algorithms
+- **Comprehensive Coverage**: Every essential loop pattern and technique
+- **Real-World Applications**: Problems that mirror actual programming scenarios
+- **Multiple Approaches**: Different loop types for similar problems
+- **Self-Paced Learning**: Complete problems at your own speed with built-in progress tracking
+
+---
+
+## 📚 Problem Categories
+
+### 🟢 **Foundation Level** (Problems 1-13)
+
+*Build your loop fundamentals with essential concepts*  
+
+| # | Problem | Core Concept | Key Learning |
+|---|---------|--------------|--------------|
+| 01 | [Hello World N Times](01_Hellow_World_N_times.c) | Basic For Loop | Loop structure and iteration |
+| 02 | [Numbers in Range](02_Printing_Numbers_in_range.c) | Range Iteration | Loop boundaries |
+| 03 | [Range with Exclusions](03_Print_R_to_S_except_i_to_k.c) | Conditional Loops | Skip patterns |
+| 04 | [Odd Numbers R to S](04_Odd_Number_R_to_S.c) | Conditional Logic | Number filtering |
+| 05 | [Odd Numbers with Continue](05_Odd_Numbers_in_range_using_continue.c) | Continue Statement | Flow control |
+| 06 | [Multiplication Table](06_Table_of_N.c) | Mathematical Loops | Table generation |
+| 07 | [Reverse Table](07_Reverse_Table_of_N.c) | Reverse Iteration | Backward loops |
+| 08 | [Sum of Table](08_Sum_of_table_of_N.c) | Accumulation | Running totals |
+| 09 | [Sum Range (For Loop)](09_Sum_from_R_to_S_using_for-loop.c) | For Loop Mastery | Range summation |
+| 10 | [Sum Range (While Loop)](10_Sum_in_range_using_while-loop.c) | While Loop Mastery | Loop comparison |
+| 11 | [Even Numbers](11_Even_Number_in_range.c) | Even Filtering | Number patterns |
+| 12 | [ASCII Values (For)](12_ASCII_values_of_Characters_for_loop.c) | Character Processing | ASCII manipulation |
+| 13 | [ASCII Values (While)](13_Printing_ASCII_values_while_loop.c) | Loop Comparison | Different approaches |
+
+**Learning Goals**: Master basic loop syntax, understand different loop types, and practice simple iterations.
+
+### 🟡 **Intermediate Level** (Problems 14-29)
+
+*Develop analytical thinking and optimization skills*  
+
+| # | Problem | Core Concept | Key Learning |
+|---|---------|--------------|--------------|
+| 14 | [Factorial of N](14_Factorial_of_N.c) | Mathematical Computation | Factorial algorithms |
+| 15 | [Factorial in Range](15_Factorial_in_range.c) | Range Processing | Multiple calculations |
+| 16 | [Nth Fibonacci](16_Nth_Fibonacci_Number.c) | Sequence Generation | Fibonacci logic |
+| 17 | [Fibonacci Series](17_Fibonacci_Series_From_First_to_N.c) | Series Display | Complete sequences |
+| 18 | [AP: 1,3,5,7...](18_AP_1,3,5,7,_upto_N.c) | Arithmetic Progression | Pattern recognition |
+| 19 | [AP: 4,7,10...](19_AP_4,7,10_upto_N.c) | Custom AP | Variable increments |
+| 20 | [GP: 1,2,4,8...](20_GP_1,2,4,8_upto_N.c) | Geometric Progression | Exponential growth |
+| 21 | [GP: 3,12,48...](21_GP_3,12,48.c) | Custom GP | Multiplication patterns |
+| 22 | [GP: 100,50,25...](22_GP_100,50,25_upto_N.c) | Decreasing GP | Division patterns |
+| 23 | [GP: Positive Terms Only](23_GP_100,97,94_upto_positive_term.c) | Conditional Termination | Dynamic stopping |
+| 24 | [Power Calculation](24_Raised_to_the_power.c) | Exponentiation | Power algorithms |
+| 25 | [Prime Check](25_Prime_or_Composite.c) | Prime Detection | Number theory |
+| 26 | [Prime Check (While)](26_Check_Prime_or_Composite_using_while-loop.c) | Alternative Implementation | Loop variants |
+| 27 | [N Prime Numbers](27_Print_N_prime_number.c) | Prime Generation | Complex algorithms |
+| 28 | [Series: 1,-2,+3,-4...](28_Sum_Series:1,-2,+3,-4_upto_N.c) | Sign Alternation | Mathematical series |
+| 29 | [Series: -1,2,-3,4...](29_Sum_Series:-1,2,-3,4.c) | Pattern Variations | Series manipulation |
+
+**Learning Goals**: Master complex mathematical operations, understand algorithmic efficiency, and develop problem-solving strategies.
+
+### 🔴 **Advanced Level** (Problems 30-41)
+
+*Tackle sophisticated loop applications and algorithms*  
+
+| # | Problem | Core Concept | Key Learning |
+|---|---------|--------------|--------------|
+| 30 | [Count Digits](30_Count_Digit_of_N.c) | Digit Processing | Number decomposition |
+| 31 | [Reverse Number](31_Reverse_of_N.c) | Number Manipulation | Digit reconstruction |
+| 32 | [Sum of Digits](32_Sum_of_digits_of_N.c) | Digit Summation | Mathematical operations |
+| 33 | [Sum Even Digits](33_Sum_of_Even_digits_of_N.c) | Conditional Summation | Selective processing |
+| 34 | [Sum Odd Digits](34_Sum_of_Odd_Digits_of_N.c) | Filtered Operations | Digit classification |
+| 35 | [Digits Sum & Reverse](35_Sum_of_Digits_of_N_and_its_Reverse.c) | Complex Processing | Multi-step algorithms |
+| 36 | [Sum to Reverse](36_Sum_of_N_to_its_reverse.c) | Number Operations | Advanced manipulation |
+| 37 | [Input Until Odd](37_Taking_Input_until_odd_Number.c) | Conditional Input | Dynamic termination |
+| 38 | [Input Until Multiple of 7](38_Taking_Input_until_mutiplication_of_7.c) | Specific Conditions | Custom validation |
+| 39 | [Palindrome Check](39_Palindrome_or_not.c) | Pattern Recognition | Symmetry detection |
+| 40 | [Armstrong Number](40_Armstrong_Number_or_not.c) | Special Numbers | Mathematical properties |
+| 41 | [Armstrong in Range](41_Armstrong_Number_in_Range.c) | Range Processing | Complex validation |
+
+## 🚀 Quick Start
+
+### Prerequisites
+
+- **C Compiler**: GCC, Clang, or any standard C compiler
+- **Text Editor**: VS Code, Vim, or your preferred editor
+- **Terminal/Command Line**: For compiling and running programs
+
+### Getting Started
+
+1. **Clone or Download**: Get this repository on your local machine
+2. **Choose Your Level**: Start with Foundation problems (1-13) if you're new to loops
+3. **Compile and Run**: Use `gcc filename.c -o output && ./output`
+4. **Practice Regularly**: Aim to solve 2-3 problems per day for steady progress
+
+### Compilation Example
+
+```bash
+# Compile any C file
+gcc 01_Hellow_World_N_times.c -o hello_world
+
+# Run the program
+./hello_world
+
+# For debugging (optional)
+gcc -g -Wall 01_Hellow_World_N_times.c -o hello_world_debug
 ```
 
-### 2. Sum in a Range (While Loop)
+## 🏆 Progress Tracking
 
-```c
-int r = 1, s = 5, sum = 0;
-while (r <= s) {
-    sum += r;
-    r++;
-}
-printf("Sum: %d\n", sum);
-```
+### Achievement Levels
 
-### 3. Factorial of N
+<table>
+<tr>
+<td align="center">
+<h4>🥉 Bronze Achiever</h4>
+<p><strong>Complete 1-13 Problems</strong></p>
+<p>Foundation mastered!<br/>Ready for intermediate challenges.</p>
+</td>
+<td align="center">
+<h4>🥈 Silver Developer</h4>
+<p><strong>Complete 14-29 Problems</strong></p>
+<p>Mathematical thinking unlocked!<br/>Complex algorithms understood.</p>
+</td>
+<td align="center">
+<h4>🥇 Gold Expert</h4>
+<p><strong>Complete 30-41 Problems</strong></p>
+<p>Loop mastery achieved!<br/>Interview-ready confidence.</p>
+</td>
+</tr>
+</table>
+**Completion Checklist**:
 
-```c
-int n = 5, fact = 1;
-for (int i = 1; i <= n; i++) {
-    fact *= i;
-}
-printf("Factorial: %d\n", fact);
-```
+- [ ] Problems 30-36: Digit manipulation and number operations
+- [ ] Problems 37-38: Advanced input validation
+- [ ] Problems 39-41: Special numbers (palindrome, Armstrong)
 
-### 4. Prime Check
+**Skills Unlocked**:
 
-```c
-int n = 7, isPrime = 1;
-for (int i = 2; i < n; i++) {
-    if (n % i == 0) {
-        isPrime = 0;
-        break;
-    }
-}
-printf(isPrime ? "Prime\n" : "Not Prime\n");
-```
+- Advanced digit manipulation
+- Complex validation algorithms
+- Special number detection
+- Multi-step algorithmic thinking
 
-### 5. Input Until Condition (Multiple of 7)
+</details>
 
-```c
-int num;
-do {
-    printf("Enter a number: ");
-    scanf("%d", &num);
-} while (num % 7 != 0);
-printf("You entered a multiple of 7!\n");
-```
+### 📈 Learning Milestones
 
----
-
-## 📂 File Reference Guide
-
-### 🟢 Easy Problems
-
-| #  | File Link                                                        | Description                                      |
-|----|------------------------------------------------------------------|--------------------------------------------------|
-| 1  | [`01_Hellow_World_N_times.c`](01_Hellow_World_N_times.c)         | Print "Hello World" N times                      |
-| 2  | [`02_Printing_Numbers_in_range.c`](02_Printing_Numbers_in_range.c)| Print numbers in a given range                   |
-| 3  | [`03_Print_R_to_S_except_i_to_k.c`](03_Print_R_to_S_except_i_to_k.c) | Print range except for a subrange            |
-| 4  | [`04_Odd_Number_R_to_S.c`](04_Odd_Number_R_to_S.c)               | Print odd numbers in a range                     |
-| 5  | [`05_Odd_Numbers_in_range_using_continue.c`](05_Odd_Numbers_in_range_using_continue.c) | Print odd numbers using continue statement |
-| 6  | [`06_Table_of_N.c`](06_Table_of_N.c)                             | Print multiplication table of N                  |
-| 7  | [`07_Reverse_Table_of_N.c`](07_Reverse_Table_of_N.c)             | Print table of N in reverse order                |
-| 8  | [`08_Sum_of_table_of_N.c`](08_Sum_of_table_of_N.c)               | Sum of the multiplication table of N             |
-| 9  | [`09_Sum_from_R_to_S_using_for-loop.c`](09_Sum_from_R_to_S_using_for-loop.c) | Sum numbers in a range using for loop      |
-| 10 | [`10_Sum_in_range_using_while-loop.c`](10_Sum_in_range_using_while-loop.c) | Sum numbers in a range using while loop    |
-| 11 | [`11_Even_Number_in_range.c`](11_Even_Number_in_range.c)         | Print even numbers in a range                    |
-| 12 | [`12_ASCII_values_of_Characters_for_loop.c`](12_ASCII_values_of_Characters_for_loop.c) | Print ASCII values using a for loop      |
-| 13 | [`13_Printing_ASCII_values_while_loop.c`](13_Printing_ASCII_values_while_loop.c) | Print ASCII values using a while loop     |
+| Milestone | Problems Completed | Skills Achieved |
+|-----------|-------------------|------------------|
+| **First Steps** | 5 problems | Basic loop understanding |
+| **Getting Comfortable** | 15 problems | Mathematical operations |
+| **Building Confidence** | 25 problems | Complex algorithms |
+| **Approaching Mastery** | 35 problems | Advanced techniques |
+| **Loop Master** | All 41 problems | Complete proficiency |
 
 ---
 
-### 🟡 Medium Problems
+## 💡 Study Strategies
 
-| #  | File Link                                                        | Description                                      |
-|----|------------------------------------------------------------------|--------------------------------------------------|
-| 14 | [`14_Factorial_of_N.c`](14_Factorial_of_N.c)                     | Factorial of a given number                      |
-| 15 | [`15_Factorial_in_range.c`](15_Factorial_in_range.c)             | Factorials for numbers in a range                |
-| 16 | [`16_Nth_Fibonacci_Number.c`](16_Nth_Fibonacci_Number.c)         | Find the Nth Fibonacci number                    |
-| 17 | [`17_Fibonacci_Series_From_First_to_N.c`](17_Fibonacci_Series_From_First_to_N.c) | Fibonacci series up to N                 |
-| 18 | [`18_AP_1,3,5,7,_upto_N.c`](18_AP_1,3,5,7,_upto_N.c)             | Print arithmetic progression: 1, 3, 5, ...       |
-| 19 | [`19_AP_4,7,10_upto_N.c`](19_AP_4,7,10_upto_N.c)                 | Print arithmetic progression: 4, 7, 10, ...      |
-| 20 | [`20_GP_1,2,4,8_upto_N.c`](20_GP_1,2,4,8_upto_N.c)               | Print geometric progression: 1, 2, 4, ...        |
-| 21 | [`21_GP_3,12,48.c`](21_GP_3,12,48.c)                             | Print geometric progression: 3, 12, 48, ...      |
-| 22 | [`22_GP_100,50,25_upto_N.c`](22_GP_100,50,25_upto_N.c)           | Print geometric progression: 100, 50, 25, ...    |
-| 23 | [`23_GP_100,97,94_upto_positive_term.c`](23_GP_100,97,94_upto_positive_term.c) | Print decreasing arithmetic progression  |
-| 24 | [`24_Raised_to_the_power.c`](24_Raised_to_the_power.c)           | Calculate power of a number                      |
-| 25 | [`25_Prime_or_Composite.c`](25_Prime_or_Composite.c)             | Check if a number is prime or composite          |
-| 26 | [`26_Check_Prime_or_Composite_using_while-loop.c`](26_Check_Prime_or_Composite_using_while-loop.c) | Prime/composite check using while loop     |
-| 27 | [`27_Print_N_prime_number.c`](27_Print_N_prime_number.c)         | Print first N prime numbers                      |
-| 28 | [`28_Sum_Series:1,-2,+3,-4_upto_N.c`](28_Sum_Series:1,-2,+3,-4_upto_N.c) | Sum a custom alternating series up to N   |
-| 29 | [`29_Sum_Series:-1,2,-3,4.c`](29_Sum_Series:-1,2,-3,4.c)         | Sum a custom alternating series                  |
-| 30 | [`30_Count_Digit_of_N.c`](30_Count_Digit_of_N.c)                 | Count digits in a number                         |
-| 31 | [`31_Reverse_of_N.c`](31_Reverse_of_N.c)                         | Reverse a given number                           |
-| 32 | [`32_Sum_of_digits_of_N.c`](32_Sum_of_digits_of_N.c)             | Sum digits of a number                           |
-| 33 | [`33_Sum_of_Even_digits_of_N.c`](33_Sum_of_Even_digits_of_N.c)   | Sum even digits of a number                      |
-| 34 | [`34_Sum_of_Odd_Digits_of_N.c`](34_Sum_of_Odd_Digits_of_N.c)     | Sum odd digits of a number                       |
-| 35 | [`35_Sum_of_Digits_of_N_and_its_Reverse.c`](35_Sum_of_Digits_of_N_and_its_Reverse.c) | Sum digits of N and its reverse        |
-| 36 | [`36_Sum_of_N_to_its_reverse.c`](36_Sum_of_N_to_its_reverse.c)   | Sum N and its reverse                            |
-| 37 | [`37_Taking_Input_until_odd_Number.c`](37_Taking_Input_until_odd_Number.c) | Input until an odd number is entered     |
-| 38 | [`38_Taking_Input_until_mutiplication_of_7.c`](38_Taking_Input_until_mutiplication_of_7.c) | Input until a multiple of 7 is entered |
+### 🎯 Recommended Learning Path
 
----
+<details>
+<summary><strong>1️⃣ Foundation Building</strong></summary>
 
-### 🔴 Hard Problems
+**Focus**: Problems 1-13 (Foundation Level)
 
-| #  | File Link                                                        | Description                                      |
-|----|------------------------------------------------------------------|--------------------------------------------------|
-| 39 | [`39_Palindrome_or_not.c`](39_Palindrome_or_not.c)               | Check if a number is a palindrome                |
-| 40 | [`40_Armstrong_Number_or_not.c`](40_Armstrong_Number_or_not.c)   | Check if a number is an Armstrong number         |
-| 41 | [`41_Armstrong_Number_in_Range.c`](41_Armstrong_Number_in_Range.c) | Armstrong numbers in a given range             |
+- Problems 1-4 (Basic repetition)
+- Problems 5-8 (Flow control and tables)
+- Problems 9-11 (Sum calculations)
+- Problems 12-13 + Review
 
----
+**Key Concepts**: Basic loop syntax, range operations, simple mathematics
 
-## 🏆 Best Practices for Solving Loop Problems
+</details>
 
-- **Understand the Problem:** Read the prompt carefully and identify the required loop structure.
-- **Plan Before Coding:** Write pseudocode or outline your logic before implementation.
-- **Use Meaningful Names:** Name your variables and files descriptively.
-- **Comment Your Code:** Explain tricky logic, especially for nested loops or mathematical operations.
-- **Test Thoroughly:** Try edge cases and a variety of inputs.
-- **Refactor for Clarity:** Clean up your code for readability and efficiency.
-- **Learn from Mistakes:** Debug and analyze errors to deepen your understanding.
+<details>
+<summary><strong>2️⃣ Mathematical Programming</strong></summary>
+
+**Focus**: Problems 14-29 (Intermediate Level)
+
+- Problems 14-17 (Factorial and Fibonacci)
+- Problems 18-21 (Arithmetic and geometric progressions)
+- Problems 22-26 (Advanced patterns and primes)
+- Problems 27-29 + Review
+
+**Key Concepts**: Mathematical algorithms, series generation, number theory
+
+</details>
+
+<details>
+<summary><strong>3️⃣ Advanced Mastery</strong></summary>
+
+**Focus**: Problems 30-41 (Advanced Level)
+
+- Problems 30-33 (Digit operations)
+- Problems 34-37 (Advanced digit manipulation)
+- Problems 38-41 (Special numbers and validation)
+- Complete review and optimization
+
+**Key Concepts**: Digit manipulation, special numbers, complex validation
+
+</details>
 
 ---
 
-## 💡 Tips for Learners
+## 🛠️ Best Practices
 
-- Start with simple problems and gradually tackle more complex ones.
-- Experiment with different loop types for the same problem.
-- Use print statements to trace and debug your logic.
-- Practice regularly to build speed and confidence.
-- Review and learn from others’ solutions.
+### 📝 Code Quality Guidelines
+
+- **Clear Variable Names**: Use descriptive names like `count`, `sum`, `number` instead of `i`, `j`, `k`
+- **Consistent Formatting**: Maintain proper indentation and spacing
+- **Meaningful Comments**: Explain complex logic and algorithm steps
+- **Error Handling**: Validate input and handle edge cases
+- **Testing**: Test with multiple inputs including boundary values
+
+### ⚡ Performance Tips
+
+| Technique | Description | Example |
+|-----------|-------------|----------|
+| **Minimize Work Inside Loops** | Move invariant calculations outside | `int limit = n * 2; for(...) use limit` |
+| **Use Appropriate Loop Type** | Choose the most suitable loop structure | `for` for counting, `while` for conditions |
+| **Early Termination** | Use break when condition is met | Prime checking with early exit |
+| **Avoid Redundant Operations** | Cache repeated calculations | Store factorial results |
 
 ---
 
-Happy Practicing! 🚀
+## 📖 Additional Learning Resources
+
+### 📚 Essential Reading
+
+- **"The C Programming Language"** by Kernighan & Ritchie - Chapter 3 (Control Flow)
+- **"C: How to Program"** by Deitel & Deitel - Loops and Control Structures
+- **"Programming in C"** by Stephen Kochan - Iteration and Loops
+
+### 🌐 Online Practice Platforms
+
+- **HackerRank** - C Programming Domain (Loop challenges)
+- **LeetCode** - Algorithm practice with iterative solutions
+- **Codewars** - Loop-based kata challenges
+- **GeeksforGeeks** - C Loop tutorials and practice
+
+---
+
+## 🤝 Contributing
+
+Help improve this learning resource!
+
+### 🌟 Ways to Contribute
+
+- 📝 **Add Better Examples**: Enhance problem explanations
+- 🐛 **Fix Issues**: Report and fix bugs in solutions
+- 📚 **Improve Documentation**: Clarify complex concepts
+- 🎨 **Visual Aids**: Create diagrams for algorithms
+- 🧪 **Add Test Cases**: Provide comprehensive test scenarios
+
+---
+
+<div align="center">
+
+## 🚀 Ready to Master C Loops?
+
+**Start with Problem 1 and work your way to becoming a loop expert!**
+
+[![Start Learning](https://img.shields.io/badge/Start%20with-Problem%201-brightgreen.svg?style=for-the-badge)](01_Hellow_World_N_times.c)
+[![Join Community](https://img.shields.io/badge/Join-Community-blue.svg?style=for-the-badge)](https://github.com/rohit528590/CGenesis/discussions)
+
+---
+
+### Quick Navigation
+
+[Foundation](#-foundation-level-problems-1-13) • [Intermediate](#-intermediate-level-problems-14-29) • [Advanced](#-advanced-level-problems-30-41) • [Progress](#-progress-tracking) • [Resources](#-additional-resources)
+
+---
+
+**⭐ Star this repository if it helps you master C loops! ⭐**  
+
+*Happy Coding! 🎉*  
+
+</div>
+
+---
+
+<div align="center">
+<sub>Built with ❤️ for C programming students | Based on proven learning progression | <a href="#-contributing">Contribute</a> | <a href="https://github.com/rohit528590/CGenesis">CGenesis Project</a></sub>
+</div>
