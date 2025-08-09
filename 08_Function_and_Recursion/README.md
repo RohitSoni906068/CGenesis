@@ -4,14 +4,15 @@
 
 ![C Programming](https://img.shields.io/badge/Language-C-blue.svg?style=for-the-badge)
 ![Files](https://img.shields.io/badge/Code%20Files-12-orange.svg?style=for-the-badge)
-![Practice Questions](https://img.shields.io/badge/Practice%20Challenges-22+-red.svg?style=for-the-badge)
+![Function Practice](https://img.shields.io/badge/Function%20Practice-36-green.svg?style=for-the-badge)
+![Recursion Practice](https://img.shields.io/badge/Recursion%20Practice-25-red.svg?style=for-the-badge)
 
 ![Made for Students](https://img.shields.io/badge/Made%20for-Students-purple.svg?style=flat-square)
 ![Hands On Learning](https://img.shields.io/badge/Learning%20Style-Hands%20On-blue.svg?style=flat-square)
 
 **Master modular programming and recursive thinking through hands-on practice!**
 
-[🚀 Quick Start](#-quick-start) • [📚 Course Structure](#-course-structure) • [🎮 Practice](#-practice-challenges) • [💡 Pro Tips](#-pro-tips-for-success)
+[🚀 Quick Start](#-quick-start) • [📚 Learning Structure](#-learning-structure) • [🎮 Practice](#-practice-challenges) • [💡 Pro Tips](#-pro-tips-for-success)
 
 </div>
 
@@ -74,7 +75,7 @@ gcc 01_Function.c -o my_first_function
 
 ---
 
-## 📚 Course Structure
+## 📚 Learning Structure
 
 ### 🌟 **Learning Path: Beginner → Expert**
 
