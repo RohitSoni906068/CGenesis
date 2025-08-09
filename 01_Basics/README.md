@@ -3,7 +3,6 @@
 <div align="center">
 
 ![C Programming](https://img.shields.io/badge/Language-C-blue.svg?style=for-the-badge&logo=c)
-![Status](https://img.shields.io/badge/Status-Active%20Learning-brightgreen.svg?style=for-the-badge)
 ![Files](https://img.shields.io/badge/Code%20Files-12-orange.svg?style=for-the-badge)
 ![Practice Questions](https://img.shields.io/badge/Practice%20Challenges-22+-red.svg?style=for-the-badge)
 
@@ -49,12 +48,12 @@ This course is designed with a **progressive learning approach** - each phase bu
 
 Master the absolute basics of C programming structure and syntax.
 
-| Module | File | Concepts Covered | Status |
-|--------|------|------------------|--------|
-| **Setup & First Program** | [01_First.c](01_First.c) | Hello World, Program execution | ⬜ |
-| **Program Structure** | [02_Boilerplate_code.c](02_Boilerplate_code.c) | `#include`, `main()`, `return` | ⬜ |
-| **Code Documentation** | [03_Comments.c](03_Comments.c) | Single-line, Multi-line comments | ⬜ |
-| **Output Formatting** | [04_Escape_Sequence.c](04_Escape_Sequence.c) | `\n`, `\t`, Special characters | ⬜ |
+| Module | File | Concepts Covered |
+|--------|------|------------------|
+| **Setup & First Program** | [01_First.c](01_First.c) | Hello World, Program execution |
+| **Program Structure** | [02_Boilerplate_code.c](02_Boilerplate_code.c) | `#include`, `main()`, `return` |
+| **Code Documentation** | [03_Comments.c](03_Comments.c) | Single-line, Multi-line comments |
+| **Output Formatting** | [04_Escape_Sequence.c](04_Escape_Sequence.c) | `\n`, `\t`, Special characters |
 
 **🎯 Phase 1 Goal:** Understand basic program structure and be able to write simple output programs.
 
@@ -64,16 +63,16 @@ Master the absolute basics of C programming structure and syntax.
 
 Learn variables, data types, and fundamental operations.
 
-| Module | File | Concepts Covered | Status |
-|--------|------|------------------|--------|
-| **Variables & Memory** | [05_Variable_Declaration.c](05_Variable_Declaration.c) | Declaration, Initialization, Assignment | ⬜ |
-| **Naming Conventions** | [06_Variable_naming_rules.c](06_Variable_naming_rules.c) | Best practices, Rules, Common mistakes | ⬜ |
-| **Data Types** | [08_Data_Types.c](08_Data_Types.c) | `int`, `float`, `char`, Format specifiers | ⬜ |
-| **Memory Management** | [12_Size_of_Data_Types.c](12_Size_of_Data_Types.c) | `sizeof()`, Memory allocation | ⬜ |
-| **User Interaction** | [09_Input_Output.c](09_Input_Output.c) | `scanf()`, `printf()`, User input | ⬜ |
-| **Arithmetic Operations** | [07_Airthmetic(Moduls)_Operator.c](07_Airthmetic(Moduls)_Operator.c) | Basic math, Modulus operator | ⬜ |
-| **Operator Precedence** | [10_Hierarchy_of_operators.c](10_Hierarchy_of_operators.c) | Order of operations, Associativity | ⬜ |
-| **Type Conversion** | [11_TypeCasting.c](11_TypeCasting.c) | Explicit casting, Data conversion | ⬜ |
+| Module | File | Concepts Covered |
+|--------|------|------------------|
+| **Variables & Memory** | [05_Variable_Declaration.c](05_Variable_Declaration.c) | Declaration, Initialization, Assignment |
+| **Naming Conventions** | [06_Variable_naming_rules.c](06_Variable_naming_rules.c) | Best practices, Rules, Common mistakes |
+| **Data Types** | [08_Data_Types.c](08_Data_Types.c) | `int`, `float`, `char`, Format specifiers |
+| **Memory Management** | [12_Size_of_Data_Types.c](12_Size_of_Data_Types.c) | `sizeof()`, Memory allocation |
+| **User Interaction** | [09_Input_Output.c](09_Input_Output.c) | `scanf()`, `printf()`, User input |
+| **Arithmetic Operations** | [07_Airthmetic(Moduls)_Operator.c](07_Airthmetic(Moduls)_Operator.c) | Basic math, Modulus operator |
+| **Operator Precedence** | [10_Hierarchy_of_operators.c](10_Hierarchy_of_operators.c) | Order of operations, Associativity |
+| **Type Conversion** | [11_TypeCasting.c](11_TypeCasting.c) | Explicit casting, Data conversion |
 
 **🎯 Phase 2 Goal:** Create interactive programs that process user input and perform calculations.
 
@@ -151,26 +150,31 @@ int main() {            // Program entry point
 
 ### 🎯 Learning Strategy
 
-- **Code Daily:** Even 30 minutes of consistent practice beats long irregular sessions
+- **Keep It Simple:** Write readable code first, optimize later
 - **Type, Don't Copy:** Always type code manually to build muscle memory
-- **Experiment:** Modify examples and see what happens
-- **Debug Actively:** Use `printf()` to track variable values
+- **Use Meaningful Names:** `student_age` instead of `a`
 
 ### 🔧 Development Habits
 
 - **Comment Everything:** Explain your logic, especially for complex parts
-- **Use Meaningful Names:** `student_age` instead of `a`
+- **Debug Actively:** Use `printf()` to track variable values
+- **Experiment:** Modify examples and see what happens
 - **Test Edge Cases:** Try different inputs, including unexpected ones
-- **Keep It Simple:** Write readable code first, optimize later
 
 ### 📖 Progress Tracking
 
-- [ ] Complete Phase 1 Fundamentals
-- [ ] Solve 5+ Level 1 Challenges  
-- [ ] Complete Phase 2 Core Concepts
-- [ ] Solve 5+ Level 2 Challenges
-- [ ] Attempt Level 3 Bonus Challenges
-- [ ] Create 2 original programs
+<div align="center">
+
+| 🎯 **Learning Milestone** | 📚 **Requirements** | 🏆 **Skill Level** |
+|---------------------------|---------------------|-------------------|
+| **🌱 Foundation Builder** | Complete Phase 1 Fundamentals | Beginner |
+| **🎮 Challenge Solver** | Solve 5+ Level 1 Challenges | Beginner+ |
+| **🔧 Core Developer** | Complete Phase 2 Core Concepts | Intermediate |
+| **💡 Problem Solver** | Solve 5+ Level 2 Challenges | Intermediate+ |
+| **🚀 Advanced Coder** | Attempt Level 3 Bonus Challenges | Advanced |
+| **🎨 Creative Programmer** | Create 2 original programs | Expert |
+
+</div>
 
 ---
 
@@ -186,16 +190,64 @@ Once you've completed this module, you'll be ready for:
 
 ## 🤝 Support & Resources
 
-- **Stuck on a concept?** Review the corresponding `.c` file with detailed comments
-- **Need more practice?** Check [Practice_Questions.txt](Practice_Questions.txt) for additional challenges
-- **Want to explore?** Try combining concepts from different modules
-- **Ready for more?** Start exploring intermediate C programming topics
+<div align="center">
+
+### 📚 Learning Support
+
+| Resource | Purpose | Action |
+|----------|---------|--------|
+| 💡 **Detailed Examples** | Stuck on a concept? | Review corresponding `.c` files with comprehensive comments |
+| 🎯 **Extra Practice** | Need more challenges? | Explore [Practice_Questions.txt](Practice_Questions.txt) for additional problems |
+| 🔗 **Concept Integration** | Ready to experiment? | Combine concepts from different modules for deeper understanding |
+
+</div>
 
 ---
 
-> **"The best way to learn programming is by programming!"** 💻  
-> Keep coding, keep learning, and most importantly - have fun building your programming foundation!
+<div align="center">
 
-**Happy Coding! 🚀**  
+### 💭 Programming Wisdom
+
+> *"The best way to learn programming is by programming!"* 💻  
+
+**Keep coding, keep learning, and most importantly - have fun building your programming foundation!**
+
+[![Happy Coding](https://img.shields.io/badge/Status-Happy%20Coding!-brightgreen?style=for-the-badge&logo=smile)](README.md)
+
+</div>
 
 ---
+
+## 🌟 Support This Project
+
+<div align="center">
+
+**Found this helpful? Show your appreciation!**
+
+[![GitHub stars](https://img.shields.io/github/stars/rohit528590/CGenesis?style=for-the-badge&logo=github&logoColor=white&color=yellow)](https://github.com/rohit528590/CGenesis/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/rohit528590/CGenesis?style=for-the-badge&logo=github&logoColor=white&color=blue)](https://github.com/rohit528590/CGenesis/network/members)
+[![Contribute](https://img.shields.io/badge/💝-Contribute-purple?style=for-the-badge)](https://github.com/rohit528590/CGenesis)
+
+### 🎯 Ways to Support
+
+| Action | Impact | Link |
+|--------|--------|------|
+| ⭐ **Star Repository** | Help others discover this resource | [Star Now](https://github.com/rohit528590/CGenesis) |
+| 🔀 **Fork & Contribute** | Improve the learning experience | [Fork Project](https://github.com/rohit528590/CGenesis/fork) |
+| 📢 **Share with Friends** | Spread knowledge in your community | Share this repository |
+
+---
+
+### 🙏 Thank You
+
+**Every star, fork, and contribution helps build a better learning resource for the C programming community.**
+
+*Happy Coding, future programmer!* 🚀👨‍💻👩‍💻
+
+</div>
+
+---
+
+<div align="center">
+<sub>Built with ❤️ for C programming students | Based on proven learning progression | <a href="https://github.com/rohit528590/CGenesis">🏠 CGenesis Project</a></sub>
+</div>
