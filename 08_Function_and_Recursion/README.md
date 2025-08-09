@@ -3,7 +3,11 @@
 <div align="center">
 
 ![C Programming](https://img.shields.io/badge/Language-C-blue.svg?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Active%20Learning-brightgreen.svg?style=for-the-badge)
+![Files](https://img.shields.io/badge/Code%20Files-12-orange.svg?style=for-the-badge)
+![Practice Questions](https://img.shields.io/badge/Practice%20Challenges-22+-red.svg?style=for-the-badge)
+
+![Made for Students](https://img.shields.io/badge/Made%20for-Students-purple.svg?style=flat-square)
+![Hands On Learning](https://img.shields.io/badge/Learning%20Style-Hands%20On-blue.svg?style=flat-square)
 
 **Master modular programming and recursive thinking through hands-on practice!**
 
@@ -78,34 +82,34 @@ gcc 01_Function.c -o my_first_function
 
 > *Start here if you're new to functions*
 
-| File | What You'll Learn | Time |
-|------|------------------|------|
-| [`01_Function.c`](01_Function.c) | Your first function | 15 min |
-| [`02_Function_Prototype.c`](02_Function_Prototype.c) | Function declarations | 15 min |
-| [`03_Function_with_defination.c`](03_Function_with_defination.c) | Complete function structure | 20 min |
-| [`04_Void_Function.c`](04_Void_Function.c) | Functions without return values | 15 min |
-| [`05_Non-Void_Function.c`](05_Non-Void_Function.c) | Functions that return values | 15 min |
+| File | What You'll Learn |
+|------|------------------|
+| [`01_Function.c`](01_Function.c) | Your first function |
+| [`02_Function_Prototype.c`](02_Function_Prototype.c) | Function declarations |
+| [`03_Function_with_defination.c`](03_Function_with_defination.c) | Complete function structure |
+| [`04_Void_Function.c`](04_Void_Function.c) | Functions without return values |
+| [`05_Non-Void_Function.c`](05_Non-Void_Function.c) | Functions that return values |
 
 #### **Phase 2: Advanced Concepts** ⭐⭐
 
 > *Build deeper understanding*
 
-| File | What You'll Learn | Time |
-|------|------------------|------|
-| [`06_Library_Function.c`](06_Library_Function.c) | Using built-in C functions | 20 min |
-| [`07_C_Limits_File.c`](07_C_Limits_File.c) | Understanding system limits | 15 min |
-| [`08_Scope_Of_Variable.c`](08_Scope_Of_Variable.c) | Variable accessibility rules | 25 min |
-| [`09_Predicated_the_output.c`](09_Predicated_the_output.c) | Test your knowledge | 20 min |
+| File | What You'll Learn |
+|------|------------------|
+| [`06_Library_Function.c`](06_Library_Function.c) | Using built-in C functions |
+| [`07_C_Limits_File.c`](07_C_Limits_File.c) | Understanding system limits |
+| [`08_Scope_Of_Variable.c`](08_Scope_Of_Variable.c) | Variable accessibility rules |
+| [`09_Predicated_the_output.c`](09_Predicated_the_output.c) | Test your knowledge |
 
 #### **Phase 3: Recursion Mastery** ⭐⭐⭐
 
 > *The most exciting part!*
 
-| File | What You'll Learn | Time |
-|------|------------------|------|
-| [`10_Recursive_Function.c`](10_Recursive_Function.c) | Introduction to recursion | 30 min |
-| [`11_Dircet_Recursion.c`](11_Dircet_Recursion.c) | Function calls itself | 25 min |
-| [`12_In-direct_Recursion.c`](12_In-direct_Recursion.c) | Functions calling each other | 30 min |
+| File | What You'll Learn |
+|------|------------------|
+| [`10_Recursive_Function.c`](10_Recursive_Function.c) | Introduction to recursion |
+| [`11_Dircet_Recursion.c`](11_Dircet_Recursion.c) | Function calls itself |
+| [`12_In-direct_Recursion.c`](12_In-direct_Recursion.c) | Functions calling each other |
 
 #### **Phase 4: Practice & Mastery** 🏆
 
@@ -302,9 +306,9 @@ After mastering functions and recursion, level up with:
 
 ### 🌐 **Online Resources**
 
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Ask%20Questions-orange?style=for-the-badge)](https://stackoverflow.com/questions/tagged/c)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-C%20Tutorials-green?style=for-the-badge)](https://www.geeksforgeeks.org/c-programming-language/)
-[![YouTube](https://img.shields.io/badge/YouTube-Video%20Tutorials-red?style=for-the-badge)](https://www.youtube.com/results?search_query=c+programming+functions)
+[![YouTube](https://img.shields.io/badge/YouTube-C%20Functions-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/results?search_query=c+programming+functions+tutorial)
+[![YouTube](https://img.shields.io/badge/YouTube-Recursion%20Guide-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/results?search_query=c+programming+recursion+explained)
 
 </div>
 
@@ -382,8 +386,8 @@ After mastering functions and recursion, level up with:
 
 <div align="center">
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/functions-recursion-c?style=social)](https://github.com/rohit528590/CGenesis/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/functions-recursion-c?style=social)](https://github.com/rohit528590/CGenesis/network/members)
+[![GitHub stars](https://img.shields.io/github/stars/rohit528590/CGenesis?style=social)](https://github.com/rohit528590/CGenesis/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/rohit528590/CGenesis?style=social)](https://github.com/rohit528590/CGenesis/network/members)
 
 **⭐ [Star this Repository](https://github.com/rohit528590/CGenesis) to show your support!**
 
