@@ -5,6 +5,10 @@
 [![C Programming](https://img.shields.io/badge/Language-C-blue.svg)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Conditionals](https://img.shields.io/badge/Topic-Decision%20Logic-orange.svg)](https://github.com/rohit528590/CGenesis/03_If-Else)
 [![Learning Level](https://img.shields.io/badge/Level-Beginner%20to%20Advanced-brightgreen.svg)](https://github.com/rohit528590/CGenesis/03_If-Else)
+[![Files](https://img.shields.io/badge/Code%20Files-08-orange.svg)](https://github.com/rohit528590/CGenesis/tree/main/03_If-Else)
+
+![Made for Students](https://img.shields.io/badge/Made%20for-Students-purple.svg?style=flat-square)
+![Hands On Learning](https://img.shields.io/badge/Learning%20Style-Hands%20On-blue.svg?style=flat-square)
 
 **Master the art of decision-making in C programming through hands-on examples and progressive challenges**  
 
@@ -15,8 +19,6 @@
 ## 🌟 Overview
 
 Welcome to the **Conditionals & Decision Making** module of **CGenesis**! This comprehensive learning resource is designed to transform you from someone who writes sequential code to a programmer who can create intelligent, decision-making applications.
-
-> **Why Conditionals Matter:** Every meaningful program needs to make decisions. Whether you're building a game that responds to player choices, a calculator that handles different operations, or a system that validates user input - conditionals are the backbone of intelligent software.
 
 ### 🎯 What You'll Achieve
 
@@ -37,31 +39,33 @@ By the end of this module, you'll be able to:
 - [💻 Code Examples](#-code-examples)
 - [📖 Reference Guide](#-reference-guide)
 - [🏆 Practice Challenges](#-practice-challenges)
-- [🔧 Tools & Resources](#-tools--resources)
-- [🤝 Contributing](#-contributing)
 
 ---
 
 ## 🚀 Quick Start
 
-### Prerequisites
+### 🎯 Prerequisites
 
-- Basic knowledge of C syntax (variables, input/output)
-- A C compiler (GCC, Dev-C++, or Code::Blocks)
-- Text editor or IDE of your choice
+- Basic understanding of C syntax
+- GCC compiler or any C compiler
+- Text editor or IDE (Code::Blocks, Dev-C++, VS Code)
 
-### Getting Started
-
-1. **Clone or download** this repository
-2. **Start with Phase 1** - Basic conditionals
-3. **Code along** with the examples
-4. **Test your understanding** with practice problems
-5. **Progress systematically** through each phase
+### Compilation & Execution
 
 ```bash
+# Clone the repository
+git clone https://github.com/rohit528590/CGenesis.git
+cd CGenesis/03_If-Else
+
 # Compile any program
 gcc filename.c -o output
+
+# Run the program
 ./output
+
+# Example with Problem 1
+gcc 01_if_Condition.c -o if
+./if
 ```
 
 ---
@@ -114,274 +118,100 @@ Our structured approach takes you from basic if-statements to advanced decision-
 
 ## 💻 Code Examples
 
-### 🔧 **Essential Patterns Every Programmer Should Know**
-
-<details>
-<summary><b>🎯 Basic Decision Making</b></summary>
-
-**Simple Condition Check:**
+### 🔥 **1. Basic if Condition**
 
 ```c
-#include <stdio.h>
-
-int main() {
-    int temperature;
-    printf("Enter temperature: ");
-    scanf("%d", &temperature);
-    
-    // Basic if - executes only when condition is true
-    if (temperature > 30) {
-        printf("🌞 It's hot today! Stay hydrated.\n");
-    }
-    
-    return 0;
+int age = 18;
+if (age >= 18) {
+    printf("You can vote!\n");
 }
 ```
 
-**Binary Decision Making:**
+### 🔥 **2. if-else Condition**
 
 ```c
-#include <stdio.h>
+int number = 15;
+if (number % 2 == 0) {
+    printf("Even\n");
+} else {
+    printf("Odd\n");
+}
+```
 
-int main() {
-    int number;
-    printf("Enter a number: ");
-    scanf("%d", &number);
-    
-    // Two-way decision making
-    if (number % 2 == 0) {
-        printf("✅ %d is even\n", number);
+### 🔥 **3. if-else-if Ladder**
+
+```c
+int marks = 85;
+if (marks >= 90) {
+    printf("Grade A+\n");
+} else if (marks >= 80) {
+    printf("Grade A\n");
+} else if (marks >= 70) {
+    printf("Grade B\n");
+} else {
+    printf("Grade C\n");
+}
+```
+
+### 🔥 **4. Comparison Operators**
+
+```c
+int a = 10, b = 20;
+if (a == b) printf("Equal\n");           // ==
+if (a != b) printf("Not equal\n");       // !=
+if (a < b)  printf("Less than\n");       // <
+if (a > b)  printf("Greater than\n");    // >
+if (a <= b) printf("Less or equal\n");   // <=
+if (a >= b) printf("Greater or equal\n"); // >=
+```
+
+### 🔥 **5. Logical Operators**
+
+```c
+int age = 25, salary = 50000;
+// AND (&&) - All conditions must be true
+if (age >= 21 && salary >= 30000) {
+    printf("Loan approved\n");
+}
+
+// OR (||) - At least one condition must be true
+if (age >= 60 || salary >= 100000) {
+    printf("Premium member\n");
+}
+
+// NOT (!) - Reverses the condition
+if (!(age < 18)) {
+    printf("Adult\n");
+}
+```
+
+### 🔥 **6. Nested if Statements**
+
+```c
+int temp = 25, sunny = 1;
+if (temp >= 20) {
+    if (sunny) {
+        printf("Perfect weather!\n");
     } else {
-        printf("❌ %d is odd\n", number);
+        printf("Good weather\n");
     }
-    
-    return 0;
+} else {
+    printf("Cold weather\n");
 }
 ```
 
-</details>
-
-<details>
-<summary><b>🔗 Advanced Multi-way Logic</b></summary>
-
-**Grade Classification System:**
+### 🔥 **7. Ternary Operator**
 
 ```c
-#include <stdio.h>
+int a = 15, b = 20;
+int max = (a > b) ? a : b;  // Compact if-else
+printf("Max: %d\n", max);
 
-int main() {
-    float marks;
-    printf("Enter your percentage: ");
-    scanf("%f", &marks);
-    
-    // Multi-condition checking with clear priorities
-    if (marks >= 90) {
-        printf("🏆 Outstanding! Grade: A+ (%.1f%%)\n", marks);
-    } else if (marks >= 80) {
-        printf("🎉 Excellent! Grade: A (%.1f%%)\n", marks);
-    } else if (marks >= 70) {
-        printf("👍 Good! Grade: B (%.1f%%)\n", marks);
-    } else if (marks >= 60) {
-        printf("✅ Pass! Grade: C (%.1f%%)\n", marks);
-    } else if (marks >= 0) {
-        printf("❌ Failed! Grade: F (%.1f%%)\n", marks);
-    } else {
-        printf("⚠️ Invalid marks entered!\n");
-    }
-    
-    return 0;
-}
+// Multiple ternary
+int age = 17;
+char* type = (age < 13) ? "child" : (age < 20) ? "teen" : "adult";
+printf("Type: %s\n", type);
 ```
-
-**Menu-Driven Calculator:**
-
-```c
-#include <stdio.h>
-
-int main() {
-    int choice;
-    float num1, num2, result;
-    
-    printf("🧮 Simple Calculator\n");
-    printf("1. Addition\n2. Subtraction\n3. Multiplication\n4. Division\n");
-    printf("Enter your choice (1-4): ");
-    scanf("%d", &choice);
-    
-    printf("Enter two numbers: ");
-    scanf("%f %f", &num1, &num2);
-    
-    switch (choice) {
-        case 1:
-            result = num1 + num2;
-            printf("✅ %.2f + %.2f = %.2f\n", num1, num2, result);
-            break;
-        case 2:
-            result = num1 - num2;
-            printf("✅ %.2f - %.2f = %.2f\n", num1, num2, result);
-            break;
-        case 3:
-            result = num1 * num2;
-            printf("✅ %.2f × %.2f = %.2f\n", num1, num2, result);
-            break;
-        case 4:
-            if (num2 != 0) {
-                result = num1 / num2;
-                printf("✅ %.2f ÷ %.2f = %.2f\n", num1, num2, result);
-            } else {
-                printf("❌ Error: Division by zero!\n");
-            }
-            break;
-        default:
-            printf("❌ Invalid choice! Please select 1-4.\n");
-    }
-    
-    return 0;
-}
-```
-
-</details>
-
-<details>
-<summary><b>🧠 Logical Operations & Complex Conditions</b></summary>
-
-**User Authentication System:**
-
-```c
-#include <stdio.h>
-
-int main() {
-    int age, hasAccount, hasVerifiedEmail;
-    
-    printf("Enter your age: ");
-    scanf("%d", &age);
-    printf("Do you have an account? (1=Yes, 0=No): ");
-    scanf("%d", &hasAccount);
-    printf("Is your email verified? (1=Yes, 0=No): ");
-    scanf("%d", &hasVerifiedEmail);
-    
-    // Complex logical conditions
-    if (age >= 18 && hasAccount && hasVerifiedEmail) {
-        printf("✅ Access granted! Welcome to the platform.\n");
-    } else if (age < 18) {
-        printf("❌ You must be 18+ to access this platform.\n");
-    } else if (!hasAccount) {
-        printf("⚠️ Please create an account first.\n");
-    } else if (!hasVerifiedEmail) {
-        printf("📧 Please verify your email to continue.\n");
-    }
-    
-    return 0;
-}
-```
-
-**Advanced Eligibility Checker:**
-
-```c
-#include <stdio.h>
-
-int main() {
-    int income, creditScore, employmentYears;
-    
-    printf("💳 Loan Eligibility Checker\n");
-    printf("Enter annual income (in thousands): ");
-    scanf("%d", &income);
-    printf("Enter credit score: ");
-    scanf("%d", &creditScore);
-    printf("Years of employment: ");
-    scanf("%d", &employmentYears);
-    
-    // Complex eligibility logic
-    if ((income >= 50 && creditScore >= 700) || 
-        (income >= 30 && creditScore >= 750 && employmentYears >= 3)) {
-        printf("🎉 Congratulations! You're eligible for the loan.\n");
-        
-        // Nested conditions for loan amount
-        if (income >= 100 && creditScore >= 800) {
-            printf("💰 You qualify for our premium loan package.\n");
-        } else {
-            printf("💳 You qualify for our standard loan package.\n");
-        }
-    } else {
-        printf("❌ Sorry, you don't meet the eligibility criteria.\n");
-        
-        // Helpful feedback
-        if (income < 30) {
-            printf("💡 Tip: Increase your income to at least $30k.\n");
-        }
-        if (creditScore < 700) {
-            printf("💡 Tip: Improve your credit score to at least 700.\n");
-        }
-    }
-    
-    return 0;
-}
-```
-
-</details>
-
-<details>
-<summary><b>⚡ Professional Techniques</b></summary>
-
-**Ternary Operator for Concise Code:**
-
-```c
-#include <stdio.h>
-
-int main() {
-    int a = 25, b = 30;
-    
-    // Compact conditional assignment
-    int max = (a > b) ? a : b;
-    int min = (a < b) ? a : b;
-    
-    printf("Numbers: %d and %d\n", a, b);
-    printf("Maximum: %d\n", max);
-    printf("Minimum: %d\n", min);
-    
-    // Nested ternary (use sparingly!)
-    char grade = (max >= 90) ? 'A' : (max >= 80) ? 'B' : (max >= 70) ? 'C' : 'F';
-    printf("Grade for max score: %c\n", grade);
-    
-    return 0;
-}
-```
-
-**Boolean Logic Mastery:**
-
-```c
-#include <stdio.h>
-
-int main() {
-    // Understanding truthiness in C
-    int isLoggedIn = 1;    // True
-    int hasPermission = 0;  // False
-    int userLevel = 5;     // Non-zero = True
-    
-    printf("🔐 Access Control System\n");
-    
-    // Using variables as boolean conditions
-    if (isLoggedIn) {
-        printf("✅ User is logged in\n");
-        
-        if (hasPermission || userLevel > 3) {
-            printf("✅ Access granted to admin panel\n");
-        } else {
-            printf("❌ Insufficient permissions\n");
-        }
-    } else {
-        printf("❌ Please log in first\n");
-    }
-    
-    // Demonstrating operator precedence
-    if (isLoggedIn && (hasPermission || userLevel > 3)) {
-        printf("🎯 Smart condition: User has appropriate access\n");
-    }
-    
-    return 0;
-}
-```
-
-</details>
 
 ---
 
@@ -406,34 +236,16 @@ int main() {
 | `\|\|` | OR | At least one condition must be true | `(a == 5) \|\| (b == 10)` | Either condition is true |
 | `!` | NOT | Reverses the condition | `!(a > 5)` | Original condition is false |
 
-### 📋 **Best Practices Checklist**
-
-#### ✅ **Do:**
-
-- Use meaningful variable names (`isEligible` instead of `flag`)
-- Add comments for complex logical conditions
-- Use consistent indentation (4 spaces recommended)
-- Include `break` statements in switch cases
-- Handle edge cases (division by zero, invalid input)
-- Group related conditions with parentheses for clarity
-
-#### ❌ **Don't:**
-
-- Write deeply nested conditions (more than 3 levels)
-- Use magic numbers (use named constants instead)
-- Forget to handle the default case in switch statements
-- Compare floating-point numbers directly with `==`
-- Chain assignments in conditional expressions
-
 ---
 
 ## 🏆 [Practice Challenges](Practice_Questions.txt)
 
-Folder: 📂 [Practice_Questions.txt](Practice_Questions.txt) 🎯
+### 📁 **if-else Practice** - [Practice_Questions.txt](Practice_Questions.txt)
 
 > **📈 Progress Tracking:** Complete challenges in order to build skills systematically.
 
-### 🌱 **Level 1: Foundation** (⭐)
+<details>
+<summary> 🌱 Level 1: Foundation (⭐)</summary>
 
 *Perfect for building confidence with basic conditionals*  
 
@@ -445,7 +257,10 @@ Folder: 📂 [Practice_Questions.txt](Practice_Questions.txt) 🎯
 | 4 | Password Strength | Check if password length ≥ 8 | `Password: hello` | `❌ Weak password (too short)` |
 | 5 | Temperature Alert | Warn if temp > 35°C or < 0°C | `Temp: 38` | `🌡️ Heat warning!` |
 
-### 🚀 **Level 2: Development** (⭐⭐)
+</details>
+
+<details>
+<summary> 🚀 Level 2: Development (⭐⭐)</summary>
 
 *Intermediate challenges with multiple conditions*  
 
@@ -457,7 +272,10 @@ Folder: 📂 [Practice_Questions.txt](Practice_Questions.txt) 🎯
 | 9 | BMI Calculator | Calculate and categorize BMI | Nested conditions, health ranges |
 | 10 | Login System | Multi-factor authentication checker | Complex logical operations |
 
-### 🎓 **Level 3: Mastery** (⭐⭐⭐)
+</details>
+
+<details>
+<summary> 🎓 Level 3: Mastery (⭐⭐⭐)</summary>
 
 *Advanced real-world problem solving*  
 
@@ -469,71 +287,36 @@ Folder: 📂 [Practice_Questions.txt](Practice_Questions.txt) 🎯
 | 14 | Game Character Stats | RPG character validation and leveling | Complex validation, gaming logic |
 | 15 | E-commerce Discount | Dynamic pricing with multiple discount tiers | Business logic, optimization |
 
-Folder: 📂 [Practice_Questions.txt](Practice_Questions.txt) 🎯
+</details>
+
+---
+<div align="center">
+
+## 🎉 **Ready to Start Your Programming Journey?**
+
+**Begin with [`01_if_Condition.c`](01_if_Condition.c) and take your first step toward becoming a skilled programmer!**
+
+### 🌟 **Remember:**
+
+*Every expert programmer started exactly where you are now. The key is consistent practice and curiosity to learn!*
 
 ---
 
-## 🔧 Tools & Resources
-
-### 📚 **Recommended Reading**
-
-- *The C Programming Language* by Kernighan & Ritchie
-- *C Programming: A Modern Approach* by K.N. King
-
-### 🛠️ **Development Tools**
-
-- **Compiler:** GCC, Clang, or Visual Studio
-- **IDE:** Code::Blocks, Dev-C++, VS Code
-- **Online Compilers:** Repl.it, OnlineGDB, CodeChef IDE
-
-### 🌐 **Additional Resources**
-
-- [C Reference Documentation](https://en.cppreference.com/w/c)
-- [Practice Problems](https://www.hackerrank.com/domains/c)
-- [Debugging Guide](https://debugging.guide/)
-
----
-
-## 🤝 Contributing
-
-We welcome contributions from fellow learners and educators! Here's how you can help:
-
-### 📝 **Ways to Contribute:**
-
-- 🐛 Report bugs or unclear explanations
-- ✨ Suggest new practice problems
-- 📖 Improve documentation and examples
-- 🎯 Add real-world applications
-- 🔧 Optimize existing code
-
-### 📤 **Contribution Process:**
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/new-challenge`)
-3. Commit your changes (`git commit -am 'Add new practice challenge'`)
-4. Push to the branch (`git push origin feature/new-challenge`)
-5. Create a Pull Request
-
----
-
-## 🙏 Acknowledgments
-
-- **Computer Science Educators** who inspire systematic learning
-- **Open Source Community** for making knowledge accessible
-- **Student Developers** who provide feedback and suggestions
-
----
+### 🔗 **Support This Project**
 
 <div align="center">
 
-### 🎯 **Ready to Master Conditionals?**
+[![GitHub stars](https://img.shields.io/github/stars/rohit528590/CGenesis?style=social)](https://github.com/rohit528590/CGenesis/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/rohit528590/CGenesis?style=social)](https://github.com/rohit528590/CGenesis/network/members)
 
-**Start with [01_if_Condition.c](01_if_Condition.c) and begin your journey to intelligent programming!**
+**⭐ [Star this Repository](https://github.com/rohit528590/CGenesis) to show your support!**
 
----
+</div>
 
-*"The best way to learn programming is by writing programs."* - **Dennis Ritchie**
+*Happy Coding, future programmer! 🚀👨‍💻👩‍💻*  
 
-**Happy Coding! 🚀**  
+</div>
 
+<div align="center">
+<sub>Built with ❤️ for C programming students | Based on proven learning progression | <a href="#-contributing">Contribute</a> | <a href="https://github.com/rohit528590/CGenesis">CGenesis Project</a></sub>
 </div>
