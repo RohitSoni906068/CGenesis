@@ -213,6 +213,23 @@ int main() {
 }
 ```
 
+### 🔹 Pattern 4:Remainder Without Modulus
+
+```c
+int num = 17, divisor = 5;
+int quotient = num / divisor;
+int remainder = num - (quotient * divisor);
+printf("Remainder: %d\n", remainder);
+```
+
+### 🔹 Pattern 5: Simple Interest Calculation
+
+```c
+float principal = 1000, rate = 5, time = 2;
+float si = (principal * rate * time) / 100;
+printf("Simple Interest: %.2f\n", si);
+```
+
 ---
 
 ## 🎓 Best Practices
@@ -402,5 +419,5 @@ After mastering these basics, explore:
 </div>
 
 <div align="center">
-<sub>Built with ❤️ for C programming students | Based on proven learning progression | <a href="#-contributing">Contribute</a> | <a href="https://github.com/rohit528590/CGenesis">CGenesis Project</a></sub>
+<sub>Built with ❤️ for C programming students | Based on proven learning progression | <a href="https://github.com/rohit528590/CGenesis">CGenesis Project</a></sub>
 </div>
