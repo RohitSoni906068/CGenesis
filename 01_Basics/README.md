@@ -307,8 +307,8 @@ After mastering these fundamentals, you'll be ready for:
 |---------------------|---------------------|-------------------|
 | **📋 Practice Problems** | [`Practice_Questions.txt`](Practice_Questions.txt) | Additional challenges to reinforce learning |
 | **🐛 Bug Reports & Questions** | [Open an Issue](https://github.com/rohit528590/CGenesis/issues) | Report bugs or ask technical questions |
-| **💬 Community Discussions** | [Join Discussions](https://github.com/rohit528590/CGenesis/discussions) | Connect with other learners and share ideas |
-| **🤝 Contribute** | [Contributing Guidelines](CONTRIBUTING.md) | Help improve the course for everyone |
+| **💬 Community Support** | [GitHub Issues](https://github.com/rohit528590/CGenesis/issues) | Get help with coding problems and technical questions |
+| **🤝 Contribute** | [Fork Repository](https://github.com/rohit528590/CGenesis/fork) | Help improve the course for everyone |
 
 </div>
 
