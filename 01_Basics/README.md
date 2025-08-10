@@ -342,5 +342,5 @@ After mastering these fundamentals, you'll be ready for:
 </div>
 
 <div align="center">
-<sub>Built with ❤️ for C programming students | Based on proven learning progression | <a href="#-contributing">Contribute</a> | <a href="https://github.com/rohit528590/CGenesis">CGenesis Project</a></sub>
+<sub>Built with ❤️ for C programming students | Based on proven learning progression | <a href="https://github.com/rohit528590/CGenesis">CGenesis Project</a></sub>
 </div>
