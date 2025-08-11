@@ -78,11 +78,11 @@ Our structured approach takes you from basic if-statements to advanced decision-
 
 *Master the fundamentals that every programmer needs*  
 
-| 🎯 **Program** | 📚 **Core Concept** | 🔧 **Key Skills** | ⏱️ **Time** |
-|----------------|---------------------|-------------------|-------------|
-| **[01_if_Condition.c](01_if_Condition.c)** | One-way decisions | Basic if statements, condition evaluation | 20 min |
-| **[02_if-else.c](02_if-else.c)** | Two-way branching | Binary decisions, else clause | 25 min |
-| **[06_if_with_0_and_1.c](06_if_with_0_and_1.c)** | Boolean logic in C | Truthiness, 0 vs non-zero values | 30 min |
+| # | 🎯 **Program** | 📚 **Core Concept** | 🔧 **Key Skills** |
+|---|----------------|---------------------|-------------------|
+| 1 | **[if_Condition.c](01_if_Condition.c)** | One-way decisions | Basic if statements, condition evaluation |
+| 2 | **[if-else.c](02_if-else.c)** | Two-way branching | Binary decisions, else clause |
+| 3 | **[if_with_0_and_1.c](06_if_with_0_and_1.c)** | Boolean logic in C | Truthiness, 0 vs non-zero values |
 
 **🎯 Phase Goal:** Write programs that can make basic yes/no decisions
 
@@ -92,12 +92,12 @@ Our structured approach takes you from basic if-statements to advanced decision-
 
 *Learn to handle multiple conditions and scenarios*  
 
-| 🎯 **Program** | 📚 **Core Concept** | 🔧 **Key Skills** | ⏱️ **Time** |
-|----------------|---------------------|-------------------|-------------|
-| **[03_if_else-else-if.c](03_if_else-else-if.c)** | Multi-way branching | Chained conditionals, priority handling | 35 min |
-| **[04_Logical_operators.c](04_Logical_operators.c)** | Compound conditions | AND, OR, NOT operations | 40 min |
-| **[05_Nested-if.c](05_Nested-if.c)** | Layered decision making | Hierarchical logic, code organization | 45 min |
-| **[07_Switch_statements.c](07_Switch_statements.c)** | Multi-case selection | Switch syntax, case handling, break statements | 35 min |
+| # | 🎯 **Program** | 📚 **Core Concept** | 🔧 **Key Skills** |
+|---|----------------|---------------------|-------------------|
+| 4 | **[if_else-else-if.c](03_if_else-else-if.c)** | Multi-way branching | Chained conditionals, priority handling |
+| 5 | **[Logical_operators.c](04_Logical_operators.c)** | Compound conditions | AND, OR, NOT operations |
+| 6 | **[Nested-if.c](05_Nested-if.c)** | Layered decision making | Hierarchical logic, code organization |
+| 7 | **[Switch_statements.c](07_Switch_statements.c)** | Multi-case selection | Switch syntax, case handling, break statements |
 
 **🎯 Phase Goal:** Build sophisticated decision trees and handle complex scenarios
 
@@ -107,10 +107,10 @@ Our structured approach takes you from basic if-statements to advanced decision-
 
 *Write clean, efficient, and maintainable conditional code*  
 
-| 🎯 **Program** | 📚 **Core Concept** | 🔧 **Key Skills** | ⏱️ **Time** |
-|----------------|---------------------|-------------------|-------------|
-| **[08_ternary_if.c](08_ternary_if.c)** | Compact conditionals | Ternary operator, inline decisions | 30 min |
-| **[Practice_Questions.txt](Practice_Questions.txt)** | Real-world applications | Problem-solving, optimization | 2-3 hours |
+| # | 🎯 **Program** | 📚 **Core Concept** | 🔧 **Key Skills** |
+|---|----------------|---------------------|-------------------|
+| 8 | **[ternary_if.c](08_ternary_if.c)** | Compact conditionals | Ternary operator, inline decisions |
+| 9 | **[Practice_Questions.txt](Practice_Questions.txt)** | Real-world applications | Problem-solving, optimization |
 
 **🎯 Phase Goal:** Write professional-grade conditional code with optimal performance
 
