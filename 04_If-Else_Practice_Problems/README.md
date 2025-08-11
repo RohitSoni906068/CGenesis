@@ -5,18 +5,27 @@
 [![C Programming](https://img.shields.io/badge/Language-C-blue.svg)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Practice Problems](https://img.shields.io/badge/Type-Practice%20Problems-green.svg)](https://github.com/rohit528590/CGenesis/04_If-Else_Practice_Problems)
 [![Conditionals](https://img.shields.io/badge/Topic-Decision%20Logic-orange.svg)](https://github.com/rohit528590/CGenesis/03_If-Else)
-[![Learning Level](https://img.shields.io/badge/Level-Beginner%20to%20Advanced-brightgreen.svg)](https://github.com/rohit528590/CGenesis/03_If-Else)
 [![Files](https://img.shields.io/badge/Code%20Files-24-orange.svg)](https://github.com/rohit528590/CGenesis/tree/main/04_If-Else_Practice_Problems)
 
 ![Made for Students](https://img.shields.io/badge/Made%20for-Students-purple.svg?style=flat-square)
 ![Hands On Learning](https://img.shields.io/badge/Learning%20Style-Hands%20On-blue.svg?style=flat-square)
-
+[![Beginner Friendly](https://img.shields.io/badge/Level-Beginner%20Friendly-brightgreen.svg?style=flat-square)](README.md)
 
 </div>
 
 > **Master Conditional Logic Through Real-World Challenges**
 
 Welcome to the **If-Else Practice Problems** module of CGenesis! This comprehensive collection features carefully curated coding challenges designed to help you master conditional logic in C programming. Each problem serves as a stepping stone toward building strong programming fundamentals.
+
+---
+
+## 🧭 Table of Contents
+
+- [🎯 Learning Objectives](#learning-objectives)
+- [📚 Problem Categories](#problem-categories)
+- [💻 Essential Code Examples](#essential-code-examples)
+- [📈 Progress Tracking](#progress-tracking)
+- [🤝 Resources & Support](#resources--support)
 
 ---
 
