@@ -2,16 +2,21 @@
 
 <div align="center">
 
-![Conditional Logic](https://img.shields.io/badge/Focus-Conditional_Logic-ff6b6b?style=for-the-badge&logo=c&logoColor=white)
-![Problems](https://img.shields.io/badge/Problems-24-4ecdc4?style=for-the-badge)
-![Difficulty](https://img.shields.io/badge/Difficulty-Beginner_to_Advanced-45b7d1?style=for-the-badge)
-![Practice](https://img.shields.io/badge/Type-Practice_Problems-9b59b6?style=for-the-badge)
+[![C Programming](https://img.shields.io/badge/Language-C-blue.svg)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![Practice Problems](https://img.shields.io/badge/Type-Practice%20Problems-green.svg)](https://github.com/rohit528590/CGenesis/04_If-Else_Practice_Problems)
+[![Conditionals](https://img.shields.io/badge/Topic-Decision%20Logic-orange.svg)](https://github.com/rohit528590/CGenesis/03_If-Else)
+[![Learning Level](https://img.shields.io/badge/Level-Beginner%20to%20Advanced-brightgreen.svg)](https://github.com/rohit528590/CGenesis/03_If-Else)
+[![Files](https://img.shields.io/badge/Code%20Files-24-orange.svg)](https://github.com/rohit528590/CGenesis/tree/main/04_If-Else_Practice_Problems)
+
+![Made for Students](https://img.shields.io/badge/Made%20for-Students-purple.svg?style=flat-square)
+![Hands On Learning](https://img.shields.io/badge/Learning%20Style-Hands%20On-blue.svg?style=flat-square)
+
 
 </div>
 
 > **Master Conditional Logic Through Real-World Challenges**
 
-Welcome to the **If-Else Practice Problems** module of _The Ultimate C Programming Language_ course! This comprehensive collection features carefully curated coding challenges designed to help you master conditional logic in C programming. Each problem serves as a stepping stone toward building strong programming fundamentals.
+Welcome to the **If-Else Practice Problems** module of CGenesis! This comprehensive collection features carefully curated coding challenges designed to help you master conditional logic in C programming. Each problem serves as a stepping stone toward building strong programming fundamentals.
 
 ---
 
@@ -26,7 +31,79 @@ By completing these practice problems, you will:
 
 ---
 
-## 🚀 Quick Start Examples
+## ⚡ Quick Start Guide
+
+### Prerequisites
+
+- Any C compiler (GCC, Dev-C++, Code::Blocks)
+- Text editor or IDE
+- Enthusiasm to learn! 🔥
+
+### Getting Started
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/rohit528590/CGenesis.git
+
+# 2. Navigate to the project
+cd CGenesis
+
+# 3. Start with Phase 1
+# Open 01_First.c and begin your journey!
+```
+
+---
+
+## 📚 Problem Categories
+
+### 🟢 **Beginner Level** - Foundation Building
+
+_Perfect for building confidence with basic conditional statements_  
+
+| Problem # | File Name | Focus Area | Key Concepts |
+|-----------|-----------|------------|--------------|
+| 01 | [`01_License_or_not.c`](01_License_or_not.c) | Age Validation | Simple if-else conditions |
+| 02 | [`02_Three_Digits_or_not.c`](02_Three_Digits_or_not.c) | Number Range | Boundary conditions |
+| 03 | [`03_Absolute_value.c`](03_Absolute_value.c) | Mathematical Logic | Positive/negative checks |
+| 04 | [`04_Average_of_three_numbers.c`](04_Average_of_three_numbers.c) | Arithmetic Operations | Basic calculations with conditions |
+| 05 | [`05_Area_vs_perimeter_rectangle.c`](05_Area_vs_perimeter_rectangle.c) | Geometric Comparisons | Formula-based conditionals |
+| 06 | [`06_Character_digit_or_not.c`](06_Character_digit_or_not.c) | Character Validation | ASCII value checking |
+| 07 | [`07_Character_lowercase_or_not.c`](07_Character_lowercase_or_not.c) | Character Classification | Case sensitivity |
+| 08 | [`08_Even_or_Odd.c`](08_Even_or_Odd.c) | Modulo Operations | Basic divisibility |
+| 09 | [`09_Dividend_divisible_by_divisor.c`](09_Dividend_divisible_by_divisor.c) | Division Logic | Remainder operations |
+| 10 | [`10_Divisible_by_5.c`](10_Divisible_by_5.c) | Single Divisibility | Specific number patterns |
+| 11 | [`11_Divisible_by_5_and_3.c`](11_Divisible_by_5_and_3.c) | AND Logic | Multiple conditions |
+| 12 | [`12_Divisible_by_5_or_3_not_15.c`](12_Divisible_by_5_or_3_not_15.c) | Complex Logic | Exclusion patterns |
+| 13 | [`13_Logical_operators_practice.c`](13_Logical_operators_practice.c) | Operator Mastery | &&, \|\|, ! operators |
+
+### 🟡 **Intermediate Level** - Skill Enhancement
+
+_Develop more sophisticated conditional reasoning_  
+
+| Problem # | File Name | Focus Area | Key Concepts |
+|-----------|-----------|------------|--------------|
+| 14 | [`14_Profit_or_loss.c`](14_Profit_or_loss.c) | Business Logic | Financial calculations |
+| 15 | [`15_Triangle_validation.c`](15_Triangle_validation.c) | Geometric Rules | Triangle inequality theorem |
+| 16 | [`16_Leap_year_checker.c`](16_Leap_year_checker.c) | Calendar Logic | Complex date rules |
+| 17 | [`17_Grade_system.c`](17_Grade_system.c) | Nested Conditions | Multi-level decision making |
+| 18 | [`18_Greatest_of_three.c`](18_Greatest_of_three.c) | Comparison Logic | Multiple variable comparison |
+| 19 | [`19_Tax_calculation.c`](19_Tax_calculation.c) | Slab-based Logic | Progressive calculations |
+| 20 | [`20_Pass_fail_system.c`](20_Pass_fail_system.c) | Academic Logic | Multi-criteria evaluation |
+| 21 | [`21_Age_comparison.c`](21_Age_comparison.c) | Comparative Analysis | Relative comparisons |
+
+### 🔴 **Advanced Level** - Mastery Challenges
+
+_Polish your skills with complex scenarios_  
+
+| Problem # | File Name | Focus Area | Key Concepts |
+|-----------|-----------|------------|--------------|
+| 22 | [`22_Min_finder.c`](22_Min_finder.c) | Optimization Logic | Efficient comparisons |
+| 23 | [`23_Max_finder.c`](23_Max_finder.c) | Maximum Selection | Advanced comparison techniques |
+| 24 | [`24_MinMax_algorithm.c`](24_MinMax_algorithm.c) | Algorithm Design | Simultaneous min/max finding |
+
+---
+
+## 💻 Essential Code Examples
 
 Get familiar with common conditional patterns through these bite-sized examples:
 
@@ -88,148 +165,31 @@ else                     printf("Break-even (No profit, no loss)\n");
 
 ---
 
-## 📚 Problem Categories
-
-### 🟢 **Beginner Level** - Foundation Building
-
-_Perfect for building confidence with basic conditional statements_  
-
-| Problem # | File Name | Focus Area | Key Concepts |
-|-----------|-----------|------------|--------------|
-| 01 | [`01_License_or_not.c`](01_License_or_not.c) | Age Validation | Simple if-else conditions |
-| 02 | [`02_Three_Digits_or_not.c`](02_Three_Digits_or_not.c) | Number Range | Boundary conditions |
-| 03 | [`03_Absolute_value.c`](03_Absolute_value.c) | Mathematical Logic | Positive/negative checks |
-| 04 | [`04_Average_of_three_numbers.c`](04_Average_of_three_numbers.c) | Arithmetic Operations | Basic calculations with conditions |
-| 05 | [`05_Area_vs_perimeter_rectangle.c`](05_Area_vs_perimeter_rectangle.c) | Geometric Comparisons | Formula-based conditionals |
-| 06 | [`06_Character_digit_or_not.c`](06_Character_digit_or_not.c) | Character Validation | ASCII value checking |
-| 07 | [`07_Character_lowercase_or_not.c`](07_Character_lowercase_or_not.c) | Character Classification | Case sensitivity |
-| 08 | [`08_Even_or_Odd.c`](08_Even_or_Odd.c) | Modulo Operations | Basic divisibility |
-| 09 | [`09_Dividend_divisible_by_divisor.c`](09_Dividend_divisible_by_divisor.c) | Division Logic | Remainder operations |
-| 10 | [`10_Divisible_by_5.c`](10_Divisible_by_5.c) | Single Divisibility | Specific number patterns |
-| 11 | [`11_Divisible_by_5_and_3.c`](11_Divisible_by_5_and_3.c) | AND Logic | Multiple conditions |
-| 12 | [`12_Divisible_by_5_or_3_not_15.c`](12_Divisible_by_5_or_3_not_15.c) | Complex Logic | Exclusion patterns |
-| 13 | [`13_Logical_operators_practice.c`](13_Logical_operators_practice.c) | Operator Mastery | &&, \|\|, ! operators |
-
-### 🟡 **Intermediate Level** - Skill Enhancement
-
-_Develop more sophisticated conditional reasoning_  
-
-| Problem # | File Name | Focus Area | Key Concepts |
-|-----------|-----------|------------|--------------|
-| 14 | [`14_Profit_or_loss.c`](14_Profit_or_loss.c) | Business Logic | Financial calculations |
-| 15 | [`15_Triangle_validation.c`](15_Triangle_validation.c) | Geometric Rules | Triangle inequality theorem |
-| 16 | [`16_Leap_year_checker.c`](16_Leap_year_checker.c) | Calendar Logic | Complex date rules |
-| 17 | [`17_Grade_system.c`](17_Grade_system.c) | Nested Conditions | Multi-level decision making |
-| 18 | [`18_Greatest_of_three.c`](18_Greatest_of_three.c) | Comparison Logic | Multiple variable comparison |
-| 19 | [`19_Tax_calculation.c`](19_Tax_calculation.c) | Slab-based Logic | Progressive calculations |
-| 20 | [`20_Pass_fail_system.c`](20_Pass_fail_system.c) | Academic Logic | Multi-criteria evaluation |
-| 21 | [`21_Age_comparison.c`](21_Age_comparison.c) | Comparative Analysis | Relative comparisons |
-
-### 🔴 **Advanced Level** - Mastery Challenges
-
-_Polish your skills with complex scenarios_  
-
-| Problem # | File Name | Focus Area | Key Concepts |
-|-----------|-----------|------------|--------------|
-| 22 | [`22_Min_finder.c`](22_Min_finder.c) | Optimization Logic | Efficient comparisons |
-| 23 | [`23_Max_finder.c`](23_Max_finder.c) | Maximum Selection | Advanced comparison techniques |
-| 24 | [`24_MinMax_algorithm.c`](24_MinMax_algorithm.c) | Algorithm Design | Simultaneous min/max finding |
-
----
-
-## 🏆 Best Practices & Coding Standards
-
-### **Code Organization**
-
-- 📝 **Use Descriptive Names**: Choose meaningful variable and function names
-- 🗨️ **Comment Strategically**: Explain complex logic, not obvious operations
-- 📐 **Maintain Consistency**: Follow consistent indentation and formatting
-- 🧪 **Include Test Cases**: Always test with various inputs, including edge cases
-
-### **Debugging Strategies**
-
-```c
-// Example: Adding debug prints
-int number = 15;
-printf("DEBUG: Testing number %d\n", number);  // Debug output
-
-if (number % 5 == 0) {
-    printf("DEBUG: Divisible by 5\n");  // Trace execution
-    printf("Number is divisible by 5\n");
-}
-```
-
-### **Error Prevention**
-
-- ⚠️ **Validate Input**: Always check for invalid or unexpected inputs
-- 🔍 **Test Edge Cases**: Include boundary values (0, negative numbers, etc.)
-- 🛡️ **Handle Division by Zero**: Prevent runtime errors in mathematical operations
-
----
-
-## 💡 Study Tips for Maximum Learning
-
-### **Progressive Learning Path**
-
-1. **Start Simple**: Begin with basic if-else statements
-2. **Add Complexity**: Gradually introduce logical operators
-3. **Practice Patterns**: Recognize common conditional patterns
-4. **Optimize Solutions**: Refactor code for better readability and efficiency
-
-### **Problem-Solving Methodology**
-
-1. 📖 **Understand the Problem**: Read requirements carefully
-2. 🎯 **Identify Conditions**: List all decision points
-3. 📝 **Plan Logic Flow**: Create pseudocode or flowchart
-4. 💻 **Implement Solution**: Write clean, readable code
-5. 🧪 **Test Thoroughly**: Verify with multiple test cases
-6. 🔄 **Review & Refactor**: Improve code quality
-
----
-
-## 🛠️ Development Environment Setup
-
-### **Recommended Tools**
-
-- **Compiler**: GCC (GNU Compiler Collection)
-- **IDE Options**: Code::Blocks, Dev-C++, Visual Studio Code
-- **Online Platforms**: Repl.it, CodeBlocks Online, OnlineGDB
-
-### **Compilation Commands**
-
-```bash
-# Basic compilation
-gcc filename.c -o program_name
-
-# With debugging symbols
-gcc -g filename.c -o program_name
-
-# With warnings enabled
-gcc -Wall filename.c -o program_name
-```
-
----
-
 ## 📈 Progress Tracking
 
 Keep track of your learning journey:
 
-- [ ] **Beginner Level**: Complete all 13 basic problems
-- [ ] **Intermediate Level**: Master 8 intermediate challenges  
-- [ ] **Advanced Level**: Conquer 3 complex algorithms
-- [ ] **Code Review**: Refactor and optimize your solutions
-- [ ] **Documentation**: Comment all your code thoroughly
+| 🎯 **Milestone** | 📚 **Requirements** | 🏆 **Achievement Level** |
+|------------------|---------------------|---------------------------|
+| **Foundation Builder** | Complete all 13 basic problems | 🥉 Bronze Conditional Master |
+| **Logic Developer** | Master 8 intermediate challenges | 🥈 Silver Decision Expert |
+| **Algorithm Expert** | Conquer 3 complex algorithms | 🥇 Gold Conditional Wizard |
+| **Code Craftsman** | Refactor and optimize solutions | 💎 Platinum Code Architect |
+| **Documentation Master** | Comment all code thoroughly | 🌟 Ultimate If-Else Champion |
 
 ---
 
-## 🤝 Contributing & Feedback
+## 🤝 Resources & Support
 
-Found an interesting problem variation or improvement? We welcome contributions!
+<div align="center">
 
-- 🐛 **Report Issues**: Found a bug? Let us know!
-- 💡 **Suggest Problems**: Have ideas for new challenges?
-- 📚 **Improve Documentation**: Help make explanations clearer
-- 🎯 **Share Solutions**: Multiple approaches welcome
+| 📚 **Resource Type** | 🔗 **Access Point** | 📝 **Description** |
+|---------------------|---------------------|-------------------|
+| **🐛 Bug Reports & Questions** | [Open an Issue](https://github.com/rohit528590/CGenesis/issues) | Report bugs or ask technical questions |
+| **💬 Community Support** | [GitHub Issues](https://github.com/rohit528590/CGenesis/issues) | Get help with coding problems and technical questions |
+| **🤝 Contribute** | [Fork Repository](https://github.com/rohit528590/CGenesis/fork) | Help improve the course for everyone |
+
+</div>
 
 ---
 
@@ -239,20 +199,27 @@ Found an interesting problem variation or improvement? We welcome contributions!
 
 **Choose your starting point and begin your coding journey!**
 
-[![Beginner](https://img.shields.io/badge/🟢%20Beginner-Problems%201--13-success?style=for-the-badge)](01_License_or_not.c)
-[![Intermediate](https://img.shields.io/badge/🟡%20Intermediate-Problems%2014--21-warning?style=for-the-badge)](14_loss_or_profit.c)
-[![Advanced](https://img.shields.io/badge/🔴%20Advanced-Problems%2022--24-critical?style=for-the-badge)](22_Min_of_two_numbers.c)
-
-### 🎯 Learning Path Recommendation
-
-**New to Programming?** → Start with 🟢 **Beginner** problems to build confidence  
-**Have Basic Knowledge?** → Jump to 🟡 **Intermediate** for skill enhancement  
-**Ready for Challenge?** → Tackle 🔴 **Advanced** problems for mastery
+[![Foundation](https://img.shields.io/badge/🟢%20Foundation-Problems%201--13-success?style=for-the-badge)](01_License_or_not.c)
+[![Intermediate](https://img.shields.io/badge/🟡%20Intermediate-Problems%2014--21-warning?style=for-the-badge)](14_Profit_or_loss.c)
+[![Advanced](https://img.shields.io/badge/🔴%20Advanced-Problems%2022--24-critical?style=for-the-badge)](22_Min_finder.c)
 
 ---
 
-_Remember: Every expert was once a beginner. Keep practicing, stay curious, and enjoy the journey!_ 🚀
+### 🔗 **Support This Project**
 
-**Happy Coding!** 💻✨
+<div align="center">
 
+[![GitHub stars](https://img.shields.io/github/stars/rohit528590/CGenesis?style=social)](https://github.com/rohit528590/CGenesis/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/rohit528590/CGenesis?style=social)](https://github.com/rohit528590/CGenesis/network/members)
+
+**⭐ [Star this Repository](https://github.com/rohit528590/CGenesis) to show your support!**
+
+</div>
+
+*Happy Coding, future programmer! 🚀👨‍💻👩‍💻*  
+
+</div>
+
+<div align="center">
+<sub>Built with ❤️ for C programming students | Based on proven learning progression | <a href="https://github.com/rohit528590/CGenesis">CGenesis Project</a></sub>
 </div>
