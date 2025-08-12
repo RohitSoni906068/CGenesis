@@ -32,13 +32,13 @@ This repository provides a **complete learning pathway** for C programming begin
 
 ## 📚 Table of Contents
 
-1. [Quick Start Guide](#-quick-start-guide)
-2. [Learning Path Overview](#-learning-path-overview)
-3. [Course Modules](#-course-modules)
-4. [Practice Challenges](#-practice-challenges)
-5. [Code Examples](#-essential-code-examples)
-6. [Progress Tracking](#-progress-tracking)
-7. [Resources & Support](#-resources--support)
+- [🚀 Quick Start Guide](#-quick-start-guide)
+- [🎯 Learning Path Overview](#-learning-path-overview)
+- [📖 Course Modules](#-course-modules)
+- [🏆 Practice Challenges](#-practice-challenges)
+- [💻 Essential Code Examples](#-essential-code-examples)
+- [📈 Progress Tracking](#-progress-tracking)
+- [🤝 Resources & Support](#-resources--support)
 
 ---
 
@@ -336,7 +336,18 @@ Ready to level up your C programming journey? Here's your personalized learning 
 
 ### 💪 Your Structured Learning Path
 
-**12 Core Files → 20+ Fundamentals Problems → Fundamentals Mastery!**
+<div align="center">
+
+```
+🌱 Foundation Phase      🔧 Core Concepts      🏆 Practice Mastery
+   (Files 1-4)            (Files 5-12)         (20+ Challenges)
+       ↓                       ↓                      ↓
+   Program Structure    Variables & I/O    Real-world Applications
+```
+
+**📈 Progressive Journey:** `Basic Syntax` → `Core Programming` → `Problem Solving Excellence`
+
+</div>
 
 ---
 
