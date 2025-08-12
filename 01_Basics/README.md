@@ -289,9 +289,13 @@ printf("Hello\nWorld\t2024\n");
 
 ## 🎓 What's Next?
 
-After mastering these fundamentals, you'll be ready for:
+Ready to level up your C programming journey? Here's your personalized learning roadmap:
 
-### Immediate Next Steps
+### 🚀 Immediate Next Challenge
+
+- **[📚 Basic Practice Problems](../02_Basics_Practice_Problems)** - Master C fundamentals through 22 progressive coding challenges with detailed solutions and comprehensive explanations
+
+### 🌟 Topics Awaiting You
 
 - **Control Structures**: `if-else`, `switch` statements
 - **Loops**: `for`, `while`, `do-while` loops
@@ -318,7 +322,11 @@ After mastering these fundamentals, you'll be ready for:
 
 ## 🎉 **Ready to Start Your Programming Journey?**
 
-**Begin with [`01_First.c`](01_First.c) and take your first step toward becoming a skilled programmer!**
+**Follow the exact progression from your carefully crafted examples!**
+
+[![Start with Variables & Data Types](https://img.shields.io/badge/🎯%20Start%20with-Variables%20&%20Data%20Types-blue?style=for-the-badge)](08_Data_Types.c)
+[![Master Input/Output](https://img.shields.io/badge/🧠%20Master-Input/Output%20Operations-green?style=for-the-badge)](09_Input_Output.c)
+[![Practice Fundamentals](https://img.shields.io/badge/🏆%20Practice-C%20Fundamentals-orange?style=for-the-badge)](Practice_Questions.txt)
 
 ### 🌟 **Remember:**
 
@@ -326,21 +334,20 @@ After mastering these fundamentals, you'll be ready for:
 
 ---
 
-### 🔗 **Support This Project**
+### 💪 Your Structured Learning Path
 
-<div align="center">
+**12 Core Files → 20+ Fundamentals Problems → Fundamentals Mastery!**
+
+---
+
+### 🔗 **Support This Project**
 
 [![GitHub stars](https://img.shields.io/github/stars/rohit528590/CGenesis?style=social)](https://github.com/rohit528590/CGenesis/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/rohit528590/CGenesis?style=social)](https://github.com/rohit528590/CGenesis/network/members)
 
 **⭐ [Star this Repository](https://github.com/rohit528590/CGenesis) to show your support!**
 
-</div>
-
 *Happy Coding, future programmer! 🚀👨‍💻👩‍💻*  
 
-</div>
-
-<div align="center">
 <sub>Built with ❤️ for C programming students | Based on proven learning progression | <a href="https://github.com/rohit528590/CGenesis">CGenesis Project</a></sub>
 </div>
