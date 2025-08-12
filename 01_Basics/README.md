@@ -38,6 +38,7 @@ This repository provides a **complete learning pathway** for C programming begin
 - [🏆 Practice Challenges](#-practice-challenges)
 - [💻 Essential Code Examples](#-essential-code-examples)
 - [📈 Progress Tracking](#-progress-tracking)
+- [🎓 What's Next?](#-whats-next)
 - [🤝 Resources & Support](#-resources--support)
 
 ---
