@@ -39,6 +39,7 @@ By the end of this module, you'll be able to:
 - [💻 Code Examples](#-code-examples)
 - [📖 Reference Guide](#-reference-guide)
 - [🏆 Practice Challenges](#-practice-challenges)
+- [🤝 Resources & Support](#-resources--support)
 
 ---
 
@@ -290,11 +291,31 @@ printf("Type: %s\n", type);
 </details>
 
 ---
+
+## 🤝 Resources & Support
+
 <div align="center">
 
-## 🎉 **Ready to Start Your Programming Journey?**
+| 📚 **Resource Type** | 🔗 **Access Point** | 📝 **Description** |
+|---------------------|---------------------|-------------------|
+| **🧠 If-Else Practice Problems** | [`Practice_Questions.txt`](Practice_Questions.txt) | 15+ real-world conditional logic challenges to master decision making |
+| **🐛 Bug Reports & Questions** | [Open an Issue](https://github.com/rohit528590/CGenesis/issues) | Report bugs or ask technical questions |
+| **💬 Community Support** | [GitHub Issues](https://github.com/rohit528590/CGenesis/issues) | Get help with coding problems and technical questions |
+| **🤝 Contribute** | [Fork Repository](https://github.com/rohit528590/CGenesis/fork) | Help improve the course for everyone |
 
-**Begin with [`01_if_Condition.c`](01_if_Condition.c) and take your first step toward becoming a skilled programmer!**
+</div>
+
+---
+
+<div align="center">
+
+## 🚀 Ready to Master C If-Else?
+
+**Follow the exact progression from your carefully crafted examples!**
+
+[![Start with Basic If](https://img.shields.io/badge/🎯%20Start%20with-Basic%20Conditionals-blue?style=for-the-badge)](01_if_Condition.c)
+[![Master Decision Making](https://img.shields.io/badge/🧠%20Master-Decision%20Logic-green?style=for-the-badge)](03_if_else-else-if.c)
+[![Practice Real Problems](https://img.shields.io/badge/🏆%20Practice-Challenge%20Problems-orange?style=for-the-badge)](Practice_Questions.txt)
 
 ### 🌟 **Remember:**
 
@@ -302,21 +323,20 @@ printf("Type: %s\n", type);
 
 ---
 
-### 🔗 **Support This Project**
+### 💪 Your Structured Learning Path
 
-<div align="center">
+**11 Core Files → 50+ If-Else Problems → If-Else Mastery!**
+
+---
+
+### 🔗 **Support This Project**
 
 [![GitHub stars](https://img.shields.io/github/stars/rohit528590/CGenesis?style=social)](https://github.com/rohit528590/CGenesis/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/rohit528590/CGenesis?style=social)](https://github.com/rohit528590/CGenesis/network/members)
 
 **⭐ [Star this Repository](https://github.com/rohit528590/CGenesis) to show your support!**
 
-</div>
-
 *Happy Coding, future programmer! 🚀👨‍💻👩‍💻*  
 
-</div>
-
-<div align="center">
 <sub>Built with ❤️ for C programming students | Based on proven learning progression | <a href="https://github.com/rohit528590/CGenesis">CGenesis Project</a></sub>
 </div>
