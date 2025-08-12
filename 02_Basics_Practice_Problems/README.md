@@ -20,12 +20,13 @@ This comprehensive collection is designed to strengthen your C programming funda
 ## 📋 Table of Contents
 
 - [🎯 Learning Objectives](#-learning-objectives)
-- [🏗️ Problem Categories](#️-problem-categories)
-- [💡 Key Concepts Covered](#-key-concepts-covered)
 - [🛠️ Getting Started](#️-getting-started)
-- [📊 Progress Tracker](#-progress-tracker)
+- [🏗️ Problem Categories](#️-problem-categories)
 - [💻 Code Examples](#-code-examples)
-- [🎓 Best Practices](#-best-practices)
+- [💡 Key Concepts Covered](#-key-concepts-covered)
+- [📊 Progress Tracker](#-progress-tracker)
+- [🎓 What's Next?](#-whats-next)
+- [🤝 Resources & Support](#-resources--support)
 
 ---
 
@@ -255,9 +256,9 @@ Ready to level up your C programming journey? Here's your personalized learning 
 
 | 📚 **Resource Type** | 🔗 **Access Point** | 📝 **Description** |
 |---------------------|---------------------|-------------------|
-| **🐛 Bug Reports & Questions** | [Open an Issue](https://github.com/rohit528590/CGenesis/issues) | Report bugs or ask technical questions |
-| **💬 Community Support** | [GitHub Issues](https://github.com/rohit528590/CGenesis/issues) | Get help with coding problems and technical questions |
-| **🤝 Contribute** | [Fork Repository](https://github.com/rohit528590/CGenesis/fork) | Help improve the course for everyone |
+| **Bug Reports & Questions** | [Open an Issue](https://github.com/rohit528590/CGenesis/issues) | Report bugs or ask technical questions |
+| **Community Support** | [GitHub Issues](https://github.com/rohit528590/CGenesis/issues) | Get help with coding problems and technical questions |
+| **Contribute** | [Fork Repository](https://github.com/rohit528590/CGenesis/fork) | Help improve the course for everyone |
 
 </div>
 
@@ -269,9 +270,9 @@ Ready to level up your C programming journey? Here's your personalized learning 
 
 **Follow the exact progression from your carefully crafted examples!**
 
-[![Start with Foundation Level](https://img.shields.io/badge/🎯%20Start%20with-Foundation%20Level-blue?style=for-the-badge)](01_Sum_of_2_Given_Number.c)
-[![Progress to Intermediate](https://img.shields.io/badge/🧠%20Progress%20to-Intermediate%20Level-green?style=for-the-badge)](09_Calculating_Percentage.c)
-[![Master Advanced Level](https://img.shields.io/badge/🏆%20Master-Advanced%20Level-orange?style=for-the-badge)](17_Celsius_to_Fahrenheit.c)
+[![Start with Foundation Level](https://img.shields.io/badge/%F0%9F%8E%AF%20Start%20with-Foundation%20Level-blue?style=for-the-badge)](01_Sum_of_2_Given_Number.c)
+[![Progress to Intermediate](https://img.shields.io/badge/%F0%9F%A7%A8%20Progress%20to-Intermediate%20Level-green?style=for-the-badge)](09_Calculating_Percentage.c)
+[![Master Advanced Level](https://img.shields.io/badge/%F0%9F%8F%86%20Master-Advanced%20Level-orange?style=for-the-badge)](17_Celsius_to_Fahrenheit.c)
 
 ### 🌟 **Remember:**
 
