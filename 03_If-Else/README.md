@@ -82,9 +82,9 @@ Our structured approach takes you from basic if-statements to advanced decision-
 
 | # | 🎯 **Program** | 📚 **Core Concept** | 🔧 **Key Skills** |
 |---|----------------|---------------------|-------------------|
-| 1 | **[if_Condition.c](01_if_Condition.c)** | One-way decisions | Basic if statements, condition evaluation |
-| 2 | **[if-else.c](02_if-else.c)** | Two-way branching | Binary decisions, else clause |
-| 3 | **[if_with_0_and_1.c](06_if_with_0_and_1.c)** | Boolean logic in C | Truthiness, 0 vs non-zero values |
+| 1 | **[if Condition](01_if_Condition.c)** | One-way decisions | Basic if statements, condition evaluation |
+| 2 | **[if-else](02_if-else.c)** | Two-way branching | Binary decisions, else clause |
+| 3 | **[if with 0 and 1](06_if_with_0_and_1.c)** | Boolean logic in C | Truthiness, 0 vs non-zero values |
 
 **🎯 Phase Goal:** Write programs that can make basic yes/no decisions
 
@@ -96,10 +96,10 @@ Our structured approach takes you from basic if-statements to advanced decision-
 
 | # | 🎯 **Program** | 📚 **Core Concept** | 🔧 **Key Skills** |
 |---|----------------|---------------------|-------------------|
-| 4 | **[if_else-else-if.c](03_if_else-else-if.c)** | Multi-way branching | Chained conditionals, priority handling |
-| 5 | **[Logical_operators.c](04_Logical_operators.c)** | Compound conditions | AND, OR, NOT operations |
-| 6 | **[Nested-if.c](05_Nested-if.c)** | Layered decision making | Hierarchical logic, code organization |
-| 7 | **[Switch_statements.c](07_Switch_statements.c)** | Multi-case selection | Switch syntax, case handling, break statements |
+| 4 | **[if-else_else-if](03_if_else-else-if.c)** | Multi-way branching | Chained conditionals, priority handling |
+| 5 | **[Logical Operators](04_Logical_operators.c)** | Compound conditions | AND, OR, NOT operations |
+| 6 | **[Nested if](05_Nested-if.c)** | Layered decision making | Hierarchical logic, code organization |
+| 7 | **[Switch Statements](07_Switch_statements.c)** | Multi-case selection | Switch syntax, case handling, break statements |
 
 **🎯 Phase Goal:** Build sophisticated decision trees and handle complex scenarios
 
@@ -111,12 +111,25 @@ Our structured approach takes you from basic if-statements to advanced decision-
 
 | # | 🎯 **Program** | 📚 **Core Concept** | 🔧 **Key Skills** |
 |---|----------------|---------------------|-------------------|
-| 8 | **[ternary_if.c](08_ternary_if.c)** | Compact conditionals | Ternary operator, inline decisions |
-| 9 | **[Practice_Questions.txt](Practice_Questions.txt)** | Real-world applications | Problem-solving, optimization |
+| 8 | **[ternary if](08_ternary_if.c)** | Compact conditionals | Ternary operator, inline decisions |
+| 9 | **[Practice Questions](Practice_Questions.txt)** | Real-world applications | Problem-solving, optimization |
 
 **🎯 Phase Goal:** Write professional-grade conditional code with optimal performance
 
 ---
+
+## 🎯 **Recommended Learning Path**
+
+```mermaid
+graph LR
+    A[🟢 Phase 1: Foundation] --> B[🟡 Phase 2: Expansion]
+    B --> C[🟠 Phase 3: Mastery]
+    A --> D[Master Basic Decisions]
+    B --> E[Handle Complex Logic]
+    C --> F[Professional Techniques]
+```
+
+**💡 Pro Tip**: Progress through each phase systematically - master simple if-statements before tackling nested conditions and switch cases!
 
 ## 💻 Code Examples
 
@@ -316,7 +329,7 @@ Ready to level up your C programming journey? Here's your personalized learning 
 
 | 📚 **Resource Type** | 🔗 **Access Point** | 📝 **Description** |
 |---------------------|---------------------|-------------------|
-| **🧠 If-Else Practice Problems** | [`Practice_Questions.txt`](Practice_Questions.txt) | 20+ real-world conditional logic challenges to master decision making |
+| **🧠 If-Else Practice Problems** | [Practice Questions](Practice_Questions.txt) | 20+ real-world conditional logic challenges to master decision making |
 | **🐛 Bug Reports & Questions** | [Open an Issue](https://github.com/rohit528590/CGenesis/issues) | Report bugs or ask technical questions |
 | **💬 Community Support** | [GitHub Issues](https://github.com/rohit528590/CGenesis/issues) | Get help with coding problems and technical questions |
 | **🤝 Contribute** | [Fork Repository](https://github.com/rohit528590/CGenesis/fork) | Help improve the course for everyone |
