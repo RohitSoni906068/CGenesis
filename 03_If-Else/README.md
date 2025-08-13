@@ -39,6 +39,7 @@ By the end of this module, you'll be able to:
 - [💻 Code Examples](#-code-examples)
 - [📖 Reference Guide](#-reference-guide)
 - [🏆 Practice Challenges](#-practice-challenges)
+- [🎯 What's Next?](#-whats-next)
 - [🤝 Resources & Support](#-resources--support)
 
 ---
@@ -292,13 +293,30 @@ printf("Type: %s\n", type);
 
 ---
 
+## 🎯 What's Next?
+
+Ready to level up your C programming journey? Here's your personalized learning roadmap:
+
+### 🚀 Immediate Next Challenge
+
+- **[📚 If-Else Practice Problems](../04_If-Else_Practice_Problems)** - Master C if-else through 22 progressive coding challenges with detailed solutions and comprehensive explanations
+
+### 🌟 Topics Awaiting You
+
+- **Loops**: `for`, `while`, `do-while` loops
+- **Patterns**: Creating patterns using loops
+- **Functions**: Reusable code blocks
+- **Recursion**: Solving problems using self-referential logic
+
+---
+
 ## 🤝 Resources & Support
 
 <div align="center">
 
 | 📚 **Resource Type** | 🔗 **Access Point** | 📝 **Description** |
 |---------------------|---------------------|-------------------|
-| **🧠 If-Else Practice Problems** | [`Practice_Questions.txt`](Practice_Questions.txt) | 15+ real-world conditional logic challenges to master decision making |
+| **🧠 If-Else Practice Problems** | [`Practice_Questions.txt`](Practice_Questions.txt) | 20+ real-world conditional logic challenges to master decision making |
 | **🐛 Bug Reports & Questions** | [Open an Issue](https://github.com/rohit528590/CGenesis/issues) | Report bugs or ask technical questions |
 | **💬 Community Support** | [GitHub Issues](https://github.com/rohit528590/CGenesis/issues) | Get help with coding problems and technical questions |
 | **🤝 Contribute** | [Fork Repository](https://github.com/rohit528590/CGenesis/fork) | Help improve the course for everyone |
@@ -325,7 +343,18 @@ printf("Type: %s\n", type);
 
 ### 💪 Your Structured Learning Path
 
-**11 Core Files → 50+ If-Else Problems → If-Else Mastery!**
+<div align="center">
+
+```
+🌱 Foundation Phase      🔧 Core Concepts      🏆 Practice Mastery
+   (11 Core Files)       (Decision Logic)     (50+ If-Else Problems)
+       ↓                       ↓                      ↓
+   Basic Conditionals    Complex Logic Flow    Real-world Applications
+```
+
+**📈 Progressive Journey:** `Simple If-Else` → `Advanced Conditionals` → `If-Else Mastery Excellence`
+
+</div>
 
 ---
 
