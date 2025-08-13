@@ -102,10 +102,10 @@ graph LR
 
 | # | Module | File | Key Concepts | Difficulty |
 |---|--------|------|-------------|------------|
-| 1 | **First Program** | [First.c](01_First.c) | Hello World, Program execution | ⭐ |
-| 2 | **Program Structure** | [Boilerplate_code.c](02_Boilerplate_code.c) | `#include`, `main()`, `return` | ⭐ |
-| 3 | **Documentation** | [Comments.c](03_Comments.c) | Single-line, Multi-line comments | ⭐ |
-| 4 | **Output Formatting** | [Escape_Sequence.c](04_Escape_Sequence.c) | `\n`, `\t`, Special characters | ⭐ |
+| 1 | **First Program** | [Our First Program](01_First.c) | Hello World, Program execution | ⭐ |
+| 2 | **Program Structure** | [Boilerplate code](02_Boilerplate_code.c) | `#include`, `main()`, `return` | ⭐ |
+| 3 | **Documentation** | [Comments](03_Comments.c) | Single-line, Multi-line comments | ⭐ |
+| 4 | **Output Formatting** | [Escape Sequence](04_Escape_Sequence.c) | `\n`, `\t`, Special characters | ⭐ |
 
 **🎯 Phase 1 Milestone**: Write and execute basic C programs with proper formatting
 
@@ -117,14 +117,14 @@ graph LR
 
 | # | Module | File | Key Concepts | Difficulty |
 |---|--------|------|-------------|------------|
-| 5 | **Variables** | [Variable_Declaration.c](05_Variable_Declaration.c) | Declaration, Initialization | ⭐⭐ |
-| 6 | **Naming Rules** | [Variable_naming_rules.c](06_Variable_naming_rules.c) | Best practices, Conventions | ⭐⭐ |
-| 7 | **Arithmetic** | [Airthmetic(Moduls)_Operator.c](07_Airthmetic(Moduls)_Operator.c) | Math operations, Modulus | ⭐⭐ |
-| 8 | **Data Types** | [Data_Types.c](08_Data_Types.c) | `int`, `float`, `char`, Specifiers | ⭐⭐ |
-| 9 | **Input/Output** | [Input_Output.c](09_Input_Output.c) | `scanf()`, `printf()`, User input | ⭐⭐ |
-| 10 | **Operator Precedence** | [Hierarchy_of_operators.c](10_Hierarchy_of_operators.c) | Order of operations | ⭐⭐⭐ |
-| 11 | **Type Casting** | [TypeCasting.c](11_TypeCasting.c) | Data conversion, Casting | ⭐⭐⭐ |
-| 12 | **Memory Concepts** | [Size_of_Data_Types.c](12_Size_of_Data_Types.c) | `sizeof()`, Memory allocation | ⭐⭐⭐ |
+| 5 | **Variables** | [Variable Declaration](05_Variable_Declaration.c) | Declaration, Initialization | ⭐⭐ |
+| 6 | **Naming Rules** | [Variable naming rules](06_Variable_naming_rules.c) | Best practices, Conventions | ⭐⭐ |
+| 7 | **Arithmetic** | [Airthmetic(Moduls) Operator](07_Airthmetic(Moduls)_Operator.c) | Math operations, Modulus | ⭐⭐ |
+| 8 | **Data Types** | [Data Types](08_Data_Types.c) | `int`, `float`, `char`, Specifiers | ⭐⭐ |
+| 9 | **Input/Output** | [Input Output](09_Input_Output.c) | `scanf()`, `printf()`, User input | ⭐⭐ |
+| 10 | **Operator Precedence** | [Hierarchy of operators](10_Hierarchy_of_operators.c) | Order of operations | ⭐⭐⭐ |
+| 11 | **Type Casting** | [Type Casting](11_TypeCasting.c) | Data conversion, Casting | ⭐⭐⭐ |
+| 12 | **Memory Concepts** | [Size of Data Types](12_Size_of_Data_Types.c) | `sizeof()`, Memory allocation | ⭐⭐⭐ |
 
 **🎯 Phase 2 Milestone**: Create interactive programs that process user input and perform calculations
 
