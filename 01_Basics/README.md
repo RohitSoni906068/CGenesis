@@ -82,8 +82,8 @@ int main() {
 
 ```mermaid
 graph LR
-    A[📖 Phase 1<br/>Fundamentals<br/>3-5 days] --> B[🔧 Phase 2<br/>Core Concepts<br/>5-7 days]
-    B --> C[🏆 Practice<br/>Challenges<br/>Ongoing]
+    A[📖 Phase 1<br/>Fundamentals<br/>] --> B[🔧 Phase 2<br/>Core Concepts<br/>]
+    B --> C[🏆 Practice<br/>Challenges<br/>]
     
     style A fill:#e1f5fe
     style B fill:#f3e5f5
@@ -102,10 +102,10 @@ graph LR
 
 | # | Module | File | Key Concepts | Difficulty |
 |---|--------|------|-------------|------------|
-| 1 | **First Program** | [`01_First.c`](01_First.c) | Hello World, Program execution | ⭐ |
-| 2 | **Program Structure** | [`02_Boilerplate_code.c`](02_Boilerplate_code.c) | `#include`, `main()`, `return` | ⭐ |
-| 3 | **Documentation** | [`03_Comments.c`](03_Comments.c) | Single-line, Multi-line comments | ⭐ |
-| 4 | **Output Formatting** | [`04_Escape_Sequence.c`](04_Escape_Sequence.c) | `\n`, `\t`, Special characters | ⭐ |
+| 1 | **First Program** | [First.c](01_First.c) | Hello World, Program execution | ⭐ |
+| 2 | **Program Structure** | [Boilerplate_code.c](02_Boilerplate_code.c) | `#include`, `main()`, `return` | ⭐ |
+| 3 | **Documentation** | [Comments.c](03_Comments.c) | Single-line, Multi-line comments | ⭐ |
+| 4 | **Output Formatting** | [Escape_Sequence.c](04_Escape_Sequence.c) | `\n`, `\t`, Special characters | ⭐ |
 
 **🎯 Phase 1 Milestone**: Write and execute basic C programs with proper formatting
 
@@ -117,14 +117,14 @@ graph LR
 
 | # | Module | File | Key Concepts | Difficulty |
 |---|--------|------|-------------|------------|
-| 5 | **Variables** | [`05_Variable_Declaration.c`](05_Variable_Declaration.c) | Declaration, Initialization | ⭐⭐ |
-| 6 | **Naming Rules** | [`06_Variable_naming_rules.c`](06_Variable_naming_rules.c) | Best practices, Conventions | ⭐⭐ |
-| 7 | **Arithmetic** | [`07_Airthmetic(Moduls)_Operator.c`](07_Airthmetic(Moduls)_Operator.c) | Math operations, Modulus | ⭐⭐ |
-| 8 | **Data Types** | [`08_Data_Types.c`](08_Data_Types.c) | `int`, `float`, `char`, Specifiers | ⭐⭐ |
-| 9 | **Input/Output** | [`09_Input_Output.c`](09_Input_Output.c) | `scanf()`, `printf()`, User input | ⭐⭐ |
-| 10 | **Operator Precedence** | [`10_Hierarchy_of_operators.c`](10_Hierarchy_of_operators.c) | Order of operations | ⭐⭐⭐ |
-| 11 | **Type Casting** | [`11_TypeCasting.c`](11_TypeCasting.c) | Data conversion, Casting | ⭐⭐⭐ |
-| 12 | **Memory Concepts** | [`12_Size_of_Data_Types.c`](12_Size_of_Data_Types.c) | `sizeof()`, Memory allocation | ⭐⭐⭐ |
+| 5 | **Variables** | [Variable_Declaration.c](05_Variable_Declaration.c) | Declaration, Initialization | ⭐⭐ |
+| 6 | **Naming Rules** | [Variable_naming_rules.c](06_Variable_naming_rules.c) | Best practices, Conventions | ⭐⭐ |
+| 7 | **Arithmetic** | [Airthmetic(Moduls)_Operator.c](07_Airthmetic(Moduls)_Operator.c) | Math operations, Modulus | ⭐⭐ |
+| 8 | **Data Types** | [Data_Types.c](08_Data_Types.c) | `int`, `float`, `char`, Specifiers | ⭐⭐ |
+| 9 | **Input/Output** | [Input_Output.c](09_Input_Output.c) | `scanf()`, `printf()`, User input | ⭐⭐ |
+| 10 | **Operator Precedence** | [Hierarchy_of_operators.c](10_Hierarchy_of_operators.c) | Order of operations | ⭐⭐⭐ |
+| 11 | **Type Casting** | [TypeCasting.c](11_TypeCasting.c) | Data conversion, Casting | ⭐⭐⭐ |
+| 12 | **Memory Concepts** | [Size_of_Data_Types.c](12_Size_of_Data_Types.c) | `sizeof()`, Memory allocation | ⭐⭐⭐ |
 
 **🎯 Phase 2 Milestone**: Create interactive programs that process user input and perform calculations
 
@@ -132,7 +132,7 @@ graph LR
 
 ## 🏆 Practice Challenges
 
-### 📁 Challenge Categories - [`Practice_Questions.txt`](Practice_Questions.txt)
+### 📁 Challenge Categories - [Practice_Questions.txt](Practice_Questions.txt)
 
 <details>
 <summary>🟢 <strong>Level 1: Basic Operations</strong> (Complete after Phase 1)</summary>
