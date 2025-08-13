@@ -10,10 +10,11 @@
 ![Made for Students](https://img.shields.io/badge/Made%20for-Students-purple.svg?style=flat-square)
 ![Hands On Learning](https://img.shields.io/badge/Learning%20Style-Hands%20On-blue.svg?style=flat-square)
 
-</div>
+Welcome to the **Basic Practice Problems** module of **CGenesis**! 🎯
 
-Welcome to the **Basic Practice Problems** module of **CGenesis**! 🎯  
 This comprehensive collection is designed to strengthen your C programming fundamentals through hands-on problem solving. Each exercise builds upon core concepts and helps develop practical coding skills.
+
+</div>
 
 ---
 
@@ -243,10 +244,10 @@ Ready to level up your C programming journey? Here's your personalized learning 
 
 ### 🌟 Topics Awaiting You
 
+- **If-Else**: `if`, `else`, `else if` conditions
+- **If-Else If-Else**: `if`, `else if`, `else` conditions
 - **Loops**: `for`, `while`, `do-while` loops
 - **Patterns**: Creating patterns using loops
-- **Functions**: Reusable code blocks
-- **Recursion**: Solving problems using self-referential functions
 
 ---
 
