@@ -36,8 +36,8 @@ This repository provides a **complete learning pathway** for C programming begin
 - [🎯 Learning Path Overview](#-learning-path-overview)
 - [📖 Course Modules](#-course-modules)
 - [🏆 Practice Challenges](#-practice-challenges)
+- [🎯 Recommended Learning Path](#-recommended-learning-path)
 - [💻 Essential Code Examples](#-essential-code-examples)
-- [📈 Progress Tracking](#-progress-tracking)
 - [🎓 What's Next?](#-whats-next)
 - [🤝 Resources & Support](#-resources--support)
 
@@ -183,6 +183,21 @@ Challenge yourself with complex logical problems and alternative approaches.
 
 ---
 
+## 🎯 **Recommended Learning Path**
+
+```mermaid
+graph LR
+    A[🟢 Phase 1: Foundation] --> B[🟡 Phase 2: Core Concepts]
+    B --> C[🟠 Phase 3: Practice Challenges]
+    A --> D[Master Basic Structure]
+    B --> E[Handle Variables & I/O]
+    C --> F[Apply Real Programming]
+```
+
+**💡 Pro Tip**: Progress through each phase systematically - master program structure and syntax before diving into variables and calculations!
+
+---
+
 ## 💻 Essential Code Examples
 
 ### 1. Essential C Structure
@@ -273,21 +288,6 @@ printf("Hello\nWorld\t2024\n");
 
 ---
 
-## 📈 Progress Tracking
-
-<div align="center">
-
-| 🎯 **Milestone** | 📚 **Requirements** | 🏆 **Achievement Level** |
-|------------------|---------------------|---------------------------|
-| **🌱 Foundation Builder** | Complete Phase 1 + 2 Level 1 challenges | Beginner |
-| **🎮 Problem Solver** | Complete Phase 2 + 5 Level 2 challenges | Intermediate |
-| **🔧 Core Developer** | Master all concepts + 3 Level 3 challenges | Advanced |
-| **🚀 Code Creator** | Create 2 original programs using learned concepts | Expert |
-
-</div>
-
----
-
 ## 🎓 What's Next?
 
 Ready to level up your C programming journey? Here's your personalized learning roadmap:
@@ -310,7 +310,7 @@ Ready to level up your C programming journey? Here's your personalized learning 
 
 | 📚 **Resource Type** | 🔗 **Access Point** | 📝 **Description** |
 |---------------------|---------------------|-------------------|
-| **📋 Practice Problems** | [`Practice_Questions.txt`](Practice_Questions.txt) | Additional challenges to reinforce learning |
+| **📋 Practice Problems** | [Practice_Questions.txt](Practice_Questions.txt) | Additional challenges to reinforce learning |
 | **🐛 Bug Reports & Questions** | [Open an Issue](https://github.com/rohit528590/CGenesis/issues) | Report bugs or ask technical questions |
 | **💬 Community Support** | [GitHub Issues](https://github.com/rohit528590/CGenesis/issues) | Get help with coding problems and technical questions |
 | **🤝 Contribute** | [Fork Repository](https://github.com/rohit528590/CGenesis/fork) | Help improve the course for everyone |
