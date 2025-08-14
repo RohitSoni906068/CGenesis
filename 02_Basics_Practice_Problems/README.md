@@ -7,10 +7,10 @@
 [![Beginner Friendly](https://img.shields.io/badge/Level-Beginner%20Friendly-brightgreen.svg)](https://github.com)
 [![Files](https://img.shields.io/badge/Code%20Files-22-orange.svg)](https://github.com)
 
-![Made for Students](https://img.shields.io/badge/Made%20for-Students-purple.svg?style=flat-square)
-![Hands On Learning](https://img.shields.io/badge/Learning%20Style-Hands%20On-blue.svg?style=flat-square)
-
 Welcome to the **Basic Practice Problems** module of **CGenesis**! 🎯
+
+![Made for & by Students](https://img.shields.io/badge/Made%20for%20%26%20by-Students-purple.svg?style=for-the-badge)
+![Hands On Learning](https://img.shields.io/badge/Learning%20Style-Hands%20On-blue.svg?style=for-the-badge)
 
 This comprehensive collection is designed to strengthen your C programming fundamentals through hands-on problem solving. Each exercise builds upon core concepts and helps develop practical coding skills.
 
