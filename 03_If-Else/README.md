@@ -7,10 +7,10 @@
 [![Learning Level](https://img.shields.io/badge/Level-Beginner%20to%20Advanced-brightgreen.svg)](https://github.com/rohit528590/CGenesis/03_If-Else)
 [![Files](https://img.shields.io/badge/Code%20Files-08-orange.svg)](https://github.com/rohit528590/CGenesis/tree/main/03_If-Else)
 
+**Master the art of decision-making in C programming through hands-on examples and progressive challenges**  
+
 ![Made for Students](https://img.shields.io/badge/Made%20for-Students-purple.svg?style=flat-square)
 ![Hands On Learning](https://img.shields.io/badge/Learning%20Style-Hands%20On-blue.svg?style=flat-square)
-
-**Master the art of decision-making in C programming through hands-on examples and progressive challenges**  
 
 </div>
 
@@ -18,17 +18,17 @@
 
 ## 🌟 Overview
 
-Welcome to the **Conditionals & Decision Making** module of **CGenesis**! This comprehensive learning resource is designed to transform you from someone who writes sequential code to a programmer who can create intelligent, decision-making applications.
+Welcome to the **Conditionals & Decision Making** module of **CGenesis**! Master intelligent decision-making in C programming through practical examples and progressive challenges.
 
-### 🎯 What You'll Achieve
+> **💡 Why Conditionals Matter:** Transform your programs from simple sequential code to intelligent applications that respond dynamically to different scenarios and user inputs.
 
-By the end of this module, you'll be able to:
+### 🎯 What You'll Master
 
-- ✅ Write programs that respond intelligently to different scenarios
-- ✅ Implement complex decision-making logic efficiently
-- ✅ Choose the right conditional structure for any problem
-- ✅ Debug and optimize conditional code like a professional
-- ✅ Build real-world applications with sophisticated logic
+- ✅ **Decision Logic**: if, else if, else, and nested conditionals
+- ✅ **Logical Operators**: &&, ||, ! for complex conditions  
+- ✅ **Switch Statements**: Efficient multi-way branching
+- ✅ **Conditional Expressions**: Ternary operators and optimization
+- ✅ **Real Applications**: Build interactive programs and validation systems
 
 ---
 
@@ -36,9 +36,10 @@ By the end of this module, you'll be able to:
 
 - [🚀 Quick Start](#-quick-start)
 - [🎓 Learning Path](#-learning-path)
+- [🏆 Practice Challenges](#-practice-challenges)
+- [🎯 Recommended Learning Path](#-recommended-learning-path)
 - [💻 Code Examples](#-code-examples)
 - [📖 Reference Guide](#-reference-guide)
-- [🏆 Practice Challenges](#-practice-challenges)
 - [🎯 What's Next?](#-whats-next)
 - [🤝 Resources & Support](#-resources--support)
 
@@ -80,11 +81,11 @@ Our structured approach takes you from basic if-statements to advanced decision-
 
 *Master the fundamentals that every programmer needs*  
 
-| # | 🎯 **Program** | 📚 **Core Concept** | 🔧 **Key Skills** |
-|---|----------------|---------------------|-------------------|
-| 1 | **[if Condition](01_if_Condition.c)** | One-way decisions | Basic if statements, condition evaluation |
-| 2 | **[if-else](02_if-else.c)** | Two-way branching | Binary decisions, else clause |
-| 3 | **[if with 0 and 1](06_if_with_0_and_1.c)** | Boolean logic in C | Truthiness, 0 vs non-zero values |
+| # | 🎯 **Program** | 📊 **Difficulty** | 📚 **Core Concept** | 🔧 **Key Skills** |
+|---|----------------|-------------------|---------------------|-------------------|
+| 1 | **[if Condition](01_if_Condition.c)** | ⭐ | One-way decisions | Basic if statements, condition evaluation |
+| 2 | **[if-else](02_if-else.c)** | ⭐ | Two-way branching | Binary decisions, else clause |
+| 3 | **[if with 0 and 1](06_if_with_0_and_1.c)** | ⭐⭐ | Boolean logic in C | Truthiness, 0 vs non-zero values |
 
 **🎯 Phase Goal:** Write programs that can make basic yes/no decisions
 
@@ -94,12 +95,12 @@ Our structured approach takes you from basic if-statements to advanced decision-
 
 *Learn to handle multiple conditions and scenarios*  
 
-| # | 🎯 **Program** | 📚 **Core Concept** | 🔧 **Key Skills** |
-|---|----------------|---------------------|-------------------|
-| 4 | **[if-else_else-if](03_if_else-else-if.c)** | Multi-way branching | Chained conditionals, priority handling |
-| 5 | **[Logical Operators](04_Logical_operators.c)** | Compound conditions | AND, OR, NOT operations |
-| 6 | **[Nested if](05_Nested-if.c)** | Layered decision making | Hierarchical logic, code organization |
-| 7 | **[Switch Statements](07_Switch_statements.c)** | Multi-case selection | Switch syntax, case handling, break statements |
+| # | 🎯 **Program** | 📊 **Difficulty** | 📚 **Core Concept** | 🔧 **Key Skills** |
+|---|----------------|-------------------|---------------------|-------------------|
+| 4 | **[if-else_else-if](03_if_else-else-if.c)** | ⭐⭐ | Multi-way branching | Chained conditionals, priority handling |
+| 5 | **[Logical Operators](04_Logical_operators.c)** | ⭐⭐⭐ | Compound conditions | AND, OR, NOT operations |
+| 6 | **[Nested if](05_Nested-if.c)** | ⭐⭐⭐ | Layered decision making | Hierarchical logic, code organization |
+| 7 | **[Switch Statements](07_Switch_statements.c)** | ⭐⭐ | Multi-case selection | Switch syntax, case handling, break statements |
 
 **🎯 Phase Goal:** Build sophisticated decision trees and handle complex scenarios
 
@@ -109,12 +110,65 @@ Our structured approach takes you from basic if-statements to advanced decision-
 
 *Write clean, efficient, and maintainable conditional code*  
 
-| # | 🎯 **Program** | 📚 **Core Concept** | 🔧 **Key Skills** |
-|---|----------------|---------------------|-------------------|
-| 8 | **[ternary if](08_ternary_if.c)** | Compact conditionals | Ternary operator, inline decisions |
-| 9 | **[Practice Questions](Practice_Questions.txt)** | Real-world applications | Problem-solving, optimization |
+| # | 🎯 **Program** | 📊 **Difficulty** | 📚 **Core Concept** | 🔧 **Key Skills** |
+|---|----------------|-------------------|---------------------|-------------------|
+| 8 | **[ternary if](08_ternary_if.c)** | ⭐⭐⭐ | Compact conditionals | Ternary operator, inline decisions |
+| 9 | **[Practice Questions](Practice_Questions.txt)** | ⭐⭐⭐⭐ | Real-world applications | Problem-solving, optimization |
 
 **🎯 Phase Goal:** Write professional-grade conditional code with optimal performance
+
+---
+
+## 🏆 [Practice Challenges](Practice_Questions.txt)
+
+### 📁 **if-else Practice** - [Practice_Questions.txt](Practice_Questions.txt)
+
+> **📈 Progress Tracking:** Complete challenges in order to build skills systematically.
+
+<details>
+<summary> 🌱 Level 1: Foundation (⭐)</summary>
+
+*Perfect for building confidence with basic conditionals*  
+
+| # | 🎯 **Challenge** | 📝 **Description** | 🎲 **Sample Input** | ✅ **Expected Output** |
+|---|------------------|--------------------|--------------------|----------------------|
+| 1 | Age Verification | Check driving eligibility (18+) | `Age: 17` | `❌ Not eligible for license` |
+| 2 | Number Sign | Identify positive/negative/zero | `Number: -5` | `📍 Negative number` |
+| 3 | Even or Odd | Classify number parity | `Number: 42` | `✅ Even number` |
+| 4 | Password Strength | Check if password length ≥ 8 | `Password: hello` | `❌ Weak password (too short)` |
+| 5 | Temperature Alert | Warn if temp > 35°C or < 0°C | `Temp: 38` | `🌡️ Heat warning!` |
+
+</details>
+
+<details>
+<summary> 🚀 Level 2: Development (⭐⭐)</summary>
+
+*Intermediate challenges with multiple conditions*  
+
+| # | 🎯 **Challenge** | 📝 **Description** | 🧠 **Key Concepts** |
+|---|------------------|--------------------|--------------------|
+| 6 | Smart Grade Calculator | Assign grades with bonus points | if-else-if, range checking |
+| 7 | Triangle Validator | Check if three sides form a valid triangle | Logical operators, mathematical rules |
+| 8 | Leap Year Checker | Determine leap year using complex rules | Compound conditions, modulus |
+| 9 | BMI Calculator | Calculate and categorize BMI | Nested conditions, health ranges |
+| 10 | Login System | Multi-factor authentication checker | Complex logical operations |
+
+</details>
+
+<details>
+<summary> 🎓 Level 3: Mastery (⭐⭐⭐)</summary>
+
+*Advanced real-world problem solving*  
+
+| # | 🎯 **Challenge** | 📝 **Description** | 🏆 **Advanced Skills** |
+|---|------------------|--------------------|--------------------|
+| 11 | Tax Calculator | Progressive tax calculation system | Multi-tier logic, financial algorithms |
+| 12 | Academic Scholarship | Complex eligibility with multiple criteria | Nested conditions, weighted decisions |
+| 13 | Smart Home System | IoT device control with priority logic | Switch statements, priority handling |
+| 14 | Game Character Stats | RPG character validation and leveling | Complex validation, gaming logic |
+| 15 | E-commerce Discount | Dynamic pricing with multiple discount tiers | Business logic, optimization |
+
+</details>
 
 ---
 
@@ -124,12 +178,16 @@ Our structured approach takes you from basic if-statements to advanced decision-
 graph LR
     A[🟢 Phase 1: Foundation] --> B[🟡 Phase 2: Expansion]
     B --> C[🟠 Phase 3: Mastery]
-    A --> D[Master Basic Decisions]
-    B --> E[Handle Complex Logic]
-    C --> F[Professional Techniques]
+    C --> D[🔴 Phase 4: Practice Challenges]
+    A --> E[Master Basic Decisions]
+    B --> F[Handle Complex Logic]
+    C --> G[Professional Techniques]
+    D --> H[Real-World Applications]
 ```
 
-**💡 Pro Tip**: Progress through each phase systematically - master simple if-statements before tackling nested conditions and switch cases!
+**💡 Pro Tip**: Progress through each phase systematically - master simple if-statements before tackling nested conditions, then apply your skills with challenging practice problems!
+
+---
 
 ## 💻 Code Examples
 
@@ -253,59 +311,6 @@ printf("Type: %s\n", type);
 
 ---
 
-## 🏆 [Practice Challenges](Practice_Questions.txt)
-
-### 📁 **if-else Practice** - [Practice_Questions.txt](Practice_Questions.txt)
-
-> **📈 Progress Tracking:** Complete challenges in order to build skills systematically.
-
-<details>
-<summary> 🌱 Level 1: Foundation (⭐)</summary>
-
-*Perfect for building confidence with basic conditionals*  
-
-| # | 🎯 **Challenge** | 📝 **Description** | 🎲 **Sample Input** | ✅ **Expected Output** |
-|---|------------------|--------------------|--------------------|----------------------|
-| 1 | Age Verification | Check driving eligibility (18+) | `Age: 17` | `❌ Not eligible for license` |
-| 2 | Number Sign | Identify positive/negative/zero | `Number: -5` | `📍 Negative number` |
-| 3 | Even or Odd | Classify number parity | `Number: 42` | `✅ Even number` |
-| 4 | Password Strength | Check if password length ≥ 8 | `Password: hello` | `❌ Weak password (too short)` |
-| 5 | Temperature Alert | Warn if temp > 35°C or < 0°C | `Temp: 38` | `🌡️ Heat warning!` |
-
-</details>
-
-<details>
-<summary> 🚀 Level 2: Development (⭐⭐)</summary>
-
-*Intermediate challenges with multiple conditions*  
-
-| # | 🎯 **Challenge** | 📝 **Description** | 🧠 **Key Concepts** |
-|---|------------------|--------------------|--------------------|
-| 6 | Smart Grade Calculator | Assign grades with bonus points | if-else-if, range checking |
-| 7 | Triangle Validator | Check if three sides form a valid triangle | Logical operators, mathematical rules |
-| 8 | Leap Year Checker | Determine leap year using complex rules | Compound conditions, modulus |
-| 9 | BMI Calculator | Calculate and categorize BMI | Nested conditions, health ranges |
-| 10 | Login System | Multi-factor authentication checker | Complex logical operations |
-
-</details>
-
-<details>
-<summary> 🎓 Level 3: Mastery (⭐⭐⭐)</summary>
-
-*Advanced real-world problem solving*  
-
-| # | 🎯 **Challenge** | 📝 **Description** | 🏆 **Advanced Skills** |
-|---|------------------|--------------------|--------------------|
-| 11 | Tax Calculator | Progressive tax calculation system | Multi-tier logic, financial algorithms |
-| 12 | Academic Scholarship | Complex eligibility with multiple criteria | Nested conditions, weighted decisions |
-| 13 | Smart Home System | IoT device control with priority logic | Switch statements, priority handling |
-| 14 | Game Character Stats | RPG character validation and leveling | Complex validation, gaming logic |
-| 15 | E-commerce Discount | Dynamic pricing with multiple discount tiers | Business logic, optimization |
-
-</details>
-
----
-
 ## 🎯 What's Next?
 
 Ready to level up your C programming journey? Here's your personalized learning roadmap:
@@ -329,7 +334,7 @@ Ready to level up your C programming journey? Here's your personalized learning 
 
 | 📚 **Resource Type** | 🔗 **Access Point** | 📝 **Description** |
 |---------------------|---------------------|-------------------|
-| **🧠 If-Else Practice Problems** | [Practice Questions](Practice_Questions.txt) | 20+ real-world conditional logic challenges to master decision making |
+| **🧠 If-Else Practice Problems** | [Practice_Questions.txt](Practice_Questions.txt) | 20+ real-world conditional logic challenges to master decision making |
 | **🐛 Bug Reports & Questions** | [Open an Issue](https://github.com/rohit528590/CGenesis/issues) | Report bugs or ask technical questions |
 | **💬 Community Support** | [GitHub Issues](https://github.com/rohit528590/CGenesis/issues) | Get help with coding problems and technical questions |
 | **🤝 Contribute** | [Fork Repository](https://github.com/rohit528590/CGenesis/fork) | Help improve the course for everyone |
