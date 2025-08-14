@@ -9,8 +9,8 @@
 
 **Master the art of decision-making in C programming through hands-on examples and progressive challenges**  
 
-![Made for Students](https://img.shields.io/badge/Made%20for-Students-purple.svg?style=flat-square)
-![Hands On Learning](https://img.shields.io/badge/Learning%20Style-Hands%20On-blue.svg?style=flat-square)
+![Made for & by Students](https://img.shields.io/badge/Made%20for%20%26%20by-Students-purple.svg?style=for-the-badge)
+![Hands On Learning](https://img.shields.io/badge/Learning%20Style-Hands%20On-blue.svg?style=for-the-badge)
 
 </div>
 
