@@ -6,11 +6,11 @@
 ![Files](https://img.shields.io/badge/Code%20Files-12-orange.svg?style=for-the-badge)
 ![Practice Questions](https://img.shields.io/badge/Practice%20Challenges-22+-red.svg?style=for-the-badge)
 
-[![Made for Students](https://img.shields.io/badge/Made%20for-Students-purple.svg?style=flat-square)](README.md)
-[![Hands On Learning](https://img.shields.io/badge/Learning%20Style-Hands%20On-blue.svg?style=flat-square)](README.md)
-[![Beginner Friendly](https://img.shields.io/badge/Level-Beginner%20Friendly-brightgreen.svg?style=flat-square)](README.md)
-
 ### 🎯 Master C Programming from Zero to Hero
+
+![Made for & by Students](https://img.shields.io/badge/Made%20for%20%26%20by-Students-purple.svg?style=for-the-badge)
+![Hands On Learning](https://img.shields.io/badge/Learning%20Style-Hands%20On-blue.svg?style=for-the-badge)
+![Beginner Friendly](https://img.shields.io/badge/Level-Beginner%20Friendly-brightgreen.svg?style=for-the-badge)
 
 *A structured, hands-on approach to learning C programming fundamentals*  
 
