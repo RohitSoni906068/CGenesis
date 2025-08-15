@@ -4,15 +4,15 @@
 
 ![C Programming](https://img.shields.io/badge/Language-C-blue.svg?style=for-the-badge&logo=c)
 ![Files](https://img.shields.io/badge/Code%20Files-12-orange.svg?style=for-the-badge)
+![Beginner Friendly](https://img.shields.io/badge/Level-Beginner%20Friendly-brightgreen.svg?style=for-the-badge)
 ![Practice Questions](https://img.shields.io/badge/Practice%20Challenges-22+-red.svg?style=for-the-badge)
 
-### 🎯 Master C Programming from Zero to Hero
+### Welcome to the **Basic Structure Of C** module of **CGenesis**! 🎯
 
 ![Made for & by Students](https://img.shields.io/badge/Made%20for%20%26%20by-Students-purple.svg?style=for-the-badge)
 ![Hands On Learning](https://img.shields.io/badge/Learning%20Style-Hands%20On-blue.svg?style=for-the-badge)
-![Beginner Friendly](https://img.shields.io/badge/Level-Beginner%20Friendly-brightgreen.svg?style=for-the-badge)
 
-*A structured, hands-on approach to learning C programming fundamentals*  
+*A comprehensive, structured journey through C programming fundamentals with hands-on practice and real-world applications*  
 
 </div>
 
@@ -34,7 +34,7 @@ This repository provides a **complete learning pathway** for C programming begin
 
 - [🚀 Quick Start Guide](#-quick-start-guide)
 - [🎯 Learning Path Overview](#-learning-path-overview)
-- [📖 Course Modules](#-course-modules)
+- [📖 Learning Modules](#-learning-modules)
 - [🏆 Practice Challenges](#-practice-challenges)
 - [🎯 Recommended Learning Path](#-recommended-learning-path)
 - [💻 Essential Code Examples](#-essential-code-examples)
@@ -61,7 +61,8 @@ git clone https://github.com/rohit528590/CGenesis.git
 cd CGenesis
 
 # 3. Start with Phase 1
-# Open 01_First.c and begin your journey!
+cd 01_Basics
+Open 01_First.c and begin your journey!
 ```
 
 ### Your First Program
@@ -94,18 +95,18 @@ graph LR
 
 ---
 
-## 📖 Course Modules
+## 📖 Learning Modules
 
 ### Phase 1: Foundation Building 🌱
 
 *Master the absolute basics of C programming structure and syntax*  
 
-| # | Module | File | Key Concepts | Difficulty |
-|---|--------|------|-------------|------------|
-| 1 | **First Program** | [Our First Program](01_First.c) | Hello World, Program execution | ⭐ |
-| 2 | **Program Structure** | [Boilerplate code](02_Boilerplate_code.c) | `#include`, `main()`, `return` | ⭐ |
-| 3 | **Documentation** | [Comments](03_Comments.c) | Single-line, Multi-line comments | ⭐ |
-| 4 | **Output Formatting** | [Escape Sequence](04_Escape_Sequence.c) | `\n`, `\t`, Special characters | ⭐ |
+| # | 📁 **File** | 📊 **Difficulty** | 🔑 **Key Concepts** |
+|---|------|-------------------|---------------------|
+| 1 | [Our First Program](01_First.c) | ⭐ | 👋 Hello World, Program execution |
+| 2 | [Boilerplate code](02_Boilerplate_code.c) | ⭐ | 📚 `#include`, `main()`, `return` |
+| 3 | [Comments](03_Comments.c) | ⭐ | 💬 Single-line, Multi-line comments |
+| 4 | [Escape Sequence](04_Escape_Sequence.c) | ⭐ | ⚡ `\n`, `\t`, Special characters |
 
 **🎯 Phase 1 Milestone**: Write and execute basic C programs with proper formatting
 
@@ -115,16 +116,16 @@ graph LR
 
 *Learn variables, data types, and fundamental operations*  
 
-| # | Module | File | Key Concepts | Difficulty |
-|---|--------|------|-------------|------------|
-| 5 | **Variables** | [Variable Declaration](05_Variable_Declaration.c) | Declaration, Initialization | ⭐⭐ |
-| 6 | **Naming Rules** | [Variable naming rules](06_Variable_naming_rules.c) | Best practices, Conventions | ⭐⭐ |
-| 7 | **Arithmetic** | [Airthmetic(Moduls) Operator](07_Airthmetic(Moduls)_Operator.c) | Math operations, Modulus | ⭐⭐ |
-| 8 | **Data Types** | [Data Types](08_Data_Types.c) | `int`, `float`, `char`, Specifiers | ⭐⭐ |
-| 9 | **Input/Output** | [Input Output](09_Input_Output.c) | `scanf()`, `printf()`, User input | ⭐⭐ |
-| 10 | **Operator Precedence** | [Hierarchy of operators](10_Hierarchy_of_operators.c) | Order of operations | ⭐⭐⭐ |
-| 11 | **Type Casting** | [Type Casting](11_TypeCasting.c) | Data conversion, Casting | ⭐⭐⭐ |
-| 12 | **Memory Concepts** | [Size of Data Types](12_Size_of_Data_Types.c) | `sizeof()`, Memory allocation | ⭐⭐⭐ |
+| # | 📁 **File** | 📊 **Difficulty** | 🔑 **Key Concepts** |
+|---|------|-------------------|---------------------|
+| 5 | [Variable Declaration](05_Variable_Declaration.c) | ⭐⭐ | 📦 Declaration, Initialization |
+| 6 | [Variable naming rules](06_Variable_naming_rules.c) | ⭐⭐ | 📝 Best practices, Conventions |
+| 7 | [Airthmetic(Moduls) Operator](07_Airthmetic(Moduls)_Operator.c) | ⭐⭐ | ➕ Math operations, Modulus |
+| 8 | [Data Types](08_Data_Types.c) | ⭐⭐ | 🏷️ `int`, `float`, `char`, Specifiers |
+| 9 | [Input Output](09_Input_Output.c) | ⭐⭐ | 🔄 `scanf()`, `printf()`, User input |
+| 10 | [Hierarchy of operators](10_Hierarchy_of_operators.c) | ⭐⭐⭐ | 📊 Order of operations |
+| 11 | [Type Casting](11_TypeCasting.c) | ⭐⭐⭐ | 🔄 Data conversion, Casting |
+| 12 | [Size of Data Types](12_Size_of_Data_Types.c) | ⭐⭐⭐ | 📏 `sizeof()`, Memory allocation |
 
 **🎯 Phase 2 Milestone**: Create interactive programs that process user input and perform calculations
 
@@ -139,7 +140,7 @@ graph LR
 
 Perfect for building confidence with simple input/output operations.
 
-| Challenge | Skills | Estimated Time |
+| Challenge | 📊 Skills | Estimated Time |
 |-----------|---------|----------------|
 | Sum of two numbers | Variables, I/O | 15 minutes |
 | Calculate cube | Arithmetic operations | 15 minutes |
@@ -155,7 +156,7 @@ Perfect for building confidence with simple input/output operations.
 
 Apply programming concepts to solve real-world mathematical problems.
 
-| Challenge | Skills | Estimated Time |
+| Challenge | 📊 Skills | Estimated Time |
 |-----------|---------|----------------|
 | Circle area & circumference | Constants, Math formulas | 30 minutes |
 | Grade calculator | Multiple inputs, Percentages | 35 minutes |
@@ -171,7 +172,7 @@ Apply programming concepts to solve real-world mathematical problems.
 
 Challenge yourself with complex logical problems and alternative approaches.
 
-| Challenge | Skills | Estimated Time |
+| Challenge | 📊 Skills | Estimated Time |
 |-----------|---------|----------------|
 | Temperature converter (all units) | Multiple conversions, Logic | 60 minutes |
 | Remainder without modulus | Alternative algorithms | 45 minutes |
@@ -300,7 +301,7 @@ Ready to level up your C programming journey? Here's your personalized learning 
 
 - **Control Structures**: `if-else`, `switch` statements
 - **Loops**: `for`, `while`, `do-while` loops
-- **Patterns**: Creating patterns using loops
+- **Pattern Design**: Master complex geometric patterns and visual algorithms using nested loops
 
 ---
 
