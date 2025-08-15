@@ -140,12 +140,12 @@ graph LR
 
 Perfect for building confidence with simple input/output operations.
 
-| Challenge | 📊 Skills | Estimated Time |
-|-----------|---------|----------------|
-| Sum of two numbers | Variables, I/O | 15 minutes |
-| Calculate cube | Arithmetic operations | 15 minutes |
-| Square perimeter | Basic formulas | 20 minutes |
-| Rectangle area & perimeter | Multiple inputs | 25 minutes |
+| Challenge | 📊 Skills |
+|-----------|---------|
+| Sum of two numbers | Variables, I/O |
+| Calculate cube | Arithmetic operations |
+| Square perimeter | Basic formulas |
+| Rectangle area & perimeter | Multiple inputs |
 
 **Goal**: Master basic programming structure and simple calculations
 
@@ -156,12 +156,12 @@ Perfect for building confidence with simple input/output operations.
 
 Apply programming concepts to solve real-world mathematical problems.
 
-| Challenge | 📊 Skills | Estimated Time |
-|-----------|---------|----------------|
-| Circle area & circumference | Constants, Math formulas | 30 minutes |
-| Grade calculator | Multiple inputs, Percentages | 35 minutes |
-| Simple interest | Complex formulas, User interaction | 40 minutes |
-| Volume calculations | 3D geometry, Advanced math | 45 minutes |
+| Challenge | 📊 Skills |
+|-----------|---------|
+| Circle area & circumference | Constants, Math formulas |
+| Grade calculator | Multiple inputs, Percentages |
+| Simple interest | Complex formulas, User interaction |
+| Volume calculations | 3D geometry, Advanced math |
 
 **Goal**: Combine multiple concepts to solve practical problems
 
@@ -172,11 +172,11 @@ Apply programming concepts to solve real-world mathematical problems.
 
 Challenge yourself with complex logical problems and alternative approaches.
 
-| Challenge | 📊 Skills | Estimated Time |
-|-----------|---------|----------------|
-| Temperature converter (all units) | Multiple conversions, Logic | 60 minutes |
-| Remainder without modulus | Alternative algorithms | 45 minutes |
-| Precision handling | Float operations, Type casting | 50 minutes |
+| Challenge | 📊 Skills |
+|-----------|---------|
+| Temperature converter (all units) | Multiple conversions, Logic |
+| Remainder without modulus | Alternative algorithms |
+| Precision handling | Float operations, Type casting |
 
 **Goal**: Think creatively and develop problem-solving skills
 
