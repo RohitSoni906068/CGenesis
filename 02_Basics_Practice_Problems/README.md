@@ -7,12 +7,12 @@
 [![Beginner Friendly](https://img.shields.io/badge/Level-Beginner%20Friendly-brightgreen.svg)](https://github.com)
 [![Files](https://img.shields.io/badge/Code%20Files-22-orange.svg)](https://github.com)
 
-Welcome to the **Basic Practice Problems** module of **CGenesis**! 🎯
+### Welcome to the **Basic Practice Problems** module of **CGenesis**! 🎯
 
 ![Made for & by Students](https://img.shields.io/badge/Made%20for%20%26%20by-Students-purple.svg?style=for-the-badge)
 ![Hands On Learning](https://img.shields.io/badge/Learning%20Style-Hands%20On-blue.svg?style=for-the-badge)
 
-This comprehensive collection is designed to strengthen your C programming fundamentals through hands-on problem solving. Each exercise builds upon core concepts and helps develop practical coding skills.
+*Master fundamental C programming through hands-on practice with 22 carefully crafted problems designed to build your coding confidence from the ground up.*
 
 </div>
 
@@ -35,12 +35,12 @@ This comprehensive collection is designed to strengthen your C programming funda
 
 By completing these problems, you will master:
 
-- **Basic Input/Output Operations** with `printf()` and `scanf()`
-- **Arithmetic Operations** and mathematical calculations
-- **Data Types** usage (`int`, `float`, `const`, `#define`)
-- **Type Casting** and precision handling
-- **Mathematical Formulas** implementation in C
-- **Problem-solving Skills** through practical applications
+- **🖥️ Basic Input/Output Operations** with `printf()` and `scanf()`
+- **➕ Arithmetic Operations** and mathematical calculations
+- **🏷️ Data Types** usage (`int`, `float`, `const`, `#define`)
+- **🔄 Type Casting** and precision handling
+- **📐 Mathematical Formulas** implementation in C
+- **🧠 Problem-solving Skills** through practical applications
 
 ---
 
@@ -60,6 +60,8 @@ By completing these problems, you will master:
 ```bash
 # Clone the repository
 git clone https://github.com/rohit528590/CGenesis.git
+
+# Change directory
 cd CGenesis/02_Basics_Practice_Problems
 
 # Compile any program
@@ -91,16 +93,16 @@ gcc 01_Sum_of_2_Given_Number.c -o sum
 
 *Master the basics of C programming with simple arithmetic and geometry*  
 
-| # | Problem | Difficulty | Key Concepts |
+| # | 📁 **Problem** | 📊 **Difficulty** | 🔑 **Key Concepts** |
 |---|---------|------------|--------------|
-| 01 | [Sum of Two Numbers](01_Sum_of_2_Given_Number.c) | ⭐ | Basic I/O, Float operations |
-| 02 | [Cube of a Number](02_Cube_of_N.c) | ⭐ | Integer arithmetic, Power operations |
-| 03 | [Perimeter of Square](03_Perimeter_of_Square.c) | ⭐ | Geometry formulas, Float precision |
-| 04 | [Perimeter of Rectangle](04_Perimeter_of_rectangle.c) | ⭐ | Multiple inputs, Formula application |
-| 05 | [Area of Rectangle](05_Area_of_rectangle.c) | ⭐ | Basic multiplication, Geometry |
-| 06 | [Area of Square](06_Area_of_Square.c) | ⭐ | Square operations, Formatting |
-| 07 | [Area of Circle](07_Area_of_circle.c) | ⭐⭐ | `#define` preprocessor, Pi constant |
-| 08 | [Circumference of Circle](08_Circumference_of_circle.c) | ⭐⭐ | Mathematical constants, Circle geometry |
+| 01 | [Sum of Two Numbers](01_Sum_of_2_Given_Number.c) | ⭐ | 📊 Basic I/O, Float operations |
+| 02 | [Cube of a Number](02_Cube_of_N.c) | ⭐ | 🔢 Integer arithmetic, Power operations |
+| 03 | [Perimeter of Square](03_Perimeter_of_Square.c) | ⭐ | 📐 Geometry formulas, Float precision |
+| 04 | [Perimeter of Rectangle](04_Perimeter_of_rectangle.c) | ⭐ | 📏 Multiple inputs, Formula application |
+| 05 | [Area of Rectangle](05_Area_of_rectangle.c) | ⭐ | 📦 Basic multiplication, Geometry |
+| 06 | [Area of Square](06_Area_of_Square.c) | ⭐ | 🔲 Square operations, Formatting |
+| 07 | [Area of Circle](07_Area_of_circle.c) | ⭐⭐ | 🔴 `#define` preprocessor, Pi constant |
+| 08 | [Circumference of Circle](08_Circumference_of_circle.c) | ⭐⭐ | ⭕ Mathematical constants, Circle geometry |
 
 **🎯 Focus Areas:** Basic syntax, simple calculations, understanding input/output patterns
 
@@ -110,16 +112,16 @@ gcc 01_Sum_of_2_Given_Number.c -o sum
 
 *Apply mathematical concepts and explore advanced operations*  
 
-| # | Problem | Difficulty | Key Concepts |
+| # | 📁 **Problem** | 📊 **Difficulty** | 🔑 **Key Concepts** |
 |---|---------|------------|--------------|
-| 09 | [Calculating Percentage](09_Calculating_Percentage.c) | ⭐⭐ | Multiple inputs, Percentage calculations |
-| 10 | [Simple Interest](10_Calculate_Simple_Interest.c) | ⭐⭐ | Financial mathematics, Formula implementation |
-| 11 | [Find Remainder (Manual)](11_Find_Remainder.c) | ⭐⭐⭐ | Division logic, Mathematical reasoning |
-| 12 | [Find Remainder (Modulus)](12_Finding_remainder_using_moduls.c) | ⭐⭐ | Modulus operator, Comparison with manual method |
-| 13 | [Half of Number](13_Half_of_Number.c) | ⭐⭐ | Division operations, Float precision |
-| 14 | [Fractional Part Extract](14_Fractional_Part_of_Float_N.c) | ⭐⭐⭐ | Type casting, Float manipulation |
-| 15 | [Volume of Cylinder](15_Volume_of_cylinder.c) | ⭐⭐⭐ | 3D geometry, Complex formulas |
-| 16 | [Volume of Sphere](16_Volume_of_Sphere.c) | ⭐⭐⭐ | `const` keyword, Advanced geometry |
+| 09 | [Calculating Percentage](09_Calculating_Percentage.c) | ⭐⭐ | 📈 Multiple inputs, Percentage calculations |
+| 10 | [Simple Interest](10_Calculate_Simple_Interest.c) | ⭐⭐ | 💰 Financial mathematics, Formula implementation |
+| 11 | [Find Remainder (Manual)](11_Find_Remainder.c) | ⭐⭐⭐ | 🧮 Division logic, Mathematical reasoning |
+| 12 | [Find Remainder (Modulus)](12_Finding_remainder_using_moduls.c) | ⭐⭐ | ➗ Modulus operator, Comparison with manual method |
+| 13 | [Half of Number](13_Half_of_Number.c) | ⭐⭐ | ➗ Division operations, Float precision |
+| 14 | [Fractional Part Extract](14_Fractional_Part_of_Float_N.c) | ⭐⭐⭐ | 🔢 Type casting, Float manipulation |
+| 15 | [Volume of Cylinder](15_Volume_of_cylinder.c) | ⭐⭐⭐ | 🥫 3D geometry, Complex formulas |
+| 16 | [Volume of Sphere](16_Volume_of_Sphere.c) | ⭐⭐⭐ | ⚽ `const` keyword, Advanced geometry |
 
 **🎯 Focus Areas:** Complex calculations, type conversions, mathematical logic
 
@@ -129,14 +131,14 @@ gcc 01_Sum_of_2_Given_Number.c -o sum
 
 *Master temperature conversions and formula transformations*  
 
-| # | Problem | Difficulty | Key Concepts |
+| # | 📁 **Problem** | 📊 **Difficulty** | 🔑 **Key Concepts** |
 |---|---------|------------|--------------|
-| 17 | [Celsius to Fahrenheit](17_Celsius_to_Fahrenheit.c) | ⭐⭐⭐ | Temperature conversion, Formula application |
-| 18 | [Celsius to Kelvin](18_Celsius_to_Kelvin.c) | ⭐⭐⭐ | Scientific units, Precision handling |
-| 19 | [Fahrenheit to Celsius](19_Fahrenheit_to_Celsius.c) | ⭐⭐⭐ | Reverse formula calculation |
-| 20 | [Fahrenheit to Kelvin](20_Fahrenheit_to_Kelvin.c) | ⭐⭐⭐⭐ | Multi-step conversions |
-| 21 | [Kelvin to Celsius](21_Kelvin_to_Celsius.c) | ⭐⭐⭐ | Scientific temperature scales |
-| 22 | [Kelvin to Fahrenheit](22_Kelvin_to_Fahrenheit.c) | ⭐⭐⭐⭐ | Complex formula implementation |
+| 17 | [Celsius to Fahrenheit](17_Celsius_to_Fahrenheit.c) | ⭐⭐⭐ | 🌡️ Temperature conversion, Formula application |
+| 18 | [Celsius to Kelvin](18_Celsius_to_Kelvin.c) | ⭐⭐⭐ | ❄️ Scientific units, Precision handling |
+| 19 | [Fahrenheit to Celsius](19_Fahrenheit_to_Celsius.c) | ⭐⭐⭐ | 🔄 Reverse formula calculation |
+| 20 | [Fahrenheit to Kelvin](20_Fahrenheit_to_Kelvin.c) | ⭐⭐⭐⭐ | 🔥 Multi-step conversions |
+| 21 | [Kelvin to Celsius](21_Kelvin_to_Celsius.c) | ⭐⭐⭐ | 🧊 Scientific temperature scales |
+| 22 | [Kelvin to Fahrenheit](22_Kelvin_to_Fahrenheit.c) | ⭐⭐⭐⭐ | ⚡ Complex formula implementation |
 
 **🎯 Focus Areas:** Formula manipulation, scientific calculations, precision control
 
@@ -245,10 +247,10 @@ Ready to level up your C programming journey? Here's your personalized learning 
 
 ### 🌟 Topics Awaiting You
 
-- **If-Else**: `if`, `else`, `else if` conditions
-- **If-Else If-Else**: `if`, `else if`, `else` conditions
-- **Loops**: `for`, `while`, `do-while` loops
-- **Patterns**: Creating patterns using loops
+- **Conditional Logic**: `if`, `else`, `else if` statements for decision making
+- **Loop Structures**: `for`, `while`, `do-while` iterations for repetitive tasks
+- **Pattern Generation**: Visual patterns and mathematical sequences using loops
+- **Control Flow**: `break`, `continue`, and nested structures
 
 ---
 
