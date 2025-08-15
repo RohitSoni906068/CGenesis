@@ -35,10 +35,10 @@
 
 By completing these practice problems, you will:
 
-- ✅ **Master Conditional Logic**: Gain proficiency with `if`, `else if`, `else`, and logical operators
-- ✅ **Develop Problem-Solving Skills**: Learn to break complex problems into manageable steps
-- ✅ **Build Programming Confidence**: Practice with real-world scenarios and edge cases
-- ✅ **Think Like a Developer**: Develop logical reasoning and algorithmic thinking
+- ✅ **Master Conditional Logic**: Gain proficiency with `if`, `else if`, `else`, and logical operators.
+- ✅ **Develop Problem-Solving Skills**: Learn to break complex problems into manageable steps.
+- ✅ **Build Programming Confidence**: Practice with real-world scenarios and edge cases.
+- ✅ **Think Like a Developer**: Develop logical reasoning and algorithmic thinking.
 
 ---
 
