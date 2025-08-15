@@ -4,13 +4,16 @@
 
 [![C Programming](https://img.shields.io/badge/Language-C-blue.svg)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Conditionals](https://img.shields.io/badge/Topic-Decision%20Logic-orange.svg)](https://github.com/rohit528590/CGenesis/03_If-Else)
-[![Learning Level](https://img.shields.io/badge/Level-Beginner%20to%20Advanced-brightgreen.svg)](https://github.com/rohit528590/CGenesis/03_If-Else)
 [![Files](https://img.shields.io/badge/Code%20Files-08-orange.svg)](https://github.com/rohit528590/CGenesis/tree/main/03_If-Else)
+[![Practice Questions](https://img.shields.io/badge/Practice%20Challenges-24+-red.svg)](https://github.com/rohit528590/CGenesis/tree/main/04_If-Else_Practice_Questions)
+[![Learning Level](https://img.shields.io/badge/Level-Beginner%20to%20Advanced-brightgreen.svg)](https://github.com/rohit528590/CGenesis/03_If-Else)
 
-**Master the art of decision-making in C programming through hands-on examples and progressive challenges**  
+### Welcome to the **Conditionals & Decision Making** module of **CGenesis**! 🎯
 
 ![Made for & by Students](https://img.shields.io/badge/Made%20for%20%26%20by-Students-purple.svg?style=for-the-badge)
 ![Hands On Learning](https://img.shields.io/badge/Learning%20Style-Hands%20On-blue.svg?style=for-the-badge)
+
+*A comprehensive, structured journey through C programming conditionals with hands-on practice, real-world decision logic, and progressive skill development*  
 
 </div>
 
@@ -18,17 +21,17 @@
 
 ## 🌟 Overview
 
-Welcome to the **Conditionals & Decision Making** module of **CGenesis**! Master intelligent decision-making in C programming through practical examples and progressive challenges.
+Welcome to the **Conditionals & Decision Making** module of **CGenesis**! 🎯 Master intelligent decision-making in C programming through practical examples and progressive challenges.
 
-> **💡 Why Conditionals Matter:** Transform your programs from simple sequential code to intelligent applications that respond dynamically to different scenarios and user inputs.
+> **💡 Why Conditionals Matter:** Transform programs from simple sequential code to intelligent applications that respond dynamically to different scenarios and user inputs.
 
 ### 🎯 What You'll Master
 
-- ✅ **Decision Logic**: if, else if, else, and nested conditionals
-- ✅ **Logical Operators**: &&, ||, ! for complex conditions  
-- ✅ **Switch Statements**: Efficient multi-way branching
-- ✅ **Conditional Expressions**: Ternary operators and optimization
-- ✅ **Real Applications**: Build interactive programs and validation systems
+- ✅ **Decision Logic**: `if`, `else if`, `else`, and nested conditionals 🔀
+- ✅ **Logical Operators**: `&&`, `||`, `!` for complex conditions ⚡
+- ✅ **Switch Statements**: Efficient multi-way branching 🔄
+- ✅ **Conditional Expressions**: Ternary operators and optimization 🎯
+- ✅ **Real Applications**: Build interactive programs and validation systems 🚀
 
 ---
 
@@ -58,6 +61,8 @@ Welcome to the **Conditionals & Decision Making** module of **CGenesis**! Master
 ```bash
 # Clone the repository
 git clone https://github.com/rohit528590/CGenesis.git
+
+# Change directory
 cd CGenesis/03_If-Else
 
 # Compile any program
@@ -81,11 +86,11 @@ Our structured approach takes you from basic if-statements to advanced decision-
 
 *Master the fundamentals that every programmer needs*  
 
-| # | 🎯 **Program** | 📊 **Difficulty** | 📚 **Core Concept** | 🔧 **Key Skills** |
-|---|----------------|-------------------|---------------------|-------------------|
-| 1 | **[if Condition](01_if_Condition.c)** | ⭐ | One-way decisions | Basic if statements, condition evaluation |
-| 2 | **[if-else](02_if-else.c)** | ⭐ | Two-way branching | Binary decisions, else clause |
-| 3 | **[if with 0 and 1](06_if_with_0_and_1.c)** | ⭐⭐ | Boolean logic in C | Truthiness, 0 vs non-zero values |
+| # | 🎯 **Program** | 📊 **Difficulty** | 🔧 **Key Skills** |
+|---|----------------|-------------------|-------------------|
+| 1 | **[if Condition](01_if_Condition.c)** | ⭐ | 🚦 Basic if statements, condition evaluation |
+| 2 | **[if-else](02_if-else.c)** | ⭐ | 🔀 Binary decisions, else clause |
+| 3 | **[if with 0 and 1](06_if_with_0_and_1.c)** | ⭐⭐ | ⚡ Truthiness, 0 vs non-zero values |
 
 **🎯 Phase Goal:** Write programs that can make basic yes/no decisions
 
@@ -95,12 +100,12 @@ Our structured approach takes you from basic if-statements to advanced decision-
 
 *Learn to handle multiple conditions and scenarios*  
 
-| # | 🎯 **Program** | 📊 **Difficulty** | 📚 **Core Concept** | 🔧 **Key Skills** |
-|---|----------------|-------------------|---------------------|-------------------|
-| 4 | **[if-else_else-if](03_if_else-else-if.c)** | ⭐⭐ | Multi-way branching | Chained conditionals, priority handling |
-| 5 | **[Logical Operators](04_Logical_operators.c)** | ⭐⭐⭐ | Compound conditions | AND, OR, NOT operations |
-| 6 | **[Nested if](05_Nested-if.c)** | ⭐⭐⭐ | Layered decision making | Hierarchical logic, code organization |
-| 7 | **[Switch Statements](07_Switch_statements.c)** | ⭐⭐ | Multi-case selection | Switch syntax, case handling, break statements |
+| # | 🎯 **Program** | 📊 **Difficulty** | 🔧 **Key Skills** |
+|---|----------------|-------------------|-------------------|
+| 4 | **[if-else_else-if](03_if_else-else-if.c)** | ⭐⭐ | 🌳 Chained conditionals, priority handling |
+| 5 | **[Logical Operators](04_Logical_operators.c)** | ⭐⭐⭐ | 🔗 AND, OR, NOT operations |
+| 6 | **[Nested if](05_Nested-if.c)** | ⭐⭐⭐ | 📦 Hierarchical logic, code organization |
+| 7 | **[Switch Statements](07_Switch_statements.c)** | ⭐⭐ | 🎛️ Switch syntax, case handling, break statements |
 
 **🎯 Phase Goal:** Build sophisticated decision trees and handle complex scenarios
 
@@ -110,10 +115,10 @@ Our structured approach takes you from basic if-statements to advanced decision-
 
 *Write clean, efficient, and maintainable conditional code*  
 
-| # | 🎯 **Program** | 📊 **Difficulty** | 📚 **Core Concept** | 🔧 **Key Skills** |
-|---|----------------|-------------------|---------------------|-------------------|
-| 8 | **[ternary if](08_ternary_if.c)** | ⭐⭐⭐ | Compact conditionals | Ternary operator, inline decisions |
-| 9 | **[Practice Questions](Practice_Questions.txt)** | ⭐⭐⭐⭐ | Real-world applications | Problem-solving, optimization |
+| # | 🎯 **Program** | 📊 **Difficulty** | 🔧 **Key Skills** |
+|---|----------------|-------------------|-------------------|
+| 8 | **[ternary if](08_ternary_if.c)** | ⭐⭐⭐ | ⚡ Ternary operator, inline decisions |
+| 9 | **[Practice Questions](Practice_Questions.txt)** | ⭐⭐⭐⭐ | 🎯 Problem-solving, optimization |
 
 **🎯 Phase Goal:** Write professional-grade conditional code with optimal performance
 
@@ -321,10 +326,10 @@ Ready to level up your C programming journey? Here's your personalized learning 
 
 ### 🌟 Topics Awaiting You
 
-- **Loops**: `for`, `while`, `do-while` loops
-- **Patterns**: Creating patterns using loops
-- **Functions**: Reusable code blocks
-- **Recursion**: Solving problems using self-referential logic
+- **Loops**: Master `for`, `while`, `do-while` iterations with 50+ challenges
+- **Patterns**: Generate complex geometric designs through nested loops  
+- **Functions**: Build modular, reusable code with parameter passing
+- **Recursion**: Solve complex problems through elegant self-calling algorithms
 
 ---
 
