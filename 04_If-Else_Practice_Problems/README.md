@@ -3,7 +3,7 @@
 <div align="center">
 
 [![C Programming](https://img.shields.io/badge/Language-C-blue.svg)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![Practice Problems](https://img.shields.io/badge/Type-Practice%20Problems-green.svg)](https://github.com/rohit528590/CGenesis/04_If-Else_Practice_Problems)
+[![Practice Problems](https://img.shields.io/badge/Type-Practice%20Problems-green.svg)](https://github.com/rohit528590/CGenesis/tree/main/04_If-Else_Practice_Problems)
 [![Conditionals](https://img.shields.io/badge/Topic-Decision%20Logic-orange.svg)](https://github.com/rohit528590/CGenesis/04_If-Else_Practice_Problems)
 [![Learning Level](https://img.shields.io/badge/Level-Beginner%20to%20Advanced-brightgreen.svg)](https://github.com/rohit528590/CGenesis/04_If-Else_Practice_Problems)
 [![Files](https://img.shields.io/badge/Code%20Files-24-orange.svg)](https://github.com/rohit528590/CGenesis/tree/main/04_If-Else_Practice_Problems)
@@ -74,7 +74,7 @@ gcc 01_License_or_not.c -o license
 
 ## 📚 Problem Categories
 
-### 🟢 Beginner Level - Foundation Building (13 Problems)
+### 🟢 Beginner Level - Foundation Building (8 Problems)
 
 *Perfect for building confidence with basic conditional statements*  
 
@@ -108,7 +108,7 @@ gcc 01_License_or_not.c -o license
 
 **🎯 Skills Gained:** Complex conditionals, nested logic, real-world applications
 
-### 🔴 Advanced Level - Mastery Challenges (3 Problems)
+### 🔴 Advanced Level - Mastery Challenges (8 Problems)
 
 *Polish your skills with complex scenarios and algorithmic thinking*  
 
