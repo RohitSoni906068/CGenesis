@@ -20,3 +20,7 @@ Write a program to Print the transpose of the matrix(LeetCode-867).
 Write a program to Store the transpose of the matrix in another matrix(LeetCode-867).
 
 Program to transpose a square matrix (n x n) in-place
+
+Program to print rotated a square matrix by 90° clockwise. (Leetcode - 48)
+
+Program to rotate a square matrix in-place by 90° clockwise. (Leetcode - 48)
