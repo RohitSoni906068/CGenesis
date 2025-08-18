@@ -44,40 +44,11 @@
 
 ---
 
-## 📚 Course Structure
-
-### 🎯 **Phase 1: Array Fundamentals**
-
-| File | Topic | Difficulty | Description |
-|------|-------|------------|-------------|
-| [`01_Array.c`](01_Array.c) | 🏁 Array Basics | ⭐ | Your first step into arrays |
-| [`02_Decleration_of_array.c`](02_Decleration_of_array.c) | 📝 Array Declaration | ⭐ | 5 different ways to declare arrays |
-| [`03_Array_Quize.c`](03_Array_Quize.c) | 🧩 Quiz Time | ⭐⭐ | Test your understanding |
-| [`04_Accessing_Elements_of_array.c`](04_Accessing_Elements_of_array.c) | 🔍 Element Access | ⭐⭐ | Optimized input/output techniques |
-| [`05_Quize.c`](05_Quize.c) | 🎮 Practice Quiz | ⭐⭐ | Dynamic array sizing |
-
-### 🔲 **Phase 2: 2D Arrays & Matrices**
-
-| File | Topic | Difficulty | Description |
-|------|-------|------------|-------------|
-| [`06_2D-Array.c`](06_2D-Array.c) | 🚀 2D Array Intro | ⭐⭐ | Matrices made simple |
-| [`07_Accessing_Elements_Of_2D-Array.c`](07_Accessing_Elements_Of_2D-Array.c) | 🎯 Matrix Operations | ⭐⭐⭐ | Efficient 2D array handling |
-| [`08_Quize_on_2D-Array.c`](08_Quize_on_2D-Array.c) | 🧠 Matrix Quiz | ⭐⭐⭐ | Challenge your matrix skills |
-
-### 🔧 **Phase 3: Advanced Concepts**
-
-| File | Topic | Difficulty | Description |
-|------|-------|------------|-------------|
-| [`09_Array_On_Function.c`](09_Array_On_Function.c) | ⚡ Functions & Arrays | ⭐⭐⭐ | Pass-by-value vs pass-by-reference |
-| [`10_Quize_On_Function_Array.c`](10_Quize_On_Function_Array.c) | 🎪 Function Quiz | ⭐⭐⭐ | Mathematical operations with arrays |
-
----
-
 ## 🚀 Quick Start Guide
 
 ### 📋 **Prerequisites**
 
-```
+```bash
 ✓ Basic C programming knowledge
 ✓ Understanding of variables & data types
 ✓ Familiarity with loops (for, while)
@@ -87,14 +58,16 @@
 ### 💻 **Setup & Compilation**
 
 ```bash
-# Clone or download the files
-# Navigate to the directory
-cd arrays-tutorial
+# 1. Clone the repository
+git clone https://github.com/rohit528590/CGenesis.git
 
-# Compile any C file
+# 2. Navigate to the Array and 2D-Array directory
+cd CGenesis/11_Array_and_2D-Array
+
+# 3. Compile your first program
 gcc filename.c -o output_name
 
-# Run the program
+# 4. Run and see the magic!
 ./output_name
 ```
 
@@ -104,6 +77,35 @@ gcc filename.c -o output_name
 gcc 01_Array.c -o array_basics
 ./array_basics
 ```
+
+---
+
+## 📚 Learning Path
+
+### 🎯 **Phase 1: Array Fundamentals**
+
+| File | Topic | Difficulty | Description |
+|------|-------|------------|-------------|
+| [Array](01_Array.c) | 🏁 Array Basics | ⭐ | Your first step into arrays |
+| [Decleration Of Array](02_Decleration_of_array.c) | 📝 Array Declaration | ⭐ | 5 different ways to declare arrays |
+| [Array Quiz](03_Array_Quize.c) | 🧩 Quiz Time | ⭐⭐ | Test your understanding |
+| [Accessing Elements Of Array](04_Accessing_Elements_of_array.c) | 🔍 Element Access | ⭐⭐ | Optimized input/output techniques |
+| [Quiz On Array](05_Quize.c) | 🎮 Practice Quiz | ⭐⭐ | Dynamic array sizing |
+
+### 🔲 **Phase 2: 2D Arrays & Matrices**
+
+| File | Topic | Difficulty | Description |
+|------|-------|------------|-------------|
+| [2D Array](06_2D-Array.c) | 🚀 2D Array Intro | ⭐⭐ | Matrices made simple |
+| [Accessing Elements Of 2D Array](07_Accessing_Elements_Of_2D-Array.c) | 🎯 Matrix Operations | ⭐⭐⭐ | Efficient 2D array handling |
+| [Quiz On 2D Array](08_Quize_on_2D-Array.c) | 🧠 Matrix Quiz | ⭐⭐⭐ | Challenge your matrix skills |
+
+### 🔧 **Phase 3: Advanced Concepts**
+
+| File | Topic | Difficulty | Description |
+|------|-------|------------|-------------|
+| [Array On Function](09_Array_On_Function.c) | ⚡ Functions & Arrays | ⭐⭐⭐ | Pass-by-value vs pass-by-reference |
+| [Quiz On Function Array](10_Quize_On_Function_Array.c) | 🎪 Function Quiz | ⭐⭐⭐ | Mathematical operations with arrays |
 
 ---
 
