@@ -25,5 +25,5 @@ Program to print rotated a square matrix by 90° clockwise. (Leetcode - 48)
 
 Program to rotate a square matrix in-place by 90° clockwise (LeetCode 48)
 
-Program to rotate a square matrix 90 degrees clockwise in place using a while loop.
+Program to rotate a square matrix 90° degrees clockwise in place using a while loop.
 
