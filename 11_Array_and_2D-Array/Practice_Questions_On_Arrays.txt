@@ -58,4 +58,3 @@ Program to find the missing number from an array containing numbers from 1 to 20
 Program to find a duplicate element in an integer array Where all the elements are being unique twice with one value being repeated
 
 Find the unique number in a given Array Where all the elements are being repeated twice with one value being unique
-
