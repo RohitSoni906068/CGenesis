@@ -44,35 +44,35 @@ Program to rotate a square matrix 90° degrees clockwise in place using a while 
 
 Program to multiply two matrices entered by the user.
 
-Program to print a given matrix(n*m) in even row-wise wave form.
-Example (rows = 3, cols = 3)
+Program to print a given matrix (n × m) in odd indexed row-wise wave form.
+Example (numRows = 3, numCols = 3)
 Input Matrix:           Wave-printed Output:
 1   2   3               1   2   3
 4   5   6               6   5   4
 7   8   9               7   8   9
 
-#In Place, Program to change a given matrix (n*m) in-place in even row-wise wave form.
+In-place program to transform a given matrix (n x m) by reversing elements of every odd-indexed row.
 Example (rows = 3, cols = 3)
-Input Matrix:           Wave-changed Matrix:
+Input Matrix:           Transformed Matrix:
 1   2   3               1   2   3
 4   5   6               6   5   4
 7   8   9               7   8   9
 
-Program to print a given matrix(n*m) in odd row-wise wave form.
+Program to print a given matrix (n × m) in even indexed row-wise wave form.
 Example (rows = 3, cols = 3)
 Input Matrix:        Wave-printed Output:
 1    2   3           3   2   1
 4    5   6           4   5   6
 7    8   9           9   8   7
 
-#In Place, Program to change a given matrix(n*m) in-place in odd row-wise wave form.
+In-place program to transform a given matrix (n x m) by reversing elements of every even-indexed row.
 Example (rows = 3, cols = 3)
-Input Matrix:        Wave-changed Matrix:
-1    2   3           3   2   1
-4    5   6           4   5   6
-7    8   9           9   8   7
+Input Matrix:        Transformed Matrix:
+1  2  3              3  2  1
+4  5  6              4  5  6
+7  8  9              9  8  7
 
-Program to print a given matrix(n*m) in even column-wise wave form.
+Program to print a given matrix (n x m) in even indexed column-wise wave form.
 Example (rows = 3, cols = 3)
 Input Matrix:       Wave-printed Output:
 1    2   3          7   4   1
