@@ -1,7 +1,7 @@
 /*
-#In Place, Program to change a given matrix(n*m) in-place in even row-wise wave form.
+In-place program to transform a given matrix (n x m) by reversing elements of every odd-indexed row.
 Example (rows = 3, cols = 3)
-Input Matrix:           Wave-changed Matrix:
+Input Matrix:           Transformed Matrix:
 1   2   3               1   2   3
 4   5   6               6   5   4
 7   8   9               7   8   9
@@ -24,7 +24,7 @@ int main()
         }
     }
     
-    // Changing Matrix in even row-wise wave form.
+    // Reverse elements of every odd-indexed row
     for (int i = 0; i < row; i++)
     {
         if (i % 2 != 0)
@@ -41,9 +41,8 @@ int main()
             }
         }
     }
-
-    // Printing Row-Wise Wave Form Matrix
-    printf(" Wave-changed matrix -:\n");
+    
+    printf("Transformed matrix -:\n");
     for (int i = 0; i < row; i++)
     {
         for (int j = 0; j < column; j++)

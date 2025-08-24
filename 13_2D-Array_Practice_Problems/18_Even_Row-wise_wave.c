@@ -1,5 +1,5 @@
 /*
-Program to print a given matrix(n*m) in odd row-wise wave form.
+Program to print a given matrix (n × m) in even indexed row-wise wave form.
 Example (rows = 3, cols = 3)
 Input Matrix:        Wave-printed Output:
 1    2   3           3   2   1
