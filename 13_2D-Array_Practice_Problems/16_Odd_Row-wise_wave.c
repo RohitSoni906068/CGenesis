@@ -1,10 +1,10 @@
 /* 
 Program to print a given matrix (n × m) in odd indexed row-wise wave form.
-Example (numRows = 3, numCols = 3)
-Input Matrix:           Wave-printed Output:
-1   2   3               1   2   3
-4   5   6               6   5   4
-7   8   9               7   8   9
+Example (numRows = 3, numCols = 4)
+Input Matrix:               Wave-printed Output:
+1   2   3   4               1   2   3   4
+5   6   7   8               8   7   6   5
+9   10  11  12              9   10  11  12
 */
 
 #include <stdio.h>
