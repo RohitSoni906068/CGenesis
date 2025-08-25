@@ -1,10 +1,11 @@
 /*
 Program to print a given matrix (n x m) in even indexed column-wise wave form.
-Example (rows = 3, cols = 3)
+Example (rows = 3, cols = 4)
 Input Matrix:       Wave-printed Output:
-1    2   3          7   4   1
-4    5   6          2   5   8
-7    8   9          9   6   3
+1   2   3   4       9   5   1
+5   6   7   8       2   6   10
+9   10  11  12      11  7   3
+                    4   8   12
 */
 #include <stdio.h>
 
