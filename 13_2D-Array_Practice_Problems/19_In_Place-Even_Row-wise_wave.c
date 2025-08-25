@@ -1,10 +1,10 @@
 /* 
 In-place program to transform a given matrix (n x m) by reversing elements of every even-indexed row.
-Example (rows = 3, cols = 3)
-Input Matrix:        Transformed Matrix:
-1  2  3              3  2  1
-4  5  6              4  5  6
-7  8  9              9  8  7
+Example (rows = 3, cols = 4)
+Input Matrix:           Transformed Matrix:
+1   2   3   4           4   3   2   1           
+5   6   7   8           5   6   7   8
+9   10  11  12          12  11  10  9
 */
 
 #include <stdio.h>
