@@ -1,4 +1,11 @@
-// Write a program to Print the transpose of the matrix.
+/*
+Write a program to Print the transpose of the matrix.
+Example (rows = 2, cols = 3)
+Input Matrix:           Transpose-printed Output:
+1   2   3               1    4
+4   5   6               2    5
+                        3    6
+*/
 #include <stdio.h>
 
 int main()

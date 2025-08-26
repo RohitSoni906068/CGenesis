@@ -1,4 +1,11 @@
-// Write a program to Store the transpose of the matrix in another matrix.
+/*
+Write a program to Store the transpose of the matrix in another matrix.
+Example (rows = 2, cols = 3)
+Input Matrix:           Transpose-stored Output:
+1   2   3               1    4
+4   5   6               2    5
+                        3    6
+*/
 #include <stdio.h>
 
 int main()
@@ -23,7 +30,7 @@ int main()
 
     // Compute and print the transpose
     int transposedMatrix[cols][rows];
-    printf(" Transposed matrix :\n");
+    printf(" Transposed matrix stored in another matrix :\n");
     for (int i = 0; i < cols; i++)
     {
         for (int j = 0; j < rows; j++)
