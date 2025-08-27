@@ -1,68 +1,60 @@
-Give a person's age, find if they should get a driving license or not.
+# If-Else Practice Questions
 
-Take positive integer input and tell if it is a three digit number or not.
+1. Given a person's age, determine if they are eligible for a driving license.
 
-Take integer input and print the absolute value of that integer
+2. Take a positive integer as input and determine if it is a three-digit number.
 
-Write a program to print the average of 3 numbers.
+3. Take an integer as input and print its absolute value.
 
-Given the length and breadth of a rectangle, write a program to find whether the area of the
-rectangle is greater than its perimeter.
+4. Write a program to calculate and print the average of 3 numbers.
 
-Write a program to check if given character is digit or not.
+5. Given the length and breadth of a rectangle, write a program to determine whether the area of the rectangle is greater than its perimeter.
 
-Write a program to determine whether a character entered by the user is lowercase or not.
+6. Write a program to check if a given character is a digit.
 
-Take positive integer input and tell if it is even or odd.
+7. Write a program to determine whether a character entered by the user is lowercase.
 
-Take Divided as a input from user and check divided is divisible by Divisor(input from user)or not.
+8. Take a positive integer as input and determine if it is even or odd.
 
-Take positive integer input and tell if it is divisible by 5 or not.
+9. Take a dividend and divisor as input from the user and check if the dividend is divisible by the divisor.
 
-Take positive integer input and tell if it is divisible by 5 and 3 without using nested if.
+10. Take a positive integer as input and determine if it is divisible by 5.
 
-Take positive integer input and tell if it is divisible by 5 or 3 but not divisible by 15 using nested if.
+11. Take a positive integer as input and determine if it is divisible by both 5 and 3 without using nested if statements.
 
-Take positive integer input and tell if it is divisible by 5 or 3 but not divisible by 15 using logical oprators.
+12. Take a positive integer as input and determine if it is divisible by 5 or 3 but not divisible by 15 using nested if statements.
 
-If cost price and selling price of an item is input through the keyboard,
-write a program to determine whether the seller has made profit or incurred loss.
-Also determine how much profit he made or loss he incurred.
+13. Take a positive integer as input and determine if it is divisible by 5 or 3 but not divisible by 15 using logical operators.
 
-Take 3 numbers input and tell if they can be the sides of a triangle using logical oprators.
+14. If the cost price and selling price of an item are input through the keyboard, write a program to determine whether the seller has made a profit or incurred a loss. Also calculate the amount of profit made or loss incurred.
 
-Any year is input through the keyboard.
-Write a program to determine whether the year is a leap year or not.
-(Considering leap year occurs after every 4 years)
+15. Take 3 numbers as input and determine if they can form the sides of a triangle using logical operators.
 
-Take the input percentage of a student and print the grade according to the marks using nested if:
-	1.	90 - 100: Excellent
-	2.	80 - 90: Very Good
-	3.	70 - 80: Good
-	4.	60 - 70: Can Do Better
-	5.	50 - 60: Average
-	6.	40 - 50: Below Average
-	7.	Below 40: Fail
+16. Accept a year as input through the keyboard. Write a program to determine whether the year is a leap year or not. (Consider that leap years occur every 4 years)
 
-Take 3 positive integers input and print the greatest of them using nested if.
+17. Take a student's percentage as input and print the corresponding grade using nested if statements:
+    • 90 - 100: Excellent
+    • 80 - 89: Very Good
+    • 70 - 79: Good
+    • 60 - 69: Can Do Better
+    • 50 - 59: Average
+    • 40 - 49: Below Average
+    • Below 40: Fail
 
-Calculate income tax paid by an employee to the government as per the slabs
-mentioned below:
-                           Income Slab      Tax
-                           2.5 – 5.0L       5%
-                           5.0L - 10.0L     20%
-                           Above 10.0L      30%
+18. Take 3 positive integers as input and print the greatest among them using nested if statements.
 
-Write a program to determine whether a student has passed or failed. To pass, a
-student requires a total of 40% and at least 33% in each subject. Assume there
-are three subjects and maximum number in each subject-: 100 and take the marks as input from the user.
+19. Calculate the income tax paid by an employee to the government according to the following tax slabs:
+    Income Slab          Tax Rate
+    2.5L - 5.0L         5%
+    5.0L - 10.0L        20%
+    Above 10.0L         30%
 
-If the ages of Ram, Shyam and Ajay are input through the keyboard,
-write a program to determine the youngest of the three.
-Hint-: Use Logical Operators and Nested If.
+20. Write a program to determine whether a student has passed or failed. To pass, a student requires a total of 40% and at least 33% in each subject. Assume there are three subjects with a maximum of 100 marks in each subject. Take the marks as input from the user.
 
-Calculate min of two numbers
+21. If the ages of Ram, Shyam, and Ajay are input through the keyboard, write a program to determine the youngest of the three using logical operators and nested if statements.
 
-Calculate max of two number
+22. Write a program to find the minimum of two numbers.
 
-Write a program to find greatest from four numbers entered by the user using max or min algoritem .
+23. Write a program to find the maximum of two numbers.
+
+24. Write a program to find the greatest among four numbers entered by the user using the max/min algorithm.
