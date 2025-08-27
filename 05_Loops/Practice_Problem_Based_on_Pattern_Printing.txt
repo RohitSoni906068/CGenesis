@@ -1,190 +1,254 @@
-Program to print a rectangle pattern of asterisks
+# PATTERN PRINTING PRACTICE PROBLEMS FOR C
+
+1. Rectangle Pattern with Asterisks
+Write a program to print a rectangle pattern using asterisks.
+Expected Output:
 * * * * *
 * * * * *
 * * * * *
 
-Program to print a Square Star Pattern of asterisks
+2. Square Star Pattern
+Write a program to print a square pattern using asterisks.
+Expected Output:
 * * * *
 * * * *
 * * * *
 * * * *
 
-Program to print a Square Number Pattern of asterisks
+3. Square Number Pattern
+Write a program to print a square pattern using consecutive numbers.
+Expected Output:
 1 2 3 4
 1 2 3 4
 1 2 3 4
 
-Program to print a left-aligned triangle pattern of asterisks
+4. Left-Aligned Triangle Pattern (Asterisks)
+Write a program to print a left-aligned triangle pattern using asterisks.
+Expected Output:
 *
 * *
 * * *
 * * * *
 
-Program to print a left-aligned inverted triangle pattern of asterisks
+5. Left-Aligned Inverted Triangle Pattern (Asterisks)
+Write a program to print a left-aligned inverted triangle pattern using asterisks.
+Expected Output:
 * * * *
 * * *
 * *
 *
 
-Program to print a left-aligned triangle Number pattern of asterisks
+6. Left-Aligned Triangle Number Pattern
+Write a program to print a left-aligned triangle pattern using consecutive numbers.
+Expected Output:
 1
 1 2
 1 2 3
 1 2 3 4
 
-Program to print a left-aligned inverted triangle pattern of Number.
+7. Left-Aligned Inverted Triangle Number Pattern
+Write a program to print a left-aligned inverted triangle pattern using consecutive numbers.
+Expected Output:
 1 2 3 4
 1 2 3
 1 2
 1
 
-Program to print a left-aligned triangle pattern of odd numbers
+8. Left-Aligned Triangle Pattern with Odd Numbers
+Write a program to print a left-aligned triangle pattern using odd numbers.
+Expected Output:
 1
 1 3
 1 3 5
 1 3 5 7
 
-Program to print a Square Alphabet.
+9. Square Alphabet Pattern
+Write a program to print a square pattern using consecutive alphabets.
+Expected Output:
 A B C D
 A B C D
 A B C D
 A B C D
 
-Program to print a left-aligned triangle pattern of Alphabetic
+10. Left-Aligned Triangle Alphabet Pattern
+Write a program to print a left-aligned triangle pattern using consecutive alphabets.
+Expected Output:
 A
 A B
 A B C
 A B C D
 
-Program to print a Alternating Numeric-Alphabetic Triangle Pattern
+11. Alternating Numeric-Alphabetic Triangle Pattern
+Write a program to print a triangle pattern alternating between numbers and alphabets.
+Expected Output:
 1
 A B
 1 2 3
 A B C D
 1 2 3 4 5
 
-Program to print a star '+' pattern using asterisks.
-The number of rows must be an odd number provided by the user.
+12. Plus (+) Sign Pattern
+Write a program to print a plus (+) sign pattern using asterisks.
+Note: The number of rows must be an odd number provided by the user.
+Expected Output:
 _ _ * _ _
 _ _ * _ _
 * * * * *
 _ _ * _ _
 _ _ * _ _
 
-Print the given hollow rectangle pattern
+13. Hollow Rectangle Pattern
+Write a program to print a hollow rectangle pattern using asterisks.
+Expected Output:
 * * * * * *
 * _ _ _ _ *
 * _ _ _ _ *
 * * * * * *
 
-Program to print an 'X' pattern of stars based on the number of rows.
-The number of rows must be an odd number provided by the user.
+14. X Pattern with Stars
+Write a program to print an 'X' pattern using asterisks.
+Note: The number of rows must be an odd number provided by the user.
+Expected Output:
 * _ _ _ *
 _ * _ * _
 _ _ * _ _
 _ * _ * _
 * _ _ _ *
 
-Program to print a left-aligned floyd's triangle pattern of numbers.
+15. Floyd's Triangle Pattern (Numbers)
+Write a program to print Floyd's triangle pattern using consecutive numbers.
+Expected Output:
 1
 2 3
 4 5 6
 7 8 9 10
 
-Program to print a left-aligned floyd's triangle pattern of odd numbers.
+16. Floyd's Triangle Pattern (Odd Numbers)
+Write a program to print Floyd's triangle pattern using consecutive odd numbers.
+Expected Output:
 1
 3 5
 7 9 11
 13 15 17 19
 
-Program to print the following pattern:
+17. Alternating Binary Triangle Pattern
+Write a program to print the following alternating binary triangle pattern:
+Expected Output:
 1
 0 1
 1 0 1
 0 1 0 1
 
-Program to print a right-aligned triangle pattern of asterisks
+18. Right-Aligned Triangle Pattern (Asterisks)
+Write a program to print a right-aligned triangle pattern using asterisks.
+Expected Output:
 _ _ _ *
 _ _ * *
 _ * * *
 * * * *
 
-Program to print a left-aligned rhombus pattern of asterisks
+19. Left-Aligned Rhombus Pattern
+Write a program to print a left-aligned rhombus pattern using asterisks.
+Expected Output:
 _ _ _ * * * *
 _ _ * * * *
 _ * * * *
 * * * *
 
-Program to print a right-aligned triangle pattern of alphabetics
+20. Right-Aligned Triangle Alphabet Pattern
+Write a program to print a right-aligned triangle pattern using consecutive alphabets.
+Expected Output:
 _ _ _ A
 _ _ A B
 _ A B C
 A B C D
 
-Program to print a centered star pyramid pattern
+21. Centered Star Pyramid Pattern
+Write a program to print a centered pyramid pattern using asterisks.
+Expected Output:
 _ _ _ *
 _ _ * * *
 _ * * * * *
 * * * * * * *
 
-Program to print a centered numerical pyramid pattern
-- - - 1
-- - 1 2 3
-- 1 2 3 4 5
+22. Centered Numerical Pyramid Pattern
+Write a program to print a centered pyramid pattern using consecutive numbers.
+Expected Output:
+_ _ _ 1
+_ _ 1 2 3
+_ 1 2 3 4 5
 1 2 3 4 5 6 7
 
-Program to print a centered alphbetics pyramid pattern
+23. Centered Alphabet Pyramid Pattern
+Write a program to print a centered pyramid pattern using consecutive alphabets.
+Expected Output:
 _ _ _ A
 _ _ A B C
 _ A B C D E
-A B C D E f G
+A B C D E F G
 
-Program to print a centered numeric pyramid pattern
+24. Centered Numeric Palindrome Pyramid
+Write a program to print a centered palindromic pyramid pattern using numbers.
+Expected Output:
 _ _ _ 1
 _ _ 1 2 1
 _ 1 2 3 2 1
 1 2 3 4 3 2 1
 
-Program to print a centered alphabetical pyramid pattern
+25. Centered Alphabetical Palindrome Pyramid
+Write a program to print a centered palindromic pyramid pattern using alphabets.
+Expected Output:
 _ _ _ A
 _ _ A B A
 _ A B C B A
 A B C D C B A
 
-Program to print a symmetric diamond star pattern
+26. Symmetric Diamond Star Pattern
+Write a program to print a symmetric diamond pattern using asterisks.
+Expected Output:
 _ _ _ *
 _ _ * * *
 _ * * * * *
 * * * * * * *
-- * * * * *
+_ * * * * *
 _ _ * * *
 _ _ _ *
 
-Program to print the following pattern:
+27. Hollow Inverted Triangle Pattern
+Write a program to print the following hollow inverted triangle pattern:
+Expected Output:
 * * * * * * *
 * * * _ * * *
 * * _ _ _ * *
 * _ _ _ _ _ *
 
-Print numbers on the left side of the current row
+28. Number Pattern with Central Gap
+Write a program to print numbers with a central gap pattern:
+Expected Output:
 1 2 3 4 5 6 7
 1 2 3 _ 5 6 7
 1 2 _ _ _ 6 7
 1 _ _ _ _ _ 7
 
-print the given pattern
+29. Alphabet Pattern with Central Gap
+Write a program to print alphabets with a central gap pattern:
+Expected Output:
 A B C D E F G
 A B C _ E F G
 A B _ _ _ F G
 A _ _ _ _ _ G
 
-Program to print the Symmetric Hollow Pyramid.
+30. Symmetric Hollow Pyramid (Numbers)
+Write a program to print a symmetric hollow pyramid using numbers:
+Expected Output:
 1 2 3 4 3 2 1
 1 2 3 _ 3 2 1
 1 2 _ _ _ 2 1
 1 _ _ _ _ _ 1
 
-Program to print Left-Triangle Increasing Mirror Pattern for a given size:
+31. Left-Triangle Increasing Mirror Pattern
+Write a program to print a left-triangle increasing mirror pattern for a given size:
+Expected Output:
 1 1 1 1 1 1 1
 1 2 2 2 2 2 2
 1 2 3 3 3 3 3
@@ -193,7 +257,9 @@ Program to print Left-Triangle Increasing Mirror Pattern for a given size:
 1 2 3 4 5 6 6
 1 2 3 4 5 6 7
 
-print the given pattern
+32. Diamond Number Pattern (Symmetric)
+Write a program to print the following symmetric diamond number pattern:
+Expected Output:
 1 1 1 1 1 1 1
 1 2 2 2 2 2 1
 1 2 3 3 3 2 1
@@ -202,7 +268,9 @@ print the given pattern
 1 2 2 2 2 2 1
 1 1 1 1 1 1 1
 
-print the given pattern
+33. Reverse Diamond Number Pattern
+Write a program to print the following reverse diamond number pattern:
+Expected Output:
 4 4 4 4 4 4 4
 4 3 3 3 3 3 4
 4 3 2 2 2 3 4
@@ -210,3 +278,9 @@ print the given pattern
 4 3 2 2 2 3 4
 4 3 3 3 3 3 4
 4 4 4 4 4 4 4
+
+NOTES:
+- Use underscores (_) to represent spaces in the expected output for clarity
+- Ensure proper spacing between characters in your actual program output
+- Test your programs with different input sizes where applicable
+- Focus on loop logic and pattern recognition while coding
