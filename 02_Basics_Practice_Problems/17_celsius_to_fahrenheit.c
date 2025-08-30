@@ -1,7 +1,6 @@
 // Program to convert temperature from Celsius to Fahrenheit.
 // Formula : Fahrenheit = (Celsius * 9/5) + 32
 #include<stdio.h>
-
 int main()
 {
     float Celsius;
