@@ -3,9 +3,9 @@
 <div align="center">
 
 [![C Programming](https://img.shields.io/badge/Language-C-blue.svg)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![Practice](https://img.shields.io/badge/Type-Practice%20Problems-green.svg)](https://github.com)
-[![Beginner Friendly](https://img.shields.io/badge/Level-Beginner%20Friendly-brightgreen.svg)](https://github.com)
-[![Files](https://img.shields.io/badge/Code%20Files-22-orange.svg)](https://github.com)
+[![Practice](https://img.shields.io/badge/Type-Practice%20Problems-green.svg)](https://github.com/rohit528590/CGenesis/tree/main/02_Basics_Practice_Problems)
+[![Beginner Friendly](https://img.shields.io/badge/Level-Beginner%20Friendly-brightgreen.svg)](https://github.com/rohit528590/CGenesis/tree/main/02_Basics_Practice_Problems)
+[![Files](https://img.shields.io/badge/Code%20Files-22-orange.svg)](https://github.com/rohit528590/CGenesis/tree/main/02_Basics_Practice_Problems)
 
 ### Welcome to the **Basic Practice Problems** module of **CGenesis**! 🎯
 
@@ -22,7 +22,7 @@
 
 - [🎯 Learning Objectives](#-learning-objectives)
 - [🛠️ Getting Started](#️-getting-started)
-- [🏗️ Problem Categories](#️-problem-categories)
+- [🗂️ Problem Categories](#️-problem-categories)
 - [🎯 Recommended Learning Path](#-recommended-learning-path)
 - [💻 Code Examples](#-code-examples)
 - [💡 Key Concepts Covered](#-key-concepts-covered)
@@ -71,7 +71,7 @@ gcc filename.c -o output
 ./output
 
 # Example with Problem 1
-gcc 01_Sum_of_2_Given_Number.c -o sum
+gcc 01_sum_two_numbers.c -o sum
 ./sum
 ```
 
@@ -87,22 +87,22 @@ gcc 01_Sum_of_2_Given_Number.c -o sum
 ---
 </details>
 
-## 🏗️ Problem Categories
+## 🗂️ Problem Categories
 
 ### 🟢 Foundation Level (Problems 1-8)
 
 *Master the basics of C programming with simple arithmetic and geometry*  
 
-| # | 📁 **Problem** | 📊 **Difficulty** | 🔑 **Key Concepts** |
+| # | 📝 **Problem** | 📊 **Difficulty** | 🔑 **Key Concepts** |
 |---|---------|------------|--------------|
-| 01 | [Sum of Two Numbers](01_Sum_of_2_Given_Number.c) | ⭐ | 📊 Basic I/O, Float operations |
-| 02 | [Cube of a Number](02_Cube_of_N.c) | ⭐ | 🔢 Integer arithmetic, Power operations |
-| 03 | [Perimeter of Square](03_Perimeter_of_Square.c) | ⭐ | 📐 Geometry formulas, Float precision |
-| 04 | [Perimeter of Rectangle](04_Perimeter_of_rectangle.c) | ⭐ | 📏 Multiple inputs, Formula application |
-| 05 | [Area of Rectangle](05_Area_of_rectangle.c) | ⭐ | 📦 Basic multiplication, Geometry |
-| 06 | [Area of Square](06_Area_of_Square.c) | ⭐ | 🔲 Square operations, Formatting |
-| 07 | [Area of Circle](07_Area_of_circle.c) | ⭐⭐ | 🔴 `#define` preprocessor, Pi constant |
-| 08 | [Circumference of Circle](08_Circumference_of_circle.c) | ⭐⭐ | ⭕ Mathematical constants, Circle geometry |
+| 01 | [Sum of Two Numbers](01_sum_two_numbers.c) | ⭐ | 📊 Basic I/O, Float operations |
+| 02 | [Cube Calculator](02_cube_calculator.c) | ⭐ | 🔢 Integer arithmetic, Power operations |
+| 03 | [Square Perimeter Calculator](03_square_perimeter.c) | ⭐ | 📐 Geometry formulas, Float precision |
+| 04 | [Rectangle Perimeter Calculator](04_rectangle_perimeter.c) | ⭐ | 📐 Multiple inputs, Formula application |
+| 05 | [Rectangle Area Calculator](05_rectangle_area.c) | ⭐ | 📦 Basic multiplication, Geometry |
+| 06 | [Square Area Calculator](06_square_area.c) | ⭐ | 📲 Square operations, Formatting |
+| 07 | [Circle Area Calculator](07_circle_area.c) | ⭐⭐ | 🔴 `#define` preprocessor, Pi constant |
+| 08 | [Circle Circumference Calculator](08_circle_circumference.c) | ⭐⭐ | ⭕ Mathematical constants, Circle geometry |
 
 **🎯 Focus Areas:** Basic syntax, simple calculations, understanding input/output patterns
 
@@ -112,16 +112,16 @@ gcc 01_Sum_of_2_Given_Number.c -o sum
 
 *Apply mathematical concepts and explore advanced operations*  
 
-| # | 📁 **Problem** | 📊 **Difficulty** | 🔑 **Key Concepts** |
+| # | 📝 **Problem** | 📊 **Difficulty** | 🔑 **Key Concepts** |
 |---|---------|------------|--------------|
-| 09 | [Calculating Percentage](09_Calculating_Percentage.c) | ⭐⭐ | 📈 Multiple inputs, Percentage calculations |
-| 10 | [Simple Interest](10_Calculate_Simple_Interest.c) | ⭐⭐ | 💰 Financial mathematics, Formula implementation |
-| 11 | [Find Remainder (Manual)](11_Find_Remainder.c) | ⭐⭐⭐ | 🧮 Division logic, Mathematical reasoning |
-| 12 | [Find Remainder (Modulus)](12_Finding_remainder_using_moduls.c) | ⭐⭐ | ➗ Modulus operator, Comparison with manual method |
-| 13 | [Half of Number](13_Half_of_Number.c) | ⭐⭐ | ➗ Division operations, Float precision |
-| 14 | [Fractional Part Extract](14_Fractional_Part_of_Float_N.c) | ⭐⭐⭐ | 🔢 Type casting, Float manipulation |
-| 15 | [Volume of Cylinder](15_Volume_of_cylinder.c) | ⭐⭐⭐ | 🥫 3D geometry, Complex formulas |
-| 16 | [Volume of Sphere](16_Volume_of_Sphere.c) | ⭐⭐⭐ | ⚽ `const` keyword, Advanced geometry |
+| 09 | [Five Subject Percentage Calculator](09_percentage_five_subjects.c) | ⭐⭐ | 📈 Multiple inputs, Percentage calculations |
+| 10 | [Simple Interest Calculator](10_simple_interest_calculator.c) | ⭐⭐ | 💰 Financial mathematics, Formula implementation |
+| 11 | [Remainder Calculator (Without Modulus)](11_remainder_without_modulus.c) | ⭐⭐⭐ | 🧮 Division logic, Mathematical reasoning |
+| 12 | [Remainder Calculator (Using Modulus)](12_remainder_with_modulus.c) | ⭐⭐ | ➗ Modulus operator, Comparison with manual method |
+| 13 | [Half Number Calculator](13_half_number_calculator.c) | ⭐⭐ | ➗ Division operations, Float precision |
+| 14 | [Fractional Part Extractor](14_fractional_part_extractor.c) | ⭐⭐⭐ | 🔢 Type casting, Float manipulation |
+| 15 | [Cylinder Volume Calculator](15_cylinder_volume.c) | ⭐⭐⭐ | 🥫 3D geometry, Complex formulas |
+| 16 | [Sphere Volume Calculator](16_sphere_volume.c) | ⭐⭐⭐ | ⚽ `const` keyword, Advanced geometry |
 
 **🎯 Focus Areas:** Complex calculations, type conversions, mathematical logic
 
@@ -131,14 +131,14 @@ gcc 01_Sum_of_2_Given_Number.c -o sum
 
 *Master temperature conversions and formula transformations*  
 
-| # | 📁 **Problem** | 📊 **Difficulty** | 🔑 **Key Concepts** |
+| # | 📝 **Problem** | 📊 **Difficulty** | 🔑 **Key Concepts** |
 |---|---------|------------|--------------|
-| 17 | [Celsius to Fahrenheit](17_Celsius_to_Fahrenheit.c) | ⭐⭐⭐ | 🌡️ Temperature conversion, Formula application |
-| 18 | [Celsius to Kelvin](18_Celsius_to_Kelvin.c) | ⭐⭐⭐ | ❄️ Scientific units, Precision handling |
-| 19 | [Fahrenheit to Celsius](19_Fahrenheit_to_Celsius.c) | ⭐⭐⭐ | 🔄 Reverse formula calculation |
-| 20 | [Fahrenheit to Kelvin](20_Fahrenheit_to_Kelvin.c) | ⭐⭐⭐⭐ | 🔥 Multi-step conversions |
-| 21 | [Kelvin to Celsius](21_Kelvin_to_Celsius.c) | ⭐⭐⭐ | 🧊 Scientific temperature scales |
-| 22 | [Kelvin to Fahrenheit](22_Kelvin_to_Fahrenheit.c) | ⭐⭐⭐⭐ | ⚡ Complex formula implementation |
+| 17 | [Celsius to Fahrenheit Converter](17_Celsius_to_Fahrenheit.c) | ⭐⭐⭐ | 🌡️ Temperature conversion, Formula application |
+| 18 | [Celsius to Kelvin Converter](18_celsius_to_kelvin.c) | ⭐⭐⭐ | ❄️ Scientific units, Precision handling |
+| 19 | [Fahrenheit to Celsius Converter](19_fahrenheit_to_celsius.c) | ⭐⭐⭐ | 🔥 Reverse formula calculation |
+| 20 | [Fahrenheit to Kelvin Converter](20_fahrenheit_to_kelvin.c) | ⭐⭐⭐⭐ | 🔥 Multi-step conversions |
+| 21 | [Kelvin to Celsius Converter](21_kelvin_to_celsius.c) | ⭐⭐⭐ | 🧊 Scientific temperature scales |
+| 22 | [Kelvin to Fahrenheit Converter](22_kelvin_to_fahrenheit.c) | ⭐⭐⭐⭐ | ⚡ Complex formula implementation |
 
 **🎯 Focus Areas:** Formula manipulation, scientific calculations, precision control
 
@@ -274,9 +274,9 @@ Ready to level up your C programming journey? Here's your personalized learning 
 
 **Follow the exact progression from your carefully crafted examples!**
 
-[![Start with Foundation Level](https://img.shields.io/badge/%F0%9F%8E%AF%20Start%20with-Foundation%20Level-blue?style=for-the-badge)](01_Sum_of_2_Given_Number.c)
-[![Progress to Intermediate](https://img.shields.io/badge/%F0%9F%A7%A8%20Progress%20to-Intermediate%20Level-green?style=for-the-badge)](09_Calculating_Percentage.c)
-[![Master Advanced Level](https://img.shields.io/badge/%F0%9F%8F%86%20Master-Advanced%20Level-orange?style=for-the-badge)](17_Celsius_to_Fahrenheit.c)
+[![Start with Foundation Level](https://img.shields.io/badge/%F0%9F%8E%AF%20Start%20with-Foundation%20Level-blue?style=for-the-badge)](01_sum_two_numbers.c)
+[![Progress to Intermediate](https://img.shields.io/badge/%F0%9F%A7%A8%20Progress%20to-Intermediate%20Level-green?style=for-the-badge)](09_percentage_five_subjects.c)
+[![Master Advanced Level](https://img.shields.io/badge/%F0%9F%8F%86%20Master-Advanced%20Level-orange?style=for-the-badge)](17_celsius_to_fahrenheit.c)
 
 ### 🌟 **Remember:**
 

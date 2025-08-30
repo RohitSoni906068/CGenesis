@@ -1,4 +1,5 @@
-// Write a program to print area of circle where, radius is given by user
+// Program to calculate the area of a circle when the radius is given by the user.
+// Formula : Area = PI * radius * radius
 #include <stdio.h>
 #define PI (22.0 / 7.0)
 /* 
@@ -8,8 +9,9 @@ to replace all instances of a defined identifier with a specified value or code 
 int main()
 {
     float radius;
-    printf(" Enter the radius of circle : ");
+    printf("Enter the radius of circle : ");
     scanf("%f", &radius);
-    printf(" Area of Circle is : %.2f\n", PI * radius * radius);
+    float area=PI*radius*radius;
+    printf("The Area of Circle is : %.2f\n", area);
     return 0;
 }
