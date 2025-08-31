@@ -72,8 +72,8 @@ gcc filename.c -o output
 ./output
 
 # Example with Problem 1
-gcc 01_Hellow_World_N_times.c -o hellow_world
-./hellow_world
+gcc 01_hello_world_n_times.c -o hello_world
+./hello_world
 ```
 
 ---
@@ -84,21 +84,21 @@ gcc 01_Hellow_World_N_times.c -o hellow_world
 
 *Build your loop fundamentals with essential concepts*  
 
-| # | 📁 **Problem** | 📊 **Difficulty** | 🔑 **Key Concepts** |
+| # | 📁 **Problem Title** | 📊 **Difficulty** | 🔑 **Key Concepts** |
 |---|---------|-------------------|--------------------------------------|
-| 01 | [Hello World N Times](01_Hellow_World_N_times.c) | ⭐ | 🔄 Basic for loops and iteration |
-| 02 | [Numbers in Range](02_Printing_Numbers_in_range.c) | ⭐ | 📏 Range iteration and boundaries |
-| 03 | [Range with Exclusions](03_Print_R_to_S_except_i_to_k.c) | ⭐⭐ | ⏭️ Conditional loops and skip logic |
-| 04 | [Odd Numbers R to S](04_Odd_Number_R_to_S.c) | ⭐⭐ | 🔢 Number filtering and conditions |
-| 05 | [Odd Numbers with Continue](05_Odd_Numbers_in_range_using_continue.c) | ⭐⭐ | ⏩ Continue statement and flow control |
-| 06 | [Multiplication Table](06_Table_of_N.c) | ⭐⭐ | ✖️ Mathematical loops and tables |
-| 07 | [Reverse Table](07_Reverse_Table_of_N.c) | ⭐⭐ | 🔄 Reverse iteration patterns |
-| 08 | [Sum of Table](08_Sum_of_table_of_N.c) | ⭐⭐ | ➕ Accumulation and running totals |
-| 09 | [Sum Range (For Loop)](09_Sum_from_R_to_S_using_for-loop.c) | ⭐⭐ | 🔄 For loop mastery and summation |
-| 10 | [Sum Range (While Loop)](10_Sum_in_range_using_while-loop.c) | ⭐⭐ | 🔁 While loop comparison |
-| 11 | [Even Numbers](11_Even_Number_in_range.c) | ⭐⭐ | 🎯 Even filtering and patterns |
-| 12 | [ASCII Values (For)](12_ASCII_values_of_Characters_for_loop.c) | ⭐⭐ | 🔤 Character processing and ASCII |
-| 13 | [ASCII Values (While)](13_Printing_ASCII_values_while_loop.c) | ⭐⭐ | 🔀 Loop variants and approaches |
+| 01 | [Hello World N Times](01_hello_world_n_times.c) | ⭐ | 🔄 Basic for loops, iteration control |
+| 02 | [Print Numbers in Range](02_print_numbers_in_range.c) | ⭐ | 📍 Range iteration, loop boundaries |
+| 03 | [Natural Numbers Skip Range](03_natural_numbers_skip_range.c) | ⭐⭐ | ❌ Conditional loops, skip logic |
+| 04 | [Odd Numbers in Range](04_print_odd_numbers_range.c) | ⭐⭐ | 🔢 Number filtering, modulo operations |
+| 05 | [Odd Numbers with Continue](05_odd_numbers_continue_statement.c) | ⭐⭐ | ⏩ Continue statement, flow control |
+| 06 | [Multiplication Table](06_multiplication_table_n.c) | ⭐⭐ | ✖️ Mathematical loops, table generation |
+| 07 | [Reverse Multiplication Table](07_reverse_multiplication_table.c) | ⭐⭐ | 🔄 Reverse iteration, decrementing loops |
+| 08 | [Table Sum Products](08_table_sum_products.c) | ⭐⭐ | ➕ Accumulation patterns, running totals |
+| 09 | [Sum Range For Loop](09_sum_range_while_loop.c) | ⭐⭐ | 🔄 For loop mastery, range summation |
+| 10 | [Sum Range While Loop](10_sum_numbers_range_while.c) | ⭐⭐ | 📍 While loop implementation, comparison |
+| 11 | [Even Numbers in Range](11_print_even_numbers_range.c) | ⭐⭐ | 🎯 Even number filtering, conditional logic |
+| 12 | [ASCII Values Characters](12_ascii_values_characters.c) | ⭐⭐ | 🔤 Character processing, ASCII manipulation |
+| 13 | [ASCII Values Characters While](13_ascii_values_characters_while.c) | ⭐⭐ | 🔀 While loop variant, loop comparison |
 
 **Learning Goals**: Master basic loop syntax, understand different loop types, and practice simple iterations.
 
@@ -106,24 +106,24 @@ gcc 01_Hellow_World_N_times.c -o hellow_world
 
 *Develop analytical thinking and optimization skills*  
 
-| # | 📁 **Problem** | 📊 **Difficulty** | 🔑 **Key Concepts** |
+| # | 📁 **Problem Title** | 📊 **Difficulty** | 🔑 **Key Concepts** |
 |---|---------|-------------------|--------------------------------------|
-| 14 | [Factorial of N](14_Factorial_of_N.c) | ⭐⭐ | ❗ Factorial algorithms |
-| 15 | [Factorial in Range](15_Factorial_in_range.c) | ⭐⭐ | 📊 Range processing |
-| 16 | [Nth Fibonacci](16_Nth_Fibonacci_Number.c) | ⭐⭐⭐ | 🌀 Fibonacci sequences |
-| 17 | [Fibonacci Series](17_Fibonacci_Series_From_First_to_N.c) | ⭐⭐⭐ | 📈 Complete sequence generation |
-| 18 | [AP: 1,3,5,7...](18_AP_1,3,5,7,_upto_N.c) | ⭐⭐ | ➕ Arithmetic progressions |
-| 19 | [AP: 4,7,10...](19_AP_4,7,10_upto_N.c) | ⭐⭐ | 🔢 Custom arithmetic patterns |
-| 20 | [GP: 1,2,4,8...](20_GP_1,2,4,8_upto_N.c) | ⭐⭐⭐ | ✖️ Geometric progressions |
-| 21 | [GP: 3,12,48...](21_GP_3,12,48.c) | ⭐⭐⭐ | 📐 Custom geometric patterns |
-| 22 | [GP: 100,50,25...](22_GP_100,50,25_upto_N.c) | ⭐⭐ | ⬇️ Decreasing geometric series |
-| 23 | [GP: Positive Terms Only](23_GP_100,97,94_upto_positive_term.c) | ⭐⭐⭐ | ✅ Conditional termination |
-| 24 | [Power Calculation](24_Raised_to_the_power.c) | ⭐⭐ | ⚡ Exponentiation algorithms |
-| 25 | [Prime Check](25_Prime_or_Composite.c) | ⭐⭐⭐ | 🔍 Prime number detection |
-| 26 | [Prime Check (While)](26_Check_Prime_or_Composite_using_while-loop.c) | ⭐⭐⭐ | 🔄 Alternative prime checking |
-| 27 | [N Prime Numbers](27_Print_N_prime_number.c) | ⭐⭐⭐⭐ | 🎯 Prime generation algorithms |
-| 28 | [Series: 1,-2,+3,-4...](28_Sum_Series:1,-2,+3,-4_upto_N.c) | ⭐⭐⭐ | ➖ Alternating sign series |
-| 29 | [Series: -1,2,-3,4...](29_Sum_Series:-1,2,-3,4.c) | ⭐⭐⭐ | 🔄 Pattern variations |
+| 14 | [Factorial Given Number](14_factorial_given_number.c) | ⭐⭐ | ❗ Factorial algorithms, multiplicative loops |
+| 15 | [Factorial All Range](15_factorial_all_range.c) | ⭐⭐ | 📊 Range processing, nested operations |
+| 16 | [Nth Fibonacci Term](16_nth_fibonacci_term.c) | ⭐⭐⭐ | 🌀 Fibonacci sequences, iterative algorithms |
+| 17 | [Fibonacci Series N Terms](17_fibonacci_series_n_terms.c) | ⭐⭐⭐ | 📈 Complete sequence generation, series output |
+| 18 | [Arithmetic Progression 1,3,5](18_arithmetic_progression_1,3,5.c) | ⭐⭐ | ➕ Arithmetic progressions, linear sequences |
+| 19 | [Arithmetic Progression 4,7,10,13](19_arithmetic_progression_4,7,10,13.c) | ⭐⭐ | 🔢 Custom arithmetic patterns, step calculations |
+| 20 | [Geometric Progression 1,2,4,8,16](20_geometric_progression_1,2,4,8,16.c) | ⭐⭐⭐ | ✖️ Geometric progressions, exponential growth |
+| 21 | [Geometric Progression 3,12,48](21_geometric_progression_3,12,48.c) | ⭐⭐⭐ | 📍 Custom geometric patterns, ratio calculations |
+| 22 | [Geometric Progression 100,50,25](22_geometric_progression_100,50,25.c) | ⭐⭐ | ⬇️ Decreasing geometric series, division patterns |
+| 23 | [Arithmetic Progression 100,97,94](23_arithmetic_progression_100,97,94.c) | ⭐⭐⭐ | ✅ Conditional termination, positive constraints |
+| 24 | [Power Calculation](24_power_calculation.c) | ⭐⭐ | ⚡ Exponentiation algorithms, iterative multiplication |
+| 25 | [Prime Composite Check](25_prime_composite_check.c) | ⭐⭐⭐ | 🔍 Prime number detection, divisibility testing |
+| 26 | [Prime Check While Loop](26_prime_check_while_loop.c) | ⭐⭐⭐ | 🔄 Alternative prime checking, while implementation |
+| 27 | [Prime Numbers Range](27_prime_numbers_range.c) | ⭐⭐⭐⭐ | 🎯 Prime generation algorithms, range filtering |
+| 28 | [Alternating Series Sum](28_alternating_series_sum.c) | ⭐⭐⭐ | ➖ Alternating sign series, pattern recognition |
+| 29 | [Negative Alternating Series](29_negative_alternating_series.c) | ⭐⭐⭐ | 🔄 Pattern variations, sign manipulation |
 
 **Learning Goals**: Master complex mathematical operations, understand algorithmic efficiency, and develop problem-solving strategies.
 
@@ -131,20 +131,20 @@ gcc 01_Hellow_World_N_times.c -o hellow_world
 
 *Tackle sophisticated loop applications and algorithms*  
 
-| # | 🎯 **Challenge** | 📊 **Difficulty** | 🔑 **Key Concepts** |
+| # | 🎯 **Problem Title** | 📊 **Difficulty** | 🔑 **Key Concepts** |
 |---|------------------|-------------------|--------------------------------------|
-| 30 | [Count Digits](30_Count_Digit_of_N.c) | ⭐⭐⭐ | 🔢 Digit processing |
-| 31 | [Reverse Number](31_Reverse_of_N.c) | ⭐⭐⭐ | 🔄 Number manipulation |
-| 32 | [Sum of Digits](32_Sum_of_digits_of_N.c) | ⭐⭐⭐ | ➕ Digit summation |
-| 33 | [Sum Even Digits](33_Sum_of_Even_digits_of_N.c) | ⭐⭐⭐ | 🎯 Conditional digit operations |
-| 34 | [Sum Odd Digits](34_Sum_of_Odd_Digits_of_N.c) | ⭐⭐⭐ | 🔢 Selective digit processing |
-| 35 | [Digits Sum & Reverse](35_Sum_of_Digits_of_N_and_its_Reverse.c) | ⭐⭐⭐⭐ | 🔄 Multi-step algorithms |
-| 36 | [Sum to Reverse](36_Sum_of_N_to_its_reverse.c) | ⭐⭐⭐⭐ | ➕ Advanced number operations |
-| 37 | [Input Until Odd](37_Taking_Input_until_odd_Number.c) | ⭐⭐⭐ | ⌨️ Dynamic input termination |
-| 38 | [Input Until Multiple of 7](38_Taking_Input_until_mutiplication_of_7.c) | ⭐⭐⭐ | ✅ Custom validation loops |
-| 39 | [Palindrome Check](39_Palindrome_or_not.c) | ⭐⭐⭐⭐ | 🪞 Symmetry detection |
-| 40 | [Armstrong Number](40_Armstrong_Number_or_not.c) | ⭐⭐⭐⭐ | 🎯 Special number properties |
-| 41 | [Armstrong in Range](41_Armstrong_Number_in_Range.c) | ⭐⭐⭐⭐ | 🔍 Complex range validation |
+| 30 | [Count Digits Number](30_count_digits_number.c) | ⭐⭐⭐ | 🔢 Digit processing, number decomposition |
+| 31 | [Reverse Given Number](31_reverse_given_number.c) | ⭐⭐⭐ | 🔄 Number manipulation, digit extraction |
+| 32 | [Sum Digits Number](32_sum_digits_number.c) | ⭐⭐⭐⭐ | 📍 Complex range validation, multiple conditions |
+| 33 | [Sum Even Digits](33_sum_even_digits.c) | ⭐⭐⭐ | ➕ Digit summation, mathematical operations |
+| 34 | [Sum Odd Digits](34_sum_odd_digits.c) | ⭐⭐⭐ | 🎯 Conditional digit operations, filtering |
+| 35 | [Sum Digits Plus Reverse](35_sum_digits_plus_reverse.c) | ⭐⭐⭐ | 🔢 Selective digit processing, modulo usage |
+| 36 | [Sum Number and Reverse](36_sum_number_and_reverse.c) | ⭐⭐⭐⭐ | 🔄 Multi-step algorithms, complex operations |
+| 37 | [Input Until Odd](37_input_until_odd.c) | ⭐⭐⭐⭐ | ➕ Advanced number operations, combination logic |
+| 38 | [Input Until Multiple Seven](38_input_until_multiple_seven.c) | ⭐⭐⭐ | ⌨️ Dynamic input termination, user interaction |
+| 39 | [Palindrome Number Check](39_palindrome_number_check.c) | ⭐⭐⭐ | ✅ Custom validation loops, condition checking |
+| 40 | [Armstrong Number Check](40_armstrong_number_check.c) | ⭐⭐⭐⭐ | 🪞 Symmetry detection, number comparison |
+| 41 | [Armstrong Numbers Range](41_armstrong_numbers_range.c) | ⭐⭐⭐⭐ | 🎯 Special number properties, power calculations |
 
 **Learning Goals**: Master advanced number theory, implement complex algorithms, and develop expertise in sophisticated loop applications.
 
@@ -245,7 +245,7 @@ Ready to level up your C programming journey? Here's your personalized learning 
 
 | 📚 **Resource Type** | 🔗 **Access Point** | 📝 **Description** |
 |---------------------|---------------------|-------------------|
-| **🐛 Bug Reports & Questions** | [Open an Issue](https://github.com/rohit528590/CGenesis/issues) | Report bugs or ask technical questions |
+| **🛠 Bug Reports & Questions** | [Open an Issue](https://github.com/rohit528590/CGenesis/issues) | Report bugs or ask technical questions |
 | **💬 Community Support** | [GitHub Issues](https://github.com/rohit528590/CGenesis/issues) | Get help with coding problems and technical questions |
 | **🤝 Contribute** | [Fork Repository](https://github.com/rohit528590/CGenesis/fork) | Help improve the course for everyone |
 
@@ -259,9 +259,9 @@ Ready to level up your C programming journey? Here's your personalized learning 
 
 **Choose your starting point and begin your coding journey!**
 
-[![Foundation](https://img.shields.io/badge/🟢%20Foundation-Problems%201--13-success?style=for-the-badge)](01_Hellow_World_N_times.c)
-[![Intermediate](https://img.shields.io/badge/🟡%20Intermediate-Problems%2014--29-warning?style=for-the-badge)](14_Factorial_of_N.c)
-[![Advanced](https://img.shields.io/badge/🔴%20Advanced-Problems%2030--41-critical?style=for-the-badge)](30_Count_Digit_of_N.c)
+[![Foundation](https://img.shields.io/badge/🟢%20Foundation-Problems%201--13-success?style=for-the-badge)](01_hello_world_n_times.c)
+[![Intermediate](https://img.shields.io/badge/🟡%20Intermediate-Problems%2014--29-warning?style=for-the-badge)](14_factorial_given_number.c)
+[![Advanced](https://img.shields.io/badge/🔴%20Advanced-Problems%2030--41-critical?style=for-the-badge)](30_count_digits_number.c)
 
 ---
 
