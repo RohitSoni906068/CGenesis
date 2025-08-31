@@ -26,7 +26,7 @@
 - [📖 Overview](#-overview)
 - [🚀 Quick Start](#-quick-start)
 - [📚 Problem Categories](#-problem-categories)
-- [🔯 Recommended Learning Path](#-recommended-learning-path)
+- [📯 Recommended Learning Path](#-recommended-learning-path)
 - [🎨 Visual Pattern Showcase](#-visual-pattern-showcase)
 - [🎓 What's Next?](#-whats-next)
 - [🤝 Resources & Support](#-resources--support)
@@ -71,8 +71,8 @@ gcc filename.c -o output
 ./output
 
 # Example with Problem 1
-gcc 01_Solid_Rectangle.c -o solid_rectangle
-./solid_rectangle
+gcc 01_rectangle_asterisk_pattern.c -o rectangle_pattern
+./rectangle_pattern
 ```
 
 ---
@@ -85,17 +85,17 @@ gcc 01_Solid_Rectangle.c -o solid_rectangle
 
 | # | 📁 **Problem** | 📊 **Difficulty** | 🔑 **Key Concepts** |
 |---|---------|-------------------|--------------------------------------|
-| 01 | [Solid Rectangle](01_Solid_Rectangle.c) | ⭐ | 🔄 Nested loops and basic shapes |
-| 02 | [Solid Square](02_Solid_Square.c) | ⭐ | 🔲 Equal dimensions and square logic |
-| 03 | [Number Square](03_Number_Square.c) | ⭐⭐ | 🔢 Number patterns and data integration |
-| 04 | [Star Triangle](04_Star_Triangle.c) | ⭐⭐ | 🔺 Variable bounds and triangular shapes |
-| 05 | [Inverted Star Triangle](05_Star_Triangle_Ulta.c) | ⭐⭐ | 🔻 Reverse logic and decreasing patterns |
-| 06 | [Number Triangle](06_Number_Triangle.c) | ⭐⭐ | 🔢 Numeric sequences and triangles |
-| 07 | [Inverted Number Triangle](07_Number_Triangle_Ulta.c) | ⭐⭐ | 🔄 Backward counting and reverse order |
-| 08 | [Odd Number Triangle](08_Odd_Number_Triangle.c) | ⭐⭐⭐ | 🧮 Arithmetic progressions and odd sequences |
-| 09 | [Alphabet Square](09_Alphabet_Square.c) | ⭐⭐ | 🔤 Character patterns and ASCII values |
-| 10 | [Alphabet Triangle](10_Alphabet_Triangle.c) | ⭐⭐ | 🔠 Letter sequences and character incrementing |
-| 11 | [Mixed Triangle](11_Alphabet_&_Number_Triangle.c) | ⭐⭐⭐ | 🎯 Combined patterns and multiple data types |
+| 01 | [Rectangle Asterisk Pattern](01_rectangle_asterisk_pattern.c) | ⭐ | 🔄 Nested loops and basic shapes |
+| 02 | [Square Star Pattern](02_square_star_pattern.c) | ⭐ | 🔲 Equal dimensions and square logic |
+| 03 | [Square Number Pattern](03_square_number_pattern.c) | ⭐⭐ | 🔢 Number patterns and data integration |
+| 04 | [Left Triangle Asterisk Pattern](04_left_triangle_asterisk_pattern.c) | ⭐⭐ | 🔺 Variable bounds and triangular shapes |
+| 05 | [Left Inverted Triangle Pattern](05_left_inverted_triangle_pattern.c) | ⭐⭐ | 🔻 Reverse logic and decreasing patterns |
+| 06 | [Left Triangle Number Pattern](06_left_triangle_number_pattern.c) | ⭐⭐ | 🔢 Numeric sequences and triangles |
+| 07 | [Left Inverted Number Triangle](07_left_inverted_number_triangle.c) | ⭐⭐ | 🔄 Backward counting and reverse order |
+| 08 | [Left Triangle Odd Numbers](08_left_triangle_odd_numbers.c) | ⭐⭐⭐ | 🧮 Arithmetic progressions and odd sequences |
+| 09 | [Square Alphabet Pattern](09_square_alphabet_pattern.c) | ⭐⭐ | 🔤 Character patterns and ASCII values |
+| 10 | [Left Triangle Alphabet Pattern](10_left_triangle_alphabet_pattern.c) | ⭐⭐ | 🔠 Letter sequences and character incrementing |
+| 11 | [Alternating Numeric Alpha Triangle](11_alternating_numeric_alpha_triangle.c) | ⭐⭐⭐ | 🎯 Combined patterns and multiple data types |
 
 **Learning Goals**: Understand basic loop structures, pattern logic, and simple shape creation.
 
@@ -105,18 +105,18 @@ gcc 01_Solid_Rectangle.c -o solid_rectangle
 
 | # | 📁 **Problem** | 📊 **Difficulty** | 🔑 **Key Concepts** |
 |---|---------|-------------------|--------------------------------------|
-| 12 | [Star Plus](12_Star_Plus.c) | ⭐⭐⭐ | ➕ Cross patterns and conditional positioning |
-| 13 | [Hollow Rectangle](13_Hollow_Rectangle.c) | ⭐⭐⭐ | 🕳️ Hollow shapes and border printing |
-| 14 | [Star Cross](14_Star_Cross.c) | ⭐⭐⭐ | ❌ Cross patterns and diagonal logic |
-| 15 | [Floyd's Triangle](15_Floyd's_Triangle.c) | ⭐⭐⭐ | 🔢 Sequential numbering and continuous counting |
-| 16 | [Floyd's Triangle 2](16_Floyd's_Triangle2.c) | ⭐⭐⭐ | 🔄 Number variations and alternative sequences |
-| 17 | [Binary Triangle](17_0_&_1_Triangle.c) | ⭐⭐⭐ | 💻 Binary patterns and alternating values |
-| 18 | [Star Triangle Mast](18_Star_Triangle_Mast.c) | ⭐⭐⭐⭐ | ⭐ Advanced triangles and complex positioning |
-| 19 | [Rhombus](19_Rhombus.c) | ⭐⭐⭐⭐ | 💎 Diamond shapes and symmetrical patterns |
-| 20 | [Alphabet Triangle Mast](20_Alphabet_Triangle_Mast.c) | ⭐⭐⭐⭐ | 🔤 Advanced alphabets and positioning |
-| 21 | [Star Pyramid](21_Star_Pyramid.c) | ⭐⭐⭐⭐ | 🏔️ Pyramid structures and centered alignment |
-| 22 | [Number Pyramid](22_Number_Pyramid.c) | ⭐⭐⭐⭐ | 🔺 Numeric pyramids and arrangements |
-| 23 | [Alphabet Pyramid](23_Alphabet_Pyramid.c) | ⭐⭐⭐⭐ | 🔠 Letter pyramids and character sequences |
+| 12 | [Plus Sign Pattern](12_plus_sign_pattern.c) | ⭐⭐⭐ | ➕ Cross patterns and conditional positioning |
+| 13 | [Hollow Rectangle Pattern](13_hollow_rectangle_pattern.c) | ⭐⭐⭐ | 🕳️ Hollow shapes and border printing |
+| 14 | [X Pattern Stars](14_x_pattern_stars.c) | ⭐⭐⭐ | ❌ Cross patterns and diagonal logic |
+| 15 | [Floyds Triangle Numbers](15_floyds_triangle_numbers.c) | ⭐⭐⭐ | 🔢 Sequential numbering and continuous counting |
+| 16 | [Floyds Triangle Odd Numbers](16_floyds_triangle_odd_numbers.c) | ⭐⭐⭐ | 🔄 Number variations and alternative sequences |
+| 17 | [Alternating Binary Triangle](17_alternating_binary_triangle.c) | ⭐⭐⭐ | 💻 Binary patterns and alternating values |
+| 18 | [Right Triangle Asterisk Pattern](18_right_triangle_asterisk_pattern.c) | ⭐⭐⭐⭐ | ⭐ Advanced triangles and complex positioning |
+| 19 | [Left Rhombus Pattern](19_left_rhombus_pattern.c) | ⭐⭐⭐⭐ | 💎 Diamond shapes and symmetrical patterns |
+| 20 | [Right Triangle Alphabet Pattern](20_right_triangle_alphabet_pattern.c) | ⭐⭐⭐⭐ | 🔤 Advanced alphabets and positioning |
+| 21 | [Centered Star Pyramid](21_centered_star_pyramid.c) | ⭐⭐⭐⭐ | 🏔️ Pyramid structures and centered alignment |
+| 22 | [Centered Numeric Pyramid](22_centered_numeric_pyramid.c) | ⭐⭐⭐⭐ | 🔺 Numeric pyramids and arrangements |
+| 23 | [Centered Alphabet Pyramid](23_centered_alphabet_pyramid.c) | ⭐⭐⭐⭐ | 🔠 Letter pyramids and character sequences |
 
 **Learning Goals**: Master complex algorithms, symmetrical patterns, and advanced positioning techniques.
 
@@ -126,22 +126,22 @@ gcc 01_Solid_Rectangle.c -o solid_rectangle
 
 | # | 📁 **Problem** | 📊 **Difficulty** | 🔑 **Key Concepts** |
 |---|---------|-------------------|--------------------------------------|
-| 24 | [Advanced Number Pyramid](24_Number_Pyramid_Mast.c) | ⭐⭐⭐⭐ | 🧮 Complex numbering and sophisticated patterns |
-| 25 | [Advanced Alphabet Pyramid](25_Alphabet_Pyramid_Mast.c) | ⭐⭐⭐⭐ | 📝 Complex alphabets and advanced lettering |
-| 26 | [Star Diamond](26_Star_Diamond.c) | ⭐⭐⭐⭐ | 💎 Diamond patterns and dual pyramids |
-| 27 | [Advanced Star Pyramid](27_Start_Pyramid_Mast.c) | ⭐⭐⭐⭐ | ⭐ Master pyramids and expert-level stars |
-| 28 | [Number Pyramid Master](28_Number's_Pyramid_Mast.c) | ⭐⭐⭐⭐ | 🔢 Number mastery and complex arrangements |
-| 29 | [Alphabet Pyramid Master](29_Alphabeti_Pyramid_Mast.c) | ⭐⭐⭐⭐ | 🔤 Alphabet mastery and advanced lettering |
-| 30 | [Number Pyramid HW](30_Number_Pyramid_Mast_HW.c) | ⭐⭐⭐⭐ | 🎯 Independent problem solving challenges |
-| 31 | [Left Triangle Mirror](31_left_triangle_mirror_pattern.c) | ⭐⭐⭐⭐ | 🪞 Mirror patterns and reflection algorithms |
-| 32 | [Number Mess](32_Number_Mess.c) | ⭐⭐⭐⭐ | 🌀 Complex arrangements and intricate patterns |
-| 33 | [Number Mess 2](33_Number_Mess_2.c) | ⭐⭐⭐⭐ | 🧩 Advanced complexity and master-level challenges |
+| 24 | [Centered Palindrome Pyramid](24_centered_palindrome_pyramid.c) | ⭐⭐⭐⭐ | 🧮 Palindromic patterns and complex numbering |
+| 25 | [Centered Alpha Palindrome Pyramid](25_centered_alpha_palindrome_pyramid.c) | ⭐⭐⭐⭐ | 🔡 Palindromic alphabets and advanced lettering |
+| 26 | [Symmetric Diamond Star Pattern](26_symmetric_diamond_star_pattern.c) | ⭐⭐⭐⭐ | 💎 Diamond patterns and dual pyramids |
+| 27 | [Hollow Inverted Triangle](27_hollow_inverted_triangle.c) | ⭐⭐⭐⭐ | ⭐ Hollow shapes and inverted structures |
+| 28 | [Number Central Gap Pattern](28_number_central_gap_pattern.c) | ⭐⭐⭐⭐ | 🔢 Gap patterns and central alignment |
+| 29 | [Alphabet Central Gap Pattern](29_alphabet_central_gap_pattern.c) | ⭐⭐⭐⭐ | 🔤 Alphabet gaps and advanced spacing |
+| 30 | [Symmetric Hollow Pyramid Numbers](30_symmetric_hollow_pyramid_numbers.c) | ⭐⭐⭐⭐ | 🎯 Hollow pyramids and complex numbering |
+| 31 | [Left Triangle Mirror Pattern](31_left_triangle_mirror_pattern.c) | ⭐⭐⭐⭐ | 🪞 Mirror patterns and reflection algorithms |
+| 32 | [Diamond Symmetric Number Pattern](32_diamond_symmetric_number_pattern.c) | ⭐⭐⭐⭐ | 🌀 Complex arrangements and intricate patterns |
+| 33 | [Reverse Diamond Number Pattern](33_reverse_diamond_number_pattern.c) | ⭐⭐⭐⭐ | 🧩 Advanced complexity and master-level challenges |
 
 **Learning Goals**: Master expert-level algorithms, mirror logic, and the most complex pattern arrangements.
 
 ---
 
-### 🔯 **Recommended Learning Path**
+### 📯 **Recommended Learning Path**
 
 ```mermaid
 graph LR
@@ -256,9 +256,9 @@ Ready to level up your C programming journey? Here's your personalized learning 
 
 **Choose your starting point and begin your coding journey!**
 
-[![Foundation](https://img.shields.io/badge/🟢%20Foundation-Problems%201--11-success?style=for-the-badge)](01_Solid_Rectangle.c)
-[![Intermediate](https://img.shields.io/badge/🟡%20Intermediate-Problems%2012--23-warning?style=for-the-badge)](12_Star_Plus.c)
-[![Advanced](https://img.shields.io/badge/🔴%20Advanced-Problems%2024--33-critical?style=for-the-badge)](24_Number_Pyramid_Mast.c)
+[![Foundation](https://img.shields.io/badge/🟢%20Foundation-Problems%201--11-success?style=for-the-badge)](01_rectangle_asterisk_pattern.c)
+[![Intermediate](https://img.shields.io/badge/🟡%20Intermediate-Problems%2012--23-warning?style=for-the-badge)](12_plus_sign_pattern.c)
+[![Advanced](https://img.shields.io/badge/🔴%20Advanced-Problems%2024--33-critical?style=for-the-badge)](24_centered_palindrome_pyramid.c)
 
 ---
 
