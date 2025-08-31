@@ -22,60 +22,64 @@
 
 11. Print all even numbers within a given range.
 
-12. Write a program to print all ASCII values and their equivalent characters from 'A' to 'Z' (characters can be uppercase or lowercase as specified by user) using a for loop.
+12. Write a program to print all ASCII values and their equivalent characters from 'A' to 'Z'
+(characters can be uppercase or lowercase as specified by user) using a for loop.
 
-13. Program to calculate the factorial of a given number.
+13. Write a program to print all ASCII values and their equivalent characters from 'A' to 'Z' 
+(characters can be uppercase or lowercase as specified by user) using a for loop.
 
-14. Print the factorial of all numbers within a given range.
+14. Program to calculate the factorial of a given number.
 
-15. Write a program to print the nth term of the Fibonacci series.
+15. Print the factorial of all numbers within a given range.
 
-16. Write a program to print the Fibonacci series from the first term to the nth term.
+16. Write a program to print the nth term of the Fibonacci series.
 
-17. Display the arithmetic progression: 1, 3, 5, 7, 9, ... up to 'n' terms.
+17. Write a program to print the Fibonacci series from the first term to the nth term.
 
-18. Display the arithmetic progression: 4, 7, 10, 13, 16, ... up to 'n' terms.
+18. Display the arithmetic progression: 1, 3, 5, 7, 9, ... up to 'n' terms.
 
-19. Display the geometric progression: 1, 2, 4, 8, 16, 32, ... up to 'n' terms.
+19. Display the arithmetic progression: 4, 7, 10, 13, 16, ... up to 'n' terms.
 
-20. Display the geometric progression: 3, 12, 48, ... up to 'n' terms.
+20. Display the geometric progression: 1, 2, 4, 8, 16, 32, ... up to 'n' terms.
 
-21. Display the geometric progression: 100, 50, 25, ... up to 'n' terms.
+21. Display the geometric progression: 3, 12, 48, ... up to 'n' terms.
 
-22. Display the arithmetic progression: 100, 97, 94, ... down to the last positive term, with 'n' starting terms.
+22. Display the geometric progression: 100, 50, 25, ... up to 'n' terms.
 
-23. Program to calculate the result of raising one number to the power of another.
+23. Display the arithmetic progression: 100, 97, 94, ... down to the last positive term, with 'n' starting terms.
 
-24. Program to check if a number is prime or composite.
+24. Program to calculate the result of raising one number to the power of another.
 
-25. Write a program to check whether a given number is prime or not using while loops.
+25. Program to check if a number is prime or composite.
 
-26. Write a program to print all prime numbers within a given range.
+26. Write a program to check whether a given number is prime or not using while loops.
 
-27. Calculate the sum of the series: 1 - 2 + 3 - 4 + 5 - 6 + ... up to 'n' terms.
+27. Write a program to print all prime numbers within a given range.
 
-28. Calculate the sum of the series: -1 + 2 - 3 + 4 - 5 + 6 - ... up to 'n' terms.
+28. Calculate the sum of the series: 1 - 2 + 3 - 4 + 5 - 6 + ... up to 'n' terms.
 
-29. Write a program to count the digits of a given number.
+29. Calculate the sum of the series: -1 + 2 - 3 + 4 - 5 + 6 - ... up to 'n' terms.
 
-30. Program to print the reverse of a given number.
+30. Write a program to count the digits of a given number.
 
-31. Program to calculate the sum of digits of a given number.
+31. Program to print the reverse of a given number.
 
-32. Program to print the sum of all even digits of a given number.
+32. Program to calculate the sum of digits of a given number.
 
-33. Program to print the sum of all odd digits of a given number.
+33. Program to print the sum of all even digits of a given number.
 
-34. Write a program to print the sum of digits of a given number plus the sum of digits of its reverse.
+34. Program to print the sum of all odd digits of a given number.
 
-35. Write a program to print the sum of a number 'n' and its reverse.
+35. Write a program to print the sum of digits of a given number plus the sum of digits of its reverse.
 
-36. Keep taking numbers as input from the user until an odd number is entered.
+36. Write a program to print the sum of a number 'n' and its reverse.
 
-37. Continuously take input from the user until a number that is a multiple of 7 is entered.
+37. Keep taking numbers as input from the user until an odd number is entered.
 
-38. Program to check whether a given number is a palindrome.
+38. Continuously take input from the user until a number that is a multiple of 7 is entered.
 
-39. Write a program to check if the number entered by the user is an Armstrong number.
+39. Program to check whether a given number is a palindrome.
 
-40. Write a program to print all Armstrong numbers between R (starting value) and S (ending value) as given by the user.
+40. Write a program to check if the number entered by the user is an Armstrong number.
+
+41. Write a program to print all Armstrong numbers between R (starting value) and S (ending value) as given by the user.
