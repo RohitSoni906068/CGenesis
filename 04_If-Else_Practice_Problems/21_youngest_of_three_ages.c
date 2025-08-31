@@ -1,4 +1,5 @@
-// If the ages of Ram, Shyam, and Ajay are input through the keyboard, write a program to determine the youngest of the three using logical operators and nested if statements.
+// If the ages of Ram, Shyam, and Ajay are input through the keyboard, write a program to determine,
+// the youngest of the three using logical operators and nested if statements.
 #include <stdio.h>
 
 int main()
@@ -42,6 +43,7 @@ int main()
             printf("Shyam is Youngest Boy.Whose age is : %d.\n", Shyam_age);
         }
     }
+    
     else
     {
         if (Ajay_age == Ram_age)
