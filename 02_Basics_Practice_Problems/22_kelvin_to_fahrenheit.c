@@ -4,7 +4,6 @@
 
 int main()
 {
-
     float Kelvin;
     printf("Enter termperature in Kelvin : ");
     scanf("%f",&Kelvin);
