@@ -15,13 +15,13 @@ ARITHMETIC FUNCTIONS
 --------------------
 5. Write a program to find the sum of three numbers using a function.
 
-6. Write a function to calculate the sum, product, and average of two numbers.
+6. Write a function for each of the following to calculate the sum, product, and average of two numbers.
 
 7. Use a library function to calculate the area of a square with side length 'a'.
 
 TEMPERATURE CONVERSION FUNCTIONS
 --------------------------------
-8. Write a function to convert temperature from Celsius to Fahrenheit using the formula: F = (C × 9/5) + 32.
+8. Write a function to convert temperature from Celsius to Fahrenheit.
 
 9. Write a function to convert temperature from Celsius to Kelvin.
 
@@ -41,7 +41,7 @@ COMPARISON FUNCTIONS
 
 GEOMETRIC CALCULATIONS
 ----------------------
-16. Write functions to calculate the area of a circle and a rectangle.
+16. Write functions for each of the following to calculate the area of a circle and a rectangle.
 
 17. Write a function to calculate the gravitational force of attraction on a body of mass 'm' exerted by Earth.
 
@@ -60,6 +60,8 @@ MATHEMATICAL SEQUENCES
 PATTERN PRINTING
 ----------------
 23. Write a program to print a star pattern using a function (prints first n lines):
+    Example : rows = 3
+    Expected Output :
     *
     * * *
     * * * * *
@@ -73,7 +75,7 @@ COMBINATORICS
 PASCAL'S TRIANGLE
 -----------------
 26. Write a program to print Pascal's Triangle up to a given number of rows.
-    Example: If number of rows = 6
+    Example: If number of rows = 5
     1
     1 1
     1 2 1
@@ -92,13 +94,13 @@ PASCAL'S TRIANGLE
 
 VARIABLE MANIPULATION
 ---------------------
-28. Write a function to swap two values and print them.
+28. Write a function to swap two given parameters and print them using a temporary variable.
 
-29. Write a function to swap two values without using a temporary variable and print them.
+29. Write a function to swap two given parameters without using a temporary variable and print them.
 
 POWER CALCULATIONS
 ------------------
-30. Write a power calculator using math library functions.
+30. Write a function to calculate power using math library functions.
 
 31. Write a function to calculate the result of a base raised to the power of an exponent.
 
