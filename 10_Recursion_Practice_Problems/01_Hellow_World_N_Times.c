@@ -1,4 +1,4 @@
-// Recursively prints "Hello World" a given number of times
+// Recursive function to print "Hello World" a given number of times.
 #include <stdio.h>
 
 void print_hello_world(int count)
