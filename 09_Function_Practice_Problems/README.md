@@ -41,7 +41,7 @@ Master **36 progressive function challenges** covering essential C programming c
 
 - **📊 Mathematical Operations**: Basic arithmetic, statistics, and number theory
 - **🔢 Algorithm Implementation**: Prime detection, sequences, and combinatorics  
-- **📐 Scientific Computing**: Geometry, conversions, and mathematical functions
+- **🔬 Scientific Computing**: Geometry, conversions, and mathematical functions
 - **🔄 Data Processing**: Comparisons, swapping, and logical operations
 - **🛠️ Professional Practices**: Library usage, modular design, and code optimization
 
@@ -73,8 +73,8 @@ gcc filename.c -o output
 ./output
 
 # Example with Problem 1
-gcc 01_Good_Morning_Afternoon.c -o good_morning_afternoon
-./good_morning_afternoon
+gcc 01_time_based_greeting.c -o time_based_greeting
+./time_based_greeting
 ```
 
 ---
@@ -85,21 +85,21 @@ gcc 01_Good_Morning_Afternoon.c -o good_morning_afternoon
 
 *Build your function fundamentals with essential concepts*  
 
-| # | 📁 **Problem** | 📊 **Difficulty** | 🔑 **Key Concepts & Learning Focus** |
+| # | 📁 **Problem** | 📊 **Difficulty** | 🔑 **Key Concepts** |
 |---|---------|-------------------|--------------------------------------|
-| 01 | [Good Morning Afternoon](01_Good_Morning,Afternoon.c) | ⭐ | 🌅 Basic void functions and greeting logic |
-| 02 | [Namaste and Bonjour](02_Namaste_and_Bonjour.c) | ⭐ | 🌍 Multi-language functions and string handling |
-| 03 | [Table Of N](03_Table_Of_N.c) | ⭐ | 📊 Loop integration with functions |
-| 04 | [Hot Cold](04_Hot_Cold.c) | ⭐⭐ | 🌡️ Conditional functions and temperature logic |
-| 05 | [Sum of Three Numbers](05_Sum_of_three_numbers.c) | ⭐ | ➕ Parameter passing and return values |
-| 06 | [Sum Product Average](06_Sum,Product,Average.c) | ⭐⭐ | 🧮 Multiple calculations in single function |
-| 07 | [Area Of Square](07_Area_Of_Square.c) | ⭐ | 🔲 Geometric calculations and math functions |
-| 08 | [Celsius to Fahrenheit](08_Celsius_to_Fahreheit.c) | ⭐⭐ | 🌡️ Temperature conversion formulas |
-| 09 | [Celsius to Kelvin](09_Celsius_to_Kelvin.c) | ⭐⭐ | ❄️ Scientific temperature scales |
-| 10 | [Fahrenheit to Celsius](10_Fahrenheit_to_Celsius.c) | ⭐⭐ | 🔄 Reverse conversion logic |
-| 11 | [Fahrenheit to Kelvin](11_Fahrenheit_to_Kelvin.c) | ⭐⭐ | 🔥 Multi-step temperature conversions |
-| 12 | [Kelvin to Celsius](12_Kelvin_to_Celsius.c) | ⭐⭐ | 🧊 Absolute temperature handling |
-| 13 | [Kelvin to Fahrenheit](13_Kelvin_to_Fahreheit.c) | ⭐⭐ | ⚡ Complex formula implementation |
+| 01 | [Time Based Greeting](01_time_based_greeting.c) | ⭐ | 🌅 Basic void functions and conditional logic |
+| 02 | [Nationality Greeting](02_nationality_greeting.c) | ⭐ | 🌍 Multi-language functions and string handling |
+| 03 | [Multiplication Table](03_multiplication_table.c) | ⭐ | 📊 Loop integration with functions |
+| 04 | [Weather Categorization](04_weather_categorization.c) | ⭐⭐ | 🌡️ Conditional functions and temperature logic |
+| 05 | [Sum Three Numbers](05_sum_three_numbers.c) | ⭐ | ➕ Parameter passing and return values |
+| 06 | [Arithmetic Operations](06_arithmetic_operations.c) | ⭐⭐ | 🧮 Multiple calculations in single function |
+| 07 | [Square Area Calculator](07_square_area_calculator.c) | ⭐ | 🔲 Geometric calculations and math functions |
+| 08 | [Celsius To Fahrenheit](08_celsius_to_fahrenheit.c) | ⭐⭐ | 🌡️ Temperature conversion formulas |
+| 09 | [Celsius To Kelvin](09_celsius_to_kelvin.c) | ⭐⭐ | ❄️ Scientific temperature scales |
+| 10 | [Fahrenheit To Celsius](10_fahrenheit_to_celsius.c) | ⭐⭐ | 🔥 Reverse conversion logic |
+| 11 | [Fahrenheit To Kelvin](11_fahrenheit_to_kelvin.c) | ⭐⭐ | 🔥 Multi-step temperature conversions |
+| 12 | [Kelvin To Celsius](12_kelvin_to_celsius.c) | ⭐⭐ | 🧊 Absolute temperature handling |
+| 13 | [Kelvin To Fahrenheit](13_kelvin_to_fahrenheit.c) | ⭐⭐ | ⚡ Complex formula implementation |
 
 **🎯 Focus Areas:** Function basics, parameter passing, return values, simple calculations
 
@@ -109,20 +109,20 @@ gcc 01_Good_Morning_Afternoon.c -o good_morning_afternoon
 
 *Develop analytical thinking and optimization skills*  
 
-| # | 📁 **Problem** | 📊 **Difficulty** | 🔑 **Key Concepts & Learning Focus** |
+| # | 📁 **Problem** | 📊 **Difficulty** | 🔑 **Key Concepts** |
 |---|---------|-------------------|--------------------------------------|
-| 14 | [Min of Two Numbers](14_Min_of_two_numbers.c) | ⭐⭐ | 🔍 Comparison functions and conditional returns |
-| 15 | [Min of Three Numbers](15_Min_of_three_numbers.c) | ⭐⭐ | 🎯 Multiple parameter comparison logic |
-| 16 | [Area Of Circle Rectangle](16_Area_Of_Circle,Rectangle.c) | ⭐⭐ | 📐 Multiple geometric functions |
-| 17 | [Force Of Attraction](17_Force_Of_Attraction.c) | ⭐⭐⭐ | 🪐 Physics formulas and scientific computing |
-| 18 | [Factorial](18_Factorial.c) | ⭐⭐ | 🔢 Recursive thinking and mathematical functions |
-| 19 | [Factorial of First N](19_Factorial_of_First_N.c) | ⭐⭐⭐ | 🔄 Loop-function integration and series |
-| 20 | [Fibonacci](20_Fibonacci.c) | ⭐⭐⭐ | 🌀 Sequence generation and algorithm design |
-| 21 | [Fibonacci of First N](21_Fibonacci_of_First_N.c) | ⭐⭐⭐ | 📈 Series processing and optimization |
-| 22 | [Sum Of Digit Of N](22_Sum_Of_Digit_Of_N.c) | ⭐⭐ | 🔤 Digit extraction and number manipulation |
-| 23 | [Right Star Triangle](23_Right_Start_Triangle.c) | ⭐⭐ | ⭐ Pattern functions and nested loops |
-| 24 | [Combination](24_Combination.c) | ⭐⭐⭐ | 🎲 Combinatorics and mathematical formulas |
-| 25 | [Permutation](25_Permutation.c) | ⭐⭐⭐ | 🔀 Permutation algorithms and factorial usage |
+| 14 | [Minimum Two Numbers](14_minimum_two_numbers.c) | ⭐⭐ | 🔍 Comparison functions and conditional returns |
+| 15 | [Smallest Three Numbers](15_smallest_three_numbers.c) | ⭐⭐ | 🎯 Multiple parameter comparison logic |
+| 16 | [Area Circle Rectangle](16_area_circle_rectangle.c) | ⭐⭐ | 🔶 Multiple geometric functions |
+| 17 | [Gravitational Force Calculator](17_gravitational_force_calculator.c) | ⭐⭐⭐ | 🪐 Physics formulas and scientific computing |
+| 18 | [Factorial Calculator](18_factorial_calculator.c) | ⭐⭐ | 🔢 Recursive thinking and mathematical functions |
+| 19 | [Factorial Range Display](19_factorial_range_display.c) | ⭐⭐⭐ | 🔄 Loop-function integration and series |
+| 20 | [Nth Fibonacci Number](20_nth_fibonacci_number.c) | ⭐⭐⭐ | 🌀 Sequence generation and algorithm design |
+| 21 | [Fibonacci Sequence Display](21_fibonacci_sequence_display.c) | ⭐⭐⭐ | 📈 Series processing and optimization |
+| 22 | [Sum Of Digits](22_sum_of_digits.c) | ⭐⭐ | 🔤 Digit extraction and number manipulation |
+| 23 | [Star Pattern Printer](23_star_pattern_printer.c) | ⭐⭐ | ⭐ Pattern functions and nested loops |
+| 24 | [Combinations nCr Calculator](24_combinations_ncr_calculator.c) | ⭐⭐⭐ | 🎲 Combinatorics and mathematical formulas |
+| 25 | [Permutations nPr Calculator](25_permutations_npr_calculator.c) | ⭐⭐⭐ | 🔀 Permutation algorithms and factorial usage |
 
 **🎯 Focus Areas:** Algorithm implementation, mathematical functions, pattern generation, optimization
 
@@ -132,19 +132,19 @@ gcc 01_Good_Morning_Afternoon.c -o good_morning_afternoon
 
 *Master advanced function concepts and real-world applications*  
 
-| # | 📁 **Problem** | 📊 **Difficulty** | 🔑 **Key Concepts & Learning Focus** |
+| # | 📁 **Problem** | 📊 **Difficulty** | 🔑 **Key Concepts** |
 |---|---------|-------------------|--------------------------------------|
-| 26 | [Star Pascal Triangle](26_Star_Pascal_Triangle.c) | ⭐⭐⭐ | 🔺 Advanced pattern generation |
-| 27 | [Center-align Pascal Triangle](27_Center-align_rows_Pascal_Triangle.c) | ⭐⭐⭐⭐ | 🎯 Alignment algorithms and spacing |
-| 28 | [Swap Numbers Using Temp](28_Print_Swap_Numbers_Using_Temp.c) | ⭐⭐ | 🔄 Variable swapping and temporary storage |
-| 29 | [Swap Numbers](29_Printing_Swap_Numbers.c) | ⭐⭐⭐ | ⚡ Advanced swapping without temp variables |
-| 30 | [Power Library Function](30_Power_Library_Function.c) | ⭐⭐ | 📚 Library function usage and math.h |
-| 31 | [Power Function](31_Power_Function.c) | ⭐⭐⭐ | 💪 Custom power implementation |
-| 32 | [Power From 0 to Exponent](32_Power_From_0_to_Exponet.c) | ⭐⭐⭐ | 📊 Power series and mathematical sequences |
-| 33 | [Greatest Common Divisor](33_Greatest_Common_Divisor.c) | ⭐⭐⭐⭐ | 🔍 Euclidean algorithm and number theory |
-| 34 | [Prime Factors Of N](34_Prime_Factors_Of_N.c) | ⭐⭐⭐⭐ | 🔢 Prime factorization and advanced algorithms |
-| 35 | [Square Root](35_Square_root.c) | ⭐⭐⭐⭐ | 📐 Numerical methods and precision handling |
-| 36 | [Prime Numbers In Range](36_Prime_Numbers_In_Range.c) | ⭐⭐⭐⭐ | 🎯 Sieve algorithms and optimization techniques |
+| 26 | [Pascals Triangle Basic](26_pascals_triangle_basic.c) | ⭐⭐⭐ | 🔺 Advanced pattern generation |
+| 27 | [Pascals Triangle Centered](27_pascals_triangle_centered.c) | ⭐⭐⭐⭐ | 🎯 Alignment algorithms and spacing |
+| 28 | [Swap With Temporary](28_swap_with_temporary.c) | ⭐⭐ | 🔄 Variable swapping and temporary storage |
+| 29 | [Swap Without Temporary](29_swap_without_temporary.c) | ⭐⭐⭐ | ⚡ Advanced swapping without temp variables |
+| 30 | [Power Calculator Library](30_power_calculator_library.c) | ⭐⭐ | 📚 Library function usage and math.h |
+| 31 | [Power Function Custom](31_power_function_custom.c) | ⭐⭐⭐ | 💪 Custom power implementation |
+| 32 | [Power Series Display](32_power_series_display.c) | ⭐⭐⭐ | 📊 Power series and mathematical sequences |
+| 33 | [GCD Calculator](33_gcd_calculator.c) | ⭐⭐⭐⭐ | 🔍 Euclidean algorithm and number theory |
+| 34 | [Prime Factors Finder](34_prime_factors_finder.c) | ⭐⭐⭐⭐ | 🔢 Prime factorization and advanced algorithms |
+| 35 | [Square Root Newton](35_square_root_newton.c) | ⭐⭐⭐⭐ | 🔍 Numerical methods and precision handling |
+| 36 | [First N Primes](36_first_n_primes.c) | ⭐⭐⭐⭐ | 🎯 Sieve algorithms and optimization techniques |
 
 **🎯 Focus Areas:** Advanced algorithms, number theory, mathematical optimization, computational efficiency
 
@@ -226,7 +226,7 @@ Ready to level up your C programming journey? Here's your personalized learning 
 
 ### 🚀 Immediate Next Challenge
 
-- **🔁 [Recursion Practice Problems](../10_Recursion_Practice_Problems)** - Master recursive algorithms through 25 comprehensive challenges covering base cases, recursive calls, call stack understanding, and advanced recursive problem-solving techniques 🌀
+- **🔍 [Recursion Practice Problems](../10_Recursion_Practice_Problems)** - Master recursive algorithms through 25 comprehensive challenges covering base cases, recursive calls, call stack understanding, and advanced recursive problem-solving techniques 🌀
 
 ### 🌟 Topics Awaiting You
 
@@ -256,9 +256,9 @@ Ready to level up your C programming journey? Here's your personalized learning 
 
 **Choose your starting point and begin your coding journey!**
 
-[![Foundation](https://img.shields.io/badge/🟢%20Foundation-Problems%201--13-success?style=for-the-badge)](01_Good_Morning,Afternoon.c)
-[![Intermediate](https://img.shields.io/badge/🟡%20Intermediate-Problems%2014--25-warning?style=for-the-badge)](14_Min_of_two_numbers.c)
-[![Advanced](https://img.shields.io/badge/🔴%20Advanced-Problems%2026--36-critical?style=for-the-badge)](26_Star_Pascal_Triangle.c)
+[![Foundation](https://img.shields.io/badge/🟢%20Foundation-Problems%201--13-success?style=for-the-badge)](01_time_based_greeting.c)
+[![Intermediate](https://img.shields.io/badge/🟡%20Intermediate-Problems%2014--25-warning?style=for-the-badge)](14_minimum_two_numbers.c)
+[![Advanced](https://img.shields.io/badge/🔴%20Advanced-Problems%2026--36-critical?style=for-the-badge)](26_pascals_triangle_basic.c)
 
 ---
 
