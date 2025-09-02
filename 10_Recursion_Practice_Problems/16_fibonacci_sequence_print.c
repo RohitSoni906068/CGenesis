@@ -19,6 +19,7 @@ void fibonacci_sequence(int x) // Function to print Fibonacci sequence from 0 to
 int main()
 {
     int term;
+    
     printf("Enter how many terms (0 based) of Fibonacci sequence to print : ");
     scanf("%d", &term);
 
