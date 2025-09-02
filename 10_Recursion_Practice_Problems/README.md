@@ -1,4 +1,4 @@
-# 🔁 Recursion Practice Problems in C
+# 🔄 Recursion Practice Problems in C
 
 > **Master Recursion Through 25 Progressive Programming Problems**
 
@@ -45,15 +45,15 @@ Transform theoretical recursion knowledge into practical programming expertise t
 
 | #  | 📁 **Problem**                                         | 📊 **Difficulty** | 🔑 **Key Concepts** |
 |----|---------------------------------------------------|-------------------|---------------------|
-| 1  | [Hellow World N Times](01_Hellow_World_N_Times.c)      | ⭐ | 🔄 Basic recursion and base cases |
-| 2  | [Factorial](02_Factorial.c)                 | ⭐ | ➗ Mathematical recursion and return values |
-| 3  | [Factorial of first n recursively](03_Factorial_of_first_n_recersively.c) | ⭐⭐ | 🔢 Loop-recursion integration and series |
-| 4  | [Decreasing order of n](04_Decreasing_order_of_n.c)     | ⭐ | ⬇️ Decreasing sequence and call stack |
-| 5  | [Print decreasing number in range](05_Print_decreasing_number_in_range.c) | ⭐⭐ | 📏 Range handling and recursive printing |
-| 6  | [Print 1 to N Parameteriased](06_Print_1_to_N_Parameteriased.c) | ⭐⭐ | 📊 Parameterized recursion techniques |
-| 7  | [Print increasing number in range](07_Print_increasing_number_in_range.c) | ⭐⭐ | ⬆️ Increasing sequence and call ordering |
-| 8  | [Print 1 to N after call](08_Print_1_to_N_after_call.c)   | ⭐⭐ | 🔄 Post-call execution and stack unwinding |
-| 9  | [Relationship of Increasing Decreasing](09_Relatioship_of_Increasing_decreasing.c) | ⭐⭐⭐ | 🔀 Call stack behavior and execution order |
+| 1  | [📄 Hello World Recursive Print](01_hello_world_recursive_print.c)      | ⭐ | 🔄 Basic recursion and base cases |
+| 2  | [🧮 Factorial Calculation](02_factorial_calculation.c)                 | ⭐ | ➗ Mathematical recursion and return values |
+| 3  | [📊 Factorial Series Print](03_factorial_series_print.c) | ⭐⭐ | 🔢 Loop-recursion integration and series |
+| 4  | [⬇️ Decreasing Order Print](04_decreasing_order_print.c)     | ⭐ | ⬇️ Decreasing sequence and call stack |
+| 5  | [📅 Range Decreasing Print](05_range_decreasing_print.c) | ⭐⭐ | 🎯 Range handling and recursive printing |
+| 6  | [📈 Increasing Order Print](06_increasing_order_print.c) | ⭐⭐ | 📊 Parameterized recursion techniques |
+| 7  | [📊 Range Increasing Print](07_range_increasing_print.c) | ⭐⭐ | ⬆️ Increasing sequence and call ordering |
+| 8  | [🔢 Natural Numbers Print](08_natural_numbers_print.c)   | ⭐⭐ | 🔄 Post-call execution and stack unwinding |
+| 9  | [🔀 Up Down Pattern Print](09_up_down_pattern_print.c) | ⭐⭐⭐ | 🔀 Call stack behavior and execution order |
 
 ---
 
@@ -63,14 +63,14 @@ Transform theoretical recursion knowledge into practical programming expertise t
 
 | #  | 📁 **Problem**                                         | 📊 **Difficulty** | 🔑 **Key Concepts** |
 |----|---------------------------------------------------|-------------------|---------------------|
-| 10 | [Sum of first n recursively](10_Sum_of_first_n_recersively.c) | ⭐⭐ | ➕ Accumulation and recursive summation |
-| 11 | [Sum From Start to End Parameterasied](11_Sum_From_Start_to_End-Parameterasied.c) | ⭐⭐⭐ | 🎯 Parameterized range operations |
-| 12 | [Sum From Start to End](12_Sum_from_Start_to_End.c)     | ⭐⭐ | 📏 Range-based recursive calculations |
-| 13 | [Raised to the power](13_Raised_to_the_power.c)       | ⭐⭐⭐ | ⚡ Exponential recursion and mathematical functions |
-| 14 | [N term of fibonacci](14_N_term_of_fibonacci.c)       | ⭐⭐⭐ | 🌀 Fibonacci sequence and multiple recursive calls |
-| 15 | [Sum of factorial](15_Sum_of_factorial.c)          | ⭐⭐⭐ | 🧮 Combined factorial and summation logic |
-| 16 | [First Fibonacci Sequence](16_First_Fibonacci_Sequence.c)  | ⭐⭐⭐ | 📈 Fibonacci series generation and optimization |
-| 17 | [Sum Of Fibonacci Sequence](17_Sum_Of_Fibonacci_Sequence.c) | ⭐⭐⭐ | 🔢 Fibonacci summation and series processing |
+| 10 | [➕ Sum Natural Numbers](10_sum_natural_numbers.c) | ⭐⭐ | ➕ Accumulation and recursive summation |
+| 11 | [🎯 Sum Range Parameterized](11_sum_range_parameterized.c) | ⭐⭐⭐ | 🎯 Parameterized range operations |
+| 12 | [📊 Sum Range Calculation](12_sum_range_calculation.c)     | ⭐⭐ | 🎯 Range-based recursive calculations |
+| 13 | [⚡ Power Calculation Basic](13_power_calculation_basic.c)       | ⭐⭐⭐ | ⚡ Exponential recursion and mathematical functions |
+| 14 | [⚡ Power Calculation Optimized](14_power_calculation_optimized.c)       | ⭐⭐⭐⭐ | ⚡ Logarithmic optimization and efficient recursion |
+| 15 | [🌀 Fibonacci Nth Term](15_fibonacci_nth_term.c)       | ⭐⭐⭐ | 🌀 Fibonacci sequence and multiple recursive calls |
+| 16 | [📈 Fibonacci Sequence Print](16_fibonacci_sequence_print.c)  | ⭐⭐⭐ | 📈 Fibonacci series generation and optimization |
+| 17 | [📊 Fibonacci Sum Calculation](17_fibonacci_sum_calculation.c) | ⭐⭐⭐ | 🔢 Fibonacci summation and series processing |
 
 ---
 
@@ -80,14 +80,14 @@ Transform theoretical recursion knowledge into practical programming expertise t
 
 | #  | 📁 **Problem**                                         | 📊 **Difficulty** | 🔑 **Key Concepts** |
 |----|---------------------------------------------------|-------------------|---------------------|
-| 18 | [Stair Path-1](18_Stair_Path-1.c)              | ⭐⭐⭐ | 🪜 Dynamic programming and path counting |
-| 19 | [Stair Path-2](19_Stair_Path-2.c)              | ⭐⭐⭐⭐ | 🎯 Multi-way recursion and combinatorial problems |
-| 20 | [Optimised Rasied Power](20_Optimised_Rasied_Power.c)    | ⭐⭐⭐⭐ | ⚡ Logarithmic optimization and efficient recursion |
-| 21 | [Maze Path-parameterised](21_Maze_Path-parameterised.c)   | ⭐⭐⭐⭐ | 🗺️ Grid navigation and parameterized pathfinding |
-| 22 | [Maze Path](22_Maze_Path.c)                 | ⭐⭐⭐ | 🧭 2D recursion and directional movement |
-| 23 | [Pre In Post](23_Pre_In_Post.c)               | ⭐⭐⭐⭐ | 🌳 Tree traversal patterns and recursive execution order |
-| 24 | [Zig Zag](24_Zig_Zag.c)                   | ⭐⭐⭐⭐⭐ | 🔀 Complex recursive patterns and directional logic |
-| 25 | [Tower of Hanoi](25_Tower_of_Hanol.c)            | ⭐⭐⭐⭐⭐ | 🗼 Classic recursive algorithm and problem decomposition |
+| 18 | [📊 Factorial Sum Series](18_factorial_sum_series.c)              | ⭐⭐⭐ | 🧮 Combined factorial and summation logic |
+| 19 | [🪜 Stairs Climbing Two Steps](19_stairs_climbing_two_steps.c)              | ⭐⭐⭐ | 🪜 Dynamic programming and path counting |
+| 20 | [🎯 Stairs Climbing Three Steps](20_stairs_climbing_three_steps.c)    | ⭐⭐⭐⭐ | 🎯 Multi-way recursion and combinatorial problems |
+| 21 | [🗺️ Grid Paths Parameterized](21_grid_paths_parameterized.c)   | ⭐⭐⭐⭐ | 🗺️ Grid navigation and parameterized pathfinding |
+| 22 | [🧭 Grid Paths Corner to Corner](22_grid_paths_corner_to_corner.c)                 | ⭐⭐⭐ | 🧭 2D recursion and directional movement |
+| 23 | [📋 Zigzag Pattern Basic](23_zigzag_pattern_basic.c)               | ⭐⭐⭐⭐⭐ | 🔀 Complex recursive patterns and directional logic |
+| 24 | [🔢 Zigzag Pattern Natural Numbers](24_zigzag_pattern_natural_numbers.c)                   | ⭐⭐⭐⭐⭐ | 🔀 Advanced pattern generation and recursive logic |
+| 25 | [🗼 Tower of Hanoi Puzzle](25_tower_of_hanoi_puzzle.c)            | ⭐⭐⭐⭐⭐ | 🗼 Classic recursive algorithm and problem decomposition |
 
 ---
 
@@ -170,7 +170,7 @@ Ready to level up your C programming journey? Here's your personalized learning 
 
 ### 🚀 Immediate Next Challenge
 
-- **🔁 [Data Structures: Array and 2D Array](../11_Array_and_2D-Array)** - Master recursive algorithms through 25 comprehensive challenges covering base cases, recursive calls, call stack understanding, and advanced recursive problem-solving techniques 🌀
+- **🗂 [Data Structures: Array and 2D Array](../11_Array_and_2D-Array)** - Master recursive algorithms through 25 comprehensive challenges covering base cases, recursive calls, call stack understanding, and advanced recursive problem-solving techniques 🌀
 
 ### 🌟 Topics Awaiting You
 
@@ -199,9 +199,9 @@ Ready to level up your C programming journey? Here's your personalized learning 
 
 **Choose your starting point and begin your coding journey!**
 
-[![Foundation](https://img.shields.io/badge/🟢%20Foundation-Problems%201--9-success?style=for-the-badge)](01_Hellow_World_N_Times.c)
-[![Medium](https://img.shields.io/badge/🟡%20Medium-Problems%2010--17-warning?style=for-the-badge)](10_Sum_of_first_n_recersively.c)
-[![Hard](https://img.shields.io/badge/🔴%20Hard-Problems%2018--25-critical?style=for-the-badge)](18_Stair_Path-1.c)
+[![Foundation](https://img.shields.io/badge/🟢%20Foundation-Problems%201--9-success?style=for-the-badge)](01_hello_world_recursive_print.c)
+[![Medium](https://img.shields.io/badge/🟡%20Medium-Problems%2010--17-warning?style=for-the-badge)](10_sum_natural_numbers.c)
+[![Hard](https://img.shields.io/badge/🔴%20Hard-Problems%2018--25-critical?style=for-the-badge)](18_factorial_sum_series.c)
 
 ---
 

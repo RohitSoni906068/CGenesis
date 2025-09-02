@@ -16,8 +16,8 @@ int main()
 {
     int repetitions;
 
-    printf(" Enter how many times you want to print 'Hello World' : ");
-    scanf(" %d", &repetitions);
+    printf("Enter how many times you want to print 'Hello World' : ");
+    scanf("%d", &repetitions);
 
     print_hello_world(repetitions);
 
