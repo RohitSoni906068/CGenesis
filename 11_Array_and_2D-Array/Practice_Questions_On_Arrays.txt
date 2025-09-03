@@ -1,10 +1,13 @@
 # PRACTICE QUESTIONS ON ARRAYS IN C PROGRAMMING
 
-1. Write a C program that accepts marks for multiple students and prints the roll numbers of students who scored below the passing mark (e.g., 35).
+1. Write a C program that accepts marks for multiple students and prints the roll numbers of students, 
+who scored below the passing mark (e.g., 35).
 
-2. Write a program to calculate the sum of all elements in an integer array. The user should be prompted to input the array size and its elements.
+2. Write a program to calculate the sum of all elements in an integer array. 
+The user should be prompted to input the array size and its elements.
 
-3. Write a program to calculate the product of all elements in an integer array. The user should be prompted to input the array size and its elements.
+3. Write a program to calculate the product of all elements in an integer array. 
+The user should be prompted to input the array size and its elements.
 
 4. Write a program to store the multiplication table of a given number in an array.
 
@@ -22,7 +25,8 @@
 
 10. Write a program to count the number of elements in an array that are greater than a given number x.
 
-11. Write a program to calculate the difference between the sum of elements at even indices and the sum of elements at odd indices in an array.
+11. Write a program to calculate the difference between the sum of elements at even indices and, 
+the sum of elements at odd indices in an array.
 
 12. Write a program to find and count all pairs in an array whose sum equals a given target value.
 
@@ -46,12 +50,15 @@
 
 22. Write a program to reverse a subarray between given start and end indices.
 
-23. Write a program to perform a right rotation on an array using the reversal algorithm. The program should read array elements from the user and rotate the array 'r' times.
+23. Write a program to perform a right rotation on an array using the reversal algorithm. 
+The program should read array elements from the user and rotate the array 'r' times.
 
 24. Write a program to check whether a given number is present in an array.
 
 25. Write a program to find the missing number from an array containing numbers from 1 to 20.
 
-26. Write a program to find a duplicate element in an integer array where all elements appear exactly twice except one value that appears more than twice.
+26. Write a program to find a duplicate element in an integer array where all elements appear exactly twice, 
+except one value that appears more than twice.
 
-27. Write a program to find the unique number in an array where all elements appear exactly twice except one value that appears only once.
+27. Write a program to find the unique number in an array where all elements appear exactly twice, 
+except one value that appears only once.
