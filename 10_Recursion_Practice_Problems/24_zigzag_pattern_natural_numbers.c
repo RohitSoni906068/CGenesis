@@ -1,4 +1,4 @@
-// Ques : Print zig-zag(Print for first N Natural Numbers)
+// Recursive function to print a Zig-Zag pattern for the first N natural numbers.
 // Ex: if N=4.
 //  Input        Output
 //  1            111
@@ -16,11 +16,8 @@
  */
 void printZigZag(int n)
 {
-    if (n == 0)
-    {
-        return;
-    }
-
+    if (n == 0) return;
+    
     printf("%d", n);    // Pre
     printZigZag(n - 1); // Left recursive call
     printf("%d", n);    // In
@@ -32,13 +29,14 @@ int main()
 {
     int number;
 
-    printf(" Enter a number : ");
-    scanf(" %d", &number);
+    printf("Enter a number : ");
+    scanf("%d", &number);
 
     for (int i = 1; i <= number; i++)
     {
         printf("%d : ", i);
         printZigZag(i);
+
         printf("\n");
     }
 
