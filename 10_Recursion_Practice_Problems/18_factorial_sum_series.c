@@ -1,23 +1,31 @@
-// Write a program to print sum of factorial of 1 to n numbers.
+// Program to calculate the sum of factorials from 1 to n.
 #include <stdio.h>
+
 int factorial(int n)
 {
-    if (n == 0 || n == 1)
-        return 1;
-    return n * factorial(n - 1); // direct call to itself
+    return (n == 0 || n == 1) ? 1 : (n * factorial(n - 1));
 }
 
 int factorial_sum(int n)
 {
-    if (n == 0)
-        return 0;
-    return factorial(n) + factorial_sum(n - 1); // again, calls itself
+    return (n == 0) ? 0 : factorial(n) + factorial_sum(n - 1);
 }
+
 int main()
 {
-    int n;
-    printf(" Enter Number : ");
-    scanf(" %d", &n);
-    printf(" Sum of factorials from 1 to %d is : %d\n", n, factorial_sum(n));
+    int maxNumber;
+    printf("Enter maximum natural number to end at : ");
+    scanf("%d", &maxNumber);
+    
+    // Handle invalid ranges/Edge cases
+    if (maxNumber < 1)
+    {
+        printf("Please enter a positive integer.\n");
+        return 0;
+    }
+
+    int sum_of_factorials = factorial_sum(maxNumber);
+    printf("Sum of factorials from 1 to %d is : %d\n", maxNumber, sum_of_factorials);
+
     return 0;
 }

@@ -1,33 +1,34 @@
-// Write a program to print sum of fibonacci of 0 to n numbers.
-
+// Program to calculate the sum of Fibonacci numbers from 0 to n.
 #include <stdio.h>
 
 // Function to compute nth Fibonacci number recursively
 int fibonacci(int n)
 {
-    if (n == 0 || n == 1)
-        return n;
-
-    return fibonacci(n - 1) + fibonacci(n - 2);
+    return (n == 0 || n == 1) ? n : fibonacci(n - 1) + fibonacci(n - 2);
 }
 
 // Recursive function to compute sum of Fibonacci numbers from 0 to n
 int sum_of_fibonacci(int n)
 {
-    if (n < 0)
-        return 0;
-
-    return fibonacci(n) + sum_of_fibonacci(n - 1);
+    return (n < 0) ? 0 : fibonacci(n) + sum_of_fibonacci(n - 1);
 }
 
 int main()
 {
-    int num_terms;
+    int maxNumber;
 
-    printf(" Enter how many terms of the Fibonacci sequence to sum : ");
-    scanf(" %d", &num_terms);
+    printf("Enter maximum natural number to end at : ");
+    scanf("%d", &maxNumber);
+    
+    // Handle invalid ranges/Edge cases
+    if (maxNumber < 1)
+    {
+        printf("Please enter a positive integer.\n");
+        return 0;
+    }
 
-    printf(" Sum of the first %d terms of the Fibonacci sequence : %d\n", num_terms, sum_of_fibonacci(num_terms-1));
+    int sum_of_fibonacci = sum_of_fibonacci(maxNumber);
+    printf("Sum of the first %d terms of the Fibonacci sequence : %d\n", maxNumber, sum_of_fibonacci);
 
     return 0;
 }
