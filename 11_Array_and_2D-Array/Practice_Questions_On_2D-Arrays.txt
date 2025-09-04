@@ -1,6 +1,7 @@
 # Practice Questions on 2D Arrays
 
-1. Write a program to initialize every element of a 2D matrix with the value N, where the matrix dimensions (rows and columns) are provided by the user.
+1. Write a program to initialize every element of a 2D matrix with the value N, where the matrix dimensions (rows and columns) 
+are provided by the user.
 
 2. Find the sum of all elements in a given matrix of size n × m.
 
@@ -10,7 +11,8 @@
 
 5. Find the minimum element and its position in a 2D array.
 
-6. Write a program to calculate the sum of elements in a selected submatrix from a 2D array. The user inputs the matrix dimensions, the elements, and the submatrix range.
+6. Write a program to calculate the sum of elements in a selected submatrix from a 2D array. The user inputs the matrix dimensions, 
+the elements, and the submatrix range.
 
 7. Write a program to find and print the row number that has the maximum sum in a given matrix.
 
