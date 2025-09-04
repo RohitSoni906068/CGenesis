@@ -73,7 +73,7 @@ gcc filename.c -o output
 ./output
 
 # Example with Problem 1
-gcc 01_Student_Below_Pass_Mark.c -o student_marks
+gcc 01_student_marks_passing_filter.c -o student_marks
 ./student_marks
 ```
 
@@ -87,14 +87,14 @@ gcc 01_Student_Below_Pass_Mark.c -o student_marks
 
 | # | 📝 **Problem** | 📊 **Difficulty** | 🔑 **Key Concepts & Learning Focus** |
 |---|---------|-------------------|--------------------------------------|
-| 01 | [Students Below Pass Mark](01_Student_Below_Pass_Mark.c) | ⭐ | 📋 Array traversal and conditional processing |
-| 02 | [Sum of Array Elements](02_Sum_of_Array.c) | ⭐ | ➕ Basic accumulation and array processing |
-| 03 | [Product of Array Elements](03_Product_of_Array.c) | ⭐ | ✖️ Multiplicative operations and overflow handling |
-| 04 | [Multiplication Table Storage](04_Storing_multiplication_of_n.c) | ⭐⭐ | 📊 Systematic array population and data generation |
-| 05 | [Find Maximum Element](05_Find_max_in_array.c) | ⭐ | 🔍 Linear search and comparison algorithms |
-| 06 | [Maximum using C-Limits](06_Maximum_in_array_using_C-Limits.c) | ⭐⭐ | 📚 Standard library usage and efficient initialization |
-| 07 | [Find Minimum Element](07_Minimum_Value_In_Array.c) | ⭐ | 🎯 Min-finding algorithms and optimization |
-| 08 | [Minimum using C-Limits](08_MIn_of_Array_using_C-Limits.c) | ⭐⭐ | 💡 Library optimization and best practices |
+| 01 | [Student Marks Passing Filter](01_student_marks_passing_filter.c) | ⭐ | 📋 Array traversal and conditional processing |
+| 02 | [Array Sum Calculator](02_array_sum_calculator.c) | ⭐ | ➕ Basic accumulation and array processing |
+| 03 | [Array Product Calculator](03_array_product_calculator.c) | ⭐ | ✖️ Multiplicative operations and overflow handling |
+| 04 | [Multiplication Table Storage](04_multiplication_table_storage.c) | ⭐⭐ | 📊 Systematic array population and data generation |
+| 05 | [Find Maximum Value](05_find_maximum_value.c) | ⭐ | 🔍 Linear search and comparison algorithms |
+| 06 | [Find Maximum with Limits](06_find_maximum_with_limits.c) | ⭐⭐ | 📚 Standard library usage and efficient initialization |
+| 07 | [Find Minimum Value](07_find_minimum_value.c) | ⭐ | 🎯 Min-finding algorithms and optimization |
+| 08 | [Find Minimum with Limits](08_find_minimum_with_limits.c) | ⭐⭐ | 💡 Library optimization and best practices |
 
 **🎯 Focus Areas:** Array basics, input/output, simple algorithms, library usage
 
@@ -106,14 +106,14 @@ gcc 01_Student_Below_Pass_Mark.c -o student_marks
 
 | # | 📝 **Problem** | 📊 **Difficulty** | 🔑 **Key Concepts & Learning Focus** |
 |---|---------|-------------------|--------------------------------------|
-| 09 | [Even-Odd Index Operations](09_Even_odd_element_changes.c) | ⭐⭐ | 🔄 Index-based logic and position-dependent processing |
-| 10 | [Count Elements Greater Than X](10_Count_element_greater_than_x.c) | ⭐⭐ | 🔢 Conditional counting and threshold algorithms |
-| 11 | [Even-Odd Index Sum Difference](11_difference_even_odd_index_sum.c) | ⭐⭐⭐ | 🧮 Mathematical analysis and index-based calculations |
-| 12 | [Two Sum Problem](12_Sum_pairs_equal_to_x.c) | ⭐⭐⭐ | 🎯 Pair finding and nested loop optimization |
-| 13 | [Triplet Sum Problem](13_Triplet_sum_pair_equal_to_x.c) | ⭐⭐⭐⭐ | 🔍 Triple combinations and complex search algorithms |
-| 14 | [Fibonacci Sequence Storage](14_Storing_N_Fibonacci.c) | ⭐⭐ | 🌀 Sequence generation and mathematical series |
-| 15 | [Second Maximum Element](15_Second_Max.c) | ⭐⭐⭐ | 📈 Advanced searching and multi-pass algorithms |
-| 16 | [Optimized Second Maximum](16_Optimise_second_max.c) | ⭐⭐⭐ | ⚡ Single-pass efficiency and algorithm optimization |
+| 09 | [Array Index Operations](09_array_index_operations.c) | ⭐⭐ | 🔄 Index-based logic and position-dependent processing |
+| 10 | [Count Elements Greater Than](10_count_elements_greater_than.c) | ⭐⭐ | 🔢 Conditional counting and threshold algorithms |
+| 11 | [Even Odd Index Difference](11_even_odd_index_difference.c) | ⭐⭐⭐ | 🧮 Mathematical analysis and index-based calculations |
+| 12 | [Find Pairs Target Sum](12_find_pairs_target_sum.c) | ⭐⭐⭐ | 🎯 Pair finding and nested loop optimization |
+| 13 | [Find Triplets Target Sum](13_find_triplets_target_sum.c) | ⭐⭐⭐⭐ | 🔍 Triple combinations and complex search algorithms |
+| 14 | [Fibonacci Sequence Storage](14_fibonacci_sequence_storage.c) | ⭐⭐ | 🌀 Sequence generation and mathematical series |
+| 15 | [Second Largest Multiple Loops](15_second_largest_multiple_loops.c) | ⭐⭐⭐ | 📈 Advanced searching and multi-pass algorithms |
+| 16 | [Second Largest Single Loop](16_second_largest_single_loop.c) | ⭐⭐⭐ | ⚡ Single-pass efficiency and algorithm optimization |
 
 **🎯 Focus Areas:** Complex searching, mathematical operations, algorithm optimization, nested loops
 
@@ -125,17 +125,17 @@ gcc 01_Student_Below_Pass_Mark.c -o student_marks
 
 | # | 📝 **Problem** | 📊 **Difficulty** | 🔑 **Key Concepts & Learning Focus** |
 |---|---------|-------------------|--------------------------------------|
-| 17 | [Print Array in Reverse](17_Print_Reverse_Order.c) | ⭐⭐ | 🔄 Reverse traversal and backward iteration |
-| 18 | [Copy Array in Reverse](18_Copying_reverse_of_array.c) | ⭐⭐ | 💾 Array copying and memory manipulation |
-| 19 | [Element Swapping](19_Swap_Values_of_Array.c) | ⭐⭐ | 🔄 Data exchange and swap operations |
-| 20 | [In-Place Array Reversal](20_Reverse_array.c) | ⭐⭐⭐ | 🎯 Space optimization and memory-efficient algorithms |
-| 21 | [Palindrome Array Check](21_Palindrome_array.c) | ⭐⭐⭐ | 🔍 Pattern recognition and symmetry detection |
-| 22 | [Subarray Reversal](22_Reverse_Subarray.c) | ⭐⭐⭐⭐ | 📊 Partial operations and range-based manipulation |
-| 23 | [Array Rotation](23_Rotate_array_r_times.c) | ⭐⭐⭐⭐ | 🌀 Advanced manipulation and rotation algorithms |
-| 24 | [Element Search](24_Check_x_present__or_not.c) | ⭐⭐ | 🔍 Search algorithms and presence detection |
-| 25 | [Missing Number Problem](25_Missing_Number.c) | ⭐⭐⭐⭐ | 🧮 Mathematical deduction and arithmetic series |
-| 26 | [Duplicate Detection](26_Duplicate_element.c) | ⭐⭐⭐ | 👥 Duplicate finding and comparison techniques |
-| 27 | [Unique Element Finder](27_Unique_Number.c) | ⭐⭐⭐⭐ | 🎯 Set operations and uniqueness algorithms |
+| 17 | [Display Array Reverse Order](17_display_array_reverse_order.c) | ⭐⭐ | 🔄 Reverse traversal and backward iteration |
+| 18 | [Copy Array Reverse Order](18_copy_array_reverse_order.c) | ⭐⭐ | 💾 Array copying and memory manipulation |
+| 19 | [Swap Array Elements](19_swap_array_elements.c) | ⭐⭐ | 🔄 Data exchange and swap operations |
+| 20 | [Reverse Array Inplace](20_reverse_array_inplace.c) | ⭐⭐⭐ | 🎯 Space optimization and memory-efficient algorithms |
+| 21 | [Check Array Palindrome](21_check_array_palindrome.c) | ⭐⭐⭐ | 🔍 Pattern recognition and symmetry detection |
+| 22 | [Reverse Subarray Range](22_reverse_subarray_range.c) | ⭐⭐⭐⭐ | 📊 Partial operations and range-based manipulation |
+| 23 | [Right Rotation Reversal Algorithm](23_right_rotation_reversal_algorithm.c) | ⭐⭐⭐⭐ | 🌀 Advanced manipulation and rotation algorithms |
+| 24 | [Search Number in Array](24_search_number_in_array.c) | ⭐⭐ | 🔍 Search algorithms and presence detection |
+| 25 | [Find Missing Number](25_find_missing_number.c) | ⭐⭐⭐⭐ | 🧮 Mathematical deduction and arithmetic series |
+| 26 | [Find Duplicate Element](26_find_duplicate_element.c) | ⭐⭐⭐ | 💥 Duplicate finding and comparison techniques |
+| 27 | [Find Unique Element](27_find_unique_element.c) | ⭐⭐⭐⭐ | 🎯 Set operations and uniqueness algorithms |
 
 **🎯 Focus Areas:** Advanced algorithms, space optimization, complex problem-solving, mathematical deduction
 
@@ -237,7 +237,7 @@ Ready to level up your C programming journey? Here's your personalized learning 
 
 - **🔠 Strings & String Operations** - String handling, manipulation, and advanced string techniques
 
-- **🏗️ Structures** - Structure design, memory layout, and advanced structure techniques
+- **🗏️ Structures** - Structure design, memory layout, and advanced structure techniques
 
 ---
 
@@ -261,9 +261,9 @@ Ready to level up your C programming journey? Here's your personalized learning 
 
 **Choose your starting point and begin your coding journey!**
 
-[![Foundation](https://img.shields.io/badge/🟢%20Foundation-Problems%201--8-success?style=for-the-badge)](01_Student_Below_Pass_Mark.c)
-[![Intermediate](https://img.shields.io/badge/🟡%20Intermediate-Problems%209--16-warning?style=for-the-badge)](09_Even_odd_element_changes.c)
-[![Advanced](https://img.shields.io/badge/🔴%20Advanced-Problems%2017--27-critical?style=for-the-badge)](17_Print_Reverse_Order.c)
+[![Foundation](https://img.shields.io/badge/🟢%20Foundation-Problems%201--8-success?style=for-the-badge)](01_student_marks_passing_filter.c)
+[![Intermediate](https://img.shields.io/badge/🟡%20Intermediate-Problems%209--16-warning?style=for-the-badge)](09_array_index_operations.c)
+[![Advanced](https://img.shields.io/badge/🔴%20Advanced-Problems%2017--27-critical?style=for-the-badge)](17_display_array_reverse_order.c)
 
 ---
 

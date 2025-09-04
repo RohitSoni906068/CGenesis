@@ -1,4 +1,4 @@
-// Program to find the missing number from an array containing numbers from 1 to 20
+// Program to find the missing number from an array containing numbers from 1 to 20.
 #include <stdio.h>
 
 int main()
@@ -20,7 +20,7 @@ int main()
 
     int missingNumber = expectedSum - actualSum;
 
-    printf(" The missing number is : %d\n", missingNumber);
+    printf("The missing number is : %d\n", missingNumber);
 
     return 0;
 }

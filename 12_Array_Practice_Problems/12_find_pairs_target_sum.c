@@ -1,24 +1,24 @@
-// Program to find and count all pairs in an array whose sum equals a given target.
+// Program to find and count all pairs in an array whose sum equals a given target value.
 #include <stdio.h>
 
 int main()
 {
     int array_size, target_sum, pair_count = 0;
 
-    // Input the target sum value
-    printf(" Enter value of target sum : ");
-    scanf(" %d", &target_sum);
-
-    printf(" Enter the size of the array : ");
-    scanf(" %d", &array_size);
+    printf("Enter the size of the array : ");
+    scanf("%d", &array_size);
 
     int array[array_size];
 
     for (int i = 0; i < array_size; i++)
     {
-        printf(" Enter value for element %d : ", i);
-        scanf(" %d", &array[i]);
+        printf("Enter value for element %d : ", i);
+        scanf("%d", &array[i]);
     }
+
+    // Input the target sum value
+    printf("Enter value of target sum : ");
+    scanf("%d", &target_sum);
 
     // Find and print all valid pairs
     printf("\nPairs with sum equal to %d -> ", target_sum);
