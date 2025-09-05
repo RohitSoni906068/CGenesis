@@ -85,7 +85,7 @@ gcc 01_student_marks_passing_filter.c -o student_marks
 
 *Build your array fundamentals with essential concepts*  
 
-| # | 📝 **Problem** | 📊 **Difficulty** | 🔑 **Key Concepts & Learning Focus** |
+| # | 📝 **Problem** | 📊 **Difficulty** | 🔑 **Key Concepts** |
 |---|---------|-------------------|--------------------------------------|
 | 01 | [Student Marks Passing Filter](01_student_marks_passing_filter.c) | ⭐ | 📋 Array traversal and conditional processing |
 | 02 | [Array Sum Calculator](02_array_sum_calculator.c) | ⭐ | ➕ Basic accumulation and array processing |
@@ -104,7 +104,7 @@ gcc 01_student_marks_passing_filter.c -o student_marks
 
 *Develop analytical thinking and optimization skills*  
 
-| # | 📝 **Problem** | 📊 **Difficulty** | 🔑 **Key Concepts & Learning Focus** |
+| # | 📝 **Problem** | 📊 **Difficulty** | 🔑 **Key Concepts** |
 |---|---------|-------------------|--------------------------------------|
 | 09 | [Array Index Operations](09_array_index_operations.c) | ⭐⭐ | 🔄 Index-based logic and position-dependent processing |
 | 10 | [Count Elements Greater Than](10_count_elements_greater_than.c) | ⭐⭐ | 🔢 Conditional counting and threshold algorithms |
@@ -123,7 +123,7 @@ gcc 01_student_marks_passing_filter.c -o student_marks
 
 *Master advanced array concepts and real-world applications*  
 
-| # | 📝 **Problem** | 📊 **Difficulty** | 🔑 **Key Concepts & Learning Focus** |
+| # | 📝 **Problem** | 📊 **Difficulty** | 🔑 **Key Concepts** |
 |---|---------|-------------------|--------------------------------------|
 | 17 | [Display Array Reverse Order](17_display_array_reverse_order.c) | ⭐⭐ | 🔄 Reverse traversal and backward iteration |
 | 18 | [Copy Array Reverse Order](18_copy_array_reverse_order.c) | ⭐⭐ | 💾 Array copying and memory manipulation |
