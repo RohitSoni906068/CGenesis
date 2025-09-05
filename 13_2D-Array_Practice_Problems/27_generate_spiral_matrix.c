@@ -15,15 +15,17 @@ int main()
 {
     int rows, cols;
     printf("Enter number of rows in the matrix : ");
-    scanf(" %d", &rows);
+    scanf("%d", &rows);
     printf("Enter number of columns in the matrix : ");
-    scanf(" %d", &cols);
+    scanf("%d", &cols);
 
     int matrix[rows][cols];
     
-    int topRow = 0, bottomRow = rows - 1;
-    int leftCol = 0, rightCol = cols - 1;
-    int remainingElements = rows * cols;
+    int remainingElements = rows * cols; // Total number of elements
+
+    int topRow = 0, bottomRow = rows - 1; // Start and end of the row
+    int leftCol = 0, rightCol = cols - 1; // Start and end of the column
+    
 
     printf("Enter all %d elements of the matrix -:\n", rows * cols);
     while (remainingElements > 0)
@@ -60,7 +62,7 @@ int main()
         }
         leftCol++;
     }
-    // Generated Matrix -:
+
     printf("Generated Matrix -:\n");
     for (int i = 0; i < rows; i++)
     {
@@ -68,6 +70,7 @@ int main()
         {
             printf("%d ", matrix[i][j]);
         }
+
         printf("\n");
     }
     return 0;

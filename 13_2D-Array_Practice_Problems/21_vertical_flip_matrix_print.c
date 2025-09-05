@@ -1,12 +1,10 @@
 /*
-Program to print a given matrix (n x m) in vertically flipped form
-(reverse the order of rows).
-
-Example (rows = 3, cols = 4)
-Input Matrix:             Output:
-1   2   3   4             9   10  11  12
-5   6   7   8             5   6   7   8
-9   10  11  12            1   2   3   4
+21. Program to print a given matrix (n × m) in vertically flipped form (reverse the order of rows).
+    Example (rows = 3, cols = 4):
+    Input Matrix:               Output:
+    1   2   3   4               9   10  11  12
+    5   6   7   8               5   6   7   8
+    9   10  11  12              1   2   3   4
 */
 
 #include <stdio.h>
@@ -14,10 +12,12 @@ Input Matrix:             Output:
 int main()
 {
     int rows, cols;
+    
     printf("Enter number of rows in the matrix : ");
-    scanf(" %d", &rows);
+    scanf("%d", &rows);
+    
     printf("Enter number of columns in the matrix : ");
-    scanf(" %d", &cols);
+    scanf("%d", &cols);
 
     int matrix[rows][cols];
 
@@ -37,6 +37,7 @@ int main()
         {
             printf("%d ", matrix[i][j]);
         }
+        
         printf("\n");
     }
 

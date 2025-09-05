@@ -1,10 +1,10 @@
 /*
-Program to print a given matrix (n × m) in even indexed row-wise wave form.
-Example (rows = 3, cols = 4)
-Input Matrix:           Wave-printed Output:
-1   2   3   4           4   3   2   1           
-5   6   7   8           5   6   7   8
-9   10  11  12          12  11  10  9
+18. Program to print a given matrix (n × m) in even-indexed row-wise wave form.
+    Example (rows = 3, cols = 4):
+    Input Matrix:               Wave-printed Output:
+    1   2   3   4               4   3   2   1           
+    5   6   7   8               5   6   7   8
+    9   10  11  12              12  11  10  9
 */
 #include <stdio.h>
 
@@ -13,10 +13,10 @@ int main()
     int rows, cols;
 
     printf("Enter number of rows in the matrix : ");
-    scanf(" %d", &rows);
+    scanf("%d", &rows);
 
     printf("Enter number of columns in the matrix : ");
-    scanf(" %d", &cols);
+    scanf("%d", &cols);
 
     int matrix[rows][cols];
 
@@ -39,6 +39,7 @@ int main()
                 printf("%d ", matrix[r][c]);
             }
         }
+
         else
         {
             for (int c = 0; c < cols; c++)
@@ -46,6 +47,7 @@ int main()
                 printf("%d ", matrix[r][c]);
             }
         }
+        
         printf("\n");
     }
 

@@ -45,15 +45,15 @@ Transform theoretical 2D array knowledge into practical programming expertise th
 
 | #  | 📁 **Problem**                                         | 📊 **Difficulty** | 🔑 **Key Concepts** |
 |----|---------------------------------------------------|-------------------|---------------------|
-| 1  | [X at every element](01_X_at_every_element.c)      | ⭐ | 🔄 Basic matrix initialization and user input |
-| 2  | [Sum of matrix](02_Sum_of_matrix.c)                 | ⭐ | ➕ Matrix traversal and element summation |
-| 3  | [Adding 2 Matrices](03_Adding_2_Matrics.c) | ⭐⭐ | 🔢 Matrix addition and parallel processing |
-| 4  | [Maximum Element](04_Maximum_Element.c)     | ⭐ | 🔍 Search algorithms and comparison operations |
-| 5  | [Minimum Element](05_Minimum_Element.c) | ⭐ | 📏 Finding minimum values in 2D structures |
-| 6  | [SubMatrix Sum](06_SubMatrix_Sum.c) | ⭐⭐ | 📊 Subarray operations and range calculations |
-| 7  | [Maximum row sum](07_Maximum_row_sum.c) | ⭐⭐ | ⬆️ Row-wise operations and optimization |
-| 8  | [Max from 0,1's Matrix](08_Max_from_0,1's_Matrix.c)   | ⭐⭐ | 🔄 Binary matrix operations and counting |
-| 9  | [Transpose of matrix](09_Transpose_of_matrix.c) | ⭐⭐ | 🔀 Matrix transformation fundamentals |
+| 1  | [Initialize Matrix with Value N](01_initialize_matrix_with_n.c)      | ⭐ | 🔄 Matrix initialization and user input |
+| 2  | [Sum of All Matrix Elements](02_sum_all_matrix_elements.c)                 | ⭐ | ➕ Matrix traversal and element summation |
+| 3  | [Add Two Matrices](03_add_two_matrices.c) | ⭐⭐ | 🔢 Matrix addition and parallel processing |
+| 4  | [Find Maximum Element](04_find_maximum_element.c)     | ⭐ | 🔍 Search algorithms and comparison operations |
+| 5  | [Find Minimum Element and Position](05_find_minimum_element_position.c) | ⭐ | 🔍 Position tracking and minimum value search |
+| 6  | [Calculate Submatrix Sum](06_submatrix_sum_calculation.c) | ⭐⭐ | 📊 Range-based operations and boundary handling |
+| 7  | [Row with Maximum Sum](07_row_with_maximum_sum.c) | ⭐⭐ | ⬆️ Row-wise summation and optimization |
+| 8  | [Row with Most Ones in Binary Matrix](08_row_with_most_ones.c)   | ⭐⭐ | 🔄 Binary matrix operations and counting |
+| 9  | [Print Matrix Transpose](09_print_matrix_transpose.c) | ⭐⭐ | 🔀 Matrix transformation fundamentals |
 
 ---
 
@@ -63,15 +63,15 @@ Transform theoretical 2D array knowledge into practical programming expertise th
 
 | #  | 📁 **Problem**                                         | 📊 **Difficulty** | 🔑 **Key Concepts** |
 |----|---------------------------------------------------|-------------------|---------------------|
-| 10 | [Store transpose of matrix](10_Store_transpose_of_matrix.c) | ⭐⭐ | 💾 Memory management and matrix storage |
-| 11 | [Transpose in Place](11_Transpose_in_Place.c) | ⭐⭐⭐ | 🎯 In-place algorithms and space optimization |
-| 12 | [Print Rotated Matrix by 90°](12_Print_Rotated_Matrix_by_90°.c)     | ⭐⭐⭐ | 🔄 Geometric transformations and rotation |
-| 13 | [In Place Rotate Matrix By 90°](13°_In_Place_Rotate_Matrix_By_90.c)       | ⭐⭐⭐⭐ | ⚡ Advanced in-place rotation algorithms |
-| 14 | [While Loop Matrix By 90°](14_While_Loop_Matrix_By_90°.c)       | ⭐⭐⭐ | 🌀 Alternative loop structures for rotation |
-| 15 | [Multiplication Of Two Matrices](15_Multiplication_Of_Two_Matrices.c)          | ⭐⭐⭐ | 🧮 Matrix multiplication and nested loops |
-| 16 | [Odd Row-wise wave](16_Odd_Row-wise_wave.c)  | ⭐⭐⭐ | 📈 Pattern generation and directional traversal |
-| 17 | [In Place-Odd Row-wise wave](17_In_Place-Odd_Row-wise_wave.c) | ⭐⭐⭐⭐ | 🔢 In-place pattern modifications |
-| 18 | [Even Row-wise wave](18_Even_Row-wise_wave.c) | ⭐⭐⭐ | 🪜 Even-indexed traversal patterns |
+| 10 | [Store Transpose in Separate Matrix](10_store_transpose_separate_matrix.c) | ⭐⭐ | 💾 Memory allocation and matrix storage |
+| 11 | [Transpose Square Matrix In-Place](11_transpose_square_matrix_inplace.c) | ⭐⭐⭐ | 🎯 In-place algorithms and space optimization |
+| 12 | [Rotate Matrix 90° Clockwise (Print)](12_rotate_matrix_ninety_clockwise.c)     | ⭐⭐⭐ | 🔄 Geometric transformations and rotation |
+| 13 | [Rotate Matrix 90° Clockwise In-Place](13_rotate_matrix_inplace_clockwise.c)       | ⭐⭐⭐⭐ | ⚡ Advanced in-place rotation algorithms |
+| 14 | [Rotate Matrix Using While Loop](14_rotate_matrix_while_loop.c)       | ⭐⭐⭐ | 🌀 Alternative loop structures for rotation |
+| 15 | [Multiply Two Matrices](15_multiply_two_matrices.c)          | ⭐⭐⭐ | 🧮 Matrix multiplication and nested iterations |
+| 16 | [Odd Row-wise Wave Print](16_odd_row_wave_print.c)  | ⭐⭐⭐ | 📈 Odd-indexed row traversal patterns |
+| 17 | [Reverse Odd Rows In-Place](17_reverse_odd_rows_inplace.c) | ⭐⭐⭐⭐ | 🔢 In-place row reversal transformations |
+| 18 | [Even Row-wise Wave Print](18_even_row_wave_print.c) | ⭐⭐⭐ | 🪜 Even-indexed row traversal patterns |
 
 ---
 
@@ -81,15 +81,15 @@ Transform theoretical 2D array knowledge into practical programming expertise th
 
 | #  | 📁 **Problem**                                         | 📊 **Difficulty** | 🔑 **Key Concepts** |
 |----|---------------------------------------------------|-------------------|---------------------|
-| 19 | [In Place-Even Row-wise wave](19_In_Place-Even_Row-wise_wave.c)              | ⭐⭐⭐⭐ | 🗺️ Advanced in-place wave transformations |
-| 20 | [Even Column-wise wave](20_Even_Column-wise_wave.c)              | ⭐⭐⭐ | 🎯 Column-based traversal algorithms |
-| 21 | [Verticle Flip wave](21_Verticle_Flip_wave.c)    | ⭐⭐⭐⭐ | ⚡ Vertical transformations and flipping |
-| 22 | [In Place Verticle Flip wave](22_In_Place_Verticle_Flip_wave.c)   | ⭐⭐⭐⭐⭐ | 🗺️ Complex in-place vertical operations |
-| 23 | [In Place-Even Column-wise wave](23_In_Place-Even_Column-wise_wave.c)                 | ⭐⭐⭐⭐ | 🧭 Advanced column manipulation algorithms |
-| 24 | [Odd Column-wise wave](24_Odd_Column-wise_wave.c)               | ⭐⭐⭐ | 🌳 Odd-indexed column traversal patterns |
-| 25 | [In Place-Odd Column-wise wave](25_In_Place-Odd_Column-wise_wave.c)                   | ⭐⭐⭐⭐⭐ | 🔀 Complex in-place odd column operations |
-| 26 | [Spiral Printing Of Matrix](26_Spiral_Printing_Of_Matrix.c)            | ⭐⭐⭐⭐⭐ | 🌀 Spiral traversal algorithms |
-| 27 | [Generating Matrix In Spiral Order](27_Generating_Matrix_In_Spiral_Order.c)            | ⭐⭐⭐⭐⭐ | 🗼 Complex spiral generation algorithms |
+| 19 | [Reverse Even Rows In-Place](19_reverse_even_rows_inplace.c)              | ⭐⭐⭐⭐ | 🗺️ Advanced in-place even row transformations |
+| 20 | [Even Column-wise Wave Print](20_even_column_wave_print.c)              | ⭐⭐⭐ | 🎯 Even-indexed column traversal algorithms |
+| 21 | [Vertical Flip Matrix (Print)](21_vertical_flip_matrix_print.c)    | ⭐⭐⭐⭐ | ⚡ Vertical matrix transformations and row reordering |
+| 22 | [Reverse Rows In-Place (Vertical Flip)](22_reverse_rows_inplace_flip.c)   | ⭐⭐⭐⭐⭐ | 🗺️ Complex in-place vertical flip operations |
+| 23 | [Reverse Even Columns In-Place](23_reverse_even_columns_inplace.c)                 | ⭐⭐⭐⭐ | 🧭 Advanced even column manipulation algorithms |
+| 24 | [Odd Column-wise Wave Print](24_odd_column_wave_print.c)               | ⭐⭐⭐ | 🌳 Odd-indexed column traversal patterns |
+| 25 | [Reverse Odd Columns In-Place](25_reverse_odd_columns_inplace.c)                   | ⭐⭐⭐⭐⭐ | 🔀 Complex in-place odd column operations |
+| 26 | [Spiral Order Traversal](26_spiral_order_traversal.c)            | ⭐⭐⭐⭐⭐ | 🌀 Spiral matrix traversal algorithms |
+| 27 | [Generate Spiral Matrix](27_generate_spiral_matrix.c)            | ⭐⭐⭐⭐⭐ | 🗼 Complex spiral matrix generation algorithms |
 
 ---
 
@@ -229,7 +229,7 @@ Ready to level up your C programming journey? Here's your personalized learning 
 
 | 📚 **Resource Type** | 🔗 **Access Point** | 📝 **Description** |
 |---------------------|---------------------|-------------------|
-| **🐛 Bug Reports & Questions** | [Open an Issue](https://github.com/rohit528590/CGenesis/issues) | Report bugs or ask technical questions |
+| **🛠 Bug Reports & Questions** | [Open an Issue](https://github.com/rohit528590/CGenesis/issues) | Report bugs or ask technical questions |
 | **💬 Community Support** | [GitHub Issues](https://github.com/rohit528590/CGenesis/issues) | Get help with coding problems and technical questions |
 | **🤝 Contribute** | [Fork Repository](https://github.com/rohit528590/CGenesis/fork) | Help improve the course for everyone |
 
@@ -243,9 +243,9 @@ Ready to level up your C programming journey? Here's your personalized learning 
 
 **Choose your starting point and begin your coding journey!**
 
-[![Foundation](https://img.shields.io/badge/🟢%20Foundation-Problems%201--9-success?style=for-the-badge)](01_X_at_every_element.c)
-[![Intermediate](https://img.shields.io/badge/🟡%20Intermediate-Problems%2010--18-warning?style=for-the-badge)](10_Store_transpose_of_matrix.c)
-[![Advanced](https://img.shields.io/badge/🔴%20Advanced-Problems%2019--27-critical?style=for-the-badge)](19_In_Place-Even_Row-wise_wave.c)
+[![Foundation](https://img.shields.io/badge/🟢%20Foundation-Problems%201--9-success?style=for-the-badge)](01_initialize_matrix_with_n.c)
+[![Intermediate](https://img.shields.io/badge/🟡%20Intermediate-Problems%2010--18-warning?style=for-the-badge)](10_store_transpose_separate_matrix.c)
+[![Advanced](https://img.shields.io/badge/🔴%20Advanced-Problems%2019--27-critical?style=for-the-badge)](19_reverse_even_rows_inplace.c)
 
 ---
 
