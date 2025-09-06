@@ -62,7 +62,7 @@ cd CGenesis
 
 # 3. Start with Phase 1
 cd 01_Basics
-Open 01_First.c and begin your journey!
+Open 01_hello_world_first_program.c and begin your journey!
 ```
 
 ### Your First Program
@@ -103,10 +103,10 @@ graph LR
 
 | # | 📁 **File** | 📊 **Difficulty** | 🔑 **Key Concepts** |
 |---|------|-------------------|---------------------|
-| 1 | [Our First Program](01_First.c) | ⭐ | 👋 Hello World, Program execution |
-| 2 | [Boilerplate code](02_Boilerplate_code.c) | ⭐ | 📚 `#include`, `main()`, `return` |
-| 3 | [Comments](03_Comments.c) | ⭐ | 💬 Single-line, Multi-line comments |
-| 4 | [Escape Sequence](04_Escape_Sequence.c) | ⭐ | ⚡ `\n`, `\t`, Special characters |
+| 1 | [Hello World First Program](01_hello_world_first_program.c) | ⭐ | 👋 Program structure, execution flow |
+| 2 | [Program Structure and Boilerplate](02_program_structure_and_boilerplate.c) | ⭐ | 📚 `#include`, `main()`, `return` |
+| 3 | [Comments and Documentation](03_comments_and_documentation.c) | ⭐ | 💬 Single-line, multi-line comments |
+| 4 | [Basic Data Types Overview](04_basic_data_types_overview.c) | ⭐⭐ | 🏷️ `int`, `float`, `char`, `double` |
 
 **🎯 Phase 1 Milestone**: Write and execute basic C programs with proper formatting
 
@@ -118,14 +118,14 @@ graph LR
 
 | # | 📁 **File** | 📊 **Difficulty** | 🔑 **Key Concepts** |
 |---|------|-------------------|---------------------|
-| 5 | [Variable Declaration](05_Variable_Declaration.c) | ⭐⭐ | 📦 Declaration, Initialization |
-| 6 | [Variable naming rules](06_Variable_naming_rules.c) | ⭐⭐ | 📝 Best practices, Conventions |
-| 7 | [Airthmetic(Moduls) Operator](07_Airthmetic(Moduls)_Operator.c) | ⭐⭐ | ➕ Math operations, Modulus |
-| 8 | [Data Types](08_Data_Types.c) | ⭐⭐ | 🏷️ `int`, `float`, `char`, Specifiers |
-| 9 | [Input Output](09_Input_Output.c) | ⭐⭐ | 🔄 `scanf()`, `printf()`, User input |
-| 10 | [Hierarchy of operators](10_Hierarchy_of_operators.c) | ⭐⭐⭐ | 📊 Order of operations |
-| 11 | [Type Casting](11_TypeCasting.c) | ⭐⭐⭐ | 🔄 Data conversion, Casting |
-| 12 | [Size of Data Types](12_Size_of_Data_Types.c) | ⭐⭐⭐ | 📏 `sizeof()`, Memory allocation |
+| 5 | [Variable Declaration and Initialization](05_variable_declaration_and_initialization.c) | ⭐⭐ | 📦 Declaration, initialization, assignment |
+| 6 | [Variable Naming Rules Conventions](06_variable_naming_rules_conventions.c) | ⭐⭐ | 📝 Naming rules, case sensitivity |
+| 7 | [Sizeof Operator Memory Allocation](07_sizeof_operator_memory_allocation.c) | ⭐⭐ | 📏 Memory size, optimization |
+| 8 | [Basic Input Output Operations](08_basic_input_output_operations.c) | ⭐⭐ | 📄 `scanf()`, `printf()`, user input |
+| 9 | [Escape Sequences Text Formatting](09_escape_sequences_text_formatting.c) | ⭐⭐ | ⚡ `\n`, `\t`, special characters |
+| 10 | [Arithmetic Operators and Modulus](10_arithmetic_operators_and_modulus.c) | ⭐⭐ | ➕ Math operations, modulus |
+| 11 | [Operator Precedence and Hierarchy](11_operator_precedence_and_hierarchy.c) | ⭐⭐⭐ | 📊 Order of operations |
+| 12 | [Type Casting Data Conversions](12_type_casting_data_conversions.c) | ⭐⭐⭐ | 🔄 Data conversion, casting |
 
 **🎯 Phase 2 Milestone**: Create interactive programs that process user input and perform calculations
 
@@ -133,7 +133,7 @@ graph LR
 
 ## 🏆 Practice Challenges
 
-### 📁 Challenge Categories - [Practice_Questions.txt](Practice_Questions.txt)
+### 📝 Challenge Categories - [Practice_Questions.txt](Practice_Questions.txt)
 
 <details>
 <summary>🟢 <strong>Level 1: Basic Operations</strong> (Complete after Phase 1)</summary>
@@ -312,7 +312,7 @@ Ready to level up your C programming journey? Here's your personalized learning 
 | 📚 **Resource Type** | 🔗 **Access Point** | 📝 **Description** |
 |---------------------|---------------------|-------------------|
 | **📋 Practice Problems** | [Practice_Questions.txt](Practice_Questions.txt) | Additional challenges to reinforce learning |
-| **🐛 Bug Reports & Questions** | [Open an Issue](https://github.com/rohit528590/CGenesis/issues) | Report bugs or ask technical questions |
+| **🛠 Bug Reports & Questions** | [Open an Issue](https://github.com/rohit528590/CGenesis/issues) | Report bugs or ask technical questions |
 | **💬 Community Support** | [GitHub Issues](https://github.com/rohit528590/CGenesis/issues) | Get help with coding problems and technical questions |
 | **🤝 Contribute** | [Fork Repository](https://github.com/rohit528590/CGenesis/fork) | Help improve the course for everyone |
 
@@ -326,8 +326,8 @@ Ready to level up your C programming journey? Here's your personalized learning 
 
 **Follow the exact progression from your carefully crafted examples!**
 
-[![Start with Variables & Data Types](https://img.shields.io/badge/🎯%20Start%20with-Variables%20&%20Data%20Types-blue?style=for-the-badge)](08_Data_Types.c)
-[![Master Input/Output](https://img.shields.io/badge/🧠%20Master-Input/Output%20Operations-green?style=for-the-badge)](09_Input_Output.c)
+[![Start with Variables & Data Types](https://img.shields.io/badge/🎯%20Start%20with-Variables%20&%20Data%20Types-blue?style=for-the-badge)](04_basic_data_types_overview.c)
+[![Master Input/Output](https://img.shields.io/badge/🧠%20Master-Input/Output%20Operations-green?style=for-the-badge)](08_basic_input_output_operations.c)
 [![Practice Fundamentals](https://img.shields.io/badge/🏆%20Practice-C%20Fundamentals-orange?style=for-the-badge)](Practice_Questions.txt)
 
 ### 🌟 **Remember:**
