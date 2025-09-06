@@ -1,18 +1,48 @@
 /*
-Program: comments.c
 Author: Rohit Kumar
-Purpose: To Understand about Comments in C.
+Purpose: Understanding comments in C programming
 */
-#include<stdio.h>
 
-int main(){
-    
-    // ->: This is Called Single-line Comment
-    printf(" Now, We Learn About Comments ");
+#include <stdio.h>
 
-    /* ->: This is Called Mutiline Coomment 
-    Comment is not executed by the compiler.
-    The compiler ignores comments completely when excuting the program.
+int main()
+{
+
+    // SINGLE-LINE COMMENTS
+    // Use double forward slashes (//) for brief explanations
+    // These comments extend only to the end of the current line
+    printf("Learning about comments in C programming\n");
+
+    int age = 20; // Variable declaration with inline comment
+
+    /*
+    MULTI-LINE COMMENTS
+    Use slash-asterisk pairs for longer explanations
+    These comments can span multiple lines
+    Perfect for detailed descriptions and documentation
+
+    WHEN TO USE COMMENTS:
+    - Explain complex algorithms or logic
+    - Document function purposes and parameters
+    - Provide context for variable usage
     */
-    return 0; // This is return 
+
+    printf("Age: %d years\n", age); // Display the age value
+
+    /*
+    COMPILER BEHAVIOR:
+    - Comments are completely ignored during compilation
+    - They don't affect program execution or performance
+    - They exist solely for human readers
+    - Removing all comments won't change program behavior
+    */
+
+    return 0; // Program termination
 }
+
+// COMMENT TYPES SUMMARY:
+// 1. Single-line: // comment text
+// 2. Multi-line: /* comment text */
+// 3. Nested comments: NOT ALLOWED in C (/* /* nested */ */)
+
+// Remember: Good comments make you a better programmer!
