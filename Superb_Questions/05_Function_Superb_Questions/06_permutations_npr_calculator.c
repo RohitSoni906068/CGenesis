@@ -1,4 +1,4 @@
-// program to compute permutations (nPr).
+// Program to compute permutations (nPr).
 // Formula to compute permutations (nPr) : P(n, r) = n! / (n - r)!
 #include <stdio.h>
 
