@@ -1,0 +1,35 @@
+# Superb Questions From Arrays
+==============================
+
+1. Program to store the multiplication table of a given number in an array.
+
+2. Program to find the maximum value in a user-defined array using the 'limits.h' library functions.
+
+3. Program to find the minimum value in a user-defined array.
+
+4. Program to find and count all triplets in an array whose sum equals a given target value.
+
+5. Program to store the first 'n' Fibonacci numbers in an array.
+
+6. Program to find the second largest element in an array using various loop structures.
+
+7. Program to find the second largest element in an array using only one loop.
+
+8. Program to reverse an array in-place without using any additional array.
+
+9. Program to check if an array is a palindrome.
+
+10. Program to reverse a subarray between given start and end indices.
+
+11. Program to perform a right rotation on an array using the reversal algorithm. 
+    The program should read array elements from the user and rotate the array 'r' times.
+
+12. Program to check whether a given number is present in an array.
+
+13. Program to find the missing number from an array containing numbers from 1 to 20.
+
+14. Program to find a duplicate element in an integer array where all elements appear exactly twice, 
+    except one value that appears more than twice.
+
+15. Program to find the unique number in an array where all elements appear exactly twice, 
+    except one value that appears only once.
