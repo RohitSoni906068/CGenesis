@@ -1,5 +1,5 @@
 /*
-20. Program to print a given matrix (n × m) in even-indexed column-wise wave form.
+09. Program to print a given matrix (n × m) in even-indexed column-wise wave form.
     Example (rows = 3, cols = 4):
     Input Matrix:               Wave-printed Output:
     1   2   3   4               9   5   1

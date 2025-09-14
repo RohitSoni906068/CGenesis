@@ -1,5 +1,5 @@
 /*
-17. In-place program to transform a given matrix (n × m) by reversing elements of every odd-indexed row.
+08. In-place program to transform a given matrix (n × m) by reversing elements of every odd-indexed row.
     Example (rows = 3, cols = 4):
     Input Matrix:               Transformed Matrix:
     1   2   3   4               1   2   3   4

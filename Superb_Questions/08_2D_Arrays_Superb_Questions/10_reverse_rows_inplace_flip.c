@@ -1,5 +1,5 @@
 /*
-22. In-place program to transform a given matrix (n × m) by reversing the order of rows (vertical flip).
+10. In-place program to transform a given matrix (n × m) by reversing the order of rows (vertical flip).
     Example (rows = 3, cols = 4):
     Input Matrix:               Transformed Matrix:
     1   2   3   4               9   10  11  12

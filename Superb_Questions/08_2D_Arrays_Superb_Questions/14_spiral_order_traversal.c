@@ -1,5 +1,5 @@
 /*
-26. Given an n × m matrix, print all elements of the matrix in spiral order. (LeetCode-54)
+14. Given an n × m matrix, print all elements of the matrix in spiral order. (LeetCode-54)
     Example (rows = 5, cols = 6):
     Input Matrix:                        
     1   2   3   4   5   6

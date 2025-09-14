@@ -1,5 +1,5 @@
 /*
-25. In-place program to transform a given square matrix (n × n) by reversing elements of every odd-indexed column.
+13. In-place program to transform a given square matrix (n × n) by reversing elements of every odd-indexed column.
     Example (rows = 4, cols = 4):
     Input Matrix:               Transformed Matrix:
     1   2   3   4               1   8   3   12

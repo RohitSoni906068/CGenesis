@@ -1,5 +1,5 @@
 /*
-24. Program to print a given matrix (n × m) in odd-indexed column-wise wave form.
+12. Program to print a given matrix (n × m) in odd-indexed column-wise wave form.
     Example (rows = 3, cols = 4):
     Input Matrix:               Wave-printed Output:
     1   2   3   4               4   8   12

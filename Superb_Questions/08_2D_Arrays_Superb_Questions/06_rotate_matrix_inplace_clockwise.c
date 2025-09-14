@@ -1,5 +1,5 @@
 /*
-14. Program to rotate a square matrix 90° clockwise in-place using a while loop.
+06. Program to rotate a square matrix 90° clockwise in-place using a while loop.
     Example (rows/cols = 3)
     Input Matrix:           90° clockwise rotated Matrix:
     1   2   3               7   4   1

@@ -1,5 +1,5 @@
 /*
-23. In-place program to transform a given square matrix (n × n) by reversing elements of every even-indexed column.
+11. In-place program to transform a given square matrix (n × n) by reversing elements of every even-indexed column.
     Example (rows = 3, cols = 3):
     Input Matrix:               Transformed Matrix:
     1   2   3                   7   2   9

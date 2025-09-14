@@ -1,5 +1,5 @@
 /*
-11. Program to transpose a square matrix (n × n) in-place. (LeetCode-867)
+05. Program to transpose a square matrix (n × n) in-place. (LeetCode-867)
     Example (rows/cols = 3):
     Input Matrix:           Transposed Matrix:
     1   2   3               1   4   7
