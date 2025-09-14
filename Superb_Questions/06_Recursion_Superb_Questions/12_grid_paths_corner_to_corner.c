@@ -1,5 +1,5 @@
 /**
- * recursive function to compute the total number of unique paths from the top-left corner to the,
+ * Recursive function to compute the total number of unique paths from the top-left corner to the,
  * bottom-right corner of a grid with given rows and columns. 
  * Only rightward and downward moves are allowed.
  *

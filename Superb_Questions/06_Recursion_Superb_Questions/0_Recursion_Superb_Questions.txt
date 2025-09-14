@@ -1,0 +1,44 @@
+# Superb Questions From Recursion
+=================================
+
+1. Recursive function to print numbers in decreasing order from x down to 1.
+
+2. Recursive function to print numbers from 1 to N in increasing order.
+
+3. Recursive function to print numbers from 1 to n.
+
+4. Recursive function to print numbers from n down to 1, and then from 1 back up to n.
+
+5. Recursive function to calculate and print the factorial of a given number.
+
+6. Recursive function to calculate 'base' raised to the power 'exponent'.
+
+7. Recursive function to calculate base^exponent using logarithmic time complexity.
+
+8. Recursive function to calculate the nth Fibonacci number.
+
+9. Program to find the number of ways to climb 'n' stairs, where one can take either 1 or 2 steps at a time.
+
+10. Program to find the number of ways to climb 'n' stairs, where one can take 1, 2, or 3 steps at a time.
+
+11. Recursive function to compute the number of distinct paths in a grid from a starting point to an 
+    endpoint moving only right or down (parameterized version).
+
+12. Recursive function to compute the total number of unique paths from the top-left corner to the,
+    bottom-right corner of a grid with given rows and columns. 
+    Only rightward and downward moves are allowed.
+
+13. Write a recursive function to print a Zig-Zag pattern.
+    Example:
+    Input: 2
+    Output: 2 1 1 1 2 1 1 1 2
+
+14. Recursive function to print a Zig-Zag pattern for the first N natural numbers.
+    Example: if N=4.
+    Input        Output
+    1            111
+    2            211121112
+    3            321112111232111211123
+    4            432111211123211121112343211121112321112111234
+
+15. Recursive function to solve the Tower of Hanoi puzzle.
