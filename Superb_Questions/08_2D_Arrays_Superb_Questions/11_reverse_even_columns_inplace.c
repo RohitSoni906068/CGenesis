@@ -4,7 +4,7 @@
     Input Matrix:               Transformed Matrix:
     1   2   3                   7   2   9
     4   5   6                   4   5   6
-    7   8   9                   1   8   3
+    7   8   9                   1   8   3 
 */
 #include <stdio.h>
 

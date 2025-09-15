@@ -4,7 +4,7 @@
 int main()
 {
     int rows, cols;
-
+ 
     printf("Enter the number of rows in the matrix : ");
     scanf("%d", &rows);
 

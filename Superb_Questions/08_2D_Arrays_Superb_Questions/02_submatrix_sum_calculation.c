@@ -4,7 +4,7 @@
 #include <stdio.h>
 
 int main()
-{
+{ 
     int rows, cols, submatrixSum = 0;
 
     printf("Enter the number of rows : ");

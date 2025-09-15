@@ -5,7 +5,7 @@ int main()
 {
     int rows, cols;
 
-    printf("Enter the number of rows : ");
+    printf("Enter the number of rows : "); 
     scanf("%d", &rows);
 
     printf("Enter the number of columns : ");

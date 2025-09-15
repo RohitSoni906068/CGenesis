@@ -8,7 +8,7 @@ Input Matrix:                           Generated Matrix:
 13 14  15  16  17  18                   17  28  29  30  23  8
 19 20  21  22  23  24                   16  27  26  25  24  9
 25 26  27  28  29  30                   15  14  13  12  11  10
-*/
+*/ 
 #include <stdio.h>
 
 int main()
