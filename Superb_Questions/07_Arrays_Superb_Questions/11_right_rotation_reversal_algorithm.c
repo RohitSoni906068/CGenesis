@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 void reverse_subarray(int array[], int start_index, int end_index)
-{
+{ 
     // Swapping Code
     while (start_index < end_index)
     {

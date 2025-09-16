@@ -1,4 +1,4 @@
-// Program to reverse an array in-place without using any additional array.
+// Program to reverse an array in-place without using any additional array. 
 #include <stdio.h>
 
 void reverse(int array[], int size)

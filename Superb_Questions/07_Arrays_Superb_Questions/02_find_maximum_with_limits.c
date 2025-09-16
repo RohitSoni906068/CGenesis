@@ -1,4 +1,4 @@
-// Program to find the maximum value in a user-defined array using the 'limits.h' library functions.
+// Program to find the maximum value in a user-defined array using the 'limits.h' library functions. 
 #include <stdio.h>
 
 #include <limits.h>

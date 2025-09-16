@@ -1,4 +1,4 @@
-// Program to store the first 'n' Fibonacci numbers in an array.
+// Program to store the first 'n' Fibonacci numbers in an array. 
 #include <stdio.h>
 
 int main()

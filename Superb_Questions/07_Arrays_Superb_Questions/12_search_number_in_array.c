@@ -5,7 +5,7 @@ int main()
 {
     int array_size;
     printf("Enter the size of the array : ");
-    scanf("%d", &array_size);
+    scanf("%d", &array_size); 
 
     int array[array_size];
 

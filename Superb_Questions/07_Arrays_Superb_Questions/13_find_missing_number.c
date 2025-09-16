@@ -11,7 +11,7 @@ int main()
 
     // Calculate the sum of the array's elements
     for (int i = 0; i < expectedSize - 1; i++)
-    {
+    { 
         actualSum += numbers[i];
     }
 

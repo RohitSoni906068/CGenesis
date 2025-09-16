@@ -1,5 +1,5 @@
 // Program to check if an array is a palindrome.
-#include <stdio.h>
+#include <stdio.h> 
 
 #include <stdbool.h> // Include bool library for boolean values.
 

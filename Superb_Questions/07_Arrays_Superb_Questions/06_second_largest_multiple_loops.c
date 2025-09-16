@@ -1,4 +1,4 @@
-// Program to find the second largest element in an array using various loop structures.
+// Program to find the second largest element in an array using various loop structures. 
 #include <stdio.h>
 #include <limits.h>
 

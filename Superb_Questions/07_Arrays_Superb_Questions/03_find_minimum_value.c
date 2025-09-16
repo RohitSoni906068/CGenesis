@@ -1,4 +1,4 @@
-// Program to find the minimum value in a user-defined array.
+// Program to find the minimum value in a user-defined array. 
 #include <stdio.h>
 
 int main()

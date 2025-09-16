@@ -1,4 +1,4 @@
-// Program to find and count all triplets in an array whose sum equals a given target value.
+// Program to find and count all triplets in an array whose sum equals a given target value. 
 #include <stdio.h>
 
 int main()

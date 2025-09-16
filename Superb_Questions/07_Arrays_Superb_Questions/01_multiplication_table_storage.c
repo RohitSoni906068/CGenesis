@@ -1,4 +1,4 @@
-// Program to store the multiplication table of a given number in an array.
+// Program to store the multiplication table of a given number in an array. 
 #include <stdio.h>
 
 #define TABLE_SIZE 10
