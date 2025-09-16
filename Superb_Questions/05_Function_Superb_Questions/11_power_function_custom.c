@@ -26,4 +26,4 @@ int main()
     printf("%d raised to the power of %d is : %d\n", base, exponent, calculatedPower);
 
     return 0;
-}
+} 

@@ -23,7 +23,7 @@ void prime_factors(int number)
             printf("%d ", i); // Prints the distinct prime factors of the given number
         }
     }
-
+ 
     printf("\n");
 }
 

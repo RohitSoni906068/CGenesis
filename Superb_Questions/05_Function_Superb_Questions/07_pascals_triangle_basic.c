@@ -18,7 +18,7 @@ int factorial(int x)
         fact *= i;
     }
 
-    return fact;
+    return fact; 
 }
 
 // Function to compute combinations of a given number

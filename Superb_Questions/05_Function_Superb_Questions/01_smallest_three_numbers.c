@@ -3,7 +3,7 @@
 
 int findMinimum(int a, int b, int c)
 {
-    int min = a;
+    int min = a; 
 
     if (b < min)
     {

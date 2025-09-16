@@ -13,7 +13,7 @@ int sum_of_digits(int number)
 
     return sum;
 }
-
+ 
 int main()
 {
     int num;

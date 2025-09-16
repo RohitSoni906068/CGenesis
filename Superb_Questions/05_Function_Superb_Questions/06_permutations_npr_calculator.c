@@ -17,7 +17,7 @@ int factorial(int x)
 
 int main()
 {
-    int n, r;
+    int n, r; 
 
     printf("Enter value for n : ");
     scanf("%d", &n);

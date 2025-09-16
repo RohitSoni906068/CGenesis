@@ -20,7 +20,7 @@ int main()
 {
     float n;
     printf("Enter Number : ");
-    scanf("%f", &n);
+    scanf("%f", &n); 
 
     if (n < 0)
     {

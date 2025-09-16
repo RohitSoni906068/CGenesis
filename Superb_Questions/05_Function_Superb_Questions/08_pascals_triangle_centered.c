@@ -21,7 +21,7 @@ int combination(int x, int y)
     return nCr;
 }
 int main()
-{
+{ 
     int n;
     printf(" Enter the number of rows for Pascal's Triangle : ");
     scanf(" %d", &n);

@@ -4,7 +4,7 @@
 void displayFactorials(int limit)
 {
     int result = 1;
-
+ 
     if (limit >= 0)
     {
         printf("0! = 1\n");

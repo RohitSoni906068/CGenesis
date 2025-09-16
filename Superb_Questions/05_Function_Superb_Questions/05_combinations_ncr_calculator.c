@@ -15,7 +15,7 @@ int factorial(int x)
     return fact;
 }
 
-int main()
+int main() 
 {
     int n, r;
 

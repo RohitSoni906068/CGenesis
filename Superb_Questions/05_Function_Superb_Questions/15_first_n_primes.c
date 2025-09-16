@@ -20,7 +20,7 @@ int main()
 {
     int n, count = 0, num = 2;
 
-    printf("Enter how many prime numbers you want : ");
+    printf("Enter how many prime numbers you want : "); 
     scanf("%d", &n);
 
     printf("First %d prime numbers :\n", n);

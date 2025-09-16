@@ -9,7 +9,7 @@ void displayFibonacci(int limit_term)
     int last_previous_term = 1;
     int fibonacci_term = 0;
 
-    printf("%d %d ", previous_term, last_previous_term);
+    printf("%d %d ", previous_term, last_previous_term); 
     for (int i = 2; i <= limit_term; i++)
     {
         fibonacci_term = previous_term + last_previous_term;
