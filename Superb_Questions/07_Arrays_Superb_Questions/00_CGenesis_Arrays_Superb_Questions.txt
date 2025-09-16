@@ -32,4 +32,4 @@
     except one value that appears more than twice.
 
 15. Program to find the unique number in an array where all elements appear exactly twice, 
-    except one value that appears only once.
+    except one value that appears only once. 
