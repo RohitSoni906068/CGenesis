@@ -8,7 +8,7 @@ int Stair_Path(int stairs)
 
 int main()
 {
-    int stairs;
+    int stairs; 
 
     printf("Enter number of stairs : ");
     scanf("%d", &stairs);

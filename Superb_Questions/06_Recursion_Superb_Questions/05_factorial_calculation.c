@@ -9,7 +9,7 @@ int factorial(int x)
 int main()
 {
     int num;
-    printf("Enter Number : ");
+    printf("Enter Number : "); 
     scanf("%d", &num);
 
     // Handle invalid ranges/Edge cases

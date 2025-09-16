@@ -1,7 +1,7 @@
 // Recursive function to print numbers from 1 to N in increasing order.
 #include <stdio.h>
 
-void print_increasing(int start, int end)
+void print_increasing(int start, int end) 
 {
     if (start > end) return;
 

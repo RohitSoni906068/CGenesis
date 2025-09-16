@@ -9,7 +9,7 @@ int Stair_Path(int stairs)
     // Recursive case
     return Stair_Path(stairs - 1) + Stair_Path(stairs - 2) + Stair_Path(stairs - 3);
 }
-
+ 
 int main()
 {
     int stairs;

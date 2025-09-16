@@ -1,7 +1,7 @@
 // Recursive function to print numbers in decreasing order from x down to 1.
 #include <stdio.h>
 
-void printDecreasing(int x)
+void printDecreasing(int x) 
 {
     
    if (x < 1) return;

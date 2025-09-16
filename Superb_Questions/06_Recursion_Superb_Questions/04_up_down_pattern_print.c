@@ -6,7 +6,7 @@ void DescendingAndAscending(int n)
     if (n == 0) return;
     
     printf("%d ", n); // Print while descending
-    DescendingAndAscending(n - 1);
+    DescendingAndAscending(n - 1); 
     printf("%d ", n); // Print while ascending (backtracking)
 
     return;

@@ -12,7 +12,7 @@ int computePower(int base, int exponent)
 
 int main()
 {
-    int base, exponent;
+    int base, exponent; 
 
     printf("Enter the base (number) : ");
     scanf("%d", &base);

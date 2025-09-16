@@ -11,7 +11,7 @@
 #include <stdio.h>
 
 int count_paths(int total_rows, int total_columns)
-{
+{ 
     int right_paths = 0, down_paths = 0;
 
     // Base case

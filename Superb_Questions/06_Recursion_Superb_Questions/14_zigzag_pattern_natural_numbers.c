@@ -24,7 +24,7 @@ void printZigZag(int n)
     printZigZag(n - 1); // Right recursive call
     printf("%d", n);    // Post
 }
-
+ 
 int main()
 {
     int number;

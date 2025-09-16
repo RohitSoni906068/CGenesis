@@ -10,7 +10,7 @@ int main()
 {
     int base, exponent;
 
-    printf("Enter the base value : ");
+    printf("Enter the base value : "); 
     scanf("%d", &base);
 
     printf("Enter the exponent value : ");

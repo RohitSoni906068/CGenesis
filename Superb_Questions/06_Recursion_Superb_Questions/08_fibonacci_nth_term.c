@@ -8,7 +8,7 @@ int fibonacci_sequence(int n)
 
 int main()
 {
-    int n_terms;
+    int n_terms; 
     
     printf("Enter which term of Fibonacci series you want to print : ");
     scanf("%d", &n_terms);

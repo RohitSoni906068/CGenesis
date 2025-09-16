@@ -12,7 +12,7 @@
 #include <stdio.h>
 
 int count_paths(int start_row, int end_row, int start_col, int end_col)
-{
+{ 
     int num_paths_right = 0, num_paths_down = 0;
 
     // Base case

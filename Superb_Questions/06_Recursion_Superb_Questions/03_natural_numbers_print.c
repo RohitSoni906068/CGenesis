@@ -4,7 +4,7 @@
 void print_increasing(int maxNumber) 
 {
     if (maxNumber == 0) return;
-
+ 
     print_increasing(maxNumber - 1);
     printf("%d ", maxNumber);
 
