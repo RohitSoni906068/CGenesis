@@ -1,0 +1,66 @@
+=========================================
+CGenesis Repository - Upcoming Projects
+=========================================
+
+This document outlines the planned projects that are scheduled for future development within the CGenesis repository. 
+Each project will serve as a practical exercise in software development, reinforcing core programming concepts and 
+problem-solving strategies in C and C++.
+
+-----------------------------------------
+List of Upcoming Projects
+-----------------------------------------
+
+1. 1️⃣ Number Guessing Game 🧮
+   A simple interactive game where the user attempts to guess a randomly generated number.
+   Key Concepts: Random number generation, control structures, input/output handling.
+
+2. 2️⃣ Simple Calculator 📲
+   A console-based calculator capable of performing basic arithmetic operations.
+   Key Concepts: Functions, user input validation, error handling.
+
+3. 3️⃣ Digital Clock ⏰
+   A real-time digital clock application displaying hours, minutes, and seconds.
+   Key Concepts: Time libraries, formatting, and system interaction.
+
+4. 4️⃣ Progress Bar 📊
+   A console-based progress bar to visually represent task completion.
+   Key Concepts: Loops, time delays, and text-based UI design.
+
+5. 5️⃣ User Management System 👥
+   A basic system to manage user accounts (create, read, update, delete).
+   Key Concepts: File handling, data persistence, and structured programming.
+
+6. 6️⃣ Banking System 🏦
+   A simplified banking system to simulate deposits, withdrawals, and balance inquiries.
+   Key Concepts: Data structures, functions, file management.
+
+7. 7️⃣ Sudoku Solver 🎲
+   A program to solve Sudoku puzzles using algorithms such as backtracking.
+   Key Concepts: Recursion, algorithm design, matrix manipulation.
+
+8. 8️⃣ Tic-Tac-Toe 🎮
+   A two-player game implemented in the console.
+   Key Concepts: Arrays, conditional logic, game design fundamentals.
+
+9. 9️⃣ Snake Game 🐍
+   A classic snake game implemented in the console environment.
+   Key Concepts: Arrays, dynamic memory handling, game loop logic.
+
+10. 🔟 Quiz Game (Kaun Banega Crorepati Style) 💰🤑
+    A question-and-answer game inspired by the popular format, including score tracking.
+    Key Concepts: Conditional branching, file handling, user interaction.
+
+11. Snake-Water-Gun Game 🐍
+    A simplified version of Rock-Paper-Scissors with unique rules.
+    Key Concepts: Randomization, conditional logic, user input.
+
+-----------------------------------------
+Notes
+-----------------------------------------
+- The order of development is tentative and may change depending on complexity and priorities.
+- Each project will include detailed documentation, source code, and testing procedures upon completion.
+- Contributions and suggestions for extending the project list are welcome.
+
+=========================================
+End of Document
+=========================================
