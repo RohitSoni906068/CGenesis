@@ -1,5 +1,5 @@
 /*
-22. Centered Numerical Pyramid Pattern
+14. Centered Numerical Pyramid Pattern
 Program to print a centered pyramid pattern using consecutive numbers.
 Example : rows = 4
 Expected Output:

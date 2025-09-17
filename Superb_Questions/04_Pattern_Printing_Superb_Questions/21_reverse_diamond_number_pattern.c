@@ -1,5 +1,5 @@
 /*
-33. Reverse Diamond Number Pattern
+21. Reverse Diamond Number Pattern
 Program to print the following reverse diamond number pattern:
 Example : rows = 4
 Expected Output:

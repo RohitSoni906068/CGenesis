@@ -1,5 +1,5 @@
 /*
-21. Centered Star Pyramid Pattern
+13. Centered Star Pyramid Pattern
 Program to print a centered pyramid pattern using asterisks.
 Example : rows = 4
 Expected Output:

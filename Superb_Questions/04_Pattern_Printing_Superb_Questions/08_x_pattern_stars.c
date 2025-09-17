@@ -1,5 +1,5 @@
 /*
-14. X Pattern with Stars
+8. X Pattern with Stars
 Program to print an 'X' pattern using asterisks.
 Note: The number of rows must be an odd number provided by the user.
 Example : rows = 5

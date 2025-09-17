@@ -1,5 +1,5 @@
 /*
-20. Right-Aligned Triangle Alphabet Pattern
+12. Right-Aligned Triangle Alphabet Pattern
 Program to print a right-aligned triangle pattern using consecutive alphabets.
 Example : rows = 4
 Expected Output:

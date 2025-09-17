@@ -1,5 +1,5 @@
 /*
-12. Plus (+) Sign Pattern
+6. Plus (+) Sign Pattern
 Program to print a plus (+) sign pattern using asterisks.
 Note: The number of rows must be an odd number provided by the user.
 Example : rows = 5

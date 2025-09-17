@@ -1,5 +1,5 @@
 /*
-31. Left-Triangle Increasing Mirror Pattern
+19. Left-Triangle Increasing Mirror Pattern
 Program to print a left-triangle increasing mirror pattern for a given size:
 Example : size = 7
 Expected Output:

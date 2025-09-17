@@ -1,5 +1,5 @@
 /*
-26. Symmetric Diamond Star Pattern
+16. Symmetric Diamond Star Pattern
 Program to print a symmetric diamond pattern using asterisks.
 Example : rows = 4
 Expected Output:

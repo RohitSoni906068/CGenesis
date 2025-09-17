@@ -1,5 +1,5 @@
 /*
-15. Floyd's Triangle Pattern (Numbers)
+9. Floyd's Triangle Pattern (Numbers)
 Program to print Floyd's triangle pattern using consecutive numbers.
 Example : rows = 4
 Expected Output:

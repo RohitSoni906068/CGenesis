@@ -1,5 +1,5 @@
 /*
-19. Left-Aligned Rhombus Pattern
+11. Left-Aligned Rhombus Pattern
 Program to print a left-aligned rhombus pattern using asterisks.
 Example : rows = 4
 Expected Output:

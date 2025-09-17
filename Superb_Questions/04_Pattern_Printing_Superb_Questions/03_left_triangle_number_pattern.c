@@ -1,5 +1,5 @@
 /*
-6. Left-Aligned Triangle Number Pattern
+3. Left-Aligned Triangle Number Pattern
 Program to print a left-aligned triangle pattern using consecutive numbers.
 Example : rows = 4
 Expected Output:

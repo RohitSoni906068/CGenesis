@@ -1,5 +1,5 @@
 /*
-32. Diamond Number Pattern (Symmetric)
+20. Diamond Number Pattern (Symmetric)
 Program to print the following symmetric diamond number pattern:
 Example : rows = 4
 Expected Output:

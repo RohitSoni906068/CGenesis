@@ -1,5 +1,5 @@
 /*
-17. Alternating Binary Triangle Pattern
+10. Alternating Binary Triangle Pattern
 Program to print the following alternating binary triangle pattern:
 Example : rows = 4
 Expected Output:

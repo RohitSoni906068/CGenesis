@@ -1,5 +1,5 @@
 /*
-3. Square Number Pattern
+2. Square Number Pattern
 Program to print a square pattern using consecutive numbers.
 Example : dimension = 4
 Expected Output:

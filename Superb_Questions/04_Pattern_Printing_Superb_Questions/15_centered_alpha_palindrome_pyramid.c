@@ -1,5 +1,5 @@
 /*
-25. Centered Alphabetical Palindrome Pyramid
+15. Centered Alphabetical Palindrome Pyramid
 Program to print a centered palindromic pyramid pattern using alphabets.
 Example : rows = 4
 Expected Output:

@@ -1,5 +1,5 @@
 /*
-29. Alphabet Pattern with Central Gap
+17. Alphabet Pattern with Central Gap
 Write a program to print alphabets with a central gap pattern:
 Example : rows = 4
 Expected Output:

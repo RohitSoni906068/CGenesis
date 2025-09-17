@@ -1,5 +1,5 @@
 /*
-30. Symmetric Hollow Pyramid (Numbers)
+18. Symmetric Hollow Pyramid (Numbers)
 Program to print a symmetric hollow pyramid using numbers:
 Example : rows = 4
 Expected Output:

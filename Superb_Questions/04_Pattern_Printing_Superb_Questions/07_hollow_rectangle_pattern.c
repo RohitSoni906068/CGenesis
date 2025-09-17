@@ -1,5 +1,5 @@
 /*
-13. Hollow Rectangle Pattern
+7. Hollow Rectangle Pattern
 Program to print a hollow rectangle pattern using asterisks.
 Example : rows = 4, columns = 5
 Expected Output:

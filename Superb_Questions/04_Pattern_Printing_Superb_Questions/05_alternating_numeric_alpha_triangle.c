@@ -1,5 +1,5 @@
 /*
-11. Alternating Numeric-Alphabetic Triangle Pattern
+5. Alternating Numeric-Alphabetic Triangle Pattern
 Program to print a triangle pattern alternating between numbers and alphabets.
 Example : rows = 5
 Expected Output:
