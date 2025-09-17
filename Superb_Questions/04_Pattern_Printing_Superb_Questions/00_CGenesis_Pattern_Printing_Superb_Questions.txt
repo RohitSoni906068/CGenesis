@@ -1,0 +1,206 @@
+# Superb Questions From Pattern Printing
+========================================
+
+1. Rectangle Pattern with Asterisks
+Program to print a rectangle pattern using asterisks.
+Example : rows = 3, columns = 4
+Expected Output:
+* * * * *
+* * * * *
+* * * * * 
+
+2. Square Number Pattern
+Program to print a square pattern using consecutive numbers.
+Example : dimension = 4
+Expected Output:
+1 2 3 4
+1 2 3 4
+1 2 3 4
+
+3. Left-Aligned Triangle Number Pattern
+Program to print a left-aligned triangle pattern using consecutive numbers.
+Example : rows = 4
+Expected Output:
+1
+1 2
+1 2 3
+1 2 3 4
+
+4. Left-Aligned Inverted Triangle Number Pattern
+Program to print a left-aligned inverted triangle pattern using consecutive numbers.
+Example : rows = 4
+Expected Output:
+1 2 3 4
+1 2 3
+1 2
+1
+
+5. Alternating Numeric-Alphabetic Triangle Pattern
+Program to print a triangle pattern alternating between numbers and alphabets.
+Example : rows = 5
+Expected Output:
+1
+A B
+1 2 3
+A B C D
+1 2 3 4 5
+
+6. Plus (+) Sign Pattern
+Program to print a plus (+) sign pattern using asterisks.
+Note: The number of rows must be an odd number provided by the user.
+Example : rows = 5
+Expected Output:
+_ _ * _ _
+_ _ * _ _
+* * * * *
+_ _ * _ _
+_ _ * _ _
+
+7. Hollow Rectangle Pattern
+Program to print a hollow rectangle pattern using asterisks.
+Example : rows = 4, columns = 5
+Expected Output:
+* * * * * *
+* _ _ _ _ *
+* _ _ _ _ *
+* * * * * *
+
+8. X Pattern with Stars
+Program to print an 'X' pattern using asterisks.
+Note: The number of rows must be an odd number provided by the user.
+Example : rows = 5
+Expected Output:
+* _ _ _ *
+_ * _ * _
+_ _ * _ _
+_ * _ * _
+* _ _ _ *
+
+9. Floyd's Triangle Pattern (Numbers)
+Program to print Floyd's triangle pattern using consecutive numbers.
+Example : rows = 4
+Expected Output:
+1
+2 3
+4 5 6
+7 8 9 10
+
+10. Alternating Binary Triangle Pattern
+Program to print the following alternating binary triangle pattern:
+Example : rows = 4
+Expected Output:
+1
+0 1
+1 0 1
+0 1 0 1
+
+11. Left-Aligned Rhombus Pattern
+Program to print a left-aligned rhombus pattern using asterisks.
+Example : rows = 4
+Expected Output:
+_ _ _ * * * *
+_ _ * * * *
+_ * * * *
+* * * *
+
+12. Right-Aligned Triangle Alphabet Pattern
+Program to print a right-aligned triangle pattern using consecutive alphabets.
+Example : rows = 4
+Expected Output:
+_ _ _ A
+_ _ A B
+_ A B C
+A B C D
+
+13. Centered Star Pyramid Pattern
+Program to print a centered pyramid pattern using asterisks.
+Example : rows = 4
+Expected Output:
+_ _ _ *
+_ _ * * *
+_ * * * * *
+* * * * * * *
+
+14. Centered Numerical Pyramid Pattern
+Program to print a centered pyramid pattern using consecutive numbers.
+Example : rows = 4
+Expected Output:
+_ _ _ 1
+_ _ 1 2 3
+_ 1 2 3 4 5
+1 2 3 4 5 6 7
+
+15. Centered Alphabetical Palindrome Pyramid
+Program to print a centered palindromic pyramid pattern using alphabets.
+Example : rows = 4
+Expected Output:
+_ _ _ A
+_ _ A B A
+_ A B C B A
+A B C D C B A
+
+16. Symmetric Diamond Star Pattern
+Program to print a symmetric diamond pattern using asterisks.
+Example : rows = 4
+Expected Output:
+_ _ _ *
+_ _ * * *
+_ * * * * *
+* * * * * * *
+_ * * * * *
+_ _ * * *
+_ _ _ *
+
+17. Alphabet Pattern with Central Gap
+Write a program to print alphabets with a central gap pattern:
+Example : rows = 4
+Expected Output:
+A B C D E F G
+A B C _ E F G
+A B _ _ _ F G
+A _ _ _ _ _ G
+
+18. Symmetric Hollow Pyramid (Numbers)
+Program to print a symmetric hollow pyramid using numbers:
+Example : rows = 4
+Expected Output:
+1 2 3 4 3 2 1
+1 2 3 _ 3 2 1
+1 2 _ _ _ 2 1
+1 _ _ _ _ _ 1
+
+19. Left-Triangle Increasing Mirror Pattern
+Program to print a left-triangle increasing mirror pattern for a given size:
+Example : size = 7
+Expected Output:
+1 1 1 1 1 1 1
+1 2 2 2 2 2 2
+1 2 3 3 3 3 3
+1 2 3 4 4 4 4
+1 2 3 4 5 5 5
+1 2 3 4 5 6 6
+1 2 3 4 5 6 7
+
+20. Diamond Number Pattern (Symmetric)
+Program to print the following symmetric diamond number pattern:
+Example : rows = 4
+Expected Output:
+1 1 1 1 1 1 1
+1 2 2 2 2 2 1
+1 2 3 3 3 2 1
+1 2 3 4 3 2 1
+1 2 3 3 3 2 1
+1 2 2 2 2 2 1
+1 1 1 1 1 1 1
+
+21. Reverse Diamond Number Pattern
+Program to print the following reverse diamond number pattern:
+Example : rows = 4
+Expected Output:
+4 4 4 4 4 4 4
+4 3 3 3 3 3 4
+4 3 2 2 2 3 4
+4 3 2 1 2 3 4
+4 3 2 2 2 3 4
+4 3 3 3 3 3 4
+4 4 4 4 4 4 4
