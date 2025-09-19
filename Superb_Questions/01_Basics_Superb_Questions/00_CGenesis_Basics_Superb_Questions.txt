@@ -1,0 +1,28 @@
+# Superb Questions From Basics
+==============================
+
+1. Program to calculate the perimeter of a rectangle when length and breadth are given by the user.
+
+2. Program to calculate the percentage for 5 subjects, considering marks out of 100 for each subject.
+
+3. Program to calculate simple interest when principal, rate, and time are given by the user.
+
+4. Program to find the remainder when a dividend is divided by a divisor, without using the modulus (%) operator.
+
+5. Program to find the remainder when a dividend is divided by a divisor, using the modulus (%) operator.
+
+6. Program to print half of a given number.
+
+7. Program to take a float input and print the fractional part of the real number.
+
+8. Program to calculate the volume of a cylinder given its radius and height.
+
+9. Program to calculate the volume of a sphere when the radius is given by the user.
+
+10. Program to convert temperature from Celsius to Fahrenheit.
+
+11. Program to convert temperature from Fahrenheit to Celsius.
+
+12. Program to convert temperature from Fahrenheit to Kelvin.
+
+13. Program to convert temperature from Kelvin to Fahrenheit.
