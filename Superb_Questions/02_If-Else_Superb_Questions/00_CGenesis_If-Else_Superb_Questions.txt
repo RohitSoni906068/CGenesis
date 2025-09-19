@@ -1,0 +1,46 @@
+# Superb Questions From If-Else
+===============================
+
+1. Program to check if a given character is a digit.
+
+2. Program to determine whether a character entered by the user is lowercase.
+
+3. Program to check if a given dividend is divisible by a given divisor.
+
+4. Program to determine if a given positive integer is divisible by both 5 and 3 without using nested if statements.
+
+5. Program to determine if a given positive integer is divisible by 5 or 3 but not divisible by 15 using nested if statements.
+
+6. Program to determine if a given positive integer is divisible by 5 or 3 but not divisible by 15 using logical operators.
+
+7. Program to determine whether the seller has made a profit or incurred a loss.
+    Also calculate the amount of profit made or loss incurred.
+
+8. Program to determine if 3 numbers can form the sides of a triangle using logical operators.
+
+9. Program to determine whether the year is a leap year or not. (Consider that leap years occur every 4 years)
+
+10. Program to taking a student's percentage as input and print the corresponding grade using nested if statements:
+    • 90 - 100: Excellent
+    • 80 - 89: Very Good
+    • 70 - 79: Good
+    • 60 - 69: Can Do Better
+    • 50 - 59: Average
+    • 40 - 49: Below Average
+    • Below 40: Fail
+
+11. Calculate the income tax paid by an employee to the government according to the following tax slabs:
+    Income Slab          Tax Rate
+    2.5L - 5.0L         5%
+    5.0L - 10.0L        20%
+    Above 10.0L         30%
+
+12. Program to determine whether a student has passed or failed. To pass, a student requires a total of 40% and at least 33% in each subject.
+    Assume there are three subjects with a maximum of 100 marks in each subject. Take the marks as input from the user.
+
+13. If the ages of Ram, Shyam, and Ajay are input through the keyboard, write a program to determine,
+    the youngest of the three using logical operators and nested if statements.
+
+14. Program to find the maximum of two numbers.
+
+15. Program to find the greatest among four numbers entered by the user using the max/min algorithm.
