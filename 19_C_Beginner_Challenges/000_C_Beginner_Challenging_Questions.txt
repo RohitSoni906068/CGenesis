@@ -147,7 +147,8 @@
 
 54. Create a function max that takes two float arguments and returns the larger value.
 
-55. Demonstrate with a function increment that the original integer passed to it does not change after incrementing it inside the function.
+55. Demonstrate with a function increment that the original integer passed
+to it does not change after incrementing it inside the function.
 
 56. Call a function get_average that takes five int numbers and returns the average.
 
@@ -214,9 +215,11 @@
 
 86. Create a program using do-while to find password checker until a valid password is entered.
 
-87. Create a program using break to read inputs from the user in a loop and break the loop if a specific keyword (like "exit") is entered.
+87. Create a program using break to read inputs from the user in a loop and break the loop if a specific keyword
+(like "exit") is entered.
 
-88. Create a program where you need to store and process data for a Book with attributes like title, author, and price, demonstrating why a structure is more suitable than separate variables.
+88. Create a program where you need to store and process data for a Book with attributes
+like title, author, and price, demonstrating why a structure is more suitable than separate variables.
 
 89. Initialize an array of Book structures with different data for each book using designated initializers.
 
@@ -230,13 +233,17 @@
 
 94. Create a program that dynamically allocates memory for a Car structure and then free it at the end of the program.
 
-95. Create a program that uses malloc to dynamically allocate an array for a specified number of float values entered by the user and then stores user-entered numbers into it.
+95. Create a program that uses malloc to dynamically allocate an array for a specified number of float values entered by the user
+and then stores user-entered numbers into it.
 
-96. Use calloc to allocate an array for a set of char characters representing a sentence, ensuring all the memory is initialized to zero.
+96. Use calloc to allocate an array for a set of char characters representing a sentence,
+ensuring all the memory is initialized to zero.
 
-97. Allocate memory for a struct representing a Point with x and y coordinates, set some values, and then properly deallocate the memory using free.
+97. Allocate memory for a struct representing a Point with x and y coordinates, set some values,
+and then properly deallocate the memory using free.
 
-98. Create an array using calloc and fill it with random numbers, then use realloc to shrink the array size by half and print the remaining numbers.
+98. Create an array using calloc and fill it with random numbers, then use realloc to shrink the array size by half
+and print the remaining numbers.
 
 99. Write a program that asks the user for a filename, attempts to open it, and reports whether the operation was successful or not.
 
