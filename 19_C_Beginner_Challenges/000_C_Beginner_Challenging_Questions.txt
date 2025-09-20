@@ -148,7 +148,7 @@
 54. Create a function max that takes two float arguments and returns the larger value.
 
 55. Demonstrate with a function increment that the original integer passed
-to it does not change after incrementing it inside the function.
+    to it does not change after incrementing it inside the function.
 
 56. Call a function get_average that takes five int numbers and returns the average.
 
