@@ -1,6 +1,9 @@
 # 100+ C Programming Challenges for Beginners to Master the Fundamentals and Problem Solving Skills
 ===================================================================================================
 
+# Variables, Data Types & Input/Output 🌍
+=========================================
+
 1. Show the following patterns just using print statements:
  1. *                  2. * * * * *           3.         *
     * *                   * * * *                      * *
@@ -33,6 +36,9 @@
 
 10. Create a program to swap two numbers.
 
+# Instructions, Expressions & Operators 🔒
+==========================================
+
 11. Create a program that takes two numbers and shows result of all arithmetic operators (+,-,*,/,%).
 
 12. Given an integer value, convert it to a floating-point value and print both.
@@ -53,6 +59,9 @@
 
 18. Create a program to convert Fahrenheit to Celsius.
     Celsius = (Fahrenheit - 32) * 5/9
+
+# Decision Control Structure (if-else, switch, goto, ternary) ⚡
+================================================================
 
 19. Create a program that determines if a number is positive, negative, or zero.
 
@@ -89,6 +98,9 @@
 
 30. Create a program to create a simple calculator that uses a switch statement to perform basic arithmetic operations
     (like addition, subtraction, multiplication, and division).
+
+# Iteration & Loop Control Structure 🍕
+=======================================
 
 31. Develop a program that prints the multiplication table for a given number.
 
@@ -136,6 +148,9 @@
 49. Write a program that continuously reads integers from the user and prints their squares. 
     Use an infinite loop and a break statement to exit when a special number (e.g., - 1) is entered.
 
+# Function and Recursion 🎉
+===========================
+
 50. Write a function named greet that prints "Hello, World!" when called.
 
 51. Write a function that adds that takes 4 int parameters and returns the sum.
@@ -156,6 +171,9 @@
 
 58. Create a program using recursion to check if a number is a palindrome using recursion.
 
+# Pointers ⛔
+=============
+
 59. Write a program that declares an integer variable and a pointer to it. Assign a value and print it using the pointer.
 
 60. Write a program to change the value of an integer variable using a pointer and the * operator.
@@ -166,12 +184,18 @@
     and assigns the smaller value to min and the larger value to max using call by reference.
     Write a main function to test it with different values.
 
+# Data Types and Storage Classes 📜
+===================================
+
 63. Create a program that converts a large number of kilometers to miles, using long or long long to store the distance.
 
 64. Write a program to demonstrate the difference in range between long and long long by calculating the factorial of 20.
 
 65. Write a C program that initializes an unsigned int to its maximum possible value and an int to a negative number. Add 1 to both,
     and print the results to show how the unsigned int wraps around to 0, whereas the int remains negative due to overflow.
+
+# Arrays 🔃
+===========
 
 66. Create a program to find the sum and average of all elements in an array.
 
@@ -197,6 +221,9 @@
 
 77. Create a program to find the sum of two diagonal elements.
 
+# Strings 💬
+============
+
 78. Read a line of text from the user using fgets and then print it using puts.
 
 79. Use printf with format specifiers to format and print a date string (day, month, year).
@@ -218,6 +245,9 @@
 87. Create a program using break to read inputs from the user in a loop and break the loop if a specific keyword
     (like "exit") is entered.
 
+# Structures 🎁
+===============
+
 88. Create a program where you need to store and process data for a Book with attributes
     like title, author, and price, demonstrating why a structure is more suitable than separate variables.
 
@@ -230,6 +260,9 @@
 92. Write a function that accepts a pointer to a Student structure with fields for id, name, year, gpa and modifies its grades.
 
 93. Write a function where the Student structure also has books they have borrowed inside, showing nested structure usage.
+
+# Dynamic Memory Allocation 🧾
+==============================
 
 94. Create a program that dynamically allocates memory for a Car structure and then free it at the end of the program.
 
@@ -244,6 +277,9 @@
 
 98. Create an array using calloc and fill it with random numbers, then use realloc to shrink the array size by half
     and print the remaining numbers.
+
+# File Input/Output 🍱
+======================
 
 99. Write a program that asks the user for a filename, attempts to open it, and reports whether the operation was successful or not.
 
