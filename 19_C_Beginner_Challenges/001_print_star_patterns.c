@@ -1,3 +1,11 @@
+/*
+1. Showing the following patterns just using print statements:
+ 1. *                  2. * * * * *           3.         *
+    * *                   * * * *                      * *
+    * * *                 * * *                      * * *
+    * * * *               * *                      * * * *
+    * * * * *             *                      * * * * *
+*/
 #include<stdio.h>
 
 int main() 
