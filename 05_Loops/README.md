@@ -3,11 +3,11 @@
 <div align="center">
 
 [![C Programming](https://img.shields.io/badge/Language-C-blue.svg)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![Loops](https://img.shields.io/badge/Topic-Iteration%20Control-orange.svg)](https://github.com/rohit528590/CGenesis/tree/main/05_Loops)
-[![Files](https://img.shields.io/badge/Code%20Files-12-orange.svg)](https://github.com/rohit528590/CGenesis/tree/main/05_Loops)
-[![Learning Level](https://img.shields.io/badge/Level-Beginner%20to%20Advanced-brightgreen.svg)](https://github.com/rohit528590/CGenesis/05_Loops)
-[![Practice Questions](https://img.shields.io/badge/Loop%20Challenges-41+-red.svg)](https://github.com/rohit528590/CGenesis/tree/main/06_Loops_Practice_Problems)
-[![Pattern Problems](https://img.shields.io/badge/Pattern%20Challenges-33+-purple.svg)](https://github.com/rohit528590/CGenesis/tree/main/07_Pattern_Printing_Practice_Problems)
+[![Loops](https://img.shields.io/badge/Topic-Iteration%20Control-orange.svg)](https://github.com/RohitSoni906068/CGenesis/tree/main/05_Loops)
+[![Files](https://img.shields.io/badge/Code%20Files-12-orange.svg)](https://github.com/RohitSoni906068/CGenesis/tree/main/05_Loops)
+[![Learning Level](https://img.shields.io/badge/Level-Beginner%20to%20Advanced-brightgreen.svg)](https://github.com/RohitSoni906068/CGenesis/05_Loops)
+[![Practice Questions](https://img.shields.io/badge/Loop%20Challenges-41+-red.svg)](https://github.com/RohitSoni906068/CGenesis/tree/main/06_Loops_Practice_Problems)
+[![Pattern Problems](https://img.shields.io/badge/Pattern%20Challenges-33+-purple.svg)](https://github.com/RohitSoni906068/CGenesis/tree/main/07_Pattern_Printing_Practice_Problems)
 
 ### Welcome to the **Loops & Iteration** module of **CGenesis**! 🎯
 
@@ -63,7 +63,7 @@ Welcome to the **Loops & Iteration** module of **CGenesis**! 🔄 Master the art
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/rohit528590/CGenesis.git
+git clone https://github.com/RohitSoni906068/CGenesis.git
 
 # 2. Navigate to the Loops directory
 cd CGenesis/05_Loops
@@ -514,9 +514,9 @@ Ready to level up your C programming journey? Here's your personalized learning 
 |---------------------|---------------------|-------------------|
 | **🔄 Loops Practice Problems** | [Loops Practice Problems.txt](Practice_Problem_Based_on_Loops.txt) | 50+ loop challenges to master iteration concepts |
 | **🎨 Pattern Printing Practice** | [Pattern Printing Practice Problems.txt](Practice_Problem_Based_on_Pattern_Printing.txt) | 40+ pattern problems for nested loop mastery |
-| **🐛 Bug Reports & Questions** | [Open an Issue](https://github.com/rohit528590/CGenesis/issues) | Report bugs or ask technical questions |
-| **💬 Community Support** | [GitHub Issues](https://github.com/rohit528590/CGenesis/issues) | Get help with coding problems and technical questions |
-| **🤝 Contribute** | [Fork Repository](https://github.com/rohit528590/CGenesis/fork) | Help improve the course for everyone |
+| **🐛 Bug Reports & Questions** | [Open an Issue](https://github.com/RohitSoni906068/CGenesis/issues) | Report bugs or ask technical questions |
+| **💬 Community Support** | [GitHub Issues](https://github.com/RohitSoni906068/CGenesis/issues) | Get help with coding problems and technical questions |
+| **🤝 Contribute** | [Fork Repository](https://github.com/RohitSoni906068/CGenesis/fork) | Help improve the course for everyone |
 
 </div>
 
@@ -557,12 +557,12 @@ Ready to level up your C programming journey? Here's your personalized learning 
 
 ### 🔗 **Support This Project**
 
-[![GitHub stars](https://img.shields.io/github/stars/rohit528590/CGenesis?style=social)](https://github.com/rohit528590/CGenesis/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/rohit528590/CGenesis?style=social)](https://github.com/rohit528590/CGenesis/network/members)
+[![GitHub stars](https://img.shields.io/github/stars/RohitSoni906068/CGenesis?style=social)](https://github.com/RohitSoni906068/CGenesis/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/RohitSoni906068/CGenesis?style=social)](https://github.com/RohitSoni906068/CGenesis/network/members)
 
-**⭐ [Star this Repository](https://github.com/rohit528590/CGenesis) to show your support!**
+**⭐ [Star this Repository](https://github.com/RohitSoni906068/CGenesis) to show your support!**
 
 *Happy Coding, future programmer! 🚀👨‍💻👩‍💻*  
 
-<sub>Built with ❤️ for C programming students | Based on proven learning progression | <a href="https://github.com/rohit528590/CGenesis">CGenesis Project</a></sub>
+<sub>Built with ❤️ for C programming students | Based on proven learning progression | <a href="https://github.com/RohitSoni906068/CGenesis">CGenesis Project</a></sub>
 </div>
