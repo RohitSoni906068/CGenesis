@@ -3,10 +3,10 @@
 <div align="center">
 
 [![C Programming](https://img.shields.io/badge/Language-C-blue.svg)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![Conditionals](https://img.shields.io/badge/Topic-Decision%20Logic-orange.svg)](https://github.com/rohit528590/CGenesis/03_If-Else)
-[![Files](https://img.shields.io/badge/Code%20Files-08-orange.svg)](https://github.com/rohit528590/CGenesis/tree/main/03_If-Else)
-[![Practice Questions](https://img.shields.io/badge/Practice%20Challenges-24+-red.svg)](https://github.com/rohit528590/CGenesis/tree/main/04_If-Else_Practice_Questions)
-[![Learning Level](https://img.shields.io/badge/Level-Beginner%20to%20Advanced-brightgreen.svg)](https://github.com/rohit528590/CGenesis/03_If-Else)
+[![Conditionals](https://img.shields.io/badge/Topic-Decision%20Logic-orange.svg)](https://github.com/RohitSoni906068/CGenesis/03_If-Else)
+[![Files](https://img.shields.io/badge/Code%20Files-08-orange.svg)](https://github.com/RohitSoni906068/CGenesis/tree/main/03_If-Else)
+[![Practice Questions](https://img.shields.io/badge/Practice%20Challenges-24+-red.svg)](https://github.com/RohitSoni906068/CGenesis/tree/main/04_If-Else_Practice_Questions)
+[![Learning Level](https://img.shields.io/badge/Level-Beginner%20to%20Advanced-brightgreen.svg)](https://github.com/RohitSoni906068/CGenesis/03_If-Else)
 
 ### Welcome to the **Conditionals & Decision Making** module of **CGenesis**! 🎯
 
@@ -60,7 +60,7 @@ Welcome to the **Conditionals & Decision Making** module of **CGenesis**! 🎯 M
 
 ```bash
 # Clone the repository
-git clone https://github.com/rohit528590/CGenesis.git
+git clone https://github.com/RohitSoni906068/CGenesis.git
 
 # Change directory
 cd CGenesis/03_If-Else
@@ -340,9 +340,9 @@ Ready to level up your C programming journey? Here's your personalized learning 
 | 📚 **Resource Type** | 🔗 **Access Point** | 📝 **Description** |
 |---------------------|---------------------|-------------------|
 | **🧠 If-Else Practice Problems** | [Practice_Questions.txt](Practice_Questions.txt) | 20+ real-world conditional logic challenges to master decision making |
-| **🐛 Bug Reports & Questions** | [Open an Issue](https://github.com/rohit528590/CGenesis/issues) | Report bugs or ask technical questions |
-| **💬 Community Support** | [GitHub Issues](https://github.com/rohit528590/CGenesis/issues) | Get help with coding problems and technical questions |
-| **🤝 Contribute** | [Fork Repository](https://github.com/rohit528590/CGenesis/fork) | Help improve the course for everyone |
+| **🐛 Bug Reports & Questions** | [Open an Issue](https://github.com/RohitSoni906068/CGenesis/issues) | Report bugs or ask technical questions |
+| **💬 Community Support** | [GitHub Issues](https://github.com/RohitSoni906068/CGenesis/issues) | Get help with coding problems and technical questions |
+| **🤝 Contribute** | [Fork Repository](https://github.com/RohitSoni906068/CGenesis/fork) | Help improve the course for everyone |
 
 </div>
 
@@ -383,12 +383,12 @@ Ready to level up your C programming journey? Here's your personalized learning 
 
 ### 🔗 **Support This Project**
 
-[![GitHub stars](https://img.shields.io/github/stars/rohit528590/CGenesis?style=social)](https://github.com/rohit528590/CGenesis/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/rohit528590/CGenesis?style=social)](https://github.com/rohit528590/CGenesis/network/members)
+[![GitHub stars](https://img.shields.io/github/stars/RohitSoni906068/CGenesis?style=social)](https://github.com/RohitSoni906068/CGenesis/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/RohitSoni906068/CGenesis?style=social)](https://github.com/RohitSoni906068/CGenesis/network/members)
 
-**⭐ [Star this Repository](https://github.com/rohit528590/CGenesis) to show your support!**
+**⭐ [Star this Repository](https://github.com/RohitSoni906068/CGenesis) to show your support!**
 
 *Happy Coding, future programmer! 🚀👨‍💻👩‍💻*  
 
-<sub>Built with ❤️ for C programming students | Based on proven learning progression | <a href="https://github.com/rohit528590/CGenesis">CGenesis Project</a></sub>
+<sub>Built with ❤️ for C programming students | Based on proven learning progression | <a href="https://github.com/RohitSoni906068/CGenesis">CGenesis Project</a></sub>
 </div>
