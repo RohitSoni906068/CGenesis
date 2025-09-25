@@ -1,0 +1,46 @@
+# Basics Of C Programming Practice Questions to Be Solved
+=========================================================
+
+1. Write a program to calculate the sum of two given numbers.
+
+2. Take a number (n) from the user and output its cube (n³).
+
+3. Write a program to calculate the perimeter of a square when the side length is given.
+
+4. Write a program to calculate the perimeter of a rectangle when length and breadth are given by the user.
+
+5. Write a program to calculate the area of a rectangle when length and breadth are given by the user.
+
+6. Write a program to calculate the area of a square when the side length is given.
+
+7. Write a program to calculate the area of a circle when the radius is given by the user.
+
+8. Write a program to calculate the circumference of a circle when the radius is given by the user.
+
+9. Write a program to calculate the percentage for 5 subjects, considering marks out of 100 for each subject.
+
+10. Calculate simple interest when principal, rate, and time are given by the user.
+
+11. Take two integer inputs, a and b (where a > b), and find the remainder when a is divided by b without using the modulus operator (%).
+
+12. Take two integer inputs, a and b (where a > b), and find the remainder when a is divided by b using the modulus operator (%).
+
+13. Write a program to print half of a given number.
+
+14. Take a float input and print the integer part of the real number.
+
+15. Write a program to calculate the volume of a cylinder given its radius and height.
+
+16. Write a program to calculate the volume of a sphere when the radius is given by the user.
+
+17. Write a program to convert temperature from Celsius to Fahrenheit.
+
+18. Write a program to convert temperature from Celsius to Kelvin.
+
+19. Write a program to convert temperature from Fahrenheit to Celsius.
+
+20. Write a program to convert temperature from Fahrenheit to Kelvin.
+
+21. Write a program to convert temperature from Kelvin to Celsius.
+
+22. Write a program to convert temperature from Kelvin to Fahrenheit.
