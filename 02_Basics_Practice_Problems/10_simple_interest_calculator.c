@@ -5,6 +5,7 @@
 int main()
 {
     float principle, time, rate;
+    
     printf("Enter the Pricipal : ");
     scanf("%f", &principle);
 

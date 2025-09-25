@@ -4,6 +4,7 @@
 int main()
 {
     float a,b;
+    
     printf("Enter First Number : ");
     scanf("%f",&a);
     

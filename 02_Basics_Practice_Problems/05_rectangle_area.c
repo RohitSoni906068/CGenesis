@@ -5,6 +5,7 @@
 int main()
 {
     float length, breadth;
+    
     printf("Enter length of rectangle : ");
     scanf("%f", &length);
     
