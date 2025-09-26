@@ -74,6 +74,8 @@ gcc 01_driving_license_eligibility.c -o license
 
 ## 📚 Problem Categories
 
+#### 📝 Problem List - [If-Else Practice Problems](00_Practice_Questions_Based_On_Control_Statements.txt)
+
 ### 🟢 Beginner Level - Foundation Building (8 Problems)
 
 *Perfect for building confidence with basic conditional statements*  
