@@ -3,10 +3,10 @@
 <div align="center">
 
 [![C Programming](https://img.shields.io/badge/Language-C-blue.svg)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![Conditionals](https://img.shields.io/badge/Topic-Decision%20Logic-orange.svg)](https://github.com/RohitSoni906068/CGenesis/03_If-Else)
-[![Files](https://img.shields.io/badge/Code%20Files-08-orange.svg)](https://github.com/RohitSoni906068/CGenesis/tree/main/03_If-Else)
+[![Conditionals](https://img.shields.io/badge/Topic-Decision%20Logic-orange.svg)](https://github.com/RohitSoni906068/CGenesis/tree/main/03_Control_Statements)
+[![Files](https://img.shields.io/badge/Code%20Files-08-orange.svg)](https://github.com/RohitSoni906068/CGenesis/tree/main/03_Control_Statements)
 [![Practice Questions](https://img.shields.io/badge/Practice%20Challenges-24+-red.svg)](https://github.com/RohitSoni906068/CGenesis/tree/main/04_If-Else_Practice_Questions)
-[![Learning Level](https://img.shields.io/badge/Level-Beginner%20to%20Advanced-brightgreen.svg)](https://github.com/RohitSoni906068/CGenesis/03_If-Else)
+[![Learning Level](https://img.shields.io/badge/Level-Beginner%20to%20Advanced-brightgreen.svg)](https://github.com/RohitSoni906068/CGenesis/tree/main/03_Control_Statements)
 
 ### Welcome to the **Conditionals & Decision Making** module of **CGenesis**! 🎯
 
@@ -63,7 +63,7 @@ Welcome to the **Conditionals & Decision Making** module of **CGenesis**! 🎯 M
 git clone https://github.com/RohitSoni906068/CGenesis.git
 
 # Change directory
-cd CGenesis/03_If-Else
+cd CGenesis/03_Control_Statements
 
 # Compile any program
 gcc filename.c -o output
@@ -72,7 +72,7 @@ gcc filename.c -o output
 ./output
 
 # Example with Problem 1
-gcc 01_if_Condition.c -o if
+gcc 01_Basic_If_Statement.c -o if
 ./if
 ```
 
@@ -88,9 +88,9 @@ Our structured approach takes you from basic if-statements to advanced decision-
 
 | # | 🎯 **Program** | 📊 **Difficulty** | 🔧 **Key Skills** |
 |---|----------------|-------------------|-------------------|
-| 1 | **[if Condition](01_if_Condition.c)** | ⭐ | 🚦 Basic if statements, condition evaluation |
-| 2 | **[if-else](02_if-else.c)** | ⭐ | 🔀 Binary decisions, else clause |
-| 3 | **[if with 0 and 1](06_if_with_0_and_1.c)** | ⭐⭐ | ⚡ Truthiness, 0 vs non-zero values |
+| 1 | **[if Condition](01_Basic_If_Statement.c)** | ⭐ | 🚦 Basic if statements, condition evaluation |
+| 2 | **[if-else](02_If_Else_Statement.c)** | ⭐ | 🔀 Binary decisions, else clause |
+| 3 | **[if with 0 and 1](06_Truthiness_and_Boolean_Logic.c)** | ⭐⭐ | ⚡ Truthiness, 0 vs non-zero values |
 
 **🎯 Phase Goal:** Write programs that can make basic yes/no decisions
 
@@ -102,9 +102,9 @@ Our structured approach takes you from basic if-statements to advanced decision-
 
 | # | 🎯 **Program** | 📊 **Difficulty** | 🔧 **Key Skills** |
 |---|----------------|-------------------|-------------------|
-| 4 | **[if-else_else-if](03_if_else-else-if.c)** | ⭐⭐ | 🌳 Chained conditionals, priority handling |
+| 4 | **[if-else_else-if](03_If_Else_If_Chain.c)** | ⭐⭐ | 🌳 Chained conditionals, priority handling |
 | 5 | **[Logical Operators](04_Logical_operators.c)** | ⭐⭐⭐ | 🔗 AND, OR, NOT operations |
-| 6 | **[Nested if](05_Nested-if.c)** | ⭐⭐⭐ | 📦 Hierarchical logic, code organization |
+| 6 | **[Nested if](05_Nested_If_Statements.c)** | ⭐⭐⭐ | 📦 Hierarchical logic, code organization |
 | 7 | **[Switch Statements](07_Switch_statements.c)** | ⭐⭐ | 🎛️ Switch syntax, case handling, break statements |
 
 **🎯 Phase Goal:** Build sophisticated decision trees and handle complex scenarios
@@ -117,16 +117,16 @@ Our structured approach takes you from basic if-statements to advanced decision-
 
 | # | 🎯 **Program** | 📊 **Difficulty** | 🔧 **Key Skills** |
 |---|----------------|-------------------|-------------------|
-| 8 | **[ternary if](08_ternary_if.c)** | ⭐⭐⭐ | ⚡ Ternary operator, inline decisions |
-| 9 | **[Practice Questions](Practice_Questions.txt)** | ⭐⭐⭐⭐ | 🎯 Problem-solving, optimization |
+| 8 | **[ternary if](08_Ternary_If_Statement.c)** | ⭐⭐⭐ | ⚡ Ternary operator, inline decisions |
+| 9 | **[if-else Practice Questions](Control_Statements_Practice_Problems.txt)** | ⭐⭐⭐⭐ | 🎯 Problem-solving, optimization |
 
 **🎯 Phase Goal:** Write professional-grade conditional code with optimal performance
 
 ---
 
-## 🏆 [Practice Challenges](Practice_Questions.txt)
+## 🏆 [Practice Challenges](Control_Statements_Practice_Problems.txt)
 
-### 📁 **if-else Practice** - [Practice_Questions.txt](Practice_Questions.txt)
+### 📁 **if-else Practice** - [Control_Statements_Practice_Problems.txt](Control_Statements_Practice_Problems.txt)
 
 > **📈 Progress Tracking:** Complete challenges in order to build skills systematically.
 
@@ -339,7 +339,7 @@ Ready to level up your C programming journey? Here's your personalized learning 
 
 | 📚 **Resource Type** | 🔗 **Access Point** | 📝 **Description** |
 |---------------------|---------------------|-------------------|
-| **🧠 If-Else Practice Problems** | [Practice_Questions.txt](Practice_Questions.txt) | 20+ real-world conditional logic challenges to master decision making |
+| **🧠 If-Else Practice Problems** | [Control_Statements_Practice_Challenges.txt](Control_Statements_Practice_Problems.txt) | 20+ real-world conditional logic challenges to master decision making |
 | **🐛 Bug Reports & Questions** | [Open an Issue](https://github.com/RohitSoni906068/CGenesis/issues) | Report bugs or ask technical questions |
 | **💬 Community Support** | [GitHub Issues](https://github.com/RohitSoni906068/CGenesis/issues) | Get help with coding problems and technical questions |
 | **🤝 Contribute** | [Fork Repository](https://github.com/RohitSoni906068/CGenesis/fork) | Help improve the course for everyone |
@@ -354,9 +354,9 @@ Ready to level up your C programming journey? Here's your personalized learning 
 
 **Follow the exact progression from your carefully crafted examples!**
 
-[![Start with Basic If](https://img.shields.io/badge/🎯%20Start%20with-Basic%20Conditionals-blue?style=for-the-badge)](01_if_Condition.c)
-[![Master Decision Making](https://img.shields.io/badge/🧠%20Master-Decision%20Logic-green?style=for-the-badge)](03_if_else-else-if.c)
-[![Practice Real Problems](https://img.shields.io/badge/🏆%20Practice-Challenge%20Problems-orange?style=for-the-badge)](Practice_Questions.txt)
+[![Start with Basic If](https://img.shields.io/badge/🎯%20Start%20with-Basic%20Conditionals-blue?style=for-the-badge)](01_Basic_If_Statement.c)
+[![Master Decision Making](https://img.shields.io/badge/🧠%20Master-Decision%20Logic-green?style=for-the-badge)](03_If_Else_If_Chain.c)
+[![Practice Real Problems](https://img.shields.io/badge/🏆%20Practice-Challenge%20Problems-orange?style=for-the-badge)](Control_Statements_Practice_Problems.txt)
 
 ### 🌟 **Remember:**
 
