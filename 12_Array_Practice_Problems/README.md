@@ -81,6 +81,8 @@ gcc 01_student_marks_passing_filter.c -o student_marks
 
 ## 📚 Problem Categories
 
+### 📝 Problem List - [Arrays Practice Questions To Be Solved](00_Practice_Questions_Based_On_Arrays.txt)
+
 ### 🟢 **Foundation Level** (Problems 1-8)
 
 *Build your array fundamentals with essential concepts*  
