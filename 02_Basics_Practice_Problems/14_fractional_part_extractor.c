@@ -11,5 +11,5 @@ int main()
     float fractional_part = n - (int)n;
     printf("The Fractional Part of %.3f is %.3f \n",n,fractional_part);
 
-    return 0; 
+    return 0;
 }

@@ -11,5 +11,5 @@ int main()
     float area=side*side;
     printf("The Area of Square is : %.2f \n", area);
     
-    return 0; 
+    return 0;
 }

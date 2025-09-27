@@ -11,4 +11,4 @@ int main()
     printf("Cube of %d is : %d ", n, cube);
     
     return 0;
-} 
+}

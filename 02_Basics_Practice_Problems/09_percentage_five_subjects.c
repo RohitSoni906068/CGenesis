@@ -5,7 +5,7 @@
 int main()
 {
     float Mat_marks, Phy_marks, Che_marks, Engl_marks, Com_marks;
-    
+
     printf("Enter Your Marks of Maths : ");
     scanf("%f", &Mat_marks);
 

@@ -10,5 +10,5 @@ int main()
     float half=n/2.0;
     printf("Half of %.3f is : %.3f\n", n, half);
     
-    return 0; 
+    return 0;
 }

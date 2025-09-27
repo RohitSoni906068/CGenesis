@@ -11,5 +11,5 @@ int main()
     float celsius=5.0 / 9.0 * (Fahrenheit - 32);
     printf("Temperature in Celsius : %.3f°C\n", celsius);
     
-    return 0; 
+    return 0;
 }

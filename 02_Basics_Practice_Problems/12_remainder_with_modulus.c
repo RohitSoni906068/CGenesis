@@ -4,7 +4,7 @@
 int main()
 {
     int divided,divisor;
-    
+
     printf("Enter divided Number : ");
     scanf("%d",&divided);
 
