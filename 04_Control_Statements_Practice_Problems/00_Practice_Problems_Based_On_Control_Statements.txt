@@ -1,4 +1,5 @@
 # If-Else Practice Questions
+============================
 
 1. Given a person's age, determine if they are eligible for a driving license.
 
