@@ -1,4 +1,5 @@
 # PATTERN PRINTING PRACTICE PROBLEMS FOR C
+============================================
 
 1. Rectangle Pattern with Asterisks
 Write a program to print a rectangle pattern using asterisks.
