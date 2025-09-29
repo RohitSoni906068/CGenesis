@@ -79,6 +79,8 @@ gcc 01_rectangle_asterisk_pattern.c -o rectangle_pattern
 
 ## 📚 Problem Categories
 
+#### 📝 Problem List - [Pattern Printing Practice Problems](00_Practice_Problem_Based_on_Pattern_Printing.txt)
+
 ### 🟢 **Foundation Level** (Problems 1-11)
 
 *Master the basics of pattern printing*  
