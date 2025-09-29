@@ -1,4 +1,4 @@
-/*
+/* 
 27. Hollow Inverted Triangle Pattern
 Program to print the following hollow inverted triangle pattern:
 Example : rows = 4

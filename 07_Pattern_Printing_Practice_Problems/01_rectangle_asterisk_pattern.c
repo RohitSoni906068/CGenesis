@@ -1,4 +1,4 @@
-/*
+/* 
 1. Rectangle Pattern with Asterisks
 Program to print a rectangle pattern using asterisks.
 Example : rows = 3, columns = 4

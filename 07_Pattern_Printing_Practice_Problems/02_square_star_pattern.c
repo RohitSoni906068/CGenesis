@@ -1,4 +1,4 @@
-/*
+/* 
 2. Square Star Pattern
 Program to print a square pattern using asterisks.
 Example : dimension = 4

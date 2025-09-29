@@ -1,4 +1,4 @@
-/*
+/* 
 23. Centered Alphabet Pyramid Pattern
 Program to print a centered pyramid pattern using consecutive alphabets.
 Example : rows = 4

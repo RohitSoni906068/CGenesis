@@ -1,4 +1,4 @@
-/*
+/* 
 24. Centered Numeric Palindrome Pyramid
 Program to print a centered palindromic pyramid pattern using numbers.
 Example : rows = 4

@@ -1,4 +1,4 @@
-/*
+/* 
 7. Left-Aligned Inverted Triangle Number Pattern
 Program to print a left-aligned inverted triangle pattern using consecutive numbers.
 Example : rows = 4

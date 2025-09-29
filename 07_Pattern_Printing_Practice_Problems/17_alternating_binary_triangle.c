@@ -30,9 +30,8 @@ int main()
         for (int j = 1; j <= i; j++)
         {
             printf("%d ", currentValue);
-            currentValue = 1 - currentValue;
-            // Toggle between 1 and 0 (if currentValue = 1,then converted to 0,
-            // and if currentValue = 0,then converted to 1.)
+            currentValue = 1 - currentValue; // Toggle between 1 and 0 (if currentValue = 1,then converted to 0,
+                                             // and if currentValue = 0,then converted to 1.)
         }
 
         printf("\n");

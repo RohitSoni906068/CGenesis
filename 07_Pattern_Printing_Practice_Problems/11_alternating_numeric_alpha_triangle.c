@@ -27,7 +27,7 @@ int main()
         {
             (i % 2 == 0) ? printf("%c ", letter++) : printf("%d ", number++);
             
-            // Post Increment -> After Printing, letter gets +1 and number also gets +1
+            // Post Increment -> After Printing, letter gets +1 and number also gets +1.
         }
 
         printf("\n");

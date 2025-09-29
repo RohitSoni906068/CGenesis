@@ -1,4 +1,4 @@
-/*
+/* 
 10. Left-Aligned Triangle Alphabet Pattern
 Program to print a left-aligned triangle pattern using consecutive alphabets.
 Example : rows = 4

@@ -15,8 +15,8 @@ Expected Output:
 int main()
 {
     int n;
-    printf(" Enter the size of the pattern (e.g., 4) : ");
-    scanf(" %d", &n);
+    printf("Enter the size of the pattern (e.g., 4) : ");
+    scanf("%d", &n);
 
     int size = 2 * n - 1;
 

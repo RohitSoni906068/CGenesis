@@ -1,4 +1,4 @@
-/*
+/* 
 8. Left-Aligned Triangle Pattern with Odd Numbers
 Program to print a left-aligned triangle pattern using odd numbers.
 Example : rows = 4

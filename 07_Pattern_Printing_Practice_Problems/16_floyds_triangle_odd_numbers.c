@@ -1,4 +1,4 @@
-/*
+/* 
 16. Floyd's Triangle Pattern (Odd Numbers)
 Program to print Floyd's triangle pattern using consecutive odd numbers.
 Example : rows = 4

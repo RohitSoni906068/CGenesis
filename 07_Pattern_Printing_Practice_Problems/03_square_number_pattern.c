@@ -1,4 +1,4 @@
-/*
+/* 
 3. Square Number Pattern
 Program to print a square pattern using consecutive numbers.
 Example : dimension = 4

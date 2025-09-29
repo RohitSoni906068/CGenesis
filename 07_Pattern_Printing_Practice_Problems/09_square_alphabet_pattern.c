@@ -1,4 +1,4 @@
-/*
+/* 
 9. Square Alphabet Pattern
 Program to print a square pattern using consecutive alphabets.
 Example : dimension = 4

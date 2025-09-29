@@ -15,8 +15,8 @@ Expected Output:
 int main()
 {
     int n;
-    printf(" Enter the number : ");
-    scanf(" %d", &n);
+    printf("Enter the number : ");
+    scanf("%d", &n);
 
     printf("Reverse Diamond Number Pattern(%d rows) Number Pattern -:\n", n);
     for (int i = 1; i <= 2 * n - 1; i++)

@@ -14,7 +14,7 @@ int main()
 {
     int rows;
     printf("Enter the number of rows : ");
-    scanf(" %d", &rows);
+    scanf("%d", &rows);
 
     int totalRows = (2 * rows) - 1; // Total number of rows in the pattern
     int visibleCount = rows - 1; // Number of visible numbers on each side

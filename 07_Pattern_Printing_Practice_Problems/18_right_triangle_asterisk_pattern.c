@@ -1,4 +1,4 @@
-/*
+/* 
 18. Right-Aligned Triangle Pattern (Asterisks)
 Program to print a right-aligned triangle pattern using asterisks.
 Example : rows = 4

@@ -1,4 +1,4 @@
-/*
+/* 
 28. Number Pattern with Central Gap
 Program to print numbers with a central gap pattern:
 Example : rows = 4

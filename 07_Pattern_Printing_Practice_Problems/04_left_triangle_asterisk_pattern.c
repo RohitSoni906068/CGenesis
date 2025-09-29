@@ -1,4 +1,4 @@
-/*
+/* 
 4. Left-Aligned Triangle Pattern (Asterisks)
 Program to print a left-aligned triangle pattern using asterisks.
 Example : rows = 4
