@@ -39,6 +39,8 @@ Transform theoretical 2D array knowledge into practical programming expertise th
 
 ## 📚 Problem Categories
 
+### 📝 Problem List - [2D Arrays Practice Questions To Be Solved](00_Practice_Questions_Based_On_2D-Arrays.txt)
+
 ### 🟢 **Foundation Level** (Problems 1-9)
 
 *Build your 2D array fundamentals with essential concepts*  
