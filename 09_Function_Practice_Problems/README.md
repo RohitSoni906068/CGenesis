@@ -81,6 +81,8 @@ gcc 01_time_based_greeting.c -o time_based_greeting
 
 ## 📚 Problem Categories
 
+#### 📝 Problem List - [Function Practice Problems](00_Practice_Questions_Based_On_Functions.txt)
+
 ### 🟢 **Foundation Level** (Problems 1-13)
 
 *Build your function fundamentals with essential concepts*  
