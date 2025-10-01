@@ -14,11 +14,11 @@ int main()
     scanf("%d", &array_size);
 
     int array[array_size];
+    printf("Enter all %d elements of array -:\n", array_size);
 
     // Input values and Process array
     for (int i = 0; i < array_size; i++)
     {
-        printf("Enter value for element %d : ", i);
         scanf("%d", &array[i]);
 
         // Perform operations based on index
@@ -26,7 +26,7 @@ int main()
     }
 
     // Output modified array
-    printf("Modified array : ");
+    printf("Modified array -: ");
     for (int j = 0; j < array_size; j++)
     {
         printf("%d ", array[j]);

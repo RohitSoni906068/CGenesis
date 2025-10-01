@@ -11,9 +11,9 @@ int main()
     int array[array_size];
     int reversed_array[array_size];
 
+    printf("Enter all %d elements of array -:\n", array_size);
     for (int i = 0; i < array_size; i++)
     {
-        printf("Enter value for element %d : ", i);
         scanf("%d", &array[i]);
 
         reversed_array[array_size - 1 - i] = array[i]; // Copy elements in reverse order

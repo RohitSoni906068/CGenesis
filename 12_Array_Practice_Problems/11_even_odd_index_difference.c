@@ -11,13 +11,13 @@ int main()
     scanf("%d", &array_size);
 
     int array[array_size];
+    printf("Enter all %d elements of array -:\n", array_size);
 
     for (int i = 0; i < array_size; i++)
     {
-        printf("Enter value for element %d : ", i);
         scanf("%d", &array[i]);
 
-        // Calculate sum based on index
+        // Calculate sum of elements on 0 based-index
         if (i % 2 == 0) even_sum += array[i];
         else odd_sum += array[i];
     }

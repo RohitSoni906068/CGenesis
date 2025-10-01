@@ -11,15 +11,16 @@ int main()
     scanf("%d", &array_size);
 
     int array[array_size];
+    printf("Enter all %d elements of array -:\n", array_size);
+
     for (int i = 0; i < array_size; i++)
     {
-        printf("Enter value for element %d : ", i);
         scanf("%d", &array[i]);
     }
 
     for (int j = 0, k = array_size - 1; j < k; j++, k--)
     {
-        // Check if the array is a palindrome(first element is equal to last element).
+        // Check if the array is a palindrome (first element is equal to last element).
         if (array[j] != array[k])
         {
             printf("The array is not a palindrome.\n");

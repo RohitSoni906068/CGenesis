@@ -8,10 +8,10 @@ int main()
     scanf("%d", &size);
 
     int array[size];
+    printf("Enter all %d elements of array -:\n", size);
 
     for (int i = 0; i < size; i++)
     {
-        printf("Enter element %d : ", i + 1);
         scanf("%d", &array[i]);
     }
 

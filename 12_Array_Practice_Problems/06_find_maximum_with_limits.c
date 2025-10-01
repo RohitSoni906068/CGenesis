@@ -12,10 +12,10 @@ int main()
     scanf("%d", &array_size);
 
     int array[array_size];
+    printf("Enter all %d elements of array -:\n", array_size);
 
     for (int i = 0; i < array_size; i++)
     {
-        printf("Enter value for element %d : ", i);
         scanf("%d", &array[i]);
 
         // Update max if a greater element is found

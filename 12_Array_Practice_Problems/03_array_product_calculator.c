@@ -10,16 +10,16 @@ int main()
     scanf("%d", &array_size);
 
     int array[array_size];
+    printf("Enter all %d elements of array -:\n", array_size);
 
     for (int i = 0; i < array_size; i++)
     {
-        printf("Enter value for element %d : ", i);
         scanf("%d", &array[i]);
         
         product *= array[i];
     }
 
-    printf("Product of all elements in the array is : %d\n", product);
+    printf("Product of all elements of array is : %d\n", product);
 
     return 0;
 }

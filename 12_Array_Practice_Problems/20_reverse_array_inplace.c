@@ -27,16 +27,16 @@ int main()
     scanf("%d", &array_size);
 
     int array[array_size];
+    printf("Enter all %d elements of array -:\n", array_size);
 
     for (int i = 0; i < array_size; i++)
     {
-        printf("Enter value for element %d : ", i);
         scanf("%d", &array[i]);
     }
 
     reverse(array, array_size); // Call the reverse function
 
-    printf("\nArray after reversing : ");
+    printf("\nArray after reversing -: \n");
     for (int i = 0; i < array_size; i++)
     {
         printf("%d ", array[i]);

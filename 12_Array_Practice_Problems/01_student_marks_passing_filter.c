@@ -12,18 +12,18 @@ int main()
     scanf("%d", &num_students);
 
     int marks[num_students];
+    printf("Enter marks of all %d students -:\n", num_students);
 
     for (int i = 0; i < num_students; i++)
     {
-        printf("Enter marks for student %d : ", i + 1);
         scanf("%d", &marks[i]);
     }
 
-    printf("\nStudents who scored less than %d :\n", PASS_MARK);
+    printf("\nStudents who scored less than %d according to 0 Based Indexing -:\n", PASS_MARK);
 
     for (int i = 0; i < num_students; i++)
     {
-        if (marks[i] < PASS_MARK) printf("Roll Number : %d\n", i + 1);
+        if (marks[i] < PASS_MARK) printf("Roll Number : %d\n", i);
     }
 
     return 0;

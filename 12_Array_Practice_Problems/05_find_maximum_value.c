@@ -9,10 +9,10 @@ int main()
     scanf("%d", &array_size);
 
     int array[array_size];
+    printf("Enter all %d elements of array -:\n", array_size);
 
     for (int i = 0; i < array_size; i++)
     {
-        printf("Enter Value at %d Element : ", i);
         scanf("%d", &array[i]);
 
         // Initialize max on first iteration

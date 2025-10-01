@@ -12,10 +12,10 @@ int main()
     scanf("%d", &target_sum);
 
     int array[array_size];
+    printf("Enter all %d elements of array -:\n", array_size);
 
     for (int i = 0; i < array_size; i++)
     {
-        printf("Enter value for element %d : ", i);
         scanf("%d", &array[i]);
 
         // Increment count if element is greater than target_sum
