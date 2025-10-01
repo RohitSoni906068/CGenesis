@@ -37,9 +37,9 @@ Transform theoretical recursion knowledge into practical programming expertise t
 
 ---
 
-#### 📝 Problem List - [Recursion Practice Problems](00_Practice_Questions_Based_On_Recursion.txt)
-
 ## 📚 Problem Categories
+
+#### 📝 Problem List - [Recursion Practice Problems](00_Practice_Questions_Based_On_Recursions.txt)
 
 ### 🟢 **Foundation Level** (Problems 1-9)
 
