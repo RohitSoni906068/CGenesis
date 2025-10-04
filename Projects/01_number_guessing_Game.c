@@ -29,6 +29,6 @@ int main()
         guesses++;
     } while (guess != random_number);   
     
-    printf(" Conguration You guess right in : %d guesses ", guesses);
+    printf(" Conguration You guess right in : %d guesses ", guesses); 
     return 0;
 }
