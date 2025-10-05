@@ -8,10 +8,10 @@
 
 **A Complete Journey from Fundamentals to Advanced C Programming Mastery**  
 
-[![GitHub stars](https://img.shields.io/github/stars/RohitSoni906068/CGenesis?style=social)](https://github.com/RohitSoni906068/CGenesis)
-[![GitHub forks](https://img.shields.io/github/forks/RohitSoni906068/CGenesis?style=social)](https://github.com/RohitSoni906068/CGenesis)
-[![GitHub issues](https://img.shields.io/github/issues/RohitSoni906068/CGenesis)](https://github.com/RohitSoni906068/CGenesis/issues)
-[![GitHub license](https://img.shields.io/github/license/RohitSoni906068/CGenesis)](https://github.com/RohitSoni906068/CGenesis)
+[![GitHub stars](https://img.shields.io/github/stars/rohit528590/CGenesis?style=social)](https://github.com/rohit528590/CGenesis)
+[![GitHub forks](https://img.shields.io/github/forks/rohit528590/CGenesis?style=social)](https://github.com/rohit528590/CGenesis)
+[![GitHub issues](https://img.shields.io/github/issues/rohit528590/CGenesis)](https://github.com/rohit528590/CGenesis/issues)
+[![GitHub license](https://img.shields.io/github/license/rohit528590/CGenesis)](https://github.com/rohit528590/CGenesis)
 
 </div>
 
@@ -131,7 +131,7 @@ Each module builds upon previous knowledge while introducing new concepts at an 
 
 ### 🔀 Module 2: Decision-Making Structures
 
-**Directory:** [`03_Decision_Structures`](03_If-Else)
+**Directory:** [`03_Decision_Structures`](03_Control_Statements)
 
 **Core Concepts:**
 
@@ -141,7 +141,7 @@ Each module builds upon previous knowledge while introducing new concepts at an 
 - ✅ Ternary operator usage
 - ✅ Complex condition evaluation
 
-**🔀 Practice Set:** [`04_Decision_Making_Problems`](04_If-Else_Practice_Problems) **(24 Problems)**
+**🔀 Practice Set:** [`04_Decision_Making_Problems`](04_Control_Statements_Practice_Problems) **(24 Problems)**
 
 - Eligibility and validation systems
 - Grade calculation and classification
@@ -163,7 +163,7 @@ Each module builds upon previous knowledge while introducing new concepts at an 
 - ✅ Infinite loop prevention and handling
 - ✅ Performance optimization in loops
 
-**🔄 Practice Set:** [`06_Iteration_Problem_Set`](06_Loops_Practice_Problems) **(41 Problems)**
+**🔄 Practice Set:** [`06_Iteration_Problem_Set`](06_Iterative_Statements_Practice_Problems) **(41 Problems)**
 
 - Series generation and mathematical sequences
 - Number theory and prime calculations
@@ -396,7 +396,7 @@ Our repository includes **200+ problems** across multiple difficulty levels:
 
    ```bash
    # Clone the repository
-   git clone https://github.com/RohitSoni906068/CGenesis.git
+   git clone https://github.com/rohit528590/CGenesis.git
    
    # Navigate to project directory
    cd CGenesis
@@ -527,7 +527,7 @@ We welcome contributions from the programming community! Here's how you can help
 
 ## 📄 License Information
 
-This project is licensed under the **MIT License**, promoting open-source collaboration and educational use.
+This project is licensed under the **BSD 3-Clause License**, promoting open-source collaboration and educational use.
 
 **Key License Features:**
 
@@ -573,8 +573,8 @@ This repository has been enriched by insights from:
 
 **Found CGenesis helpful? Consider:**
 
-[![Star this repository](https://img.shields.io/badge/⭐-Star_This_Repository-yellow?style=for-the-badge)](https://github.com/RohitSoni906068/CGenesis)
-[![Fork and contribute](https://img.shields.io/badge/🔀-Fork_&_Contribute-blue?style=for-the-badge)](https://github.com/RohitSoni906068/CGenesis/fork)
+[![Star this repository](https://img.shields.io/badge/⭐-Star_This_Repository-yellow?style=for-the-badge)](https://github.com/rohit528590/CGenesis)
+[![Fork and contribute](https://img.shields.io/badge/🔀-Fork_&_Contribute-blue?style=for-the-badge)](https://github.com/rohit528590/CGenesis/fork)
 [![Share with others](https://img.shields.io/badge/📢-Share_With_Others-green?style=for-the-badge)](#)
 
 ---
@@ -584,7 +584,7 @@ This repository has been enriched by insights from:
 *"The journey of a thousand programs begins with a single 'Hello, World!'"*  
 
 ![C Programming](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RohitSoni906068)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohit528590)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
