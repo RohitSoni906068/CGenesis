@@ -1,14 +1,14 @@
-# 🧩 If-Else Practice Problems in C
+# 🧩 Control Statements Practice Problems in C
 
 <div align="center">
 
 [![C Programming](https://img.shields.io/badge/Language-C-blue.svg)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![Practice Problems](https://img.shields.io/badge/Type-Practice%20Problems-green.svg)](https://github.com/rohit528590/CGenesis/tree/main/04_If-Else_Practice_Problems)
-[![Conditionals](https://img.shields.io/badge/Topic-Decision%20Logic-orange.svg)](https://github.com/rohit528590/CGenesis/04_If-Else_Practice_Problems)
-[![Learning Level](https://img.shields.io/badge/Level-Beginner%20to%20Advanced-brightgreen.svg)](https://github.com/rohit528590/CGenesis/04_If-Else_Practice_Problems)
-[![Files](https://img.shields.io/badge/Code%20Files-24-orange.svg)](https://github.com/rohit528590/CGenesis/tree/main/04_If-Else_Practice_Problems)
+[![Practice Problems](https://img.shields.io/badge/Type-Practice%20Problems-green.svg)](https://github.com/rohit528590/CGenesis/tree/main/04_Control_Statements_Practice_Problems)
+[![Conditionals](https://img.shields.io/badge/Topic-Decision%20Logic-orange.svg)](https://github.com/rohit528590/CGenesis/tree/main/04_Control_Statements_Practice_Problems)
+[![Learning Level](https://img.shields.io/badge/Level-Beginner%20to%20Advanced-brightgreen.svg)](https://github.com/rohit528590/CGenesis/tree/main/04_Control_Statements_Practice_Problems)
+[![Files](https://img.shields.io/badge/Code%20Files-24-orange.svg)](https://github.com/rohit528590/CGenesis/tree/main/04_Control_Statements_Practice_Problems)
 
-### Welcome to the **If-Else Practice Problems** module of **CGenesis**! 🎯
+### Welcome to the **Control Statements Practice Problems** module of **CGenesis**! 🎯
 
 ![Made for & by Students](https://img.shields.io/badge/Made%20for%20%26%20by-Students-purple.svg?style=for-the-badge)
 ![Hands On Learning](https://img.shields.io/badge/Learning%20Style-Hands%20On-blue.svg?style=for-the-badge)
@@ -57,7 +57,7 @@ By completing these practice problems, you will:
 git clone https://github.com/rohit528590/CGenesis.git
 
 # Change directory
-cd CGenesis/04_If-Else_Practice_Problems
+cd CGenesis/04_Control_Statements_Practice_Problems
 
 # Compile any program
 gcc filename.c -o output
@@ -74,7 +74,7 @@ gcc 01_driving_license_eligibility.c -o license
 
 ## 📚 Problem Categories
 
-#### 📝 Problem List - [If-Else Practice Problems](00_Practice_Questions_Based_On_Control_Statements.txt)
+#### 📝 Problem List - [Control Statements Practice Problems](00_Practice_Questions_Based_On_Control_Statements.txt)
 
 ### 🟢 Beginner Level - Foundation Building (8 Problems)
 
