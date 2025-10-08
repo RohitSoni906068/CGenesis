@@ -5,10 +5,10 @@
 <div align="center">
 
 [![C Programming](https://img.shields.io/badge/Language-C-blue.svg)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![Practice Problems](https://img.shields.io/badge/Type-Practice%20Problems-green.svg)](https://github.com/RohitSoni906068/CGenesis/tree/main/07_Pattern_Printing_Practice_Problems)
-[![Pattern Printing](https://img.shields.io/badge/Topic-Pattern%20Printing-orange.svg)](https://github.com/RohitSoni906068/CGenesis/tree/main/07_Pattern_Printing_Practice_Problems)
-[![Problems](https://img.shields.io/badge/Problems-33-red.svg)](https://github.com/RohitSoni906068/CGenesis/tree/main/07_Pattern_Printing_Practice_Problems)
-[![Difficulty](https://img.shields.io/badge/Level-Beginner%20to%20Advanced-brightgreen.svg)](https://github.com/RohitSoni906068/CGenesis/tree/main/07_Pattern_Printing_Practice_Problems)
+[![Practice Problems](https://img.shields.io/badge/Type-Practice%20Problems-green.svg)](https://github.com/rohit528590/CGenesis/tree/main/07_Pattern_Printing_Practice_Problems)
+[![Pattern Printing](https://img.shields.io/badge/Topic-Pattern%20Printing-orange.svg)](https://github.com/rohit528590/CGenesis/tree/main/07_Pattern_Printing_Practice_Problems)
+[![Problems](https://img.shields.io/badge/Problems-33-red.svg)](https://github.com/rohit528590/CGenesis/tree/main/07_Pattern_Printing_Practice_Problems)
+[![Difficulty](https://img.shields.io/badge/Level-Beginner%20to%20Advanced-brightgreen.svg)](https://github.com/rohit528590/CGenesis/tree/main/07_Pattern_Printing_Practice_Problems)
 
 ### Welcome to the **Pattern Printing Practice Problems** module of **CGenesis**! 🎯
 
@@ -59,7 +59,7 @@ Master **33 progressive pattern printing challenges** in C programming. From bas
 
 ```bash
 # Clone the repository
-git clone https://github.com/RohitSoni906068/CGenesis.git
+git clone https://github.com/rohit528590/CGenesis.git
 
 # Change directory
 cd CGenesis/07_Pattern_Printing_Practice_Problems
@@ -244,9 +244,9 @@ Ready to level up your C programming journey? Here's your personalized learning 
 
 | 📚 **Resource Type** | 🔗 **Access Point** | 📝 **Description** |
 |---------------------|---------------------|-------------------|
-| **🐛 Bug Reports & Questions** | [Open an Issue](https://github.com/RohitSoni906068/CGenesis/issues) | Report bugs or ask technical questions |
-| **💬 Community Support** | [GitHub Issues](https://github.com/RohitSoni906068/CGenesis/issues) | Get help with coding problems and technical questions |
-| **🤝 Contribute** | [Fork Repository](https://github.com/RohitSoni906068/CGenesis/fork) | Help improve the course for everyone |
+| **🐛 Bug Reports & Questions** | [Open an Issue](https://github.com/rohit528590/CGenesis/issues) | Report bugs or ask technical questions |
+| **💬 Community Support** | [GitHub Issues](https://github.com/rohit528590/CGenesis/issues) | Get help with coding problems and technical questions |
+| **🤝 Contribute** | [Fork Repository](https://github.com/rohit528590/CGenesis/fork) | Help improve the course for everyone |
 
 </div>
 
@@ -285,10 +285,10 @@ Ready to level up your C programming journey? Here's your personalized learning 
 
 <div align="center">
 
-[![GitHub stars](https://img.shields.io/github/stars/RohitSoni906068/CGenesis?style=social)](https://github.com/RohitSoni906068/CGenesis/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/RohitSoni906068/CGenesis?style=social)](https://github.com/RohitSoni906068/CGenesis/network/members)
+[![GitHub stars](https://img.shields.io/github/stars/rohit528590/CGenesis?style=social)](https://github.com/rohit528590/CGenesis/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/rohit528590/CGenesis?style=social)](https://github.com/rohit528590/CGenesis/network/members)
 
-**⭐ [Star this Repository](https://github.com/RohitSoni906068/CGenesis) to show your support!**
+**⭐ [Star this Repository](https://github.com/rohit528590/CGenesis) to show your support!**
 
 </div>
 
@@ -297,5 +297,5 @@ Ready to level up your C programming journey? Here's your personalized learning 
 </div>
 
 <div align="center">
-<sub>Built with ❤️ for C programming students | Based on proven learning progression | <a href="https://github.com/RohitSoni906068/CGenesis">CGenesis Project</a></sub>
+<sub>Built with ❤️ for C programming students | Based on proven learning progression | <a href="https://github.com/rohit528590/CGenesis">CGenesis Project</a></sub>
 </div>
