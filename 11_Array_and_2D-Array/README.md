@@ -3,11 +3,11 @@
 <div align="center">
 
 [![C Programming](https://img.shields.io/badge/Language-C-blue.svg)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![Topic](https://img.shields.io/badge/Topic-Arrays%20%26%202D%20Arrays-orange.svg)](https://github.com/RohitSoni906068/CGenesis/tree/main/11_Array_and_2D-Array)
-[![Files](https://img.shields.io/badge/Code%20Files-10-orange.svg)](https://github.com/RohitSoni906068/CGenesis/tree/main/11_Array_and_2D-Array)
-[![Learning Level](https://img.shields.io/badge/Level-Beginner%20to%20Advanced-brightgreen.svg)](https://github.com/RohitSoni906068/CGenesis/11_Array_and_2D-Array)
-[![Array Practice](https://img.shields.io/badge/Array%20Practice-25-green.svg)](https://github.com/RohitSoni906068/CGenesis/tree/main/12_Array_Practice_Problems)
-[![2D Array Practice](https://img.shields.io/badge/2D%20Array%20Practice-32-red.svg)](https://github.com/RohitSoni906068/CGenesis/tree/main/13_2D_Array_Practice_Problems)
+[![Topic](https://img.shields.io/badge/Topic-Arrays%20%26%202D%20Arrays-orange.svg)](https://github.com/rohit528590/CGenesis/tree/main/11_Array_and_2D-Array)
+[![Files](https://img.shields.io/badge/Code%20Files-10-orange.svg)](https://github.com/rohit528590/CGenesis/tree/main/11_Array_and_2D-Array)
+[![Learning Level](https://img.shields.io/badge/Level-Beginner%20to%20Advanced-brightgreen.svg)](https://github.com/rohit528590/CGenesis/11_Array_and_2D-Array)
+[![Array Practice](https://img.shields.io/badge/Array%20Practice-25-green.svg)](https://github.com/rohit528590/CGenesis/tree/main/12_Array_Practice_Problems)
+[![2D Array Practice](https://img.shields.io/badge/2D%20Array%20Practice-32-red.svg)](https://github.com/rohit528590/CGenesis/tree/main/13_2D_Array_Practice_Problems)
 
 ### Welcome to the **Arrays & 2D Arrays** module of **CGenesis**! 🎯
 
@@ -74,7 +74,7 @@
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/RohitSoni906068/CGenesis.git
+git clone https://github.com/rohit528590/CGenesis.git
 
 # 2. Change directory
 cd CGenesis/11_Array_and_2D-Array
