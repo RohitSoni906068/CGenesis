@@ -125,11 +125,11 @@
 41. Create a program to verify if a number is a palindrome.
 
 42. Create a program that print patterns:
- 1. *                  2. * * * * *           3.         *
-    * *                   * * * *                      * *
-    * * *                 * * *                      * * *
-    * * * *               * *                      * * * *
-    * * * * *             *                      * * * * *
+    1. * _ _ _ _          2. * * * * *           3. _ _ _ _ *
+        * * _ _ _             * * * * _              _ _ _ * *
+        * * * _ _             * * * _ _              _ _ * * *
+        * * * * _             * * _ _ _              _ * * * *
+        * * * * *             * _ _ _ _              * * * * *
 
 43. Create a program that prompts the user to enter a positive number. 
     Use a do-while loop to keep asking for the number until the user enters a valid positive number.
