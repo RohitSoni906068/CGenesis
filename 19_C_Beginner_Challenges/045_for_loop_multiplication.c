@@ -1,4 +1,4 @@
-// Program to print the multiplication table for a given number.
+// Program using for loop multiplication table for a number.
 #include <stdio.h>
 
 int main()
@@ -9,12 +9,10 @@ int main()
     printf("Enter the Number : ");
     scanf("%d", &number);
 
-    int i = 1;
-    while (i <= 10)
+    for (int i = 1; i <= 10; i++)
     {
         printf("%d X %d = %d\n", number, i, number * i);
-        i++;
     }
-    
+
     return 0;
 }
